@@ -20,7 +20,7 @@ export default function App() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}data/auctions.json`)
+    fetch(`${import.meta.env.BASE_URL}data/auctions.json`, { cache: 'no-store' })
       .then((response) => response.ok ? response.json() : Promise.reject(new Error('dados indisponíveis')))
       .then((value: Dataset) => setData(value))
       .catch(() => setData({ auctions: [] }))
