@@ -3,6 +3,10 @@ name: Publicar painel no GitHub Pages
 on:
   push:
     branches: [main]
+  workflow_run:
+    workflows: ["Coleta diária de leilões"]
+    types: [completed]
+    branches: [main]
   schedule:
     - cron: '20 8 * * *'
       timezone: America/Sao_Paulo

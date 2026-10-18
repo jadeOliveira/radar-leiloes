@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/collect.yml'
+      - '.github/workflows/pages.yml'
       - 'config/**'
       - 'monitor/**'
       - 'requirements.txt'
