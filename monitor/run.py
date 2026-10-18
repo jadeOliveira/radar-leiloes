@@ -46,13 +46,18 @@ def merge_property(old: dict[str, Any] | None, new: dict[str, Any]) -> tuple[dic
     if old is None:
         return new, [{"field": "record", "before": None, "after": "new"}]
     merged = deepcopy(old)
-    aggregator_only = bool(new.get("provenance", {}).get("is_aggregator")) and set(merged.get("source_ids", [])).issubset({"hasta"})
+    aggregator_observation = bool(new.get("provenance", {}).get("is_aggregator"))
+    aggregator_only = aggregator_observation and set(merged.get("source_ids", [])).issubset({"hasta"})
     changes = []
     tracked = ("current_minimum_bid_brl", "appraisal_value_brl", "discount_on_appraisal_percent", "auction_events", "occupancy", "status", "payment_conditions", "edital_url")
     for field, value in new.items():
         if value is None or value == [] or value == {}:
             continue
         previous = merged.get(field)
+        old_field_is_verified = merged.get("field_verification", {}).get(field) == "verified"
+        incoming_field_is_verified = new.get("field_verification", {}).get(field) == "verified"
+        if aggregator_observation and field not in ("status", "classification") and old_field_is_verified and not incoming_field_is_verified:
+            continue
         if field in tracked and previous != value:
             changes.append({"field": field, "before": previous, "after": value})
         if field in ("source_ids", "source_listing_ids", "document_urls", "image_urls"):
@@ -71,6 +76,10 @@ def merge_property(old: dict[str, Any] | None, new: dict[str, Any]) -> tuple[dic
                 if state == "verified" or states.get(key) in (None, "unknown", "unverified"):
                     states[key] = state
             merged[field] = states
+        elif field == "status" and aggregator_observation and merged.get("validation_status") == "verified" and previous == "active" and value in ("unknown", "scheduled_unverified"):
+            continue
+        elif field == "classification" and aggregator_observation and merged.get("validation_status") == "verified" and merged.get("status") == "active":
+            continue
         else:
             merged[field] = value
     if merged.get("validation_status") == "verified" and "aggregator_listing_unverified" in merged.get("risk_flags", []):

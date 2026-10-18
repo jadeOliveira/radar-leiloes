@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T11:22:33-03:00",
+  "updated_at": "2026-10-18T20:22:02-03:00",
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -17567,57 +17567,53 @@
     {
       "id": "e2e0be6a8b341369956c",
       "source_ids": [
-        "hasta"
+        "hasta",
+        "portalzuk"
       ],
       "source_listing_ids": [
-        "Contribuinte"
+        "Contribuinte",
+        "37735-236051"
       ],
       "city": "Rio do Sul",
       "state": "SC",
-      "neighborhood": null,
-      "address": null,
+      "neighborhood": "Centro",
+      "address": "Avenida Oscar Barcelos, 1977 - Apartamento 805, vagas 61 e 62, Condomínio Residencial e Comercial Lesi Werner Teixeira",
       "property_type": "Apartamento",
-      "area_privative_m2": null,
+      "area_privative_m2": 142.6,
       "area_built_m2": null,
-      "area_total_m2": null,
-      "registry_number": "",
-      "registry_office": "o do Sul / SC - Centro Avenida Oscar Barcelos",
+      "area_total_m2": 224.183403,
+      "registry_number": "61.440",
+      "registry_office": "1º Ofício de Registro de Imóveis de Rio do Sul/SC",
       "auction_lot": "002",
-      "auctioneer": null,
-      "seller": null,
-      "modality": "judicial",
+      "auctioneer": "Dora Plat",
+      "seller": "Sicoob Administradora de Consórcios Ltda.",
+      "modality": "extrajudicial",
       "appraisal_value_brl": 1157300.0,
-      "first_minimum_bid_brl": null,
-      "second_minimum_bid_brl": null,
-      "current_minimum_bid_brl": 1157300.0,
-      "discount_on_appraisal_percent": 0.0,
+      "first_minimum_bid_brl": 1157300.0,
+      "second_minimum_bid_brl": 578650.0,
+      "current_minimum_bid_brl": 578650.0,
+      "discount_on_appraisal_percent": 50.0,
       "auction_events": [
         {
           "date": "2026-10-13",
           "time": null,
-          "minimum_bid_brl": null,
+          "minimum_bid_brl": 1157300.0,
           "stage": "first"
         },
         {
           "date": "2026-10-20",
           "time": null,
-          "minimum_bid_brl": null,
+          "minimum_bid_brl": 578650.0,
           "stage": "second"
-        },
-        {
-          "date": "2026-10-07",
-          "time": null,
-          "minimum_bid_brl": 1157300.0,
-          "stage": "unknown"
         }
       ],
-      "commission_percent": null,
-      "payment_conditions": null,
+      "commission_percent": 5.0,
+      "payment_conditions": "Somente à vista; pagamento em até 24h. Comissão de 5% à leiloeira, em até 24h.",
       "occupancy": "ocupado",
-      "status": "unknown",
-      "official_url": null,
+      "status": "active",
+      "official_url": "https://www.portalzuk.com.br/imovel/sc/rio-do-sul/centro/avenida-oscar-barcelos-1977/37735-236051",
       "source_listing_url": "https://hasta.com.br/imovel/1856789-apartamento-rio-do-sul-sc-centro-avenida-oscar-barcelos-1977",
-      "validation_status": "nao_verificado",
+      "validation_status": "verified",
       "edital_url": "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/anexos/sc/37735-236051/edital-de-venda-do-imovel.pdf",
       "document_urls": [
         "https://hasta.com.br/imovel/1856789-apartamento-rio-do-sul-sc-centro-avenida-oscar-barcelos-1977#nh-fx-docs",
@@ -17629,33 +17625,42 @@
         "https://imagens.portalzuk.com.br/mini/2026/10/5124ff3d92075e9a3badb830bef2340e.jpg"
       ],
       "first_seen_at": "2026-10-17T23:18:15-03:00",
-      "last_checked_at": "2026-10-18T11:22:33-03:00",
-      "classification": "B",
+      "last_checked_at": "2026-10-18T20:22:02-03:00",
+      "classification": "A",
       "risk_flags": [
-        "occupied",
-        "aggregator_listing_unverified",
-        "occupancy_unknown"
+        "occupied"
       ],
       "field_verification": {
-        "city": "declared",
-        "property_type": "declared",
-        "appraisal_value_brl": "declared",
-        "first_minimum_bid_brl": "unknown",
-        "second_minimum_bid_brl": "unknown",
-        "current_minimum_bid_brl": "declared",
-        "occupancy": "declared",
-        "registry_number": "declared",
-        "auction_events": "declared",
-        "official_url": "unverified",
+        "city": "verified",
+        "property_type": "verified",
+        "appraisal_value_brl": "verified",
+        "first_minimum_bid_brl": "verified",
+        "second_minimum_bid_brl": "verified",
+        "current_minimum_bid_brl": "verified",
+        "occupancy": "verified",
+        "registry_number": "verified",
+        "auction_events": "verified",
+        "official_url": "verified",
         "edital_url": "verified",
-        "auctioneer": "unverified",
-        "address": "unknown"
+        "auctioneer": "verified",
+        "address": "verified",
+        "neighborhood": "verified",
+        "area_privative_m2": "verified",
+        "area_total_m2": "verified",
+        "discount_on_appraisal_percent": "verified",
+        "status": "verified",
+        "seller": "verified",
+        "modality": "verified",
+        "commission_percent": "verified",
+        "payment_conditions": "verified"
       },
       "provenance": {
-        "source_id": "hasta",
-        "captured_from": "https://hasta.com.br/imovel/1856789-apartamento-rio-do-sul-sc-centro-avenida-oscar-barcelos-1977",
-        "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento - Rio do Sul / SC - Centro Avenida Oscar Barcelos, 1977 📍 Rio do Sul, SC R$ 1.157.300,00"
+        "source_id": "portalzuk",
+        "captured_from": "https://www.portalzuk.com.br/imovel/sc/rio-do-sul/centro/avenida-oscar-barcelos-1977/37735-236051",
+        "is_aggregator": false,
+        "discovered_via": "hasta",
+        "verified_at": "2026-10-18T20:22:02-03:00",
+        "raw_text": "Portal Zuk: apartamento 805, Avenida Oscar Barcelos, 1977, Centro, Rio do Sul/SC. 1ª praça 13/10/2026: R$ 1.157.300,00. 2ª praça 20/10/2026: R$ 578.650,00. Imóvel ocupado. Edital indica leilão extrajudicial e venda somente à vista."
       }
     }
   ],

@@ -6533,6 +6533,161 @@
         }
       ],
       "detected_at": "2026-10-18T11:22:33-03:00"
+    },
+    {
+      "property_id": "e2e0be6a8b341369956c",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta",
+        "portalzuk"
+      ],
+      "changes": [
+        {
+          "field": "neighborhood",
+          "before": null,
+          "after": "Centro"
+        },
+        {
+          "field": "address",
+          "before": null,
+          "after": "Avenida Oscar Barcelos, 1977 - Apartamento 805, vagas 61 e 62, Condomínio Residencial e Comercial Lesi Werner Teixeira"
+        },
+        {
+          "field": "area_privative_m2",
+          "before": null,
+          "after": 142.6
+        },
+        {
+          "field": "area_total_m2",
+          "before": null,
+          "after": 224.183403
+        },
+        {
+          "field": "registry_number",
+          "before": "",
+          "after": "61.440"
+        },
+        {
+          "field": "registry_office",
+          "before": "o do Sul / SC - Centro Avenida Oscar Barcelos",
+          "after": "1º Ofício de Registro de Imóveis de Rio do Sul/SC"
+        },
+        {
+          "field": "auctioneer",
+          "before": null,
+          "after": "Dora Plat"
+        },
+        {
+          "field": "seller",
+          "before": null,
+          "after": "Sicoob Administradora de Consórcios Ltda."
+        },
+        {
+          "field": "modality",
+          "before": "judicial",
+          "after": "extrajudicial"
+        },
+        {
+          "field": "first_minimum_bid_brl",
+          "before": null,
+          "after": 1157300.0
+        },
+        {
+          "field": "second_minimum_bid_brl",
+          "before": null,
+          "after": 578650.0
+        },
+        {
+          "field": "current_minimum_bid_brl",
+          "before": 1157300.0,
+          "after": 578650.0
+        },
+        {
+          "field": "discount_on_appraisal_percent",
+          "before": 0.0,
+          "after": 50.0
+        },
+        {
+          "field": "auction_events",
+          "before": [
+            {
+              "date": "2026-10-13",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "first"
+            },
+            {
+              "date": "2026-10-20",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "second"
+            },
+            {
+              "date": "2026-10-07",
+              "time": null,
+              "minimum_bid_brl": 1157300.0,
+              "stage": "unknown"
+            }
+          ],
+          "after": [
+            {
+              "date": "2026-10-13",
+              "time": null,
+              "minimum_bid_brl": 1157300.0,
+              "stage": "first"
+            },
+            {
+              "date": "2026-10-20",
+              "time": null,
+              "minimum_bid_brl": 578650.0,
+              "stage": "second"
+            }
+          ]
+        },
+        {
+          "field": "commission_percent",
+          "before": null,
+          "after": 5.0
+        },
+        {
+          "field": "payment_conditions",
+          "before": null,
+          "after": "Somente à vista; pagamento em até 24h. Comissão de 5% à leiloeira, em até 24h."
+        },
+        {
+          "field": "status",
+          "before": "unknown",
+          "after": "active"
+        },
+        {
+          "field": "official_url",
+          "before": null,
+          "after": "https://www.portalzuk.com.br/imovel/sc/rio-do-sul/centro/avenida-oscar-barcelos-1977/37735-236051"
+        },
+        {
+          "field": "validation_status",
+          "before": "nao_verificado",
+          "after": "verified"
+        },
+        {
+          "field": "classification",
+          "before": "B",
+          "after": "A"
+        },
+        {
+          "field": "risk_flags",
+          "before": [
+            "occupied",
+            "aggregator_listing_unverified",
+            "occupancy_unknown"
+          ],
+          "after": [
+            "occupied"
+          ]
+        }
+      ],
+      "detected_at": "2026-10-18T20:22:02-03:00",
+      "note": "Conferido na página e edital oficiais da Portal Zuk."
     }
   ]
 }
