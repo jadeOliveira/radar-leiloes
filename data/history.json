@@ -44,6 +44,21 @@
         }
       ],
       "detected_at": "2026-10-17T22:10:53-03:00"
+    },
+    {
+      "property_id": "0fc466da0d41eebd3fab",
+      "city": "Joinville",
+      "source_ids": [
+        "freitas"
+      ],
+      "changes": [
+        {
+          "field": "occupancy",
+          "before": "ocupad",
+          "after": "ocupado"
+        }
+      ],
+      "detected_at": "2026-10-17T22:18:12-03:00"
     }
   ]
 }
