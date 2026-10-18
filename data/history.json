@@ -6518,6 +6518,21 @@
         }
       ],
       "detected_at": "2026-10-17T23:49:59-03:00"
+    },
+    {
+      "property_id": "1ead4ac081f7e719beb3",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "status",
+          "before": "active",
+          "after": "unknown"
+        }
+      ],
+      "detected_at": "2026-10-18T11:22:33-03:00"
     }
   ]
 }
