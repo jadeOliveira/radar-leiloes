@@ -48,12 +48,17 @@ def parse_item(source: dict[str, Any], href: str, text: str, cities: list[str], 
     if not city:
         return None
     normalized = fold(text)
+    # Detail pages may append a long edital/catalog PDF after the listing
+    # summary. Keep market amounts and dates tied to the listing header.
+    market_text = text[:2000]
 
-    type_match = re.search(r"\b(casa|apartamento|terreno|lote(?:\s+urbano)?|sala\s+comercial|im[oó]vel\s+comercial)\b", text, re.I)
+    type_match = re.search(r"\b(casa|apartamento|terreno|lote(?:\s+urbano)?|sala\s+comercial|im[oó]vel\s+comercial)\b", market_text, re.I)
     property_type = type_match.group(1).title() if type_match else None
     # Parse only labels that state what the value means; never infer appraisal from a bid.
-    appraisal = money(first(r"(?:avalia[cç][aã]o|valor\s+de\s+avalia[cç][aã]o)\D{0,24}(R\$\s*[\d.]+,\d{2})", text) or "")
-    labeled_bids = [(label, money(value)) for label, value in re.findall(r"(1[ºo]\s*(?:leil[aã]o|pra[cç]a)|2[ºo]\s*(?:leil[aã]o|pra[cç]a)|lance\s+m[ií]nimo|lance\s+inicial|valor\s+de\s+lance\s+inicial)\D{0,35}(R\$\s*[\d.]+,\d{2})", text, re.I)]
+    appraisal = money(first(r"(?:avalia[cç][aã]o|valor\s+de\s+avalia[cç][aã]o)\D{0,24}(R\$\s*[\d.]+,\d{2})", market_text) or "")
+    bid_labels = r"(1[ºo]\s*(?:leil[aã]o|pra[cç]a)|2[ºo]\s*(?:leil[aã]o|pra[cç]a)|lance\s+m[ií]nimo|lance\s+inicial|valor\s+(?:de\s+lance\s+)?inicial)"
+    labeled_bids = [(label, money(value)) for label, value in re.findall(bid_labels + r"\D{0,35}(R\$\s*[\d.]+,\d{2})", market_text, re.I)]
+    labeled_bids += [(label, money(value)) for value, label in re.findall(r"(R\$\s*[\d.]+,\d{2})\D{0,35}" + bid_labels, market_text, re.I)]
     bids = {"first": None, "second": None, "current": None}
     for label, amount in labeled_bids:
         if amount is None:
@@ -63,19 +68,20 @@ def parse_item(source: dict[str, Any], href: str, text: str, cities: list[str], 
             bids[key] = amount
     current = bids["second"] or bids["first"] or bids["current"]
     discount = round((1 - current / appraisal) * 100, 2) if current is not None and appraisal and appraisal > 0 else None
-    date_matches = re.findall(r"(\d{2}/\d{2}/\d{4})(?:\s*(?:às|as)?\s*(\d{1,2}:\d{2}))?", text, re.I)
+    date_matches = re.findall(r"(\d{2}/\d{2}/\d{4})(?:\s*(?:às|as)?\s*(\d{1,2}:\d{2}))?", market_text, re.I)
     events = []
     for i, (date, time) in enumerate(date_matches):
         stage = "second" if i == 1 else "first" if i == 0 else "unknown"
-        events.append({"date": datetime.strptime(date, "%d/%m/%Y").date().isoformat(), "time": time or None, "minimum_bid_brl": bids[stage] if stage in bids else None, "stage": stage})
+        events.append({"date": datetime.strptime(date, "%d/%m/%Y").date().isoformat(), "time": time or None, "minimum_bid_brl": bids[stage] if stage in ("first", "second") else bids["current"], "stage": stage})
     street = None
     if city_match:
         location_tail = text[city_match.end():].lstrip(" -–:,. ")
         street = re.split(r"\s+(?:1[ºo]\s*(?:leil[aã]o|pra[cç]a)|2[ºo]\s*(?:leil[aã]o|pra[cç]a)|lance|valor|avalia[cç][aã]o|R\$|aberto para)", location_tail, maxsplit=1, flags=re.I)[0].strip(" .,-")[:180] or None
-    if not street:
-        street = first(r"(?:Endere[cç]o|Localiza[cç][aã]o)\s*:?\s*(.{4,180}?)(?:\s+(?:CEP|Lance|Matr[ií]cula|\d{5}-\d{3})\b|$)", text)
+    labeled_address = first(r"(?:Endere[cç]o|Localiza[cç][aã]o)\s*:?\s*(.{4,180}?)(?:\s+(?:CEP|Comitente|Leiloeiro|Descri[cç][aã]o|Edital|Lance|Matr[ií]cula|\d{5}-\d{3})\b|$)", market_text)
+    if labeled_address:
+        street = labeled_address
     registry = first(r"Matr[ií]cula(?:\s+(?:n[º°.]?\s*)?)\s*([\d.]+)", text)
-    area = first(r"([\d.,]+)\s*m(?:²|2)\b", text)
+    area = first(r"([\d.,]+)\s*m(?:²|2)\b", market_text)
     occupied = "ocupad" if re.search(r"\bocupad[oa]s?\b", normalized) else "desocupado" if re.search(r"\bdesocupad[oa]s?\b", normalized) else None
     has_open_signal = bool(re.search(r"aberto para lance|aberto para proposta|dispon[ií]vel|em breve|aberto\b", normalized))
     today = datetime.fromisoformat(seen_at).date()

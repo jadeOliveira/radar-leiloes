@@ -46,6 +46,13 @@ class NormalizationTests(unittest.TestCase):
         self.assertEqual(item["city"], "Joinville")
         self.assertIn("Rua João Vogelsanger", item["address"])
 
+    def test_parses_labeled_address_and_value_initial_from_details(self):
+        text = "Terreno 391 m² - Floresta - Joinville - SC. X130445 Joinville, SC. ABERTO PARA LANCES. Data: 20/10/2026 às 13:05 R$ 260.000,00. Valor inicial R$ 260.000,00. Valor de Avaliação R$ 342.000,00. Localização: Rua Mozart, 358, Floresta, Joinville, SC. Edital anexado."
+        item = parse_item(SOURCE, "https://leiloes.example.br/imoveis/terrenos/x", text, CITIES, "2026-10-17T08:00:00-03:00")
+        self.assertEqual(item["address"], "Rua Mozart, 358, Floresta, Joinville, SC.")
+        self.assertEqual(item["current_minimum_bid_brl"], 260000.0)
+        self.assertEqual(item["appraisal_value_brl"], 342000.0)
+
     def test_computes_discount_only_from_labeled_appraisal(self):
         text = "Terreno em Rio do Sul/SC. Avaliação: R$ 1.000.000,00. Lance mínimo 2º leilão: R$ 600.000,00. 20/11/2026. Aberto para lances."
         item = parse_item(SOURCE, "https://leiloes.example.br/imovel/xyz", text, CITIES, "2026-10-17T08:00:00-03:00")
