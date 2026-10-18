@@ -74,15 +74,17 @@ class SiteAdapter:
           const result = [];
           for (const a of document.querySelectorAll('a[href]')) {
             if (!matcher.test(new URL(a.href).pathname)) continue;
-            let node = a, text = '';
+            let node = a, text = '', image = null;
             for (let i = 0; i < 9 && node; i++, node = node.parentElement) {
               const candidate = (node.innerText || '').replace(/\\s+/g, ' ').trim();
               if (candidate.length > 40 && candidate.length < 2500 && locality.test(candidate) && /R\\$|lance|proposta|venda/i.test(candidate)) {
                 text = candidate;
+                const picture = [...node.querySelectorAll('img')].find(img => (img.currentSrc || img.dataset.src || img.getAttribute('src')) && img.naturalWidth >= 120 && img.naturalHeight >= 90);
+                image = picture ? (picture.currentSrc || picture.dataset.src || picture.getAttribute('src')) : null;
                 break;
               }
             }
-            result.push({href:a.href, text:text || (a.innerText || a.textContent || '').trim()});
+            result.push({href:a.href, text:text || (a.innerText || a.textContent || '').trim(), image});
           }
           return result;
         }""", {"pattern": pattern, "cities": cities})
@@ -156,26 +158,30 @@ class SiteAdapter:
                     captured_at = datetime.now(ZoneInfo(self.timezone)).isoformat(timespec="seconds")
                     detail_links = []
                     detail_images = []
-                    try:
-                        self._open(page, card["href"])
-                        detail_text = page.locator("body").inner_text(timeout=5000)
-                        combined = f"{combined} {detail_text}"
-                        detail_links = page.locator("a[href]").evaluate_all("""links => links.map(a => ({url:a.href, text:(a.innerText || a.textContent || '').trim()})).filter(x => /edital|matr[ií]cula|documento|\\.pdf(\\?|$)/i.test(x.text + ' ' + x.url))""")
-                        detail_images = page.evaluate("""() => {
-                          const urls = [...document.images].flatMap(image => {
-                            const width = image.naturalWidth;
-                            const height = image.naturalHeight;
-                            const source = image.currentSrc || image.dataset.src || image.dataset.original || image.getAttribute('src');
-                            if (!source || width < 240 || height < 150) return [];
-                            const url = new URL(source, location.href);
-                            if (!['http:', 'https:'].includes(url.protocol) || /\\.(svg|gif)(?:$|\\?)/i.test(url.pathname)) return [];
-                            if (/logo|icon|avatar|banner|pixel|tracking/i.test(`${url.pathname} ${image.alt || ''}`)) return [];
-                            return [url.href];
-                          });
-                          return [...new Set(urls)].slice(0, 12);
-                        }""")
-                    except (SourceUnavailable, PlaywrightError) as exception:
-                        detail_error = detail_error or str(exception)
+                    if self.config.get("skip_detail"):
+                        if card.get("image"):
+                            detail_images = [page.evaluate("url => new URL(url, location.href).href", card["image"])]
+                    else:
+                        try:
+                            self._open(page, card["href"])
+                            detail_text = page.locator("body").inner_text(timeout=5000)
+                            combined = f"{combined} {detail_text}"
+                            detail_links = page.locator("a[href]").evaluate_all("""links => links.map(a => ({url:a.href, text:(a.innerText || a.textContent || '').trim()})).filter(x => /edital|matr[ií]cula|documento|\\.pdf(\\?|$)/i.test(x.text + ' ' + x.url))""")
+                            detail_images = page.evaluate("""() => {
+                              const urls = [...document.images].flatMap(image => {
+                                const width = image.naturalWidth;
+                                const height = image.naturalHeight;
+                                const source = image.currentSrc || image.dataset.src || image.dataset.original || image.getAttribute('src');
+                                if (!source || width < 240 || height < 150) return [];
+                                const url = new URL(source, location.href);
+                                if (!['http:', 'https:'].includes(url.protocol) || /\\.(svg|gif)(?:$|\\?)/i.test(url.pathname)) return [];
+                                if (/logo|icon|avatar|banner|pixel|tracking/i.test(`${url.pathname} ${image.alt || ''}`)) return [];
+                                return [url.href];
+                              });
+                              return [...new Set(urls)].slice(0, 12);
+                            }""")
+                        except (SourceUnavailable, PlaywrightError) as exception:
+                            detail_error = detail_error or str(exception)
                     item = parse_item(self.config, card["href"], combined, self.cities, captured_at)
                     if item and self.config.get("require_property_type") and item.get("property_type") not in {"Casa", "Apartamento", "Terreno", "Lote", "Lote Urbano"}:
                         item = None

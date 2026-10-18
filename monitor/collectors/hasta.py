@@ -41,12 +41,6 @@ class HastaAdapter(SiteAdapter):
                 item["validation_status"] = "nao_verificado"
                 item["field_verification"]["official_url"] = "unverified"
                 item["field_verification"]["auctioneer"] = "unverified"
-                listing_id = re.search(r"/imovel/(\d+)-", item["source_listing_url"] or "")
-                if listing_id:
-                    item["image_urls"] = [
-                        url for url in item.get("image_urls", [])
-                        if f"/foto/{listing_id.group(1)}/" in url
-                    ]
                 raw_text = item.get("provenance", {}).get("raw_text", "")
                 auctioneer = re.search(r"\bLeiloeiro\s*:?[ \u00a0]+([A-ZÀ-Þ][A-Za-zÀ-ÿ.'-]+(?:\s+[A-ZÀ-Þ][A-Za-zÀ-ÿ.'-]+){1,4})", raw_text, re.I)
                 item["auctioneer"] = auctioneer.group(1).strip() if auctioneer else None

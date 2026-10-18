@@ -21,6 +21,11 @@ def identity_keys(item: dict[str, Any]) -> list[str]:
         keys.append(f"registry:{registry}")
     if address:
         keys.append(f"address:{fold(item.get('city') or '')}:{address}")
+    if item.get("provenance", {}).get("is_aggregator") or "hasta" in (item.get("source_ids") or []):
+        listing_url = item.get("source_listing_url") or item.get("provenance", {}).get("captured_from") or ""
+        listing_id = re.search(r"/imovel/(\d+)(?:-|/|$)", listing_url)
+        if listing_id:
+            keys.append(f"source-listing:{item.get('provenance', {}).get('source_id')}:{listing_id.group(1)}")
     if not keys and item.get("id"):
         source = (item.get("source_ids") or ["unknown"])[0]
         keys.append(f"source-id:{source}:{item['id']}")

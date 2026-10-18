@@ -75,9 +75,13 @@ def merge_property(old: dict[str, Any] | None, new: dict[str, Any]) -> tuple[dic
     if merged.get("validation_status") == "verified" and "aggregator_listing_unverified" in merged.get("risk_flags", []):
         merged["risk_flags"].remove("aggregator_listing_unverified")
     if aggregator_only and new.get("validation_status") == "nao_verificado":
+        old_address = merged.get("address") or ""
+        address_like = re.compile(r"^(?:rua\b|r\.\s|avenida\b|av\.\s|alameda\b|travessa\b|servid[aã]o\b|estrada\b|rodovia\b)", re.I)
         merged["official_url"] = None
-        merged["address"] = new.get("address")
+        merged["address"] = new.get("address") or (old_address if address_like.search(old_address.strip()) else None)
         merged["auctioneer"] = new.get("auctioneer")
+        if new.get("image_urls"):
+            merged["image_urls"] = new["image_urls"]
         merged["validation_status"] = "nao_verificado"
         merged.setdefault("field_verification", {}).update({
             "official_url": "unverified",

@@ -112,7 +112,8 @@
       "url": "https://hasta.com.br/leiloes/sc/{city_slug}",
       "host": "hasta.com.br",
       "path_pattern": "/imovel/",
-      "is_aggregator": true
+      "is_aggregator": true,
+      "skip_detail": true
     }
   ]
 }

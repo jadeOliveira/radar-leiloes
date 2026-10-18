@@ -46,6 +46,18 @@ class NormalizationTests(unittest.TestCase):
         with_registry = {**without_registry, "id": "new", "registry_number": "64.044"}
         self.assertTrue(set(identity_keys(without_registry)) & set(identity_keys(with_registry)))
 
+    def test_aggregator_listing_is_not_labeled_as_an_official_url(self):
+        aggregator = {**SOURCE, "id": "hasta", "name": "Hasta", "host": "hasta.com.br", "is_aggregator": True}
+        item = parse_item(aggregator, "https://hasta.com.br/imovel/12345-apartamento", "Apartamento em Joinville/SC. Lance mínimo R$ 200.000,00.", CITIES, "2026-10-17T08:00:00-03:00")
+        self.assertIsNone(item["official_url"])
+        self.assertEqual(item["source_listing_url"], "https://hasta.com.br/imovel/12345-apartamento")
+        self.assertEqual(item["validation_status"], "nao_verificado")
+
+    def test_aggregator_listing_identity_uses_stable_listing_id(self):
+        first = {"id": "old", "source_ids": ["hasta"], "city": "Joinville", "source_listing_url": "https://hasta.com.br/imovel/12345-titulo"}
+        refreshed = {**first, "id": "new", "source_listing_url": "https://hasta.com.br/imovel/12345-titulo-atualizado"}
+        self.assertTrue(set(identity_keys(first)) & set(identity_keys(refreshed)))
+
     def test_rejects_page_text_when_first_listing_is_outside_target_cities(self):
         text = "Rio de Janeiro-RJ. Bairro Inhoaíba. Rua das Flores, 10. Outros anúncios: Joinville/SC - Rua A, 1."
         item = parse_item(SOURCE, "https://leiloes.example.br/imovel/abc", text, CITIES, "2026-10-17T08:00:00-03:00")
