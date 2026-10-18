@@ -42,7 +42,7 @@ class HastaAdapter(SiteAdapter):
                 item["field_verification"]["official_url"] = "unverified"
                 item["field_verification"]["auctioneer"] = "unverified"
                 raw_text = item.get("provenance", {}).get("raw_text", "")
-                auctioneer = re.search(r"\bLeiloeiro\s*:?[ \u00a0]+([A-ZÀ-Þ][A-Za-zÀ-ÿ.'-]+(?:\s+[A-ZÀ-Þ][A-Za-zÀ-ÿ.'-]+){1,4})", raw_text, re.I)
+                auctioneer = re.search(r"\bLeiloeiro\s*:\s*([A-ZÀ-Þ][A-Za-zÀ-ÿ.'-]+(?:\s+[A-ZÀ-Þ][A-Za-zÀ-ÿ.'-]+){1,4})", raw_text)
                 item["auctioneer"] = auctioneer.group(1).strip() if auctioneer else None
                 item["risk_flags"] = list(dict.fromkeys([*(item.get("risk_flags") or []), "aggregator_listing_unverified"]))
                 all_items[item["id"]] = item
