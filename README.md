@@ -8,7 +8,7 @@ Monitor diário de anúncios imobiliários públicos em Santa Catarina, com dash
 - Adaptadores isolados para Portal Zuk, Caixa Imóveis, Mega Leilões, Superbid, Diego Leilões, Seu Imóvel BB, Freitas Leiloeiro, PGFN/Comprei, Sampaio Leilões, Machado Leiloeiro e o agregador Hasta.
 - A descoberta percorre a busca estadual/paginada de cada fonte quando acessível e só depois seleciona as cidades configuradas. O limite de preço e o desconto são aplicados depois da coleta, na classificação.
 - Persistência versionada em `data/properties.json`, `data/history.json`, `data/changes.json` e `data/last-run.json`.
-- Dashboard com filtros por cidade, tipo, faixa de preço, desconto, datas, ocupação, riscos e categoria A/B.
+- Dashboard com filtros por cidade, tipo, faixa de preço, desconto, datas, ocupação, riscos e categoria A/B; cartões mostram valores da 1ª e 2ª praça e o lance mínimo vigente quando disponíveis.
 
 Os adaptadores são independentes; o estado por fonte e por cidade fica em `data/last-run.json`. O agregador Hasta é consultado em páginas públicas separadas por cidade; seus registros ficam marcados como `nao_verificado` até a conferência do anúncio original. No painel, a visão padrão mostra somente leilões com sinal explícito de abertura, agrupados por cidade e ordenados pela data do leilão; a data aparece em cada cartão quando disponível. Datas futuras sem sinal de abertura aparecem em `scheduled_unverified` na opção “Ativos e próximos”; datas passadas sem confirmação de resultado aparecem como `ended_unverified`. Cancelamento, suspensão e venda só são registrados quando há texto explícito da fonte. A opção “Todos os anúncios” inclui também histórico e situação desconhecida.
 
