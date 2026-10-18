@@ -53,7 +53,7 @@ def merge_property(old: dict[str, Any] | None, new: dict[str, Any]) -> tuple[dic
         previous = merged.get(field)
         if field in tracked and previous != value:
             changes.append({"field": field, "before": previous, "after": value})
-        if field in ("source_ids", "source_listing_ids", "document_urls"):
+        if field in ("source_ids", "source_listing_ids", "document_urls", "image_urls"):
             merged[field] = list(dict.fromkeys((previous or []) + value))
         elif field == "provenance":
             sources = merged.get(field, {})

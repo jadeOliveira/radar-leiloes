@@ -5,6 +5,7 @@ type AuctionEvent = { date?: string; time?: string | null; minimum_bid_brl?: num
 type Property = {
   id: string; city: string; state: string; address?: string | null; neighborhood?: string | null;
   property_type?: string | null; auctioneer?: string | null; official_url?: string | null;
+  image_urls?: string[];
   current_minimum_bid_brl?: number | null; appraisal_value_brl?: number | null;
   discount_on_appraisal_percent?: number | null; area_privative_m2?: number | null;
   occupancy?: string | null; status?: string; classification?: 'A' | 'B'; risk_flags?: string[];
@@ -13,6 +14,13 @@ type Property = {
 type Dataset = { updated_at?: string | null; cities?: string[]; priority?: { max_bid_brl?: number; min_discount_percent?: number }; sources?: Array<{ source_id: string; name: string; status: string; last_success_at?: string; error?: string }>; properties?: Property[] };
 const money = (value?: number | null) => value == null ? 'Não informado' : new Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL', maximumFractionDigits: 0 }).format(value);
 const date = (value?: string | null) => value ? new Date(value).toLocaleDateString('pt-BR', { timeZone: 'America/Sao_Paulo' }) : '—';
+
+function PropertyPhoto({ property }: { property: Property }) {
+  const [failed, setFailed] = useState(false);
+  const image = property.image_urls?.[0];
+  if (!image || failed) return <div className="property-image-placeholder"><House size={22} /><span>Foto não disponível</span></div>;
+  return <img className="property-image" src={image} alt={`Foto do imóvel em ${property.city}`} loading="lazy" onError={() => setFailed(true)} />;
+}
 
 export default function App() {
   const [data, setData] = useState<Dataset>({ properties: [] });
@@ -85,7 +93,7 @@ export default function App() {
       {filtered.length ? <div className="cards">{filtered.map((item) => {
         const priority = item.classification === 'A';
         const nextEvent = item.auction_events?.find((event) => event.date);
-        return <article className="property" key={item.id}><div className="property-top"><span className="property-type">{item.property_type || 'Imóvel'} <span>·</span> {item.city}/{item.state}</span>{priority && <span className="badge"><ArrowDownRight size={13} /> PRIORIDADE</span>}</div><h3>{item.address || `${item.property_type || 'Imóvel'} em ${item.city}`}</h3><p className="address">{item.neighborhood || 'Bairro não informado'}{item.occupancy ? ` · ${item.occupancy}` : ' · Ocupação desconhecida'}</p><div className="property-metrics"><div><span>LANCE MÍNIMO ATUAL</span><strong>{money(item.current_minimum_bid_brl)}</strong></div><div><span>DESCONTO S/ AVALIAÇÃO</span><strong>{item.discount_on_appraisal_percent != null ? `${item.discount_on_appraisal_percent}%` : 'Não confirmado'} {item.discount_on_appraisal_percent != null && <ArrowDownRight size={14} />}</strong></div><div><span>ÁREA PRIVATIVA</span><strong>{item.area_privative_m2 ? `${item.area_privative_m2} m²` : '—'}</strong></div></div><div className="property-bottom"><span>{item.auctioneer || 'Leiloeiro não informado'}{nextEvent?.date ? ` · ${date(nextEvent.date)}` : ''} · Categoria {item.classification ?? 'B'}</span>{item.official_url ? <a href={item.official_url} target="_blank" rel="noreferrer">Anúncio oficial <ArrowUpRight size={15} /></a> : <span>URL oficial não confirmada</span>}</div></article>;
+        return <article className="property" key={item.id}><div className="property-top"><span className="property-type">{item.property_type || 'Imóvel'} <span>·</span> {item.city}/{item.state}</span>{priority && <span className="badge"><ArrowDownRight size={13} /> PRIORIDADE</span>}</div><PropertyPhoto property={item} /><h3>{item.address || `${item.property_type || 'Imóvel'} em ${item.city}`}</h3><p className="address">{item.neighborhood || 'Bairro não informado'}{item.occupancy ? ` · ${item.occupancy}` : ' · Ocupação desconhecida'}</p><div className="property-metrics"><div><span>LANCE MÍNIMO ATUAL</span><strong>{money(item.current_minimum_bid_brl)}</strong></div><div><span>DESCONTO S/ AVALIAÇÃO</span><strong>{item.discount_on_appraisal_percent != null ? `${item.discount_on_appraisal_percent}%` : 'Não confirmado'} {item.discount_on_appraisal_percent != null && <ArrowDownRight size={14} />}</strong></div><div><span>ÁREA PRIVATIVA</span><strong>{item.area_privative_m2 ? `${item.area_privative_m2} m²` : '—'}</strong></div></div><div className="property-bottom"><span>{item.auctioneer || 'Leiloeiro não informado'}{nextEvent?.date ? ` · ${date(nextEvent.date)}` : ''} · Categoria {item.classification ?? 'B'}</span>{item.official_url ? <a href={item.official_url} target="_blank" rel="noreferrer">Anúncio oficial <ArrowUpRight size={15} /></a> : <span>URL oficial não confirmada</span>}</div></article>;
       })}</div> : <div className="empty"><div className="empty-icon"><Search size={20} /></div><h3>{loading ? 'Buscando oportunidades…' : properties.length === 0 ? 'Ainda não há anúncios confirmados.' : 'Nenhum imóvel corresponde aos filtros.'}</h3><p>{properties.length === 0 ? 'O painel não inclui anúncios fictícios. Fontes bloqueadas ou indisponíveis aparecem no relatório da coleta.' : 'Ajuste os filtros para ver outros resultados.'}</p>{properties.length === 0 && <a href="https://www.portalzuk.com.br/leilao-de-imoveis/u/todos-imoveis/sc" target="_blank" rel="noreferrer">Consultar oportunidades oficiais <ExternalLink size={14} /></a>}</div>}
     </section>
     <footer><span>RADAR DE LEILÕES <span className="footer-sep">/</span> MONITOR</span><p>Dados de anúncios públicos. Confirme as informações no anúncio, edital e documentos oficiais antes de qualquer decisão.</p><span>Informação para análise, não parecer jurídico.</span></footer>

@@ -150,16 +150,32 @@ class SiteAdapter:
                         continue
                     captured_at = datetime.now(ZoneInfo(self.timezone)).isoformat(timespec="seconds")
                     detail_links = []
+                    detail_images = []
                     try:
                         self._open(page, card["href"])
                         detail_text = page.locator("body").inner_text(timeout=5000)
                         combined = f"{combined} {detail_text}"
                         detail_links = page.locator("a[href]").evaluate_all("""links => links.map(a => ({url:a.href, text:(a.innerText || a.textContent || '').trim()})).filter(x => /edital|matr[ií]cula|documento|\\.pdf(\\?|$)/i.test(x.text + ' ' + x.url))""")
+                        detail_images = page.evaluate("""() => {
+                          const urls = [...document.images].flatMap(image => {
+                            const rect = image.getBoundingClientRect();
+                            const width = image.naturalWidth;
+                            const height = image.naturalHeight;
+                            const source = image.currentSrc || image.dataset.src || image.dataset.original || image.getAttribute('src');
+                            if (!source || width < 240 || height < 150) return [];
+                            const url = new URL(source, location.href);
+                            if (!['http:', 'https:'].includes(url.protocol) || /\.(svg|gif)(?:$|\?)/i.test(url.pathname)) return [];
+                            if (/logo|icon|avatar|banner|pixel|tracking/i.test(`${url.pathname} ${image.alt || ''}`)) return [];
+                            return [url.href];
+                          });
+                          return [...new Set(urls)].slice(0, 12);
+                        }""")
                     except (SourceUnavailable, PlaywrightError) as exception:
                         detail_error = detail_error or str(exception)
                     item = parse_item(self.config, card["href"], combined, self.cities, captured_at)
                     if item:
                         item["document_urls"] = list(dict.fromkeys(link["url"] for link in detail_links))
+                        item["image_urls"] = detail_images
                         item["edital_url"] = next((link["url"] for link in detail_links if "edital" in link["text"].casefold()), None)
                         if item["edital_url"]:
                             item["field_verification"]["edital_url"] = "verified"
