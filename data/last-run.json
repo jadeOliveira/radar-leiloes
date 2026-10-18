@@ -1,11 +1,191 @@
 {
-  "run_id": null,
-  "status": "not_run",
-  "started_at": null,
-  "finished_at": null,
-  "duration_seconds": null,
+  "run_id": "cf2eeff8-302f-4643-bfb2-73aee277756d",
+  "status": "partial",
+  "started_at": "2026-10-17T22:02:28-03:00",
+  "finished_at": "2026-10-17T22:03:18-03:00",
+  "duration_seconds": 50.05,
   "timezone": "America/Sao_Paulo",
-  "sources": [],
-  "counts": {},
-  "errors": []
+  "cities": [
+    "Joinville",
+    "Balneário Camboriú",
+    "Balneário Piçarras",
+    "Barra Velha",
+    "Rio do Sul"
+  ],
+  "sources": [
+    {
+      "source_id": "portalzuk",
+      "name": "Portal Zuk",
+      "status": "failed",
+      "pages_read": 0,
+      "listings_found": 0,
+      "error": "Bloqueio/CAPTCHA detectado; a fonte não foi contornada.",
+      "listings_by_city": {
+        "Joinville": 0,
+        "Balneário Camboriú": 0,
+        "Balneário Piçarras": 0,
+        "Barra Velha": 0,
+        "Rio do Sul": 0
+      },
+      "duration_seconds": 1.54,
+      "finished_at": "2026-10-17T22:02:30-03:00"
+    },
+    {
+      "source_id": "caixa",
+      "name": "Caixa Imóveis",
+      "status": "failed",
+      "pages_read": 0,
+      "listings_found": 0,
+      "error": "Bloqueio/CAPTCHA detectado; a fonte não foi contornada.",
+      "listings_by_city": {
+        "Joinville": 0,
+        "Balneário Camboriú": 0,
+        "Balneário Piçarras": 0,
+        "Barra Velha": 0,
+        "Rio do Sul": 0
+      },
+      "duration_seconds": 1.97,
+      "finished_at": "2026-10-17T22:02:32-03:00"
+    },
+    {
+      "source_id": "mega_leiloes",
+      "name": "Mega Leilões",
+      "status": "failed",
+      "pages_read": 0,
+      "listings_found": 0,
+      "error": "Página carregada, mas o formato dos resultados ainda não foi reconhecido.",
+      "listings_by_city": {
+        "Joinville": 0,
+        "Balneário Camboriú": 0,
+        "Balneário Piçarras": 0,
+        "Barra Velha": 0,
+        "Rio do Sul": 0
+      },
+      "duration_seconds": 2.19,
+      "finished_at": "2026-10-17T22:02:34-03:00"
+    },
+    {
+      "source_id": "superbid",
+      "name": "Superbid",
+      "status": "failed",
+      "pages_read": 0,
+      "listings_found": 0,
+      "error": "Bloqueio/CAPTCHA detectado; a fonte não foi contornada.",
+      "listings_by_city": {
+        "Joinville": 0,
+        "Balneário Camboriú": 0,
+        "Balneário Piçarras": 0,
+        "Barra Velha": 0,
+        "Rio do Sul": 0
+      },
+      "duration_seconds": 1.05,
+      "finished_at": "2026-10-17T22:02:35-03:00"
+    },
+    {
+      "source_id": "diego_leiloes",
+      "name": "Diego Leilões",
+      "status": "failed",
+      "pages_read": 0,
+      "listings_found": 0,
+      "error": "Bloqueio/CAPTCHA detectado; a fonte não foi contornada.",
+      "listings_by_city": {
+        "Joinville": 0,
+        "Balneário Camboriú": 0,
+        "Balneário Piçarras": 0,
+        "Barra Velha": 0,
+        "Rio do Sul": 0
+      },
+      "duration_seconds": 1.23,
+      "finished_at": "2026-10-17T22:02:37-03:00"
+    },
+    {
+      "source_id": "seu_imovel_bb",
+      "name": "Seu Imóvel BB",
+      "status": "failed",
+      "pages_read": 0,
+      "listings_found": 0,
+      "error": "Bloqueio/CAPTCHA detectado; a fonte não foi contornada.",
+      "listings_by_city": {
+        "Joinville": 0,
+        "Balneário Camboriú": 0,
+        "Balneário Piçarras": 0,
+        "Barra Velha": 0,
+        "Rio do Sul": 0
+      },
+      "duration_seconds": 1.2,
+      "finished_at": "2026-10-17T22:02:38-03:00"
+    },
+    {
+      "source_id": "freitas",
+      "name": "Freitas Leiloeiro",
+      "status": "success",
+      "pages_read": 1,
+      "listings_found": 11,
+      "error": null,
+      "listings_by_city": {
+        "Joinville": 11,
+        "Balneário Camboriú": 0,
+        "Balneário Piçarras": 0,
+        "Barra Velha": 0,
+        "Rio do Sul": 0
+      },
+      "duration_seconds": 37.91,
+      "finished_at": "2026-10-17T22:03:16-03:00",
+      "last_success_at": "2026-10-17T22:03:16-03:00"
+    },
+    {
+      "source_id": "comprei",
+      "name": "PGFN / Comprei",
+      "status": "failed",
+      "pages_read": 0,
+      "listings_found": 0,
+      "error": "Página carregada, mas o formato dos resultados ainda não foi reconhecido.",
+      "listings_by_city": {
+        "Joinville": 0,
+        "Balneário Camboriú": 0,
+        "Balneário Piçarras": 0,
+        "Barra Velha": 0,
+        "Rio do Sul": 0
+      },
+      "duration_seconds": 2.04,
+      "finished_at": "2026-10-17T22:03:18-03:00"
+    }
+  ],
+  "counts": {
+    "new_or_updated": 11,
+    "total_preserved": 11,
+    "sources_succeeded": 1,
+    "sources_partial": 0,
+    "sources_failed": 7
+  },
+  "errors": [
+    {
+      "source_id": "portalzuk",
+      "message": "Bloqueio/CAPTCHA detectado; a fonte não foi contornada."
+    },
+    {
+      "source_id": "caixa",
+      "message": "Bloqueio/CAPTCHA detectado; a fonte não foi contornada."
+    },
+    {
+      "source_id": "mega_leiloes",
+      "message": "Página carregada, mas o formato dos resultados ainda não foi reconhecido."
+    },
+    {
+      "source_id": "superbid",
+      "message": "Bloqueio/CAPTCHA detectado; a fonte não foi contornada."
+    },
+    {
+      "source_id": "diego_leiloes",
+      "message": "Bloqueio/CAPTCHA detectado; a fonte não foi contornada."
+    },
+    {
+      "source_id": "seu_imovel_bb",
+      "message": "Bloqueio/CAPTCHA detectado; a fonte não foi contornada."
+    },
+    {
+      "source_id": "comprei",
+      "message": "Página carregada, mas o formato dos resultados ainda não foi reconhecido."
+    }
+  ]
 }
