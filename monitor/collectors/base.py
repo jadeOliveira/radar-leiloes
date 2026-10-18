@@ -62,21 +62,25 @@ class SiteAdapter:
 
     def _read_cards(self, page) -> list[dict[str, str]]:
         pattern = self.config["path_pattern"]
-        cards = page.evaluate("""(pattern) => {
+        cities = self.cities
+        cards = page.evaluate("""({pattern, cities}) => {
           const matcher = new RegExp(pattern, 'i');
+          const locality = new RegExp('(?:' + cities.join('|') + ')\\\\s*(?:/|-)\\\\s*SC\\\\b', 'i');
           const result = [];
           for (const a of document.querySelectorAll('a[href]')) {
             if (!matcher.test(new URL(a.href).pathname)) continue;
             let node = a, text = '';
-            for (let i = 0; i < 10 && node; i++, node = node.parentElement) {
+            for (let i = 0; i < 9 && node; i++, node = node.parentElement) {
               const candidate = (node.innerText || '').replace(/\\s+/g, ' ').trim();
-              if (candidate.length > text.length) text = candidate;
-              if (candidate.length > 80 && /SC/i.test(candidate) && /R\\$|lance|proposta|venda/i.test(candidate)) break;
+              if (candidate.length > 40 && candidate.length < 2500 && locality.test(candidate) && /R\\$|lance|proposta|venda/i.test(candidate)) {
+                text = candidate;
+                break;
+              }
             }
             result.push({href:a.href, text:text || (a.innerText || a.textContent || '').trim()});
           }
           return result;
-        }""", pattern)
+        }""", {"pattern": pattern, "cities": cities})
         unique: dict[str, dict[str, str]] = {}
         for card in cards:
             if self.link_matches(card["href"]) and urlparse(card["href"]).hostname == self.config["host"]:

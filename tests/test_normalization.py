@@ -35,6 +35,17 @@ class NormalizationTests(unittest.TestCase):
         second = parse_item(second_source, "https://leiloes.example.br/imovel/different", text, CITIES, "2026-10-17T08:00:00-03:00")
         self.assertEqual(first["id"], second["id"])
 
+    def test_rejects_page_text_when_first_listing_is_outside_target_cities(self):
+        text = "Rio de Janeiro-RJ. Bairro Inhoaíba. Rua das Flores, 10. Outros anúncios: Joinville/SC - Rua A, 1."
+        item = parse_item(SOURCE, "https://leiloes.example.br/imovel/abc", text, CITIES, "2026-10-17T08:00:00-03:00")
+        self.assertIsNone(item)
+
+    def test_reads_city_from_explicit_state_marker(self):
+        text = "Apartamento 67 m² Joinville/SC - Santo Antônio Rua João Vogelsanger, 325. Lance inicial R$ 369.381,91."
+        item = parse_item(SOURCE, "https://leiloes.example.br/imovel/abc", text, CITIES, "2026-10-17T08:00:00-03:00")
+        self.assertEqual(item["city"], "Joinville")
+        self.assertIn("Rua João Vogelsanger", item["address"])
+
     def test_computes_discount_only_from_labeled_appraisal(self):
         text = "Terreno em Rio do Sul/SC. Avaliação: R$ 1.000.000,00. Lance mínimo 2º leilão: R$ 600.000,00. 20/11/2026. Aberto para lances."
         item = parse_item(SOURCE, "https://leiloes.example.br/imovel/xyz", text, CITIES, "2026-10-17T08:00:00-03:00")

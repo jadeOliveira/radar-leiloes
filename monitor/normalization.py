@@ -26,12 +26,28 @@ def first(pattern: str, text: str, flags: int = re.I) -> str | None:
     return match.group(1).strip() if match else None
 
 
+STATE_CODES = "AC AL AP AM BA CE DF ES GO MA MT MS MG PA PB PR PE PI RJ RN RS RO RR SC SP SE TO".split()
+
+
 def parse_item(source: dict[str, Any], href: str, text: str, cities: list[str], seen_at: str) -> dict[str, Any] | None:
     text = re.sub(r"\s+", " ", text).strip()
-    normalized = fold(text)
-    city = next((city for city in cities if fold(city) in normalized), None)
+    # Use the first explicit state marker and require a configured city directly
+    # before it. A page can mention target cities in navigation or other lots.
+    state_marker = re.search(r"(?:/|,|-)\s*(" + "|".join(STATE_CODES) + r")\b", text)
+    city_match = None
+    city = None
+    if state_marker and state_marker.group(1) == "SC":
+        for candidate in cities:
+            candidate_match = re.search(rf"\b{re.escape(candidate)}\s*(?:/|,|-)\s*SC\b", text, re.I)
+            if candidate_match and candidate_match.end() == state_marker.end():
+                city_match, city = candidate_match, candidate
+                break
+    elif not state_marker:
+        raw_city = first(r"\bCidade\s*:\s*([A-ZÀ-ÿ][A-Za-zÀ-ÿ .'-]{1,50})", text)
+        city = next((candidate for candidate in cities if raw_city and fold(candidate) == fold(raw_city)), None)
     if not city:
         return None
+    normalized = fold(text)
 
     type_match = re.search(r"\b(casa|apartamento|terreno|lote(?:\s+urbano)?|sala\s+comercial|im[oó]vel\s+comercial)\b", text, re.I)
     property_type = type_match.group(1).title() if type_match else None
@@ -52,12 +68,12 @@ def parse_item(source: dict[str, Any], href: str, text: str, cities: list[str], 
     for i, (date, time) in enumerate(date_matches):
         stage = "second" if i == 1 else "first" if i == 0 else "unknown"
         events.append({"date": datetime.strptime(date, "%d/%m/%Y").date().isoformat(), "time": time or None, "minimum_bid_brl": bids[stage] if stage in bids else None, "stage": stage})
-    street = first(r"(?:Endere[cç]o|Localiza[cç][aã]o)\s*:?\s*(.{4,180}?)(?:\s+(?:CEP|Lance|Matr[ií]cula|\d{5}-\d{3})\b|$)", text)
+    street = None
+    if city_match:
+        location_tail = text[city_match.end():].lstrip(" -–:,. ")
+        street = re.split(r"\s+(?:1[ºo]\s*(?:leil[aã]o|pra[cç]a)|2[ºo]\s*(?:leil[aã]o|pra[cç]a)|lance|valor|avalia[cç][aã]o|R\$|aberto para)", location_tail, maxsplit=1, flags=re.I)[0].strip(" .,-")[:180] or None
     if not street:
-        # Some catalogs print a compact "City/SC - neighborhood street" line
-        # instead of labeling the address. Anchor on the state marker so names
-        # with accents or compound cities do not make the identity source-based.
-        street = first(r"\bSC\s*[-–:]\s*(.{5,180}?)(?=\s+(?:1[ºo]\s*(?:leil[aã]o|pra[cç]a)|2[ºo]\s*(?:leil[aã]o|pra[cç]a)|lance|valor|R\$|aberto para)|$)", text)
+        street = first(r"(?:Endere[cç]o|Localiza[cç][aã]o)\s*:?\s*(.{4,180}?)(?:\s+(?:CEP|Lance|Matr[ií]cula|\d{5}-\d{3})\b|$)", text)
     registry = first(r"Matr[ií]cula(?:\s+(?:n[º°.]?\s*)?)\s*([\d.]+)", text)
     area = first(r"([\d.,]+)\s*m(?:²|2)\b", text)
     occupied = "ocupad" if re.search(r"\bocupad[oa]s?\b", normalized) else "desocupado" if re.search(r"\bdesocupad[oa]s?\b", normalized) else None

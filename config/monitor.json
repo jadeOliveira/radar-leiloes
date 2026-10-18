@@ -6,11 +6,11 @@
   "sources": [
     {"id": "portalzuk", "name": "Portal Zuk", "enabled": true, "adapter": "portalzuk", "url": "https://www.portalzuk.com.br/leilao-de-imoveis/u/todos-imoveis/sc", "host": "www.portalzuk.com.br", "path_pattern": "/imovel/"},
     {"id": "caixa", "name": "Caixa Imóveis", "enabled": true, "adapter": "caixa", "url": "https://venda-imoveis.caixa.gov.br/sistema/download-lista.asp", "host": "venda-imoveis.caixa.gov.br", "path_pattern": "/(?:detalhe-imovel|imovel)/"},
-    {"id": "mega_leiloes", "name": "Mega Leilões", "enabled": true, "adapter": "mega_leiloes", "url": "https://www.megaleiloes.com.br/imoveis/sc?ordem=padrao&pagina={page}", "host": "www.megaleiloes.com.br", "path_pattern": "/imovel/"},
+    {"id": "mega_leiloes", "name": "Mega Leilões", "enabled": true, "adapter": "mega_leiloes", "url": "https://www.megaleiloes.com.br/imoveis/sc?ordem=padrao&pagina={page}", "host": "www.megaleiloes.com.br", "path_pattern": "/imoveis/(?!sc(?:/|$))"},
     {"id": "superbid", "name": "Superbid", "enabled": true, "adapter": "superbid", "url": "https://exchange.superbid.net/categorias/imoveis?isHomeCategory=true&orderBy=score%3Adesc&pageNumber={page}&pageSize=30", "host": "exchange.superbid.net", "path_pattern": "/(?:lote|item|imovel|produto|event)/"},
     {"id": "diego_leiloes", "name": "Diego Leilões", "enabled": true, "adapter": "diego_leiloes", "url": "https://www.diegoleiloes.com.br/lotes/search?categoria_id=1&tipo=imovel", "host": "www.diegoleiloes.com.br", "path_pattern": "/leilao/"},
     {"id": "seu_imovel_bb", "name": "Seu Imóvel BB", "enabled": true, "adapter": "seu_imovel_bb", "url": "https://www.seuimovelbb.com.br/", "host": "www.seuimovelbb.com.br", "path_pattern": "/imovel/id/"},
-    {"id": "freitas", "name": "Freitas Leiloeiro", "enabled": true, "adapter": "freitas", "url": "https://www.freitasleiloeiro.com.br/Leiloes/Pesquisar?Categoria=2&TipoLoteId=62", "host": "www.freitasleiloeiro.com.br", "path_pattern": "/Leiloes/LoteDetalhes"},
+    {"id": "freitas", "name": "Freitas Leiloeiro", "enabled": true, "adapter": "freitas", "url": "https://www.freitasleiloeiro.com.br/leiloes/pesquisar?categoria=2&estado=SC&pg={page}", "host": "www.freitasleiloeiro.com.br", "path_pattern": "/Leiloes/LoteDetalhes"},
     {"id": "comprei", "name": "PGFN / Comprei", "enabled": true, "adapter": "comprei", "url": "https://comprei.pgfn.gov.br/", "host": "comprei.pgfn.gov.br", "path_pattern": "/anuncio/"}
   ]
 }
