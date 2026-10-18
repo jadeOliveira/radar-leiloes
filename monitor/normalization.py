@@ -98,7 +98,7 @@ def parse_item(source: dict[str, Any], href: str, text: str, cities: list[str], 
     registry = first(r"Matr[ií]cula(?:\(s\))?\s*(?:n[º°.]?\s*)?[:#]?\s*([\d.]+)", text)
     registry = registry.rstrip(".") if registry else None
     area = first(r"([\d.,]+)\s*m(?:²|2)\b", market_text)
-    occupied = "ocupad" if re.search(r"\bocupad[oa]s?\b", normalized) else "desocupado" if re.search(r"\bdesocupad[oa]s?\b", normalized) else None
+    occupied = "ocupado" if re.search(r"\bocupad[oa]s?\b", normalized) else "desocupado" if re.search(r"\bdesocupad[oa]s?\b", normalized) else None
     has_open_signal = bool(re.search(r"aberto para lance|aberto para proposta|dispon[ií]vel|em breve|aberto\b", normalized))
     today = datetime.fromisoformat(seen_at).date()
     future_events = [event for event in events if datetime.fromisoformat(event["date"]).date() >= today]
@@ -150,7 +150,7 @@ def parse_item(source: dict[str, Any], href: str, text: str, cities: list[str], 
         "first_seen_at": seen_at,
         "last_checked_at": seen_at,
         "classification": "A" if status == "active" and current is not None and current <= max_bid and discount is not None and discount >= min_discount else "B",
-        "risk_flags": ["occupancy_unknown"] if occupied is None else (["occupied"] if occupied == "ocupad" else []),
+        "risk_flags": ["occupancy_unknown"] if occupied is None else (["occupied"] if occupied == "ocupado" else []),
         "field_verification": {**populated, "official_url": "verified" if official else "unverified", **{field: populated.get(field, "unknown") for field in fields if field not in populated}},
         "provenance": {"source_id": source["id"], "captured_from": href, "raw_text": text[:3000]},
     }

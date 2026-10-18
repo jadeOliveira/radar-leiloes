@@ -24,6 +24,12 @@ class NormalizationTests(unittest.TestCase):
         self.assertIsNone(item["discount_on_appraisal_percent"])
         self.assertEqual(item["classification"], "B")
 
+    def test_normalizes_occupancy_values_for_dashboard_filters(self):
+        occupied = parse_item(SOURCE, "https://leiloes.example.br/imovel/occ", "Apartamento Joinville/SC. Imóvel ocupado.", CITIES, "2026-10-17T08:00:00-03:00")
+        vacant = parse_item(SOURCE, "https://leiloes.example.br/imovel/vac", "Terreno Joinville/SC. Imóvel desocupado.", CITIES, "2026-10-17T08:00:00-03:00")
+        self.assertEqual(occupied["occupancy"], "ocupado")
+        self.assertEqual(vacant["occupancy"], "desocupado")
+
     def test_only_accepts_configured_target_cities(self):
         text = "Apartamento em Itajaí/SC. Lance inicial R$ 300.000,00."
         self.assertIsNone(parse_item(SOURCE, "https://leiloes.example.br/imovel/abc", text, CITIES, "2026-10-17T08:00:00-03:00"))
