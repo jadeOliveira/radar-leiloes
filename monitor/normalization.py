@@ -111,7 +111,11 @@ def parse_item(source: dict[str, Any], href: str, text: str, cities: list[str], 
     stable_id = hashlib.sha256(identity_basis.encode()).hexdigest()[:20]
     actual_host = (urlparse(href).hostname or "").casefold().removeprefix("www.")
     expected_host = source["host"].casefold().removeprefix("www.")
-    official = href.startswith("https://") and actual_host == expected_host
+    official = not source.get("is_aggregator", False) and href.startswith("https://") and actual_host == expected_host
+    if source.get("is_aggregator", False):
+        address_like = re.compile(r"^(?:rua\b|r\.\s|avenida\b|av\.\s|alameda\b|travessa\b|servid[aã]o\b|estrada\b|rodovia\b)", re.I)
+        if street and not address_like.search(street.strip()):
+            street = None
     fields = ["city", "property_type", "appraisal_value_brl", "first_minimum_bid_brl", "second_minimum_bid_brl", "current_minimum_bid_brl", "occupancy", "registry_number", "auction_events"]
     populated = {"city": "declared"}
     for field, value in (("property_type", property_type), ("appraisal_value_brl", appraisal), ("first_minimum_bid_brl", bids["first"]), ("second_minimum_bid_brl", bids["second"]), ("current_minimum_bid_brl", current), ("occupancy", occupied), ("registry_number", registry), ("auction_events", events)):
@@ -158,5 +162,5 @@ def parse_item(source: dict[str, Any], href: str, text: str, cities: list[str], 
         "classification": "A" if status == "active" and current is not None and current <= max_bid and discount is not None and discount >= min_discount else "B",
         "risk_flags": ["occupancy_unknown"] if occupied is None else (["occupied"] if occupied == "ocupado" else []),
         "field_verification": {**populated, "official_url": "verified" if official else "unverified", **{field: populated.get(field, "unknown") for field in fields if field not in populated}},
-        "provenance": {"source_id": source["id"], "captured_from": href, "raw_text": text[:3000]},
+        "provenance": {"source_id": source["id"], "captured_from": href, "is_aggregator": bool(source.get("is_aggregator")), "raw_text": text[:3000]},
     }

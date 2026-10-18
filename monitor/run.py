@@ -45,6 +45,7 @@ def merge_property(old: dict[str, Any] | None, new: dict[str, Any]) -> tuple[dic
     if old is None:
         return new, [{"field": "record", "before": None, "after": "new"}]
     merged = deepcopy(old)
+    aggregator_only = bool(new.get("provenance", {}).get("is_aggregator")) and set(merged.get("source_ids", [])).issubset({"hasta"})
     changes = []
     tracked = ("current_minimum_bid_brl", "appraisal_value_brl", "discount_on_appraisal_percent", "auction_events", "occupancy", "status", "payment_conditions", "edital_url")
     for field, value in new.items():
@@ -73,6 +74,16 @@ def merge_property(old: dict[str, Any] | None, new: dict[str, Any]) -> tuple[dic
             merged[field] = value
     if merged.get("validation_status") == "verified" and "aggregator_listing_unverified" in merged.get("risk_flags", []):
         merged["risk_flags"].remove("aggregator_listing_unverified")
+    if aggregator_only and new.get("validation_status") == "nao_verificado":
+        merged["official_url"] = None
+        merged["address"] = new.get("address")
+        merged["auctioneer"] = new.get("auctioneer")
+        merged["validation_status"] = "nao_verificado"
+        merged.setdefault("field_verification", {}).update({
+            "official_url": "unverified",
+            "auctioneer": new.get("field_verification", {}).get("auctioneer", "unverified"),
+            "address": new.get("field_verification", {}).get("address", "unknown"),
+        })
     merged["id"] = old["id"]
     merged["first_seen_at"] = old.get("first_seen_at") or new.get("first_seen_at")
     return merged, changes
