@@ -6307,6 +6307,217 @@
         }
       ],
       "detected_at": "2026-10-17T23:24:02-03:00"
+    },
+    {
+      "property_id": "0fc466da0d41eebd3fab",
+      "city": "Joinville",
+      "source_ids": [
+        "freitas",
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "status",
+          "before": "unknown",
+          "after": "scheduled_unverified"
+        }
+      ],
+      "detected_at": "2026-10-17T23:49:59-03:00"
+    },
+    {
+      "property_id": "dc7c2e6eb7314d89133b",
+      "city": "Joinville",
+      "source_ids": [
+        "sampaio"
+      ],
+      "changes": [
+        {
+          "field": "status",
+          "before": "active",
+          "after": "scheduled_unverified"
+        }
+      ],
+      "detected_at": "2026-10-17T23:49:59-03:00"
+    },
+    {
+      "property_id": "81f30b402316acc37ba4",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "status",
+          "before": "unknown",
+          "after": "scheduled_unverified"
+        }
+      ],
+      "detected_at": "2026-10-17T23:49:59-03:00"
+    },
+    {
+      "property_id": "3e7c546840f530b417dc",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "status",
+          "before": "unknown",
+          "after": "scheduled_unverified"
+        }
+      ],
+      "detected_at": "2026-10-17T23:49:59-03:00"
+    },
+    {
+      "property_id": "f455cfd98d008b452b0e",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "status",
+          "before": "unknown",
+          "after": "scheduled_unverified"
+        }
+      ],
+      "detected_at": "2026-10-17T23:49:59-03:00"
+    },
+    {
+      "property_id": "52adcbdce81e1039f400",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "status",
+          "before": "unknown",
+          "after": "scheduled_unverified"
+        }
+      ],
+      "detected_at": "2026-10-17T23:49:59-03:00"
+    },
+    {
+      "property_id": "19092d4a649668cf9012",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "status",
+          "before": "unknown",
+          "after": "scheduled_unverified"
+        }
+      ],
+      "detected_at": "2026-10-17T23:49:59-03:00"
+    },
+    {
+      "property_id": "22e06b6796a1938be66f",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "status",
+          "before": "unknown",
+          "after": "scheduled_unverified"
+        }
+      ],
+      "detected_at": "2026-10-17T23:49:59-03:00"
+    },
+    {
+      "property_id": "57d84a932dfcc54f6ad2",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "status",
+          "before": "unknown",
+          "after": "scheduled_unverified"
+        }
+      ],
+      "detected_at": "2026-10-17T23:49:59-03:00"
+    },
+    {
+      "property_id": "6a1c2b5efd660362bb34",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "status",
+          "before": "unknown",
+          "after": "scheduled_unverified"
+        }
+      ],
+      "detected_at": "2026-10-17T23:49:59-03:00"
+    },
+    {
+      "property_id": "36c68b362c00de16f369",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "status",
+          "before": "unknown",
+          "after": "scheduled_unverified"
+        }
+      ],
+      "detected_at": "2026-10-17T23:49:59-03:00"
+    },
+    {
+      "property_id": "004cff21779dc54649de",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "status",
+          "before": "unknown",
+          "after": "scheduled_unverified"
+        }
+      ],
+      "detected_at": "2026-10-17T23:49:59-03:00"
+    },
+    {
+      "property_id": "7592ab19267bfb35d0cb",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "status",
+          "before": "unknown",
+          "after": "scheduled_unverified"
+        }
+      ],
+      "detected_at": "2026-10-17T23:49:59-03:00"
+    },
+    {
+      "property_id": "07e6be5f6dbbfef13cbb",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "status",
+          "before": "unknown",
+          "after": "scheduled_unverified"
+        }
+      ],
+      "detected_at": "2026-10-17T23:49:59-03:00"
     }
   ]
 }
