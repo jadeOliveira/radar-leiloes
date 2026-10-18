@@ -55,6 +55,10 @@ def merge_property(old: dict[str, Any] | None, new: dict[str, Any]) -> tuple[dic
             changes.append({"field": field, "before": previous, "after": value})
         if field in ("source_ids", "source_listing_ids", "document_urls", "image_urls"):
             merged[field] = list(dict.fromkeys((previous or []) + value))
+        elif field == "risk_flags":
+            merged[field] = list(dict.fromkeys((previous or []) + value))
+        elif field == "validation_status":
+            merged[field] = "verified" if value == "verified" or previous == "verified" else value
         elif field == "provenance":
             sources = merged.get(field, {})
             sources.update(value)
@@ -67,6 +71,8 @@ def merge_property(old: dict[str, Any] | None, new: dict[str, Any]) -> tuple[dic
             merged[field] = states
         else:
             merged[field] = value
+    if merged.get("validation_status") == "verified" and "aggregator_listing_unverified" in merged.get("risk_flags", []):
+        merged["risk_flags"].remove("aggregator_listing_unverified")
     merged["id"] = old["id"]
     merged["first_seen_at"] = old.get("first_seen_at") or new.get("first_seen_at")
     return merged, changes

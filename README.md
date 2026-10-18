@@ -5,14 +5,14 @@ Monitor diário de anúncios imobiliários públicos em Santa Catarina, com dash
 ## Escopo do MVP
 
 - Cidades configuradas em `config/monitor.json`: Joinville, Balneário Camboriú, Balneário Piçarras, Barra Velha e Rio do Sul.
-- Adaptadores isolados para Portal Zuk, Caixa Imóveis, Mega Leilões, Superbid, Diego Leilões, Seu Imóvel BB, Freitas Leiloeiro, PGFN/Comprei, Sampaio Leilões e Machado Leiloeiro.
+- Adaptadores isolados para Portal Zuk, Caixa Imóveis, Mega Leilões, Superbid, Diego Leilões, Seu Imóvel BB, Freitas Leiloeiro, PGFN/Comprei, Sampaio Leilões, Machado Leiloeiro e o agregador Leilão Imóvel.
 - A descoberta percorre a busca estadual/paginada de cada fonte quando acessível e só depois seleciona as cidades configuradas. O limite de preço e o desconto são aplicados depois da coleta, na classificação.
 - Persistência versionada em `data/properties.json`, `data/history.json`, `data/changes.json` e `data/last-run.json`.
 - Dashboard com filtros por cidade, tipo, faixa de preço, desconto, datas, ocupação, riscos e categoria A/B.
 
-Os adaptadores são independentes; o estado por fonte e por cidade fica em `data/last-run.json`. A validação manual no GitHub Actions encontrou anúncios de **Joinville** em Mega Leilões e Freitas. Na mesma execução, Balneário Camboriú, Balneário Piçarras, Barra Velha e Rio do Sul não tiveram anúncios confirmados nessas duas fontes.
+Os adaptadores são independentes; o estado por fonte e por cidade fica em `data/last-run.json`. O agregador Leilão Imóvel é consultado em páginas separadas para cada uma das cinco cidades e seus registros ficam marcados como `nao_verificado` até a conferência do anúncio original.
 
-Estado observado nessa validação: Mega Leilões e Freitas carregaram e retornaram anúncios; Portal Zuk, Caixa, Superbid, Diego Leilões e Seu Imóvel BB bloquearam o runner do GitHub; Comprei carregou sem expor resultados no formato reconhecido pelo adaptador. Esses seis coletores permanecem pendentes de uma integração pública compatível. Nenhum adaptador tenta contornar CAPTCHA, login ou bloqueios; uma fonte inacessível aparece com erro, sem apagar os dados anteriores. Campos não confirmados permanecem nulos e o desconto só é calculado quando existe avaliação explicitamente identificada. A aplicação não substitui análise jurídica: confira edital, matrícula, débitos e situação do imóvel.
+Última coleta validada em 17/10/2026: Mega Leilões, Freitas e Sampaio retornaram anúncios. O Leilão Imóvel foi acrescentado como agregador público para ampliar a descoberta; seus anúncios são claramente marcados como não verificados e mantêm o link da fonte. Portal Zuk, Caixa, Superbid, Diego Leilões, Seu Imóvel BB e Machado bloquearam o runner com CAPTCHA; Comprei carregou sem expor resultados no formato reconhecido pelo adaptador. Nenhum coletor tenta contornar CAPTCHA, login ou bloqueios; uma fonte inacessível aparece com erro, sem apagar dados anteriores. Campos não confirmados permanecem nulos e o desconto só é calculado quando existe avaliação explicitamente identificada. A aplicação não substitui análise jurídica: confira anúncio original, edital, matrícula, débitos e situação do imóvel.
 
 ## Desenvolvimento local
 

@@ -103,6 +103,16 @@
       "url": "https://www.machadoleiloeiro.com.br/lotes/search?categoria_id=1&tipo=imovel&page=1",
       "host": "www.machadoleiloeiro.com.br",
       "path_pattern": "/item/\\d+/detalhes"
+    },
+    {
+      "id": "leilao_imovel",
+      "name": "Leilão Imóvel (agregador)",
+      "enabled": true,
+      "adapter": "leilao_imovel",
+      "url": "https://www.leilaoimovel.com.br/leilao-de-imovel/{city_slug}?pag={page}",
+      "host": "www.leilaoimovel.com.br",
+      "path_pattern": "/imovel/sc/",
+      "is_aggregator": true
     }
   ]
 }
