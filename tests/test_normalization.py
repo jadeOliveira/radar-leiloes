@@ -86,5 +86,27 @@ class NormalizationTests(unittest.TestCase):
         self.assertEqual(item["classification"], "A")
 
 
+    def test_future_auction_without_open_signal_is_upcoming_but_unverified(self):
+        text = "Casa em Joinville/SC. 1º leilão 30/10/2026. Lance mínimo R$ 500.000,00."
+        item = parse_item(SOURCE, "https://leiloes.example.br/imovel/upcoming", text, CITIES, "2026-10-17T08:00:00-03:00")
+        self.assertEqual(item["status"], "scheduled_unverified")
+        self.assertEqual(item["validation_status"], "verified")
+
+    def test_past_auction_date_without_result_is_not_assumed_sold(self):
+        text = "Casa em Joinville/SC. 1º leilão 10/10/2026. Lance mínimo R$ 500.000,00."
+        item = parse_item(SOURCE, "https://leiloes.example.br/imovel/past", text, CITIES, "2026-10-17T08:00:00-03:00")
+        self.assertEqual(item["status"], "ended_unverified")
+
+    def test_explicit_open_signal_marks_future_lot_active(self):
+        text = "Terreno em Joinville/SC. Status do lote: Aberto para Lances. 20/10/2026."
+        item = parse_item(SOURCE, "https://leiloes.example.br/imovel/open", text, CITIES, "2026-10-17T08:00:00-03:00")
+        self.assertEqual(item["status"], "active")
+
+    def test_explicit_cancellation_and_sale_signals_are_distinguished(self):
+        cancelled = parse_item(SOURCE, "https://leiloes.example.br/imovel/cancelled", "Casa em Joinville/SC. Leilão cancelado.", CITIES, "2026-10-17T08:00:00-03:00")
+        sold = parse_item(SOURCE, "https://leiloes.example.br/imovel/sold", "Apartamento em Joinville/SC. Imóvel arrematado.", CITIES, "2026-10-17T08:00:00-03:00")
+        self.assertEqual(cancelled["status"], "cancelled")
+        self.assertEqual(sold["status"], "sold")
+
 if __name__ == "__main__":
     unittest.main()

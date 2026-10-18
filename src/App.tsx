@@ -15,6 +15,9 @@ type Property = {
 type Dataset = { updated_at?: string | null; cities?: string[]; priority?: { max_bid_brl?: number; min_discount_percent?: number }; sources?: Array<{ source_id: string; name: string; status: string; last_success_at?: string; error?: string }>; properties?: Property[] };
 const money = (value?: number | null) => value == null ? 'Não informado' : new Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL', maximumFractionDigits: 0 }).format(value);
 const date = (value?: string | null) => value ? new Date(value).toLocaleDateString('pt-BR', { timeZone: 'America/Sao_Paulo' }) : '—';
+const brazilToday = () => new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Sao_Paulo' }).format(new Date());
+const futureAuctionDate = (property: Property, today: string) => property.auction_events?.map((event) => event.date).filter((value): value is string => typeof value === 'string' && value >= today).sort()[0];
+const displayStatus = (property: Property, today: string) => property.status === 'unknown' && futureAuctionDate(property, today) ? 'scheduled_unverified' : property.status ?? 'unknown';
 
 function PropertyPhoto({ property }: { property: Property }) {
   const [failed, setFailed] = useState(false);
@@ -32,6 +35,7 @@ export default function App() {
   const [occupancy, setOccupancy] = useState('Todas');
   const [risk, setRisk] = useState('Todos');
   const [dateWindow, setDateWindow] = useState('Todas');
+  const [statusScope, setStatusScope] = useState('opportunities');
   const [minPrice, setMinPrice] = useState('');
   const [maxPrice, setMaxPrice] = useState('');
   const [minDiscount, setMinDiscount] = useState('');
@@ -48,25 +52,46 @@ export default function App() {
   const properties = data.properties ?? [];
   const cities = data.cities?.length ? data.cities : [...new Set(properties.map((item) => item.city).filter(Boolean))].sort();
   const types = [...new Set(properties.map((item) => item.property_type).filter(Boolean))].sort() as string[];
-  const filtered = useMemo(() => properties.filter((item) => {
-    const text = `${item.city} ${item.address ?? ''} ${item.neighborhood ?? ''} ${item.property_type ?? ''}`.toLocaleLowerCase('pt-BR');
-    const bid = item.current_minimum_bid_brl;
-    const nextDate = item.auction_events?.map((event) => event.date).filter((value): value is string => Boolean(value)).sort()[0];
-    const daysToAuction = nextDate ? (new Date(`${nextDate}T12:00:00-03:00`).getTime() - Date.now()) / 86400000 : null;
-    const activeCategory = item.classification === 'A';
-    return text.includes(query.toLocaleLowerCase('pt-BR'))
-      && (city === 'Todas as cidades' || item.city === city)
-      && (type === 'Todos os tipos' || item.property_type === type)
-      && (category === 'Todas' || item.classification === category)
-      && (occupancy === 'Todas' || (occupancy === 'Desconhecida' ? !item.occupancy : item.occupancy === occupancy))
-      && (risk === 'Todos' || (risk === 'Com alertas' ? Boolean(item.risk_flags?.length) : !item.risk_flags?.length))
-      && (dateWindow === 'Todas' || (daysToAuction !== null && daysToAuction >= 0 && daysToAuction <= Number(dateWindow)))
-      && (minPrice === '' || (bid !== null && bid !== undefined && bid >= Number(minPrice)))
-      && (maxPrice === '' || (bid !== null && bid !== undefined && bid <= Number(maxPrice)))
-      && (minDiscount === '' || (item.discount_on_appraisal_percent !== null && item.discount_on_appraisal_percent !== undefined && item.discount_on_appraisal_percent >= Number(minDiscount)))
-      && (category !== 'A' || activeCategory);
-  }), [properties, query, city, type, category, occupancy, risk, dateWindow, minPrice, maxPrice, minDiscount]);
-  const recent = properties.filter((item) => item.first_seen_at && Date.now() - new Date(item.first_seen_at).getTime() <= 7 * 86400000).length;
+  const filtered = useMemo(() => {
+    const today = brazilToday();
+    const matchesScope = (item: Property) => {
+      const status = displayStatus(item, today);
+      if (statusScope === 'all') return true;
+      if (statusScope === 'active') return status === 'active';
+      return status === 'active' || status === 'scheduled_unverified';
+    };
+    const matches = properties.filter((item) => {
+      const text = `${item.city} ${item.address ?? ''} ${item.neighborhood ?? ''} ${item.property_type ?? ''}`.toLocaleLowerCase('pt-BR');
+      const bid = item.current_minimum_bid_brl;
+      const nextDate = futureAuctionDate(item, today);
+      const daysToAuction = nextDate ? (new Date(`${nextDate}T12:00:00-03:00`).getTime() - Date.now()) / 86400000 : null;
+      const activeCategory = item.classification === 'A';
+      return matchesScope(item)
+        && text.includes(query.toLocaleLowerCase('pt-BR'))
+        && (city === 'Todas as cidades' || item.city === city)
+        && (type === 'Todos os tipos' || item.property_type === type)
+        && (category === 'Todas' || item.classification === category)
+        && (occupancy === 'Todas' || (occupancy === 'Desconhecida' ? !item.occupancy : item.occupancy === occupancy))
+        && (risk === 'Todos' || (risk === 'Com alertas' ? Boolean(item.risk_flags?.length) : !item.risk_flags?.length))
+        && (dateWindow === 'Todas' || (daysToAuction !== null && daysToAuction >= 0 && daysToAuction <= Number(dateWindow)))
+        && (minPrice === '' || (bid !== null && bid !== undefined && bid >= Number(minPrice)))
+        && (maxPrice === '' || (bid !== null && bid !== undefined && bid <= Number(maxPrice)))
+        && (minDiscount === '' || (item.discount_on_appraisal_percent !== null && item.discount_on_appraisal_percent !== undefined && item.discount_on_appraisal_percent >= Number(minDiscount)))
+        && (category !== 'A' || activeCategory);
+    });
+    return matches.sort((left, right) => {
+      const rank = (item: Property) => {
+        const status = displayStatus(item, today);
+        return status === 'active' ? 0 : status === 'scheduled_unverified' ? 1 : 2;
+      };
+      const statusOrder = rank(left) - rank(right);
+      if (statusOrder) return statusOrder;
+      return (futureAuctionDate(left, today) ?? '9999-12-31').localeCompare(futureAuctionDate(right, today) ?? '9999-12-31');
+    });
+  }, [properties, query, city, type, category, occupancy, risk, dateWindow, minPrice, maxPrice, minDiscount, statusScope]);
+  const today = brazilToday();
+  const activeCount = properties.filter((item) => displayStatus(item, today) === 'active').length;
+  const upcomingCount = properties.filter((item) => displayStatus(item, today) === 'scheduled_unverified').length;
   const lastUpdate = data.updated_at ? new Date(data.updated_at).toLocaleString('pt-BR', { dateStyle: 'short', timeStyle: 'short', timeZone: 'America/Sao_Paulo' }) : 'Sem coleta válida';
   const operationalSources = (data.sources ?? []).filter((source) => source.status === 'success' || source.status === 'partial').length;
 
@@ -76,11 +101,12 @@ export default function App() {
       <div className="hero-copy"><div className="eyebrow"><span className="eyebrow-line" /> MONITORAMENTO IMOBILIÁRIO</div><h1>Encontre o próximo<br /><em>bom negócio.</em></h1><p>Oportunidades em leilões e vendas públicas nas cidades monitoradas de Santa Catarina.</p></div>
       <div className="hero-side"><div className="hero-index">{String(operationalSources).padStart(2, '0')} <span>/ {(data.sources ?? []).length.toString().padStart(2, '0')} fontes ativas</span></div><div className="hero-rule" /><p>Cidades<br /><strong>{cities.length} em Santa Catarina</strong></p><a href="https://www.portalzuk.com.br/leilao-de-imoveis/u/todos-imoveis/sc" target="_blank" rel="noreferrer">Fontes oficiais <ExternalLink size={13} /></a></div>
     </section>
-    <section className="stats" aria-label="Resumo"><div className="stat"><span>IMÓVEIS REGISTRADOS</span><strong>{properties.length.toString().padStart(2, '0')}</strong></div><div className="stat"><span>OPORTUNIDADES PRIORITÁRIAS</span><strong>{properties.filter((item) => item.classification === 'A').length.toString().padStart(2, '0')}</strong></div><div className="stat"><span>IMÓVEIS NOVOS · 7 DIAS</span><strong>{recent.toString().padStart(2, '0')}</strong></div><div className="stat update-stat"><span>ÚLTIMA COLETA VÁLIDA</span><strong>{lastUpdate}</strong><small>America/Sao_Paulo</small></div></section>
+    <section className="stats" aria-label="Resumo"><div className="stat"><span>ATIVOS · SINAL DA FONTE</span><strong>{activeCount.toString().padStart(2, '0')}</strong></div><div className="stat"><span>PRÓXIMOS · A CONFIRMAR</span><strong>{upcomingCount.toString().padStart(2, '0')}</strong></div><div className="stat"><span>OPORTUNIDADES PRIORITÁRIAS</span><strong>{properties.filter((item) => item.classification === 'A').length.toString().padStart(2, '0')}</strong></div><div className="stat update-stat"><span>ÚLTIMA COLETA VÁLIDA</span><strong>{lastUpdate}</strong><small>America/Sao_Paulo</small></div></section>
     {(data.sources ?? []).some((source) => source.status === 'failed' || source.status === 'partial') && <section className="source-status" aria-label="Estado das fontes"><strong>Fontes com acesso incompleto</strong><ul>{data.sources?.filter((source) => source.status === 'failed' || source.status === 'partial').map((source) => <li key={source.source_id}><span>{source.name}: {source.status === 'failed' ? 'indisponível' : 'parcial'}</span>{source.error && <small>{source.error}</small>}</li>)}</ul></section>}
     <section className="list-section"><div className="section-heading"><div><div className="eyebrow"><span className="eyebrow-line" /> OPORTUNIDADES</div><h2>Imóveis em <em>destaque</em></h2></div><span className="result-count">{filtered.length} de {properties.length} imóveis</span></div>
       <div className="filters">
         <label className="search"><Search size={17} /><input aria-label="Buscar imóvel" placeholder="Buscar endereço ou bairro" value={query} onChange={(event) => setQuery(event.target.value)} /></label>
+        <label className="select-wrap"><select aria-label="Filtrar status do leilão" value={statusScope} onChange={(event) => setStatusScope(event.target.value)}><option value="opportunities">Ativos e próximos</option><option value="active">Somente com sinal de ativo</option><option value="all">Todos os anúncios</option></select></label>
         <label className="select-wrap"><SlidersHorizontal size={15} /><select aria-label="Filtrar cidade" value={city} onChange={(event) => setCity(event.target.value)}><option>Todas as cidades</option>{cities.map((item) => <option key={item}>{item}</option>)}</select></label>
         <label className="select-wrap"><Filter size={15} /><select aria-label="Filtrar tipo" value={type} onChange={(event) => setType(event.target.value)}><option>Todos os tipos</option>{types.map((item) => <option key={item}>{item}</option>)}</select></label>
         <label className="select-wrap"><select aria-label="Filtrar categoria" value={category} onChange={(event) => setCategory(event.target.value)}><option value="Todas">Categorias A/B</option><option value="A">A · Prioritária</option><option value="B">B · Demais</option></select></label>
@@ -93,10 +119,13 @@ export default function App() {
       </div>
       {filtered.length ? <div className="cards">{filtered.map((item) => {
         const priority = item.classification === 'A';
-        const nextEvent = item.auction_events?.find((event) => event.date);
+        const nextDate = futureAuctionDate(item, today);
+        const nextEvent = item.auction_events?.find((event) => event.date === nextDate);
+        const currentStatus = displayStatus(item, today);
+        const statusLabels: Record<string, string> = { active: item.validation_status === 'verified' ? 'ATIVO · OFICIAL' : 'ATIVO · CONFIRME NO PORTAL', scheduled_unverified: 'PRÓXIMO · CONFIRMAR', ended_unverified: 'DATA PASSADA · CONFIRMAR', closed: 'ENCERRADO', cancelled: 'CANCELADO', sold: 'VENDIDO', suspended: 'SUSPENSO', unknown: 'SITUAÇÃO DESCONHECIDA' };
         const listingUrl = item.official_url || item.source_listing_url;
         const linkLabel = item.official_url ? 'Anúncio oficial' : item.source_listing_url ? 'Ver anúncio · não verificado' : 'URL oficial não confirmada';
-        return <article className="property" key={item.id}><div className="property-top"><span className="property-type">{item.property_type || 'Imóvel'} <span>·</span> {item.city}/{item.state}</span>{priority && <span className="badge"><ArrowDownRight size={13} /> PRIORIDADE</span>}</div><PropertyPhoto property={item} /><h3>{item.address || `${item.property_type || 'Imóvel'} em ${item.city}`}</h3><p className="address">{item.neighborhood || 'Bairro não informado'}{item.occupancy ? ` · ${item.occupancy}` : ' · Ocupação desconhecida'}</p><div className="property-metrics"><div><span>LANCE MÍNIMO ATUAL</span><strong>{money(item.current_minimum_bid_brl)}</strong></div><div><span>DESCONTO S/ AVALIAÇÃO</span><strong>{item.discount_on_appraisal_percent != null ? `${item.discount_on_appraisal_percent}%` : 'Não confirmado'} {item.discount_on_appraisal_percent != null && <ArrowDownRight size={14} />}</strong></div><div><span>ÁREA PRIVATIVA</span><strong>{item.area_privative_m2 ? `${item.area_privative_m2} m²` : '—'}</strong></div></div><div className="property-bottom"><span>{item.auctioneer || 'Leiloeiro não informado'}{nextEvent?.date ? ` · ${date(nextEvent.date)}` : ''} · Categoria {item.classification ?? 'B'}</span>{listingUrl ? <a href={listingUrl} target="_blank" rel="noreferrer">{linkLabel} <ArrowUpRight size={15} /></a> : <span>{linkLabel}</span>}</div></article>;
+        return <article className="property" key={item.id}><div className="property-top"><span className="property-type">{item.property_type || 'Imóvel'} <span>·</span> {item.city}/{item.state}</span><div className="property-badges">{priority && <span className="badge"><ArrowDownRight size={13} /> PRIORIDADE</span>}<span className={`status-badge status-${currentStatus}`}>{statusLabels[currentStatus] ?? 'SITUAÇÃO DESCONHECIDA'}</span></div></div><PropertyPhoto property={item} /><h3>{item.address || `${item.property_type || 'Imóvel'} em ${item.city}`}</h3><p className="address">{item.neighborhood || 'Bairro não informado'}{item.occupancy ? ` · ${item.occupancy}` : ' · Ocupação desconhecida'}</p><div className="property-metrics"><div><span>LANCE MÍNIMO ATUAL</span><strong>{money(item.current_minimum_bid_brl)}</strong></div><div><span>DESCONTO S/ AVALIAÇÃO</span><strong>{item.discount_on_appraisal_percent != null ? `${item.discount_on_appraisal_percent}%` : 'Não confirmado'} {item.discount_on_appraisal_percent != null && <ArrowDownRight size={14} />}</strong></div><div><span>ÁREA PRIVATIVA</span><strong>{item.area_privative_m2 ? `${item.area_privative_m2} m²` : '—'}</strong></div></div><div className="property-bottom"><span>{item.auctioneer || 'Leiloeiro não informado'}{nextEvent?.date ? ` · ${date(nextEvent.date)}` : ''} · Categoria {item.classification ?? 'B'}</span>{listingUrl ? <a href={listingUrl} target="_blank" rel="noreferrer">{linkLabel} <ArrowUpRight size={15} /></a> : <span>{linkLabel}</span>}</div></article>;
       })}</div> : <div className="empty"><div className="empty-icon"><Search size={20} /></div><h3>{loading ? 'Buscando oportunidades…' : properties.length === 0 ? 'Ainda não há anúncios confirmados.' : 'Nenhum imóvel corresponde aos filtros.'}</h3><p>{properties.length === 0 ? 'O painel não inclui anúncios fictícios. Fontes bloqueadas ou indisponíveis aparecem no relatório da coleta.' : 'Ajuste os filtros para ver outros resultados.'}</p>{properties.length === 0 && <a href="https://www.portalzuk.com.br/leilao-de-imoveis/u/todos-imoveis/sc" target="_blank" rel="noreferrer">Consultar oportunidades oficiais <ExternalLink size={14} /></a>}</div>}
     </section>
     <footer><span>RADAR DE LEILÕES <span className="footer-sep">/</span> MONITOR</span><p>Dados de anúncios públicos. Confirme as informações no anúncio, edital e documentos oficiais antes de qualquer decisão.</p><span>Informação para análise, não parecer jurídico.</span></footer>

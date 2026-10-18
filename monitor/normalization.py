@@ -105,10 +105,26 @@ def parse_item(source: dict[str, Any], href: str, text: str, cities: list[str], 
     registry = registry.rstrip(".") if registry else None
     area = first(r"([\d.,]+)\s*m(?:²|2)\b", market_text)
     occupied = "ocupado" if re.search(r"\bocupad[oa]s?\b", normalized) else "desocupado" if re.search(r"\bdesocupad[oa]s?\b", normalized) else None
-    has_open_signal = bool(re.search(r"aberto para lance|aberto para proposta|dispon[ií]vel|em breve|aberto\b", normalized))
     today = datetime.fromisoformat(seen_at).date()
     future_events = [event for event in events if datetime.fromisoformat(event["date"]).date() >= today]
-    status = "closed" if events and not future_events else "active" if has_open_signal and (not events or future_events) else "unknown"
+    cancelled_signal = bool(re.search(r"\b(?:leilao|lote|anuncio)\s+(?:cancelad[oa]s?|suspens[oa]s?|retirad[oa]s?)\b|\bcancelad[oa]s?\b", normalized))
+    sold_signal = bool(re.search(r"\b(?:imovel|lote|bem)\s+(?:vendid[oa]s?|arrematad[oa]s?)\b|\bleilao\s+(?:vendid[oa]|arrematad[oa])\b", normalized))
+    closed_signal = bool(re.search(r"\b(?:leilao|lote)\s+(?:encerrad[oa]s?|finalizad[oa]s?)\b|\b(?:encerrad[oa]s?|finalizad[oa]s?)\b", normalized))
+    has_open_signal = bool(re.search(r"\baberto\s+para\s+(?:lances?|propostas?)\b|\b(?:lances?|propostas?)\s+abertos?\b|\bdisponivel\s+para\s+(?:lances?|propostas?)\b|\bstatus\s+do\s+lote\s*[:\-]?\s*aberto\b", normalized))
+    if cancelled_signal:
+        status = "cancelled"
+    elif sold_signal:
+        status = "sold"
+    elif closed_signal:
+        status = "closed"
+    elif has_open_signal:
+        status = "active" if not events or future_events else "ended_unverified"
+    elif future_events:
+        status = "scheduled_unverified"
+    elif events:
+        status = "ended_unverified"
+    else:
+        status = "unknown"
     modality = "judicial" if "judicial" in normalized else "extrajudicial" if "extrajudicial" in normalized or "fiduciaria" in normalized else None
     id_match = first(r"(?:c[oó]d(?:igo)?\.?\s*(?:do im[oó]vel)?|lote|item|n[º°])\s*[:#]?\s*([a-z0-9-]{3,})", text)
     normalized_address = fold(street or "")
