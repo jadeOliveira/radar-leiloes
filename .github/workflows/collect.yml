@@ -1,6 +1,14 @@
 name: Coleta diária de leilões
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/collect.yml'
+      - 'config/**'
+      - 'monitor/**'
+      - 'requirements.txt'
+      - 'tests/**'
   schedule:
     - cron: '0 8 * * *'
       timezone: America/Sao_Paulo
