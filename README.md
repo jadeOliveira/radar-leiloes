@@ -10,7 +10,9 @@ Monitor diário de anúncios imobiliários públicos em Santa Catarina, com dash
 - Persistência versionada em `data/properties.json`, `data/history.json`, `data/changes.json` e `data/last-run.json`.
 - Dashboard com filtros por cidade, tipo, faixa de preço, desconto, datas, ocupação, riscos e categoria A/B.
 
-Os adaptadores são best-effort e sua operação precisa ser confirmada por fonte no `last-run.json`. Sites alteram páginas e alguns exigem assistentes de download ou carregamento JavaScript; falha em uma fonte não interrompe as demais. O Portal Zuk já bloqueou o runner do GitHub com Cloudflare. Nenhum adaptador tenta contornar CAPTCHA, login ou bloqueios; fontes inacessíveis aparecem com erro e seus dados anteriores são preservados. Campos não confirmados permanecem nulos e o desconto só é calculado quando existe avaliação explicitamente identificada. A aplicação não substitui análise jurídica: confira edital, matrícula, débitos e situação do imóvel.
+Os adaptadores são independentes; o estado por fonte e por cidade fica em `data/last-run.json`. A validação manual no GitHub Actions encontrou anúncios de **Joinville** em Mega Leilões e Freitas. Na mesma execução, Balneário Camboriú, Balneário Piçarras, Barra Velha e Rio do Sul não tiveram anúncios confirmados nessas duas fontes.
+
+Estado observado nessa validação: Mega Leilões e Freitas carregaram e retornaram anúncios; Portal Zuk, Caixa, Superbid, Diego Leilões e Seu Imóvel BB bloquearam o runner do GitHub; Comprei carregou sem expor resultados no formato reconhecido pelo adaptador. Esses seis coletores permanecem pendentes de uma integração pública compatível. Nenhum adaptador tenta contornar CAPTCHA, login ou bloqueios; uma fonte inacessível aparece com erro, sem apagar os dados anteriores. Campos não confirmados permanecem nulos e o desconto só é calculado quando existe avaliação explicitamente identificada. A aplicação não substitui análise jurídica: confira edital, matrícula, débitos e situação do imóvel.
 
 ## Desenvolvimento local
 

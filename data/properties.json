@@ -24,7 +24,7 @@
       "city": "Joinville",
       "state": "SC",
       "neighborhood": null,
-      "address": "Apartamento nº 601 do Residencial Rio Danúbio, Rua Pernambuco, nº",
+      "address": "Rua Pernambuco, nº 200, Anita Garibaldi - JOINVILLE/SC",
       "property_type": "Apartamento",
       "area_privative_m2": 122.86,
       "area_built_m2": null,
@@ -38,7 +38,7 @@
       "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
-      "current_minimum_bid_brl": 20000.0,
+      "current_minimum_bid_brl": 699000.0,
       "discount_on_appraisal_percent": null,
       "auction_events": [
         {
@@ -56,13 +56,7 @@
         {
           "date": "2026-10-19",
           "time": "09:00",
-          "minimum_bid_brl": null,
-          "stage": "unknown"
-        },
-        {
-          "date": "2026-11-05",
-          "time": "12:16",
-          "minimum_bid_brl": null,
+          "minimum_bid_brl": 699000.0,
           "stage": "unknown"
         }
       ],
@@ -106,7 +100,7 @@
       }
     },
     {
-      "id": "5f37489d7d0895d1ba64",
+      "id": "d9d0219d3ef593edff7f",
       "source_ids": [
         "mega_leiloes"
       ],
@@ -116,7 +110,7 @@
       "city": "Joinville",
       "state": "SC",
       "neighborhood": null,
-      "address": "X130445 Joinville, SC",
+      "address": "Rua Mozart, 358, Floresta, Joinville, SC",
       "property_type": "Terreno",
       "area_privative_m2": 391.0,
       "area_built_m2": null,
@@ -130,150 +124,18 @@
       "appraisal_value_brl": 342000.0,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
-      "current_minimum_bid_brl": null,
-      "discount_on_appraisal_percent": null,
+      "current_minimum_bid_brl": 260000.0,
+      "discount_on_appraisal_percent": 23.98,
       "auction_events": [
         {
           "date": "2026-10-20",
           "time": "13:05",
           "minimum_bid_brl": null,
           "stage": "first"
-        },
-        {
-          "date": "2026-10-08",
-          "time": "10:00",
-          "minimum_bid_brl": null,
-          "stage": "second"
-        },
-        {
-          "date": "2026-10-20",
-          "time": "13:05",
-          "minimum_bid_brl": null,
-          "stage": "unknown"
-        },
-        {
-          "date": "2026-10-20",
-          "time": "10:00",
-          "minimum_bid_brl": null,
-          "stage": "unknown"
-        },
-        {
-          "date": "2026-10-20",
-          "time": "10:01",
-          "minimum_bid_brl": null,
-          "stage": "unknown"
-        },
-        {
-          "date": "2026-10-20",
-          "time": "10:02",
-          "minimum_bid_brl": null,
-          "stage": "unknown"
-        },
-        {
-          "date": "2026-10-20",
-          "time": "10:03",
-          "minimum_bid_brl": null,
-          "stage": "unknown"
-        },
-        {
-          "date": "2026-10-20",
-          "time": "10:04",
-          "minimum_bid_brl": null,
-          "stage": "unknown"
-        },
-        {
-          "date": "2026-10-20",
-          "time": "10:05",
-          "minimum_bid_brl": null,
-          "stage": "unknown"
-        },
-        {
-          "date": "2026-10-20",
-          "time": "10:06",
-          "minimum_bid_brl": null,
-          "stage": "unknown"
-        },
-        {
-          "date": "2026-10-20",
-          "time": "10:07",
-          "minimum_bid_brl": null,
-          "stage": "unknown"
-        },
-        {
-          "date": "2026-10-20",
-          "time": "10:08",
-          "minimum_bid_brl": null,
-          "stage": "unknown"
-        },
-        {
-          "date": "2026-10-20",
-          "time": "10:09",
-          "minimum_bid_brl": null,
-          "stage": "unknown"
-        },
-        {
-          "date": "2026-10-20",
-          "time": "10:10",
-          "minimum_bid_brl": null,
-          "stage": "unknown"
-        },
-        {
-          "date": "2026-10-20",
-          "time": "10:11",
-          "minimum_bid_brl": null,
-          "stage": "unknown"
-        },
-        {
-          "date": "2026-10-20",
-          "time": "10:12",
-          "minimum_bid_brl": null,
-          "stage": "unknown"
-        },
-        {
-          "date": "2026-10-20",
-          "time": "10:13",
-          "minimum_bid_brl": null,
-          "stage": "unknown"
-        },
-        {
-          "date": "2026-10-20",
-          "time": "10:14",
-          "minimum_bid_brl": null,
-          "stage": "unknown"
-        },
-        {
-          "date": "2026-10-20",
-          "time": "10:15",
-          "minimum_bid_brl": null,
-          "stage": "unknown"
-        },
-        {
-          "date": "2026-10-20",
-          "time": "10:16",
-          "minimum_bid_brl": null,
-          "stage": "unknown"
-        },
-        {
-          "date": "2026-10-20",
-          "time": "10:17",
-          "minimum_bid_brl": null,
-          "stage": "unknown"
-        },
-        {
-          "date": "2026-10-20",
-          "time": "10:18",
-          "minimum_bid_brl": null,
-          "stage": "unknown"
-        },
-        {
-          "date": "2026-10-20",
-          "time": "10:19",
-          "minimum_bid_brl": null,
-          "stage": "unknown"
         }
       ],
       "commission_percent": null,
-      "payment_conditions": "Contrato de compra e venda Lances Lote, Padrão, Desocupado. Área(s): 391,3 m² de área total.",
+      "payment_conditions": null,
       "occupancy": "desocupado",
       "status": "active",
       "official_url": "https://www.megaleiloes.com.br/imoveis/terrenos-e-lotes/sc/joinville/terreno-391-m2-floresta-joinville-sc-x130445?utm_source=megaleiloes&utm_medium=link&utm_campaign=terreno-391-m2-floresta-joinville-sc-x130445&utm_term=X130445&utm_content=link",
@@ -294,7 +156,7 @@
         "appraisal_value_brl": "declared",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
-        "current_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "declared",
         "occupancy": "declared",
         "registry_number": "unknown",
         "auction_events": "declared",

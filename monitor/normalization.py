@@ -55,7 +55,7 @@ def parse_item(source: dict[str, Any], href: str, text: str, cities: list[str], 
     type_match = re.search(r"\b(casa|apartamento|terreno|lote(?:\s+urbano)?|sala\s+comercial|im[oó]vel\s+comercial)\b", market_text, re.I)
     property_type = type_match.group(1).title() if type_match else None
     # Parse only labels that state what the value means; never infer appraisal from a bid.
-    appraisal = money(first(r"(?:avalia[cç][aã]o|valor\s+de\s+avalia[cç][aã]o)\D{0,24}(R\$\s*[\d.]+,\d{2})", market_text) or "")
+    appraisal = money(first(r"(?:avalia[cç][aã]o|valor\s+de\s+avalia[cç][aã]o)\D{0,24}(R\$\s*[\d.]+,\d{2})", text[:8000]) or "")
     bid_labels = r"(1[ºo]\s*(?:leil[aã]o|pra[cç]a)|2[ºo]\s*(?:leil[aã]o|pra[cç]a)|lance\s+m[ií]nimo|lance\s+inicial|valor\s+(?:de\s+lance\s+)?inicial)"
     labeled_bids = [(label, money(value)) for label, value in re.findall(bid_labels + r"\D{0,35}(R\$\s*[\d.]+,\d{2})", market_text, re.I)]
     labeled_bids += [(label, money(value)) for value, label in re.findall(r"(R\$\s*[\d.]+,\d{2})\D{0,35}" + bid_labels, market_text, re.I)]
@@ -77,10 +77,11 @@ def parse_item(source: dict[str, Any], href: str, text: str, cities: list[str], 
     if city_match:
         location_tail = text[city_match.end():].lstrip(" -–:,. ")
         street = re.split(r"\s+(?:1[ºo]\s*(?:leil[aã]o|pra[cç]a)|2[ºo]\s*(?:leil[aã]o|pra[cç]a)|lance|valor|avalia[cç][aã]o|R\$|aberto para)", location_tail, maxsplit=1, flags=re.I)[0].strip(" .,-")[:180] or None
-    labeled_address = first(r"(?:Endere[cç]o|Localiza[cç][aã]o)\s*:?\s*(.{4,180}?)(?:\s+(?:CEP|Comitente|Leiloeiro|Descri[cç][aã]o|Edital|Lance|Matr[ií]cula|\d{5}-\d{3})\b|$)", market_text)
+    labeled_address = first(r"(?:Endere[cç]o|Localiza[cç][aã]o)\s*:?\s*(.{4,180}?)(?:\s+(?:CEP|Comitente|Leiloeiro|Descri[cç][aã]o|Edital|Lance|Matr[ií]cula|\d{5}-\d{3})\b|$)", text[:5000])
     if labeled_address:
         street = labeled_address
-    registry = first(r"Matr[ií]cula(?:\s+(?:n[º°.]?\s*)?)\s*([\d.]+)", text)
+    registry = first(r"Matr[ií]cula(?:\(s\))?\s*(?:n[º°.]?\s*)?[:#]?\s*([\d.]+)", text)
+    registry = registry.rstrip(".") if registry else None
     area = first(r"([\d.,]+)\s*m(?:²|2)\b", market_text)
     occupied = "ocupad" if re.search(r"\bocupad[oa]s?\b", normalized) else "desocupado" if re.search(r"\bdesocupad[oa]s?\b", normalized) else None
     has_open_signal = bool(re.search(r"aberto para lance|aberto para proposta|dispon[ií]vel|em breve|aberto\b", normalized))
@@ -106,7 +107,7 @@ def parse_item(source: dict[str, Any], href: str, text: str, cities: list[str], 
         "source_listing_ids": [id_match] if id_match else [],
         "city": city,
         "state": "SC",
-        "neighborhood": first(r"\b(?:bairro|bairro\s+de)\s+([\wÀ-ÿ -]{2,50})", text),
+        "neighborhood": first(r"\b(?:bairro|bairro\s+de)\s*[:\-]?\s*([\wÀ-ÿ -]{2,50})", market_text),
         "address": street,
         "property_type": property_type,
         "area_privative_m2": float(area.replace(".", "").replace(",", ".")) if area else None,
