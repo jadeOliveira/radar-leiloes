@@ -1,6 +1,6 @@
 import unittest
 
-from monitor.normalization import fold, money, parse_item
+from monitor.normalization import fold, identity_keys, money, parse_item
 
 
 SOURCE = {
@@ -34,6 +34,11 @@ class NormalizationTests(unittest.TestCase):
         second_source = {**SOURCE, "id": "another-source"}
         second = parse_item(second_source, "https://leiloes.example.br/imovel/different", text, CITIES, "2026-10-17T08:00:00-03:00")
         self.assertEqual(first["id"], second["id"])
+
+    def test_identity_aliases_match_before_and_after_registry_is_discovered(self):
+        without_registry = {"id": "old", "source_ids": ["one"], "city": "Joinville", "address": "Rua Mozart, 358, Floresta, Joinville, SC"}
+        with_registry = {**without_registry, "id": "new", "registry_number": "64.044"}
+        self.assertTrue(set(identity_keys(without_registry)) & set(identity_keys(with_registry)))
 
     def test_rejects_page_text_when_first_listing_is_outside_target_cities(self):
         text = "Rio de Janeiro-RJ. Bairro Inhoaíba. Rua das Flores, 10. Outros anúncios: Joinville/SC - Rua A, 1."

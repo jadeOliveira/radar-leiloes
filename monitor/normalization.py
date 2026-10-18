@@ -11,6 +11,21 @@ def fold(value: str) -> str:
     return " ".join(unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode().casefold().split())
 
 
+def identity_keys(item: dict[str, Any]) -> list[str]:
+    """Return all stable identity aliases so new document data cannot split a record."""
+    keys = []
+    registry = fold(str(item.get("registry_number") or ""))
+    address = fold(item.get("address") or "")
+    if registry:
+        keys.append(f"registry:{registry}")
+    if address:
+        keys.append(f"address:{fold(item.get('city') or '')}:{address}")
+    if not keys and item.get("id"):
+        source = (item.get("source_ids") or ["unknown"])[0]
+        keys.append(f"source-id:{source}:{item['id']}")
+    return keys
+
+
 def money(value: str | None) -> float | None:
     if not value:
         return None

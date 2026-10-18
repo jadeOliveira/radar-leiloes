@@ -13,7 +13,7 @@ from zoneinfo import ZoneInfo
 from playwright.sync_api import sync_playwright
 
 from .collectors import ADAPTERS
-from .normalization import fold
+from .normalization import identity_keys
 
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG_PATH = ROOT / "config" / "monitor.json"
@@ -39,16 +39,6 @@ def write_json(path: Path, value: Any) -> None:
         handle.write("\n")
         temporary = Path(handle.name)
     temporary.replace(path)
-
-
-def identity_key(item: dict[str, Any]) -> str:
-    registry = item.get("registry_number")
-    address = fold(item.get("address") or "")
-    if registry:
-        return f"registry:{fold(str(registry))}"
-    if address:
-        return f"address:{fold(item.get('city') or '')}:{address}"
-    return f"source-id:{item['id']}"
 
 
 def merge_property(old: dict[str, Any] | None, new: dict[str, Any]) -> tuple[dict[str, Any], list[dict[str, Any]]]:
@@ -124,7 +114,25 @@ def main() -> int:
     existing = existing_data.get("properties", [])
     if not existing:
         existing = migrate_legacy()
-    by_identity = {identity_key(item): item for item in existing if item.get("id")}
+    by_identity: dict[str, dict[str, Any]] = {}
+    id_remap: dict[str, str] = {}
+    for item in existing:
+        if not item.get("id"):
+            continue
+        keys = identity_keys(item)
+        previous = next((by_identity[key] for key in keys if key in by_identity), None)
+        if previous:
+            merged, _ = merge_property(previous, item)
+            timestamps = [value for value in (previous.get("first_seen_at"), item.get("first_seen_at")) if value]
+            merged["first_seen_at"] = min(timestamps) if timestamps else None
+            if item["id"] != merged["id"]:
+                id_remap[item["id"]] = merged["id"]
+            keys = list(dict.fromkeys(identity_keys(previous) + keys + identity_keys(merged)))
+            for key in keys:
+                by_identity[key] = merged
+        else:
+            for key in keys:
+                by_identity[key] = item
 
     results: list[dict[str, Any]] = []
     collected: list[dict[str, Any]] = []
@@ -159,14 +167,18 @@ def main() -> int:
     changes = []
     for item in collected:
         validate(item, cities)
-        key = identity_key(item)
-        merged, item_changes = merge_property(by_identity.get(key), item)
+        keys = identity_keys(item)
+        previous = next((by_identity[key] for key in keys if key in by_identity), None)
+        merged, item_changes = merge_property(previous, item)
         merged["last_checked_at"] = checked_at
         if item_changes and item_changes[0].get("field") == "record":
             item_changes = [{"field": "record", "before": None, "after": "new"}]
         if item_changes:
             changes.append({"property_id": merged["id"], "city": merged.get("city"), "source_ids": merged.get("source_ids", []), "changes": item_changes, "detected_at": checked_at})
-        by_identity[key] = merged
+        timestamps = [value for value in ((previous or {}).get("first_seen_at"), item.get("first_seen_at")) if value]
+        merged["first_seen_at"] = min(timestamps) if timestamps else None
+        for key in list(dict.fromkeys(keys + identity_keys(previous or {}) + identity_keys(merged))):
+            by_identity[key] = merged
 
     source_successes = sum(1 for result in results if result["status"] == "success")
     source_partials = sum(1 for result in results if result["status"] == "partial")
@@ -177,16 +189,22 @@ def main() -> int:
         "run_id": run_id, "status": run_status, "started_at": started, "finished_at": finished,
         "duration_seconds": round(time.monotonic() - started_clock, 2), "timezone": timezone,
         "cities": cities, "sources": results,
-        "counts": {"new_or_updated": len(set(change["property_id"] for change in changes)), "total_preserved": len(by_identity), "sources_succeeded": source_successes, "sources_partial": source_partials, "sources_failed": source_failures},
+        "counts": {"new_or_updated": len(set(change["property_id"] for change in changes)), "total_preserved": len({item["id"] for item in by_identity.values()}), "sources_succeeded": source_successes, "sources_partial": source_partials, "sources_failed": source_failures},
         "errors": [{"source_id": result["source_id"], "message": result["error"]} for result in results if result.get("error")],
     }
     if source_successes + source_partials:
-        properties = sorted(by_identity.values(), key=lambda item: (item.get("city", ""), item.get("id", "")))
+        canonical = {item["id"]: item for item in by_identity.values()}
+        properties = sorted(canonical.values(), key=lambda item: (item.get("city", ""), item.get("id", "")))
         write_json(DATA_DIR / "properties.json", {"updated_at": checked_at, "timezone": timezone, "cities": cities, "priority": config.get("priority", {}), "properties": properties, "sources": results})
         history = read_json(DATA_DIR / "history.json", {"events": []})
+        for event in history.get("events", []):
+            event["property_id"] = id_remap.get(event.get("property_id"), event.get("property_id"))
         history["events"].extend(changes)
         write_json(DATA_DIR / "history.json", history)
         change_log = read_json(DATA_DIR / "changes.json", {"runs": []})
+        for run in change_log.get("runs", []):
+            for event in run.get("changes", []):
+                event["property_id"] = id_remap.get(event.get("property_id"), event.get("property_id"))
         change_log["runs"].append({"run_id": run_id, "detected_at": checked_at, "changes": changes})
         write_json(DATA_DIR / "changes.json", change_log)
     write_json(DATA_DIR / "last-run.json", report)
