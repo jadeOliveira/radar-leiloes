@@ -4046,6 +4046,2345 @@
           "detected_at": "2026-10-17T23:18:48-03:00"
         }
       ]
+    },
+    {
+      "run_id": "331b3fdd-5582-47e7-8f03-f067517803c0",
+      "detected_at": "2026-10-17T23:24:02-03:00",
+      "changes": [
+        {
+          "property_id": "53ebef2c2ec3286d25da",
+          "city": "Joinville",
+          "source_ids": [
+            "mega_leiloes",
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "auction_events",
+              "before": [
+                {
+                  "date": "2026-10-20",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                },
+                {
+                  "date": "2026-10-08",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "second"
+                }
+              ],
+              "after": [
+                {
+                  "date": "2026-10-20",
+                  "time": "13:05",
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                }
+              ]
+            },
+            {
+              "field": "occupancy",
+              "before": "ocupado",
+              "after": "desocupado"
+            },
+            {
+              "field": "status",
+              "before": "unknown",
+              "after": "active"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "0fc466da0d41eebd3fab",
+          "city": "Joinville",
+          "source_ids": [
+            "freitas",
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "current_minimum_bid_brl",
+              "before": 850000.0,
+              "after": 699000.0
+            },
+            {
+              "field": "auction_events",
+              "before": [
+                {
+                  "date": "2026-10-29",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                },
+                {
+                  "date": "2026-10-04",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "second"
+                }
+              ],
+              "after": [
+                {
+                  "date": "2026-11-05",
+                  "time": "12:00",
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                },
+                {
+                  "date": "2026-11-05",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "second"
+                },
+                {
+                  "date": "2026-10-19",
+                  "time": "09:00",
+                  "minimum_bid_brl": 699000.0,
+                  "stage": "unknown"
+                }
+              ]
+            },
+            {
+              "field": "edital_url",
+              "before": "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/docs/91/91acbe140c60613060d109fb916eafe8ec7950d90ab6b7cca4e45a36f63b4de4.pdf",
+              "after": "https://cdn3.freitasleiloeiro.com.br/leiloes/8127/edital/edital_8127.pdf"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "77bc06edfe395ecb268b",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "eb79c4020ab8161c6a5a",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "closed",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "4869eb031114b1d0ba59",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "4c7276b76bcea57a760b",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "5f945cd668932337ba71",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "b8a5be2a704498ed207c",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "3d703895dc274004f79f",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "c295f3ec9fadf920d8dd",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "closed",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "615afa871d57c63828f0",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "50a18739351cdd90ae96",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "61de78297ab780ec9fc4",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "865d5d703be0729da6fa",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "closed",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "f2a088071fd21ee8f010",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "a45a21ae9768cdbf1db8",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "939f69693a255d11742d",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "0025d7addfa110458918",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "1d8772fdbe1c70e5b04e",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "dbd539c4482fa925a12a",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "55e7b94db4e79aba95b3",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "3714117092feb852b763",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "80dc8c82250e1a10d2ef",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "60739d34f368032b17c7",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "751444c2714c343b1064",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "d3344a31675898a6feaf",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "9f59bed005d86dfa5bba",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "closed",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "ad2bf2d6c5e30dce8715",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "81f30b402316acc37ba4",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "auction_events",
+              "before": [
+                {
+                  "date": "2026-12-17",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                },
+                {
+                  "date": "2026-12-17",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "second"
+                },
+                {
+                  "date": "2026-12-17",
+                  "time": null,
+                  "minimum_bid_brl": 103725.57,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-12-17",
+                  "time": null,
+                  "minimum_bid_brl": 103725.57,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-10-11",
+                  "time": null,
+                  "minimum_bid_brl": 103725.57,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-12-17",
+                  "time": null,
+                  "minimum_bid_brl": 103725.57,
+                  "stage": "unknown"
+                }
+              ],
+              "after": [
+                {
+                  "date": "2026-12-17",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                }
+              ]
+            },
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "3e7c546840f530b417dc",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "c8088d2985cd807f7bec",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "fb92334b71ba59283573",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "f455cfd98d008b452b0e",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "auction_events",
+              "before": [
+                {
+                  "date": "2026-10-23",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                },
+                {
+                  "date": "2026-10-23",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "second"
+                },
+                {
+                  "date": "2026-10-23",
+                  "time": null,
+                  "minimum_bid_brl": 217666.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-10-23",
+                  "time": null,
+                  "minimum_bid_brl": 217666.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-10-30",
+                  "time": null,
+                  "minimum_bid_brl": 217666.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-10-02",
+                  "time": null,
+                  "minimum_bid_brl": 217666.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-10-23",
+                  "time": null,
+                  "minimum_bid_brl": 217666.0,
+                  "stage": "unknown"
+                }
+              ],
+              "after": [
+                {
+                  "date": "2026-10-23",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                }
+              ]
+            },
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "aa0e2eeda84cb785589d",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "94dfd11010dbccbc09c7",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "6bcf0295ba37ddf2d809",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "87bff8889472116c9401",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "04fed9d77ac896fb3d80",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "dce6ecc1a29ec8363d67",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "5be0ed88edba94809d8c",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "52adcbdce81e1039f400",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "auction_events",
+              "before": [
+                {
+                  "date": "2026-11-04",
+                  "time": "14:30",
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                },
+                {
+                  "date": "2026-11-04",
+                  "time": "14:30",
+                  "minimum_bid_brl": 1580433.02,
+                  "stage": "second"
+                },
+                {
+                  "date": "2026-11-04",
+                  "time": "14:30",
+                  "minimum_bid_brl": 1580433.02,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-11-04",
+                  "time": null,
+                  "minimum_bid_brl": 1580433.02,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-10-15",
+                  "time": null,
+                  "minimum_bid_brl": 1580433.02,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-11-04",
+                  "time": "14:30",
+                  "minimum_bid_brl": 1580433.02,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-11-11",
+                  "time": "14:30",
+                  "minimum_bid_brl": 1580433.02,
+                  "stage": "unknown"
+                }
+              ],
+              "after": [
+                {
+                  "date": "2026-11-04",
+                  "time": "14:30",
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                }
+              ]
+            },
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "54876b50bf5ea584a6dc",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "19092d4a649668cf9012",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "auction_events",
+              "before": [
+                {
+                  "date": "2026-12-02",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                },
+                {
+                  "date": "2026-12-02",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "second"
+                },
+                {
+                  "date": "2026-12-02",
+                  "time": null,
+                  "minimum_bid_brl": 620265.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-12-02",
+                  "time": null,
+                  "minimum_bid_brl": 620265.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-12-04",
+                  "time": null,
+                  "minimum_bid_brl": 620265.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-09-30",
+                  "time": null,
+                  "minimum_bid_brl": 620265.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-12-02",
+                  "time": null,
+                  "minimum_bid_brl": 620265.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-12-04",
+                  "time": null,
+                  "minimum_bid_brl": 620265.0,
+                  "stage": "unknown"
+                }
+              ],
+              "after": [
+                {
+                  "date": "2026-12-02",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                }
+              ]
+            },
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "d25ba90f13d453aa64fe",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "closed",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "6b9e57794b1ba20e2e9b",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "closed",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "22e06b6796a1938be66f",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "auction_events",
+              "before": [
+                {
+                  "date": "2026-10-29",
+                  "time": "14:00",
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                },
+                {
+                  "date": "2026-11-05",
+                  "time": null,
+                  "minimum_bid_brl": 4400000.0,
+                  "stage": "second"
+                },
+                {
+                  "date": "2026-10-29",
+                  "time": "14:00",
+                  "minimum_bid_brl": 4400000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-11-05",
+                  "time": null,
+                  "minimum_bid_brl": 4400000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-10-29",
+                  "time": "14:00",
+                  "minimum_bid_brl": 4400000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-11-05",
+                  "time": null,
+                  "minimum_bid_brl": 4400000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-10-29",
+                  "time": null,
+                  "minimum_bid_brl": 4400000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-09-26",
+                  "time": null,
+                  "minimum_bid_brl": 4400000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-10-29",
+                  "time": "14:00",
+                  "minimum_bid_brl": 4400000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-11-05",
+                  "time": "14:00",
+                  "minimum_bid_brl": 4400000.0,
+                  "stage": "unknown"
+                }
+              ],
+              "after": [
+                {
+                  "date": "2026-10-29",
+                  "time": "14:00",
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                },
+                {
+                  "date": "2026-11-05",
+                  "time": null,
+                  "minimum_bid_brl": 4400000.0,
+                  "stage": "second"
+                }
+              ]
+            },
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "a9218d3503939d4de8a3",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "96f9b57c16f1159141bc",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "bf519bb2409f6af2897e",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "closed",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "399fcaf0c964cd9d6bd7",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "f734f7324b37784f6b99",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "closed",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "28f1e0ceda6d3f706553",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "11fa0857703630b13ba6",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "closed",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "9e9adf7601901bcd97c8",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "57d84a932dfcc54f6ad2",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "93061cfac5b8bddc51d2",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "77c7d2b58a2ac581655c",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "f4e1c13a5ed19c4f3fc5",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "f746f542ac6c9f5afeff",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "47963d3af68a948dd0d3",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "4ead49556c3ed2e8a9f2",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "fe53f2e2adc1e7ab726a",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "b742ee7238cba76f4544",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "488ef164eee3de4ca1ce",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "7f5aba9095ff73a4a4f3",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "closed",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "18b39785d4392fa30f5f",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "1a20be5f779cf5f4409a",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "5b8f8c01a9dcdd95d58c",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "b4ead90a050179a23196",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "49905dad427eb62e1d34",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "bc1078fcfc1296bf5ded",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "eaf55559b0be298a4827",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "fedc1e7a898c7b810295",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "3cef7fc45e954d5fe069",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "ff61811de521a83d8a2c",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "e98e0977d4e843841950",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "ac46260a040dfbc20e7b",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "b4a0df5b2a4e2536be8d",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "95ec06eae7e81289b74e",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "6b9ee1df97d6dc66be3d",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "43b2c273ed2e2464aace",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "f91e9602ae3758705407",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "cb4ae04d1ecc19903bb3",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "6a1c2b5efd660362bb34",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "auction_events",
+              "before": [
+                {
+                  "date": "2026-11-23",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                },
+                {
+                  "date": "2026-11-23",
+                  "time": null,
+                  "minimum_bid_brl": 1803663.0,
+                  "stage": "second"
+                },
+                {
+                  "date": "2026-11-23",
+                  "time": null,
+                  "minimum_bid_brl": 1803663.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-11-23",
+                  "time": null,
+                  "minimum_bid_brl": 1803663.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-10-15",
+                  "time": null,
+                  "minimum_bid_brl": 1803663.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-11-23",
+                  "time": null,
+                  "minimum_bid_brl": 1803663.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2027-07-28",
+                  "time": null,
+                  "minimum_bid_brl": 1803663.0,
+                  "stage": "unknown"
+                }
+              ],
+              "after": [
+                {
+                  "date": "2026-11-23",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                }
+              ]
+            },
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "36c68b362c00de16f369",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "auction_events",
+              "before": [
+                {
+                  "date": "2026-11-12",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                },
+                {
+                  "date": "2026-11-12",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "second"
+                },
+                {
+                  "date": "2026-11-12",
+                  "time": null,
+                  "minimum_bid_brl": 2300000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-11-12",
+                  "time": null,
+                  "minimum_bid_brl": 2300000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-11-26",
+                  "time": null,
+                  "minimum_bid_brl": 2300000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-10-10",
+                  "time": null,
+                  "minimum_bid_brl": 2300000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-11-12",
+                  "time": null,
+                  "minimum_bid_brl": 2300000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-11-26",
+                  "time": null,
+                  "minimum_bid_brl": 2300000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-11-26",
+                  "time": null,
+                  "minimum_bid_brl": 2300000.0,
+                  "stage": "unknown"
+                }
+              ],
+              "after": [
+                {
+                  "date": "2026-11-12",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                }
+              ]
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "2c49574df3bab9a5ccae",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "3e170fc3d51f4d7b1b60",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "closed",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "62f226bd6935bed8ef35",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "004cff21779dc54649de",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "auction_events",
+              "before": [
+                {
+                  "date": "2026-10-30",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                },
+                {
+                  "date": "2026-10-30",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "second"
+                },
+                {
+                  "date": "2026-10-30",
+                  "time": null,
+                  "minimum_bid_brl": 3100000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-10-30",
+                  "time": null,
+                  "minimum_bid_brl": 3100000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-10-02",
+                  "time": null,
+                  "minimum_bid_brl": 3100000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-10-30",
+                  "time": null,
+                  "minimum_bid_brl": 3100000.0,
+                  "stage": "unknown"
+                }
+              ],
+              "after": [
+                {
+                  "date": "2026-10-30",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                }
+              ]
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "20fe234890ec51c87edd",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "b1d8d7c9b25bc6ca9a00",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "9245947d3e75607bb019",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "7592ab19267bfb35d0cb",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "auction_events",
+              "before": [
+                {
+                  "date": "2026-11-03",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                },
+                {
+                  "date": "2026-11-03",
+                  "time": null,
+                  "minimum_bid_brl": 3700000.0,
+                  "stage": "second"
+                },
+                {
+                  "date": "2026-11-03",
+                  "time": null,
+                  "minimum_bid_brl": 3700000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-11-03",
+                  "time": null,
+                  "minimum_bid_brl": 3700000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-09-20",
+                  "time": null,
+                  "minimum_bid_brl": 3700000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-11-03",
+                  "time": "13:00",
+                  "minimum_bid_brl": 3700000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-11-10",
+                  "time": "13:00",
+                  "minimum_bid_brl": 3700000.0,
+                  "stage": "unknown"
+                }
+              ],
+              "after": [
+                {
+                  "date": "2026-11-03",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                }
+              ]
+            },
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "f973e25b6daf730a764b",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "330d54fc71cdc7a6476e",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "closed",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "abfeceecbc36b9d2b691",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "4a2e2e5abc53df2b0b68",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "closed",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "150e33a012603589032c",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "75b5fbf450a8aca50887",
+          "city": "Balneário Piçarras",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "closed",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "2c1a34723877e103d57a",
+          "city": "Balneário Piçarras",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "634946a661cc12762b48",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "1ade8e46f20e49701722",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "de13120571b88c7b541d",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "e2e0be6a8b341369956c",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "07e6be5f6dbbfef13cbb",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "auction_events",
+              "before": [
+                {
+                  "date": "2026-11-09",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                },
+                {
+                  "date": "2026-11-16",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "second"
+                },
+                {
+                  "date": "2026-11-09",
+                  "time": null,
+                  "minimum_bid_brl": 3518000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-11-16",
+                  "time": null,
+                  "minimum_bid_brl": 3518000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-11-09",
+                  "time": null,
+                  "minimum_bid_brl": 3518000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-11-16",
+                  "time": null,
+                  "minimum_bid_brl": 3518000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-11-09",
+                  "time": null,
+                  "minimum_bid_brl": 3518000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-10-15",
+                  "time": null,
+                  "minimum_bid_brl": 3518000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-11-09",
+                  "time": null,
+                  "minimum_bid_brl": 3518000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-11-16",
+                  "time": null,
+                  "minimum_bid_brl": 3518000.0,
+                  "stage": "unknown"
+                }
+              ],
+              "after": [
+                {
+                  "date": "2026-11-09",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                },
+                {
+                  "date": "2026-11-16",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "second"
+                }
+              ]
+            },
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "add6cca33993c891122b",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "closed",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "de2c997a7701b7b5a453",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "1f4300803ee2cdc58b46",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "2acf6c9bce6388b1296c",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "47324d0881e47a4fce40",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        },
+        {
+          "property_id": "4fce775e168123626657",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "active",
+              "after": "unknown"
+            }
+          ],
+          "detected_at": "2026-10-17T23:24:02-03:00"
+        }
+      ]
     }
   ]
 }

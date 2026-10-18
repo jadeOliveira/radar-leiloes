@@ -1,9 +1,9 @@
 {
-  "run_id": "05f0a1c8-a209-49a4-9bfa-997af40d6ef6",
+  "run_id": "331b3fdd-5582-47e7-8f03-f067517803c0",
   "status": "partial",
-  "started_at": "2026-10-17T23:11:26-03:00",
-  "finished_at": "2026-10-17T23:18:48-03:00",
-  "duration_seconds": 442.46,
+  "started_at": "2026-10-17T23:23:15-03:00",
+  "finished_at": "2026-10-17T23:24:02-03:00",
+  "duration_seconds": 47.57,
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -27,8 +27,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.18,
-      "finished_at": "2026-10-17T23:11:29-03:00"
+      "duration_seconds": 1.19,
+      "finished_at": "2026-10-17T23:23:17-03:00"
     },
     {
       "source_id": "caixa",
@@ -44,8 +44,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.57,
-      "finished_at": "2026-10-17T23:11:30-03:00"
+      "duration_seconds": 2.13,
+      "finished_at": "2026-10-17T23:23:19-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -61,9 +61,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 6.22,
-      "finished_at": "2026-10-17T23:11:37-03:00",
-      "last_success_at": "2026-10-17T23:11:37-03:00"
+      "duration_seconds": 5.57,
+      "finished_at": "2026-10-17T23:23:25-03:00",
+      "last_success_at": "2026-10-17T23:23:25-03:00"
     },
     {
       "source_id": "superbid",
@@ -79,8 +79,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.03,
-      "finished_at": "2026-10-17T23:11:38-03:00"
+      "duration_seconds": 1.1,
+      "finished_at": "2026-10-17T23:23:26-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -96,8 +96,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.24,
-      "finished_at": "2026-10-17T23:11:39-03:00"
+      "duration_seconds": 1.21,
+      "finished_at": "2026-10-17T23:23:27-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -113,8 +113,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.37,
-      "finished_at": "2026-10-17T23:11:40-03:00"
+      "duration_seconds": 1.18,
+      "finished_at": "2026-10-17T23:23:28-03:00"
     },
     {
       "source_id": "freitas",
@@ -130,9 +130,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 15.94,
-      "finished_at": "2026-10-17T23:11:56-03:00",
-      "last_success_at": "2026-10-17T23:11:56-03:00"
+      "duration_seconds": 14.28,
+      "finished_at": "2026-10-17T23:23:43-03:00",
+      "last_success_at": "2026-10-17T23:23:43-03:00"
     },
     {
       "source_id": "comprei",
@@ -148,8 +148,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.99,
-      "finished_at": "2026-10-17T23:11:58-03:00"
+      "duration_seconds": 1.91,
+      "finished_at": "2026-10-17T23:23:45-03:00"
     },
     {
       "source_id": "sampaio",
@@ -165,9 +165,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 6.19,
-      "finished_at": "2026-10-17T23:12:05-03:00",
-      "last_success_at": "2026-10-17T23:12:05-03:00"
+      "duration_seconds": 5.27,
+      "finished_at": "2026-10-17T23:23:50-03:00",
+      "last_success_at": "2026-10-17T23:23:50-03:00"
     },
     {
       "source_id": "machado",
@@ -183,31 +183,31 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.24,
-      "finished_at": "2026-10-17T23:12:06-03:00"
+      "duration_seconds": 1.21,
+      "finished_at": "2026-10-17T23:23:51-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
       "status": "success",
       "pages_read": 8,
-      "listings_found": 163,
+      "listings_found": 150,
       "error": null,
       "listings_by_city": {
-        "Joinville": 99,
-        "Balneário Camboriú": 35,
-        "Balneário Piçarras": 3,
+        "Joinville": 97,
+        "Balneário Camboriú": 31,
+        "Balneário Piçarras": 2,
         "Barra Velha": 3,
-        "Rio do Sul": 23
+        "Rio do Sul": 17
       },
-      "duration_seconds": 402.15,
-      "finished_at": "2026-10-17T23:18:48-03:00",
-      "last_success_at": "2026-10-17T23:18:48-03:00"
+      "duration_seconds": 11.15,
+      "finished_at": "2026-10-17T23:24:02-03:00",
+      "last_success_at": "2026-10-17T23:24:02-03:00"
     }
   ],
   "counts": {
-    "new_or_updated": 142,
-    "total_preserved": 158,
+    "new_or_updated": 111,
+    "total_preserved": 201,
     "sources_succeeded": 4,
     "sources_partial": 0,
     "sources_failed": 7
