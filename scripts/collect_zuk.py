@@ -40,27 +40,25 @@ def extract(page) -> list[dict]:
         except PlaywrightTimeoutError:
             break
 
-    raw = page.evaluate(r"""() => Array.from(document.querySelectorAll('a[href]'))
+    raw = page.evaluate(r"""() => Array.from(document.querySelectorAll('a[href*="/imovel/sc/rio-do-sul/"]'))
       .map(a => {
-        let text = '';
+        let block = '';
         let node = a;
-        for (let i = 0; i < 7 && node; i++, node = node.parentElement) {
+        for (let i = 0; i < 12 && node; i++, node = node.parentElement) {
           const candidate = (node.innerText || '').replace(/\s+/g, ' ').trim();
-          if (/Rio do Sul\s*\/\s*SC/i.test(candidate) && /R\$\s*[\d.]+,\d{2}/.test(candidate)) { text = candidate; break; }
+          if (/R\$\s*[\d.]+,\d{2}/.test(candidate) && /\d{2}\/\d{2}\/\d{4}/.test(candidate)) { block = candidate; break; }
         }
-        return {href:a.href, text:(a.innerText || a.textContent || a.getAttribute('aria-label') || a.title || '').replace(/\s+/g,' ').trim(), parent:text};
-      })
-      .filter(x => /\/(imovel|lote|leilao|detalhe)[^/]*\//i.test(new URL(x.href).pathname))""")
+        return {href:a.href, text:(a.innerText || a.textContent || a.getAttribute('aria-label') || a.title || '').replace(/\s+/g,' ').trim(), parent:block};
+      })""")
+    print(f"Links da busca de {CITY}: {len(raw)}")
     seen: set[str] = set()
     results = []
     for link in raw:
         block = clean(link["parent"])
         text = clean(link["text"])
         combined = f"{text} {block}"
-        if CITY.casefold() not in combined.casefold() or "SC" not in combined:
-            continue
         href = urljoin(SOURCE, link["href"])
-        if href in seen or not text:
+        if href in seen:
             continue
         seen.add(href)
         # Select the next scheduled bid; only use discount values displayed
