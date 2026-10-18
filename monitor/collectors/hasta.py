@@ -1,20 +1,21 @@
 from __future__ import annotations
 
+import re
 import time
+import unicodedata
 
 from .base import SiteAdapter
 
 
-class NucleoLeiloesAdapter(SiteAdapter):
-    """Public preview listings from Núcleo Leilões, an auction aggregator."""
+class HastaAdapter(SiteAdapter):
+    """Public results from Hasta, an aggregator that links to auctioneer pages."""
 
     max_pages = 1
-    CITY_IDS = {
-        "Joinville": ("4551", "joinville-sc"),
-        "Balneário Camboriú": ("4442", "balneario-camboriu-sc"),
-        "Barra Velha": ("4446", "barra-velha-sc"),
-        "Rio do Sul": ("4630", "rio-do-sul-sc"),
-    }
+
+    @staticmethod
+    def city_slug(city: str) -> str:
+        slug = unicodedata.normalize("NFKD", city).encode("ascii", "ignore").decode().lower()
+        return re.sub(r"[^a-z0-9]+", "-", slug).strip("-")
 
     def collect(self, page):
         started = time.monotonic()
@@ -26,15 +27,10 @@ class NucleoLeiloesAdapter(SiteAdapter):
         by_city = {city: 0 for city in configured_cities}
 
         for city in configured_cities:
-            location = self.CITY_IDS.get(city)
-            if location is None:
-                errors.append(f"{city}: página pública da cidade ainda não identificada.")
-                continue
-            city_id, city_slug = location
             self.cities = [city]
             self.config = {
                 **original_config,
-                "url": original_config["url"].replace("{city_id}", city_id).replace("{city_slug}", city_slug),
+                "url": original_config["url"].replace("{city_slug}", self.city_slug(city)),
             }
             items, result = super().collect(page)
             pages += result["pages_read"]

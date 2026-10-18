@@ -4,7 +4,7 @@ from .comprei import CompreiAdapter
 from .diego_leiloes import DiegoLeiloesAdapter
 from .freitas import FreitasAdapter
 from .machado import MachadoAdapter
-from .nucleo_leiloes import NucleoLeiloesAdapter
+from .hasta import HastaAdapter
 from .mega_leiloes import MegaLeiloesAdapter
 from .portalzuk import PortalZukAdapter
 from .seu_imovel_bb import SeuImovelBBAdapter
@@ -22,5 +22,5 @@ ADAPTERS = {
     "machado": MachadoAdapter,
     "sampaio": SampaioAdapter,
     "comprei": CompreiAdapter,
-    "nucleo_leiloes": NucleoLeiloesAdapter,
+    "hasta": HastaAdapter,
 }

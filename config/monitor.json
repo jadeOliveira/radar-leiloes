@@ -105,13 +105,13 @@
       "path_pattern": "/item/\\d+/detalhes"
     },
     {
-      "id": "nucleo_leiloes",
-      "name": "Núcleo Leilões (agregador)",
+      "id": "hasta",
+      "name": "Hasta (agregador)",
       "enabled": true,
-      "adapter": "nucleo_leiloes",
-      "url": "https://nucleoleiloes.com.br/imoveis/cidade/{city_id}/{city_slug}",
-      "host": "nucleoleiloes.com.br",
-      "path_pattern": "/imoveis/publica/",
+      "adapter": "hasta",
+      "url": "https://hasta.com.br/leiloes/sc/{city_slug}",
+      "host": "hasta.com.br",
+      "path_pattern": "/imovel/",
       "is_aggregator": true
     }
   ]
