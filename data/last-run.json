@@ -1,9 +1,9 @@
 {
-  "run_id": "cf2eeff8-302f-4643-bfb2-73aee277756d",
+  "run_id": "4f1e3b0f-1804-4a59-964f-36dda925c28b",
   "status": "partial",
-  "started_at": "2026-10-17T22:02:28-03:00",
-  "finished_at": "2026-10-17T22:03:18-03:00",
-  "duration_seconds": 50.05,
+  "started_at": "2026-10-17T22:06:24-03:00",
+  "finished_at": "2026-10-17T22:06:56-03:00",
+  "duration_seconds": 32.05,
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -27,8 +27,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.54,
-      "finished_at": "2026-10-17T22:02:30-03:00"
+      "duration_seconds": 1.19,
+      "finished_at": "2026-10-17T22:06:26-03:00"
     },
     {
       "source_id": "caixa",
@@ -44,25 +44,26 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.97,
-      "finished_at": "2026-10-17T22:02:32-03:00"
+      "duration_seconds": 2.09,
+      "finished_at": "2026-10-17T22:06:28-03:00"
     },
     {
       "source_id": "mega_leiloes",
       "name": "Mega Leilões",
-      "status": "failed",
-      "pages_read": 0,
-      "listings_found": 0,
-      "error": "Página carregada, mas o formato dos resultados ainda não foi reconhecido.",
+      "status": "success",
+      "pages_read": 1,
+      "listings_found": 1,
+      "error": null,
       "listings_by_city": {
-        "Joinville": 0,
+        "Joinville": 1,
         "Balneário Camboriú": 0,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 2.19,
-      "finished_at": "2026-10-17T22:02:34-03:00"
+      "duration_seconds": 6.29,
+      "finished_at": "2026-10-17T22:06:34-03:00",
+      "last_success_at": "2026-10-17T22:06:34-03:00"
     },
     {
       "source_id": "superbid",
@@ -78,8 +79,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.05,
-      "finished_at": "2026-10-17T22:02:35-03:00"
+      "duration_seconds": 1.06,
+      "finished_at": "2026-10-17T22:06:35-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -95,8 +96,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.23,
-      "finished_at": "2026-10-17T22:02:37-03:00"
+      "duration_seconds": 1.22,
+      "finished_at": "2026-10-17T22:06:37-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -112,26 +113,26 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.2,
-      "finished_at": "2026-10-17T22:02:38-03:00"
+      "duration_seconds": 1.19,
+      "finished_at": "2026-10-17T22:06:38-03:00"
     },
     {
       "source_id": "freitas",
       "name": "Freitas Leiloeiro",
       "status": "success",
       "pages_read": 1,
-      "listings_found": 11,
+      "listings_found": 1,
       "error": null,
       "listings_by_city": {
-        "Joinville": 11,
+        "Joinville": 1,
         "Balneário Camboriú": 0,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 37.91,
-      "finished_at": "2026-10-17T22:03:16-03:00",
-      "last_success_at": "2026-10-17T22:03:16-03:00"
+      "duration_seconds": 16.13,
+      "finished_at": "2026-10-17T22:06:54-03:00",
+      "last_success_at": "2026-10-17T22:06:54-03:00"
     },
     {
       "source_id": "comprei",
@@ -147,16 +148,16 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 2.04,
-      "finished_at": "2026-10-17T22:03:18-03:00"
+      "duration_seconds": 1.98,
+      "finished_at": "2026-10-17T22:06:56-03:00"
     }
   ],
   "counts": {
-    "new_or_updated": 11,
-    "total_preserved": 11,
-    "sources_succeeded": 1,
+    "new_or_updated": 1,
+    "total_preserved": 2,
+    "sources_succeeded": 2,
     "sources_partial": 0,
-    "sources_failed": 7
+    "sources_failed": 6
   },
   "errors": [
     {
@@ -166,10 +167,6 @@
     {
       "source_id": "caixa",
       "message": "Bloqueio/CAPTCHA detectado; a fonte não foi contornada."
-    },
-    {
-      "source_id": "mega_leiloes",
-      "message": "Página carregada, mas o formato dos resultados ainda não foi reconhecido."
     },
     {
       "source_id": "superbid",
