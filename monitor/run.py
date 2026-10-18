@@ -49,7 +49,14 @@ def merge_property(old: dict[str, Any] | None, new: dict[str, Any]) -> tuple[dic
     aggregator_observation = bool(new.get("provenance", {}).get("is_aggregator"))
     aggregator_only = aggregator_observation and set(merged.get("source_ids", [])).issubset({"hasta"})
     changes = []
-    tracked = ("current_minimum_bid_brl", "appraisal_value_brl", "discount_on_appraisal_percent", "auction_events", "occupancy", "status", "payment_conditions", "edital_url")
+    tracked = (
+        "city", "neighborhood", "address", "property_type", "area_privative_m2", "area_built_m2", "area_total_m2",
+        "registry_number", "registry_office", "auction_lot", "auctioneer", "seller", "modality",
+        "appraisal_value_brl", "first_minimum_bid_brl", "second_minimum_bid_brl", "current_minimum_bid_brl",
+        "discount_on_appraisal_percent", "auction_events", "commission_percent", "payment_conditions",
+        "occupancy", "status", "official_url", "source_listing_url", "validation_status", "edital_url",
+        "document_urls", "image_urls", "classification", "risk_flags",
+    )
     for field, value in new.items():
         if value is None or value == [] or value == {}:
             continue
@@ -58,8 +65,6 @@ def merge_property(old: dict[str, Any] | None, new: dict[str, Any]) -> tuple[dic
         incoming_field_is_verified = new.get("field_verification", {}).get(field) == "verified"
         if aggregator_observation and field not in ("status", "classification") and old_field_is_verified and not incoming_field_is_verified:
             continue
-        if field in tracked and previous != value:
-            changes.append({"field": field, "before": previous, "after": value})
         if field in ("source_ids", "source_listing_ids", "document_urls", "image_urls"):
             merged[field] = list(dict.fromkeys((previous or []) + value))
         elif field == "risk_flags":
@@ -82,6 +87,9 @@ def merge_property(old: dict[str, Any] | None, new: dict[str, Any]) -> tuple[dic
             continue
         else:
             merged[field] = value
+        current = merged.get(field)
+        if field in tracked and previous != current:
+            changes.append({"field": field, "before": previous, "after": current})
     if merged.get("validation_status") == "verified" and "aggregator_listing_unverified" in merged.get("risk_flags", []):
         merged["risk_flags"].remove("aggregator_listing_unverified")
     if aggregator_only and new.get("validation_status") == "nao_verificado":
@@ -216,15 +224,33 @@ def main() -> int:
     source_failures = sum(1 for result in results if result["status"] == "failed")
     run_status = "success" if source_failures == 0 and source_partials == 0 else "partial" if source_successes + source_partials else "failed"
     finished = now(timezone).isoformat(timespec="seconds")
+    new_property_ids = sorted({
+        change["property_id"] for change in changes
+        if any(entry.get("field") == "record" and entry.get("after") == "new" for entry in change.get("changes", []))
+    })
+    changed_property_ids = sorted({change["property_id"] for change in changes} - set(new_property_ids))
+    sources_available = source_successes + source_partials > 0
+    data_status = "updated" if changes else "unchanged" if sources_available else "unavailable"
+    data_updated_at = checked_at if data_status == "updated" else existing_data.get("updated_at")
     report = {
         "run_id": run_id, "status": run_status, "started_at": started, "finished_at": finished,
         "duration_seconds": round(time.monotonic() - started_clock, 2), "timezone": timezone,
         "cities": cities, "sources": results,
-        "counts": {"new_or_updated": len(set(change["property_id"] for change in changes)), "total_preserved": len({item["id"] for item in by_identity.values()}), "sources_succeeded": source_successes, "sources_partial": source_partials, "sources_failed": source_failures},
+        "data_status": data_status, "data_updated_at": data_updated_at,
+        "counts": {
+            "new_listings": len(new_property_ids), "changed_listings": len(changed_property_ids),
+            "new_or_updated": len(set(change["property_id"] for change in changes)),
+            "total_preserved": len({item["id"] for item in by_identity.values()}),
+            "sources_succeeded": source_successes, "sources_partial": source_partials, "sources_failed": source_failures,
+        },
+        "new_property_ids": new_property_ids, "changed_property_ids": changed_property_ids,
         "errors": [{"source_id": result["source_id"], "message": result["error"]} for result in results if result.get("error")],
     }
-    if source_successes + source_partials:
+    if data_status == "updated":
         canonical = {item["id"]: item for item in by_identity.values()}
+        for property_id in new_property_ids:
+            if property_id in canonical:
+                canonical[property_id]["newly_discovered_at"] = checked_at
         properties = sorted(canonical.values(), key=lambda item: (item.get("city", ""), item.get("id", "")))
         write_json(DATA_DIR / "properties.json", {"updated_at": checked_at, "timezone": timezone, "cities": cities, "priority": config.get("priority", {}), "properties": properties, "sources": results})
         history = read_json(DATA_DIR / "history.json", {"events": []})
