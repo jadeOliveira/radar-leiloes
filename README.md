@@ -31,6 +31,6 @@ python scripts/collect_zuk.py
 
 - `.github/workflows/collect.yml` roda diariamente às 08:00 no horário de Brasília (11:00 UTC) e também permite execução manual. Alterações no JSON são registradas em um commit automático.
 - `.github/workflows/pages.yml` compila e publica no GitHub Pages em pushes para `main`, execução manual e diariamente às 08:20 de Brasília. O agendamento separado assegura a republicação dos dados mesmo quando o commit do coletor, feito pelo `GITHUB_TOKEN`, não inicia outro workflow.
-- No GitHub, habilite **Settings → Pages → Build and deployment → Source: GitHub Actions** se o primeiro deploy indicar que o Pages ainda não está configurado.
+- O workflow tenta habilitar o GitHub Pages automaticamente. Se a política da conta impedir isso, habilite em **Settings → Pages → Build and deployment → Source: GitHub Actions** e execute o workflow novamente.
 
 O endereço padrão do painel será `https://jadeOliveira.github.io/radar-leiloes/` após o primeiro deploy bem-sucedido.
