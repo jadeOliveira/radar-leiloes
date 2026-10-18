@@ -7,24 +7,18 @@ import re
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urljoin
+from zoneinfo import ZoneInfo
 
 from playwright.sync_api import TimeoutError as PlaywrightTimeoutError, sync_playwright
 
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "public" / "data" / "auctions.json"
-SOURCE = "https://www.portalzuk.com.br/leilao-de-imoveis"
+SOURCE = "https://www.portalzuk.com.br/leilao-de-imoveis/c/todos-imoveis/sc/regiao/rio-do-sul"
 CITY = "Rio do Sul"
 
 
 def clean(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
-
-
-def price_from(text: str) -> float | None:
-    match = re.search(r"R\$\s*([\d.]+,\d{2})", text)
-    if not match:
-        return None
-    return float(match.group(1).replace(".", "").replace(",", "."))
 
 
 def extract(page) -> list[dict]:
@@ -46,9 +40,17 @@ def extract(page) -> list[dict]:
         except PlaywrightTimeoutError:
             break
 
-    raw = page.evaluate("""() => Array.from(document.querySelectorAll('a[href]'))
-      .map(a => ({href:a.href, text:(a.innerText || a.textContent || '').replace(/\\s+/g,' ').trim(), parent:a.parentElement?.parentElement?.innerText || ''}))
-      .filter(x => /\\/(imovel|lote|leilao|detalhe)[^/]*\\//i.test(new URL(x.href).pathname))""")
+    raw = page.evaluate(r"""() => Array.from(document.querySelectorAll('a[href]'))
+      .map(a => {
+        let text = '';
+        let node = a;
+        for (let i = 0; i < 7 && node; i++, node = node.parentElement) {
+          const candidate = (node.innerText || '').replace(/\s+/g, ' ').trim();
+          if (/Rio do Sul\s*\/\s*SC/i.test(candidate) && /R\$\s*[\d.]+,\d{2}/.test(candidate)) { text = candidate; break; }
+        }
+        return {href:a.href, text:(a.innerText || a.textContent || a.getAttribute('aria-label') || a.title || '').replace(/\s+/g,' ').trim(), parent:text};
+      })
+      .filter(x => /\/(imovel|lote|leilao|detalhe)[^/]*\//i.test(new URL(x.href).pathname))""")
     seen: set[str] = set()
     results = []
     for link in raw:
@@ -61,19 +63,33 @@ def extract(page) -> list[dict]:
         if href in seen or not text:
             continue
         seen.add(href)
-        # Use only the first published minimum bid; auction-stage prices are
-        # not appraisal values and must not be used to invent a discount.
-        current = price_from(block)
-        explicit_discount = re.search(r"desconto\s*(?:de)?\s*(\d{1,2})\s*%", block, re.I)
-        discount = int(explicit_discount.group(1)) if explicit_discount else None
+        # Select the next scheduled bid; only use discount values displayed
+        # between the bid and date by the source page.
+        today = datetime.now(ZoneInfo("America/Sao_Paulo")).date()
+        bids = []
+        for price_match in re.finditer(r"R\$\s*([\d.]+,\d{2})", block):
+            segment = block[price_match.end():price_match.end() + 100]
+            date_match = re.search(r"(\d{2}/\d{2}/\d{4})", segment)
+            if not date_match:
+                continue
+            auction_day = datetime.strptime(date_match.group(1), "%d/%m/%Y").date()
+            before_date = segment[:date_match.start()]
+            percent_match = re.search(r"\b(100|[1-9]?\d)\s*$", before_date)
+            bids.append((auction_day, float(price_match.group(1).replace(".", "").replace(",", ".")), int(percent_match.group(1)) if percent_match else None))
+        upcoming = sorted((bid for bid in bids if bid[0] >= today), key=lambda bid: bid[0])
+        chosen = upcoming[0] if upcoming else (bids[0] if bids else None)
+        current = chosen[1] if chosen else None
+        discount = chosen[2] if chosen else None
+        auction_day = chosen[0] if chosen else None
         area_match = re.search(r"([\d.,]+)\s*m²", block, re.I)
         area = float(area_match.group(1).replace(".", "").replace(",", ".")) if area_match else None
-        date_match = re.search(r"(\d{2}/\d{2}/\d{4})", block)
-        date_iso = datetime.strptime(date_match.group(1), "%d/%m/%Y").date().isoformat() if date_match else None
+        date_iso = auction_day.isoformat() if auction_day else None
+        address_match = re.search(r"Rio do Sul\s*/\s*SC\s*[-–]\s*(.*?)(?=\s+(?:1º|2º)\s*leilão|\s+Valor|\s+R\$)", block, re.I)
+        address = address_match.group(1).strip() if address_match else None
         title = text if len(text) > 4 else (block[:100] or "Imóvel em leilão")
         results.append({
             "id": href.rstrip("/").split("/")[-1], "title": title,
-            "city": CITY, "state": "SC", "address": None,
+            "city": CITY, "state": "SC", "address": address,
             "propertyType": next((t for t in ("Apartamento", "Casa", "Terreno", "Comercial", "Rural") if t.casefold() in combined.casefold()), None),
             "auctioneer": "Portal Zuk", "url": href, "price": current,
             "appraisalValue": None, "discountPercent": discount,

@@ -5,7 +5,7 @@ Painel inicial para acompanhar oportunidades imobiliárias em leilões. O projet
 ## Escopo do MVP
 
 - Dashboard em português com busca, filtros por cidade e tipo e indicador prioritário para imóveis de até R$ 800 mil com desconto de pelo menos 30%.
-- Coleta diária de anúncios públicos do Portal Zuk para Rio do Sul/SC, com gravação em `public/data/auctions.json`.
+- Coleta diária da busca do Portal Zuk já filtrada para Rio do Sul/SC, com gravação em `public/data/auctions.json`.
 - Publicação do painel no GitHub Pages.
 
 A coleta é inicial e limitada a uma fonte e uma cidade. A extração depende da estrutura pública do Portal Zuk e pode precisar de manutenção caso a página mude. O coletor não faz análise jurídica, não confirma ocupação ou situação registral e não deve ser tratado como cobertura completa de leilões. Confirme os dados no anúncio e edital oficiais.
