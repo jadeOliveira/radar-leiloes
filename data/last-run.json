@@ -1,9 +1,9 @@
 {
-  "run_id": "e9871ae0-f3c9-4ffa-ac69-0077ef7413cc",
+  "run_id": "51109df1-a899-413e-80db-81f6f2df119a",
   "status": "partial",
-  "started_at": "2026-10-17T23:02:01-03:00",
-  "finished_at": "2026-10-17T23:02:46-03:00",
-  "duration_seconds": 44.94,
+  "started_at": "2026-10-17T23:04:36-03:00",
+  "finished_at": "2026-10-17T23:08:40-03:00",
+  "duration_seconds": 244.02,
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -27,8 +27,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.24,
-      "finished_at": "2026-10-17T23:02:03-03:00"
+      "duration_seconds": 1.21,
+      "finished_at": "2026-10-17T23:04:37-03:00"
     },
     {
       "source_id": "caixa",
@@ -44,8 +44,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 2.27,
-      "finished_at": "2026-10-17T23:02:05-03:00"
+      "duration_seconds": 1.91,
+      "finished_at": "2026-10-17T23:04:39-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -61,9 +61,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 7.28,
-      "finished_at": "2026-10-17T23:02:12-03:00",
-      "last_success_at": "2026-10-17T23:02:12-03:00"
+      "duration_seconds": 5.76,
+      "finished_at": "2026-10-17T23:04:45-03:00",
+      "last_success_at": "2026-10-17T23:04:45-03:00"
     },
     {
       "source_id": "superbid",
@@ -79,8 +79,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.07,
-      "finished_at": "2026-10-17T23:02:13-03:00"
+      "duration_seconds": 1.05,
+      "finished_at": "2026-10-17T23:04:46-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -96,8 +96,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.22,
-      "finished_at": "2026-10-17T23:02:15-03:00"
+      "duration_seconds": 1.24,
+      "finished_at": "2026-10-17T23:04:47-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -113,8 +113,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.23,
-      "finished_at": "2026-10-17T23:02:16-03:00"
+      "duration_seconds": 1.2,
+      "finished_at": "2026-10-17T23:04:49-03:00"
     },
     {
       "source_id": "freitas",
@@ -130,9 +130,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 15.69,
-      "finished_at": "2026-10-17T23:02:32-03:00",
-      "last_success_at": "2026-10-17T23:02:32-03:00"
+      "duration_seconds": 14.92,
+      "finished_at": "2026-10-17T23:05:04-03:00",
+      "last_success_at": "2026-10-17T23:05:04-03:00"
     },
     {
       "source_id": "comprei",
@@ -148,8 +148,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 2.03,
-      "finished_at": "2026-10-17T23:02:34-03:00"
+      "duration_seconds": 2.04,
+      "finished_at": "2026-10-17T23:05:06-03:00"
     },
     {
       "source_id": "sampaio",
@@ -165,9 +165,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 6.55,
-      "finished_at": "2026-10-17T23:02:40-03:00",
-      "last_success_at": "2026-10-17T23:02:40-03:00"
+      "duration_seconds": 5.5,
+      "finished_at": "2026-10-17T23:05:11-03:00",
+      "last_success_at": "2026-10-17T23:05:11-03:00"
     },
     {
       "source_id": "machado",
@@ -183,33 +183,34 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.22,
-      "finished_at": "2026-10-17T23:02:42-03:00"
+      "duration_seconds": 1.26,
+      "finished_at": "2026-10-17T23:05:12-03:00"
     },
     {
-      "source_id": "nucleo_leiloes",
-      "name": "Núcleo Leilões (agregador)",
-      "status": "failed",
-      "pages_read": 0,
-      "listings_found": 0,
-      "error": "Joinville: Bloqueio/CAPTCHA detectado; a fonte não foi contornada.; Balneário Camboriú: Bloqueio/CAPTCHA detectado; a fonte não foi contornada.; Balneário Piçarras: página pública da cidade ainda não identificada.; Barra Velha: Bloqueio/CAPTCHA detectado; a fonte não foi contornada.; Rio do Sul: Bloqueio/CAPTCHA detectado; a fonte não foi contornada.",
+      "source_id": "hasta",
+      "name": "Hasta (agregador)",
+      "status": "success",
+      "pages_read": 5,
+      "listings_found": 81,
+      "error": null,
       "listings_by_city": {
-        "Joinville": 0,
-        "Balneário Camboriú": 0,
-        "Balneário Piçarras": 0,
-        "Barra Velha": 0,
-        "Rio do Sul": 0
+        "Joinville": 17,
+        "Balneário Camboriú": 35,
+        "Balneário Piçarras": 3,
+        "Barra Velha": 3,
+        "Rio do Sul": 23
       },
-      "duration_seconds": 4.09,
-      "finished_at": "2026-10-17T23:02:46-03:00"
+      "duration_seconds": 207.07,
+      "finished_at": "2026-10-17T23:08:40-03:00",
+      "last_success_at": "2026-10-17T23:08:40-03:00"
     }
   ],
   "counts": {
-    "new_or_updated": 0,
-    "total_preserved": 3,
-    "sources_succeeded": 3,
+    "new_or_updated": 72,
+    "total_preserved": 75,
+    "sources_succeeded": 4,
     "sources_partial": 0,
-    "sources_failed": 8
+    "sources_failed": 7
   },
   "errors": [
     {
@@ -239,10 +240,6 @@
     {
       "source_id": "machado",
       "message": "Bloqueio/CAPTCHA detectado; a fonte não foi contornada."
-    },
-    {
-      "source_id": "nucleo_leiloes",
-      "message": "Joinville: Bloqueio/CAPTCHA detectado; a fonte não foi contornada.; Balneário Camboriú: Bloqueio/CAPTCHA detectado; a fonte não foi contornada.; Balneário Piçarras: página pública da cidade ainda não identificada.; Barra Velha: Bloqueio/CAPTCHA detectado; a fonte não foi contornada.; Rio do Sul: Bloqueio/CAPTCHA detectado; a fonte não foi contornada."
     }
   ]
 }

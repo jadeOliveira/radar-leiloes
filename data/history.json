@@ -74,6 +74,1562 @@
         }
       ],
       "detected_at": "2026-10-17T22:56:34-03:00"
+    },
+    {
+      "property_id": "148da9b4c7a4a4dc4dcb",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "41923e816374a11c1686",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "eb79c4020ab8161c6a5a",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "728f24f934365455cf2d",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "0d4f16c224b730f2fac4",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "5f945cd668932337ba71",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "41923e816374a11c1686",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "appraisal_value_brl",
+          "before": 230000.0,
+          "after": 220000.0
+        },
+        {
+          "field": "auction_events",
+          "before": [
+            {
+              "date": "2026-11-23",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "first"
+            },
+            {
+              "date": "2026-11-27",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "second"
+            },
+            {
+              "date": "2026-10-09",
+              "time": null,
+              "minimum_bid_brl": 230000.0,
+              "stage": "unknown"
+            }
+          ],
+          "after": [
+            {
+              "date": "2026-10-17",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "first"
+            }
+          ]
+        },
+        {
+          "field": "payment_conditions",
+          "before": null,
+          "after": "aceitas e se há financiamento ou uso de FGTS. Leia a"
+        },
+        {
+          "field": "edital_url",
+          "before": "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/anexos/sc/leeil-9286de740113e00e/edital.pdf",
+          "after": "https://hasta.com.br/guias/analise-de-edital-e-matricula"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "5967008dc9c0d0d290e7",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "156322f6af67613a79b8",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "41923e816374a11c1686",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "appraisal_value_brl",
+          "before": 220000.0,
+          "after": 980000.0
+        },
+        {
+          "field": "auction_events",
+          "before": [
+            {
+              "date": "2026-10-17",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "first"
+            }
+          ],
+          "after": [
+            {
+              "date": "2026-08-29",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "first"
+            }
+          ]
+        },
+        {
+          "field": "status",
+          "before": "unknown",
+          "after": "closed"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "c295f3ec9fadf920d8dd",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "865d5d703be0729da6fa",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "1d8772fdbe1c70e5b04e",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "ad3a4824c64d8543f946",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "ee8c64cc30b3438f05eb",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "77c7d2b58a2ac581655c",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "ebf801bda0ad846887a0",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "b79898cf34e4838c3449",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "0ad6519068704c438998",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "20fe234890ec51c87edd",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "b4a0df5b2a4e2536be8d",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "af77573d850dc952d3b9",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "75b786fe06b430d4bd15",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "059fd85cd2dca00530a6",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "52178ad8ccce265840be",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "a428b14c589e5f206806",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "43b2c273ed2e2464aace",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "af77573d850dc952d3b9",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "current_minimum_bid_brl",
+          "before": 2300000.0,
+          "after": 3100000.0
+        },
+        {
+          "field": "auction_events",
+          "before": [
+            {
+              "date": "2026-11-12",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "first"
+            },
+            {
+              "date": "2026-11-26",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "second"
+            },
+            {
+              "date": "2026-10-09",
+              "time": null,
+              "minimum_bid_brl": 2300000.0,
+              "stage": "unknown"
+            }
+          ],
+          "after": [
+            {
+              "date": "2026-08-29",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "first"
+            }
+          ]
+        },
+        {
+          "field": "payment_conditions",
+          "before": null,
+          "after": "aceitas e se há financiamento ou uso de FGTS. Leia a"
+        },
+        {
+          "field": "status",
+          "before": "unknown",
+          "after": "closed"
+        },
+        {
+          "field": "edital_url",
+          "before": "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/anexos/sc/leeil-6886e5cce7c98686/edital.pdf",
+          "after": "https://hasta.com.br/guias/analise-de-edital-e-matricula"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "20fe234890ec51c87edd",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "current_minimum_bid_brl",
+          "before": 2100000.0,
+          "after": 1100000.0
+        },
+        {
+          "field": "auction_events",
+          "before": [
+            {
+              "date": "2026-10-29",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "first"
+            },
+            {
+              "date": "2026-10-09",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "second"
+            }
+          ],
+          "after": [
+            {
+              "date": "2026-08-29",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "first"
+            }
+          ]
+        },
+        {
+          "field": "payment_conditions",
+          "before": null,
+          "after": "aceitas e se há financiamento ou uso de FGTS. Leia a"
+        },
+        {
+          "field": "status",
+          "before": "active",
+          "after": "closed"
+        },
+        {
+          "field": "edital_url",
+          "before": "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/anexos/sc/leeil-19199469dbad72ce/edital.pdf",
+          "after": "https://hasta.com.br/guias/analise-de-edital-e-matricula"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "36dcfaa54f2f10dc7d7f",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "6a1c2b5efd660362bb34",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "36c68b362c00de16f369",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "7f1836fe15d8b455b718",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "3e170fc3d51f4d7b1b60",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "62f226bd6935bed8ef35",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "004cff21779dc54649de",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "d377429f3f1d961dc221",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "aa5af34bd131fce37bdd",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "b1d8d7c9b25bc6ca9a00",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "f5d481e440ddbf5c0aaf",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "17b95e35f56cee9439b3",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "9245947d3e75607bb019",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "7592ab19267bfb35d0cb",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "f973e25b6daf730a764b",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "993186b93cb7577b097b",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "330d54fc71cdc7a6476e",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "b6d5291eaf57e658332e",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "abfeceecbc36b9d2b691",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "6b9ee1df97d6dc66be3d",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "270a93f7bc136faf7572",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "4a2e2e5abc53df2b0b68",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "150e33a012603589032c",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "75b5fbf450a8aca50887",
+      "city": "Balneário Piçarras",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "6298305b8548e64f6ec0",
+      "city": "Balneário Piçarras",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "75b5fbf450a8aca50887",
+      "city": "Balneário Piçarras",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "appraisal_value_brl",
+          "before": null,
+          "after": 1500000.0
+        },
+        {
+          "field": "current_minimum_bid_brl",
+          "before": 2500000.0,
+          "after": 1500000.0
+        },
+        {
+          "field": "discount_on_appraisal_percent",
+          "before": null,
+          "after": 0.0
+        },
+        {
+          "field": "auction_events",
+          "before": [
+            {
+              "date": "2026-08-29",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "first"
+            }
+          ],
+          "after": [
+            {
+              "date": "2026-11-03",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "first"
+            },
+            {
+              "date": "2026-11-17",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "second"
+            },
+            {
+              "date": "2026-09-04",
+              "time": null,
+              "minimum_bid_brl": 1500000.0,
+              "stage": "unknown"
+            }
+          ]
+        },
+        {
+          "field": "status",
+          "before": "closed",
+          "after": "unknown"
+        },
+        {
+          "field": "edital_url",
+          "before": "https://hasta.com.br/guias/analise-de-edital-e-matricula",
+          "after": "https://s.superbid.net/event/791941/attachment/60436c60-e58d-461d-b7fc-2f1e5e5b9212.pdf"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "20fd0b9b6356ec174d81",
+      "city": "Barra Velha",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "f247a7b1f8923f0e2785",
+      "city": "Barra Velha",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "23fa965ece4277305e11",
+      "city": "Barra Velha",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "400f8aa70434acb93bf9",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "3104bf899276fd7137e1",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "1ade8e46f20e49701722",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "3fa0ea0a762151581612",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "85305a6ce36a2edd49ba",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "a1a57101047715a84ced",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "e2e0be6a8b341369956c",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "8e2dc035b98bb213565b",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "97704f8a04c77d4e4cfb",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "0467a20555cfcec2fe46",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "b880767e91a5af233522",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "07e6be5f6dbbfef13cbb",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "842d9becd96a946a8f75",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "4371a4003e0edf941981",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "add6cca33993c891122b",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "aaacd882dfc513cb33aa",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "de2c997a7701b7b5a453",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "a954bb0f9896121d0fa7",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "a954bb0f9896121d0fa7",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "auction_events",
+          "before": [
+            {
+              "date": "2026-11-18",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "first"
+            },
+            {
+              "date": "2026-11-26",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "second"
+            },
+            {
+              "date": "2026-09-24",
+              "time": null,
+              "minimum_bid_brl": 220000.0,
+              "stage": "unknown"
+            },
+            {
+              "date": "2026-07-06",
+              "time": null,
+              "minimum_bid_brl": 220000.0,
+              "stage": "unknown"
+            }
+          ],
+          "after": [
+            {
+              "date": "2026-11-17",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "first"
+            },
+            {
+              "date": "2026-11-25",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "second"
+            },
+            {
+              "date": "2026-09-24",
+              "time": null,
+              "minimum_bid_brl": 220000.0,
+              "stage": "unknown"
+            },
+            {
+              "date": "2026-07-06",
+              "time": null,
+              "minimum_bid_brl": 220000.0,
+              "stage": "unknown"
+            }
+          ]
+        },
+        {
+          "field": "edital_url",
+          "before": "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/captacao/agencialeilao.com.br/ecf6f5094400996c56e406a2872f6eda2ff0de9e8bf8994d6cfdf7cbf518e77b.pdf",
+          "after": "https://hasta.com.br/guias/analise-de-edital-e-matricula"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "b880767e91a5af233522",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "current_minimum_bid_brl",
+          "before": 3518000.0,
+          "after": 300000.0
+        },
+        {
+          "field": "auction_events",
+          "before": [
+            {
+              "date": "2026-11-09",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "first"
+            },
+            {
+              "date": "2026-11-16",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "second"
+            },
+            {
+              "date": "2026-09-25",
+              "time": null,
+              "minimum_bid_brl": 3518000.0,
+              "stage": "unknown"
+            }
+          ],
+          "after": [
+            {
+              "date": "2026-10-22",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "first"
+            },
+            {
+              "date": "2026-09-22",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "second"
+            }
+          ]
+        },
+        {
+          "field": "edital_url",
+          "before": "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/anexos/sc/leeil-c9d021b3e79a7132/edital.pdf",
+          "after": "https://s.superbid.net/event/801727/attachment/4e674bb2-8b03-402f-9a98-530f00a3dbd0.pdf"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "3fa0ea0a762151581612",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "current_minimum_bid_brl",
+          "before": 1083000.0,
+          "after": 1100000.0
+        },
+        {
+          "field": "auction_events",
+          "before": [
+            {
+              "date": "2026-11-30",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "first"
+            },
+            {
+              "date": "2026-12-07",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "second"
+            },
+            {
+              "date": "2026-10-17",
+              "time": null,
+              "minimum_bid_brl": 1083000.0,
+              "stage": "unknown"
+            }
+          ],
+          "after": [
+            {
+              "date": "2026-10-22",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "first"
+            },
+            {
+              "date": "2026-09-22",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "second"
+            }
+          ]
+        },
+        {
+          "field": "edital_url",
+          "before": "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/anexos/sc/leeil-3792f338c793f292/edital.pdf",
+          "after": "https://s.superbid.net/event/801727/attachment/4e674bb2-8b03-402f-9a98-530f00a3dbd0.pdf"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "3fa0ea0a762151581612",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "current_minimum_bid_brl",
+          "before": 1100000.0,
+          "after": 500000.0
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
+    },
+    {
+      "property_id": "4fce775e168123626657",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T23:08:40-03:00"
     }
   ]
 }
