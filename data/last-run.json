@@ -1,9 +1,9 @@
 {
-  "run_id": "901c4864-068b-4438-a59b-c9cd7000bd68",
+  "run_id": "055c3aec-1cfe-4f43-8029-64da0e5285dd",
   "status": "partial",
-  "started_at": "2026-10-18T20:23:59-03:00",
-  "finished_at": "2026-10-18T20:24:47-03:00",
-  "duration_seconds": 48.17,
+  "started_at": "2026-10-18T20:30:47-03:00",
+  "finished_at": "2026-10-18T20:31:36-03:00",
+  "duration_seconds": 49.1,
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -27,8 +27,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.17,
-      "finished_at": "2026-10-18T20:24:00-03:00"
+      "duration_seconds": 1.16,
+      "finished_at": "2026-10-18T20:30:50-03:00"
     },
     {
       "source_id": "caixa",
@@ -44,8 +44,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.6,
-      "finished_at": "2026-10-18T20:24:02-03:00"
+      "duration_seconds": 1.95,
+      "finished_at": "2026-10-18T20:30:52-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -61,9 +61,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 6.18,
-      "finished_at": "2026-10-18T20:24:08-03:00",
-      "last_success_at": "2026-10-18T20:24:08-03:00"
+      "duration_seconds": 5.94,
+      "finished_at": "2026-10-18T20:30:58-03:00",
+      "last_success_at": "2026-10-18T20:30:58-03:00"
     },
     {
       "source_id": "superbid",
@@ -79,8 +79,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.05,
-      "finished_at": "2026-10-18T20:24:09-03:00"
+      "duration_seconds": 1.06,
+      "finished_at": "2026-10-18T20:30:59-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -96,8 +96,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.2,
-      "finished_at": "2026-10-18T20:24:10-03:00"
+      "duration_seconds": 1.13,
+      "finished_at": "2026-10-18T20:31:00-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -114,7 +114,7 @@
         "Rio do Sul": 0
       },
       "duration_seconds": 1.16,
-      "finished_at": "2026-10-18T20:24:12-03:00"
+      "finished_at": "2026-10-18T20:31:01-03:00"
     },
     {
       "source_id": "freitas",
@@ -130,9 +130,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 14.97,
-      "finished_at": "2026-10-18T20:24:27-03:00",
-      "last_success_at": "2026-10-18T20:24:27-03:00"
+      "duration_seconds": 13.9,
+      "finished_at": "2026-10-18T20:31:15-03:00",
+      "last_success_at": "2026-10-18T20:31:15-03:00"
     },
     {
       "source_id": "comprei",
@@ -148,8 +148,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.67,
-      "finished_at": "2026-10-18T20:24:28-03:00"
+      "duration_seconds": 1.78,
+      "finished_at": "2026-10-18T20:31:17-03:00"
     },
     {
       "source_id": "sampaio",
@@ -165,9 +165,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 5.25,
-      "finished_at": "2026-10-18T20:24:34-03:00",
-      "last_success_at": "2026-10-18T20:24:34-03:00"
+      "duration_seconds": 5.3,
+      "finished_at": "2026-10-18T20:31:22-03:00",
+      "last_success_at": "2026-10-18T20:31:22-03:00"
     },
     {
       "source_id": "machado",
@@ -183,8 +183,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.14,
-      "finished_at": "2026-10-18T20:24:35-03:00"
+      "duration_seconds": 1.15,
+      "finished_at": "2026-10-18T20:31:24-03:00"
     },
     {
       "source_id": "hasta",
@@ -200,18 +200,24 @@
         "Barra Velha": 3,
         "Rio do Sul": 17
       },
-      "duration_seconds": 11.7,
-      "finished_at": "2026-10-18T20:24:47-03:00",
-      "last_success_at": "2026-10-18T20:24:47-03:00"
+      "duration_seconds": 12.01,
+      "finished_at": "2026-10-18T20:31:36-03:00",
+      "last_success_at": "2026-10-18T20:31:36-03:00"
     }
   ],
+  "data_status": "unchanged",
+  "data_updated_at": "2026-10-18T20:24:47-03:00",
   "counts": {
-    "new_or_updated": 1,
+    "new_listings": 0,
+    "changed_listings": 0,
+    "new_or_updated": 0,
     "total_preserved": 202,
     "sources_succeeded": 4,
     "sources_partial": 0,
     "sources_failed": 7
   },
+  "new_property_ids": [],
+  "changed_property_ids": [],
   "errors": [
     {
       "source_id": "portalzuk",
