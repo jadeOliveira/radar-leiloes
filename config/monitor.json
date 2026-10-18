@@ -105,13 +105,13 @@
       "path_pattern": "/item/\\d+/detalhes"
     },
     {
-      "id": "leilao_imovel",
-      "name": "Leilão Imóvel (agregador)",
+      "id": "nucleo_leiloes",
+      "name": "Núcleo Leilões (agregador)",
       "enabled": true,
-      "adapter": "leilao_imovel",
-      "url": "https://www.leilaoimovel.com.br/leilao-de-imovel/{city_slug}?pag={page}",
-      "host": "www.leilaoimovel.com.br",
-      "path_pattern": "/imovel/sc/",
+      "adapter": "nucleo_leiloes",
+      "url": "https://nucleoleiloes.com.br/imoveis/cidade/{city_id}/{city_slug}",
+      "host": "nucleoleiloes.com.br",
+      "path_pattern": "/imoveis/publica/",
       "is_aggregator": true
     }
   ]
