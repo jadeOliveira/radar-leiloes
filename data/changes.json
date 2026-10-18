@@ -6794,6 +6794,27 @@
           "note": "Conferido na página e edital oficiais da Portal Zuk."
         }
       ]
+    },
+    {
+      "run_id": "901c4864-068b-4438-a59b-c9cd7000bd68",
+      "detected_at": "2026-10-18T20:24:47-03:00",
+      "changes": [
+        {
+          "property_id": "7df9fb45eb4411760fb1",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-18T20:24:47-03:00"
+        }
+      ]
     }
   ]
 }
