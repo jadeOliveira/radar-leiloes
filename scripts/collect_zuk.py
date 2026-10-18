@@ -30,6 +30,8 @@ def extract(page) -> list[dict]:
     except PlaywrightTimeoutError:
         pass
     page.wait_for_timeout(1500)
+    print(f"Fonte carregada: {page.url} | {page.title()}")
+    print(f"Links gerais de imóveis: {page.locator('a[href*="/imovel/"]').count()}")
     for _ in range(12):
         button = page.get_by_role("button", name=re.compile("carregar mais", re.I))
         if not button.count() or not button.first.is_visible():
