@@ -14,9 +14,18 @@ type Property = {
 };
 type Dataset = { updated_at?: string | null; cities?: string[]; priority?: { max_bid_brl?: number; min_discount_percent?: number }; sources?: Array<{ source_id: string; name: string; status: string; last_success_at?: string; error?: string }>; properties?: Property[] };
 const money = (value?: number | null) => value == null ? 'Não informado' : new Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL', maximumFractionDigits: 0 }).format(value);
-const date = (value?: string | null) => value ? new Date(value).toLocaleDateString('pt-BR', { timeZone: 'America/Sao_Paulo' }) : '—';
+const date = (value?: string | null) => {
+  if (!value) return '—';
+  const dateOnly = /^(\d{4})-(\d{2})-(\d{2})$/.exec(value);
+  const parsed = dateOnly ? new Date(Date.UTC(Number(dateOnly[1]), Number(dateOnly[2]) - 1, Number(dateOnly[3]), 12)) : new Date(value);
+  return parsed.toLocaleDateString('pt-BR', { timeZone: dateOnly ? 'UTC' : 'America/Sao_Paulo' });
+};
 const brazilToday = () => new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Sao_Paulo' }).format(new Date());
 const futureAuctionDate = (property: Property, today: string) => property.auction_events?.map((event) => event.date).filter((value): value is string => typeof value === 'string' && value >= today).sort()[0];
+const auctionEvent = (property: Property, today: string) => {
+  const events = [...(property.auction_events ?? [])].filter((event) => event.date).sort((left, right) => (left.date ?? '').localeCompare(right.date ?? ''));
+  return events.find((event) => (event.date ?? '') >= today) ?? events.at(-1);
+};
 const displayStatus = (property: Property, today: string) => property.status === 'unknown' && futureAuctionDate(property, today) ? 'scheduled_unverified' : property.status ?? 'unknown';
 
 function PropertyPhoto({ property }: { property: Property }) {
@@ -35,7 +44,7 @@ export default function App() {
   const [occupancy, setOccupancy] = useState('Todas');
   const [risk, setRisk] = useState('Todos');
   const [dateWindow, setDateWindow] = useState('Todas');
-  const [statusScope, setStatusScope] = useState('opportunities');
+  const [statusScope, setStatusScope] = useState('active');
   const [minPrice, setMinPrice] = useState('');
   const [maxPrice, setMaxPrice] = useState('');
   const [minDiscount, setMinDiscount] = useState('');
@@ -57,8 +66,9 @@ export default function App() {
     const matchesScope = (item: Property) => {
       const status = displayStatus(item, today);
       if (statusScope === 'all') return true;
-      if (statusScope === 'active') return status === 'active';
-      return status === 'active' || status === 'scheduled_unverified';
+      if (statusScope === 'all') return true;
+      if (statusScope === 'opportunities') return status === 'active' || status === 'scheduled_unverified';
+      return status === 'active';
     };
     const matches = properties.filter((item) => {
       const text = `${item.city} ${item.address ?? ''} ${item.neighborhood ?? ''} ${item.property_type ?? ''}`.toLocaleLowerCase('pt-BR');
@@ -80,13 +90,11 @@ export default function App() {
         && (category !== 'A' || activeCategory);
     });
     return matches.sort((left, right) => {
-      const rank = (item: Property) => {
-        const status = displayStatus(item, today);
-        return status === 'active' ? 0 : status === 'scheduled_unverified' ? 1 : 2;
-      };
-      const statusOrder = rank(left) - rank(right);
-      if (statusOrder) return statusOrder;
-      return (futureAuctionDate(left, today) ?? '9999-12-31').localeCompare(futureAuctionDate(right, today) ?? '9999-12-31');
+      const cityOrder = left.city.localeCompare(right.city, 'pt-BR');
+      if (cityOrder) return cityOrder;
+      const leftDate = auctionEvent(left, today)?.date ?? '9999-12-31';
+      const rightDate = auctionEvent(right, today)?.date ?? '9999-12-31';
+      return leftDate.localeCompare(rightDate) || left.id.localeCompare(right.id);
     });
   }, [properties, query, city, type, category, occupancy, risk, dateWindow, minPrice, maxPrice, minDiscount, statusScope]);
   const today = brazilToday();
@@ -106,7 +114,7 @@ export default function App() {
     <section className="list-section"><div className="section-heading"><div><div className="eyebrow"><span className="eyebrow-line" /> OPORTUNIDADES</div><h2>Imóveis em <em>destaque</em></h2></div><span className="result-count">{filtered.length} de {properties.length} imóveis</span></div>
       <div className="filters">
         <label className="search"><Search size={17} /><input aria-label="Buscar imóvel" placeholder="Buscar endereço ou bairro" value={query} onChange={(event) => setQuery(event.target.value)} /></label>
-        <label className="select-wrap"><select aria-label="Filtrar status do leilão" value={statusScope} onChange={(event) => setStatusScope(event.target.value)}><option value="opportunities">Ativos e próximos</option><option value="active">Somente com sinal de ativo</option><option value="all">Todos os anúncios</option></select></label>
+        <label className="select-wrap"><select aria-label="Filtrar status do leilão" value={statusScope} onChange={(event) => setStatusScope(event.target.value)}><option value="active">Somente ativos</option><option value="opportunities">Ativos e próximos</option><option value="all">Todos os anúncios</option></select></label>
         <label className="select-wrap"><SlidersHorizontal size={15} /><select aria-label="Filtrar cidade" value={city} onChange={(event) => setCity(event.target.value)}><option>Todas as cidades</option>{cities.map((item) => <option key={item}>{item}</option>)}</select></label>
         <label className="select-wrap"><Filter size={15} /><select aria-label="Filtrar tipo" value={type} onChange={(event) => setType(event.target.value)}><option>Todos os tipos</option>{types.map((item) => <option key={item}>{item}</option>)}</select></label>
         <label className="select-wrap"><select aria-label="Filtrar categoria" value={category} onChange={(event) => setCategory(event.target.value)}><option value="Todas">Categorias A/B</option><option value="A">A · Prioritária</option><option value="B">B · Demais</option></select></label>
@@ -119,13 +127,12 @@ export default function App() {
       </div>
       {filtered.length ? <div className="cards">{filtered.map((item) => {
         const priority = item.classification === 'A';
-        const nextDate = futureAuctionDate(item, today);
-        const nextEvent = item.auction_events?.find((event) => event.date === nextDate);
+        const nextEvent = auctionEvent(item, today);
         const currentStatus = displayStatus(item, today);
         const statusLabels: Record<string, string> = { active: item.validation_status === 'verified' ? 'ATIVO · OFICIAL' : 'ATIVO · CONFIRME NO PORTAL', scheduled_unverified: 'PRÓXIMO · CONFIRMAR', ended_unverified: 'DATA PASSADA · CONFIRMAR', closed: 'ENCERRADO', cancelled: 'CANCELADO', sold: 'VENDIDO', suspended: 'SUSPENSO', unknown: 'SITUAÇÃO DESCONHECIDA' };
         const listingUrl = item.official_url || item.source_listing_url;
         const linkLabel = item.official_url ? 'Anúncio oficial' : item.source_listing_url ? 'Ver anúncio · não verificado' : 'URL oficial não confirmada';
-        return <article className="property" key={item.id}><div className="property-top"><span className="property-type">{item.property_type || 'Imóvel'} <span>·</span> {item.city}/{item.state}</span><div className="property-badges">{priority && <span className="badge"><ArrowDownRight size={13} /> PRIORIDADE</span>}<span className={`status-badge status-${currentStatus}`}>{statusLabels[currentStatus] ?? 'SITUAÇÃO DESCONHECIDA'}</span></div></div><PropertyPhoto property={item} /><h3>{item.address || `${item.property_type || 'Imóvel'} em ${item.city}`}</h3><p className="address">{item.neighborhood || 'Bairro não informado'}{item.occupancy ? ` · ${item.occupancy}` : ' · Ocupação desconhecida'}</p><div className="property-metrics"><div><span>LANCE MÍNIMO ATUAL</span><strong>{money(item.current_minimum_bid_brl)}</strong></div><div><span>DESCONTO S/ AVALIAÇÃO</span><strong>{item.discount_on_appraisal_percent != null ? `${item.discount_on_appraisal_percent}%` : 'Não confirmado'} {item.discount_on_appraisal_percent != null && <ArrowDownRight size={14} />}</strong></div><div><span>ÁREA PRIVATIVA</span><strong>{item.area_privative_m2 ? `${item.area_privative_m2} m²` : '—'}</strong></div></div><div className="property-bottom"><span>{item.auctioneer || 'Leiloeiro não informado'}{nextEvent?.date ? ` · ${date(nextEvent.date)}` : ''} · Categoria {item.classification ?? 'B'}</span>{listingUrl ? <a href={listingUrl} target="_blank" rel="noreferrer">{linkLabel} <ArrowUpRight size={15} /></a> : <span>{linkLabel}</span>}</div></article>;
+        return <article className="property" key={item.id}><div className="property-top"><span className="property-type">{item.property_type || 'Imóvel'} <span>·</span> {item.city}/{item.state}</span><div className="property-badges">{priority && <span className="badge"><ArrowDownRight size={13} /> PRIORIDADE</span>}<span className={`status-badge status-${currentStatus}`}>{statusLabels[currentStatus] ?? 'SITUAÇÃO DESCONHECIDA'}</span></div></div><PropertyPhoto property={item} /><h3>{item.address || `${item.property_type || 'Imóvel'} em ${item.city}`}</h3><p className="address">{item.neighborhood || 'Bairro não informado'}{item.occupancy ? ` · ${item.occupancy}` : ' · Ocupação desconhecida'}</p><div className="auction-date"><span>DATA DO LEILÃO</span><strong>{nextEvent?.date ? date(nextEvent.date) : 'Não informada'}</strong>{nextEvent?.time && <small>{nextEvent.time}</small>}</div><div className="property-metrics"><div><span>LANCE MÍNIMO ATUAL</span><strong>{money(item.current_minimum_bid_brl)}</strong></div><div><span>DESCONTO S/ AVALIAÇÃO</span><strong>{item.discount_on_appraisal_percent != null ? `${item.discount_on_appraisal_percent}%` : 'Não confirmado'} {item.discount_on_appraisal_percent != null && <ArrowDownRight size={14} />}</strong></div><div><span>ÁREA PRIVATIVA</span><strong>{item.area_privative_m2 ? `${item.area_privative_m2} m²` : '—'}</strong></div></div><div className="property-bottom"><span>{item.auctioneer || 'Leiloeiro não informado'} · Categoria {item.classification ?? 'B'}</span>{listingUrl ? <a href={listingUrl} target="_blank" rel="noreferrer">{linkLabel} <ArrowUpRight size={15} /></a> : <span>{linkLabel}</span>}</div></article>;
       })}</div> : <div className="empty"><div className="empty-icon"><Search size={20} /></div><h3>{loading ? 'Buscando oportunidades…' : properties.length === 0 ? 'Ainda não há anúncios confirmados.' : 'Nenhum imóvel corresponde aos filtros.'}</h3><p>{properties.length === 0 ? 'O painel não inclui anúncios fictícios. Fontes bloqueadas ou indisponíveis aparecem no relatório da coleta.' : 'Ajuste os filtros para ver outros resultados.'}</p>{properties.length === 0 && <a href="https://www.portalzuk.com.br/leilao-de-imoveis/u/todos-imoveis/sc" target="_blank" rel="noreferrer">Consultar oportunidades oficiais <ExternalLink size={14} /></a>}</div>}
     </section>
     <footer><span>RADAR DE LEILÕES <span className="footer-sep">/</span> MONITOR</span><p>Dados de anúncios públicos. Confirme as informações no anúncio, edital e documentos oficiais antes de qualquer decisão.</p><span>Informação para análise, não parecer jurídico.</span></footer>
