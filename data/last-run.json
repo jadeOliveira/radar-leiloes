@@ -1,9 +1,9 @@
 {
-  "run_id": "331b3fdd-5582-47e7-8f03-f067517803c0",
+  "run_id": "02148636-f83c-48f4-a415-1a6e5557e0c7",
   "status": "partial",
-  "started_at": "2026-10-17T23:23:15-03:00",
-  "finished_at": "2026-10-17T23:24:02-03:00",
-  "duration_seconds": 47.57,
+  "started_at": "2026-10-17T23:26:06-03:00",
+  "finished_at": "2026-10-17T23:26:57-03:00",
+  "duration_seconds": 51.39,
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -27,8 +27,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.19,
-      "finished_at": "2026-10-17T23:23:17-03:00"
+      "duration_seconds": 1.22,
+      "finished_at": "2026-10-17T23:26:07-03:00"
     },
     {
       "source_id": "caixa",
@@ -44,8 +44,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 2.13,
-      "finished_at": "2026-10-17T23:23:19-03:00"
+      "duration_seconds": 2.04,
+      "finished_at": "2026-10-17T23:26:10-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -61,9 +61,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 5.57,
-      "finished_at": "2026-10-17T23:23:25-03:00",
-      "last_success_at": "2026-10-17T23:23:25-03:00"
+      "duration_seconds": 6.26,
+      "finished_at": "2026-10-17T23:26:16-03:00",
+      "last_success_at": "2026-10-17T23:26:16-03:00"
     },
     {
       "source_id": "superbid",
@@ -79,8 +79,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.1,
-      "finished_at": "2026-10-17T23:23:26-03:00"
+      "duration_seconds": 1.04,
+      "finished_at": "2026-10-17T23:26:17-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -96,8 +96,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.21,
-      "finished_at": "2026-10-17T23:23:27-03:00"
+      "duration_seconds": 1.28,
+      "finished_at": "2026-10-17T23:26:18-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -113,8 +113,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.18,
-      "finished_at": "2026-10-17T23:23:28-03:00"
+      "duration_seconds": 1.31,
+      "finished_at": "2026-10-17T23:26:20-03:00"
     },
     {
       "source_id": "freitas",
@@ -130,9 +130,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 14.28,
-      "finished_at": "2026-10-17T23:23:43-03:00",
-      "last_success_at": "2026-10-17T23:23:43-03:00"
+      "duration_seconds": 15.6,
+      "finished_at": "2026-10-17T23:26:35-03:00",
+      "last_success_at": "2026-10-17T23:26:35-03:00"
     },
     {
       "source_id": "comprei",
@@ -148,8 +148,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.91,
-      "finished_at": "2026-10-17T23:23:45-03:00"
+      "duration_seconds": 2.03,
+      "finished_at": "2026-10-17T23:26:37-03:00"
     },
     {
       "source_id": "sampaio",
@@ -165,9 +165,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 5.27,
-      "finished_at": "2026-10-17T23:23:50-03:00",
-      "last_success_at": "2026-10-17T23:23:50-03:00"
+      "duration_seconds": 5.83,
+      "finished_at": "2026-10-17T23:26:43-03:00",
+      "last_success_at": "2026-10-17T23:26:43-03:00"
     },
     {
       "source_id": "machado",
@@ -183,8 +183,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.21,
-      "finished_at": "2026-10-17T23:23:51-03:00"
+      "duration_seconds": 1.22,
+      "finished_at": "2026-10-17T23:26:44-03:00"
     },
     {
       "source_id": "hasta",
@@ -200,13 +200,13 @@
         "Barra Velha": 3,
         "Rio do Sul": 17
       },
-      "duration_seconds": 11.15,
-      "finished_at": "2026-10-17T23:24:02-03:00",
-      "last_success_at": "2026-10-17T23:24:02-03:00"
+      "duration_seconds": 12.54,
+      "finished_at": "2026-10-17T23:26:57-03:00",
+      "last_success_at": "2026-10-17T23:26:57-03:00"
     }
   ],
   "counts": {
-    "new_or_updated": 111,
+    "new_or_updated": 0,
     "total_preserved": 201,
     "sources_succeeded": 4,
     "sources_partial": 0,
