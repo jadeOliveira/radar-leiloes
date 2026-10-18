@@ -1,9 +1,9 @@
 {
-  "run_id": "ac5ae988-df19-4946-8a98-590edb3d94d6",
+  "run_id": "5b3b6c62-1572-4501-8996-badae29cc97f",
   "status": "partial",
-  "started_at": "2026-10-17T22:52:16-03:00",
-  "finished_at": "2026-10-17T22:52:51-03:00",
-  "duration_seconds": 35.33,
+  "started_at": "2026-10-17T22:55:57-03:00",
+  "finished_at": "2026-10-17T22:56:34-03:00",
+  "duration_seconds": 37.76,
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -27,8 +27,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.23,
-      "finished_at": "2026-10-17T22:52:18-03:00"
+      "duration_seconds": 1.53,
+      "finished_at": "2026-10-17T22:55:59-03:00"
     },
     {
       "source_id": "caixa",
@@ -44,8 +44,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 2.56,
-      "finished_at": "2026-10-17T22:52:20-03:00"
+      "duration_seconds": 2.0,
+      "finished_at": "2026-10-17T22:56:01-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -61,9 +61,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 6.11,
-      "finished_at": "2026-10-17T22:52:26-03:00",
-      "last_success_at": "2026-10-17T22:52:26-03:00"
+      "duration_seconds": 5.89,
+      "finished_at": "2026-10-17T22:56:07-03:00",
+      "last_success_at": "2026-10-17T22:56:07-03:00"
     },
     {
       "source_id": "superbid",
@@ -79,8 +79,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.09,
-      "finished_at": "2026-10-17T22:52:28-03:00"
+      "duration_seconds": 1.07,
+      "finished_at": "2026-10-17T22:56:08-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -96,8 +96,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.27,
-      "finished_at": "2026-10-17T22:52:29-03:00"
+      "duration_seconds": 1.24,
+      "finished_at": "2026-10-17T22:56:09-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -114,7 +114,7 @@
         "Rio do Sul": 0
       },
       "duration_seconds": 1.19,
-      "finished_at": "2026-10-17T22:52:30-03:00"
+      "finished_at": "2026-10-17T22:56:10-03:00"
     },
     {
       "source_id": "freitas",
@@ -130,9 +130,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 14.5,
-      "finished_at": "2026-10-17T22:52:45-03:00",
-      "last_success_at": "2026-10-17T22:52:45-03:00"
+      "duration_seconds": 15.41,
+      "finished_at": "2026-10-17T22:56:26-03:00",
+      "last_success_at": "2026-10-17T22:56:26-03:00"
     },
     {
       "source_id": "comprei",
@@ -148,25 +148,26 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 2.05,
-      "finished_at": "2026-10-17T22:52:47-03:00"
+      "duration_seconds": 1.88,
+      "finished_at": "2026-10-17T22:56:28-03:00"
     },
     {
       "source_id": "sampaio",
       "name": "Sampaio Leilões",
-      "status": "failed",
-      "pages_read": 0,
-      "listings_found": 0,
-      "error": "Página carregada, mas o formato dos resultados ainda não foi reconhecido.",
+      "status": "success",
+      "pages_read": 1,
+      "listings_found": 1,
+      "error": null,
       "listings_by_city": {
-        "Joinville": 0,
+        "Joinville": 1,
         "Balneário Camboriú": 0,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 3.2,
-      "finished_at": "2026-10-17T22:52:50-03:00"
+      "duration_seconds": 5.6,
+      "finished_at": "2026-10-17T22:56:33-03:00",
+      "last_success_at": "2026-10-17T22:56:33-03:00"
     },
     {
       "source_id": "machado",
@@ -182,16 +183,16 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.21,
-      "finished_at": "2026-10-17T22:52:51-03:00"
+      "duration_seconds": 1.18,
+      "finished_at": "2026-10-17T22:56:34-03:00"
     }
   ],
   "counts": {
-    "new_or_updated": 0,
-    "total_preserved": 2,
-    "sources_succeeded": 2,
+    "new_or_updated": 1,
+    "total_preserved": 3,
+    "sources_succeeded": 3,
     "sources_partial": 0,
-    "sources_failed": 8
+    "sources_failed": 7
   },
   "errors": [
     {
@@ -216,10 +217,6 @@
     },
     {
       "source_id": "comprei",
-      "message": "Página carregada, mas o formato dos resultados ainda não foi reconhecido."
-    },
-    {
-      "source_id": "sampaio",
       "message": "Página carregada, mas o formato dos resultados ainda não foi reconhecido."
     },
     {

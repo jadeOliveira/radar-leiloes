@@ -103,6 +103,27 @@
       "run_id": "ac5ae988-df19-4946-8a98-590edb3d94d6",
       "detected_at": "2026-10-17T22:52:51-03:00",
       "changes": []
+    },
+    {
+      "run_id": "5b3b6c62-1572-4501-8996-badae29cc97f",
+      "detected_at": "2026-10-17T22:56:34-03:00",
+      "changes": [
+        {
+          "property_id": "dc7c2e6eb7314d89133b",
+          "city": "Joinville",
+          "source_ids": [
+            "sampaio"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-17T22:56:34-03:00"
+        }
+      ]
     }
   ]
 }

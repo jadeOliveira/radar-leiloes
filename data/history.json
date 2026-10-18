@@ -59,6 +59,21 @@
         }
       ],
       "detected_at": "2026-10-17T22:18:12-03:00"
+    },
+    {
+      "property_id": "dc7c2e6eb7314d89133b",
+      "city": "Joinville",
+      "source_ids": [
+        "sampaio"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-17T22:56:34-03:00"
     }
   ]
 }
