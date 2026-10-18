@@ -40,6 +40,11 @@ class SiteAdapter:
     def link_matches(self, href: str) -> bool:
         return bool(re.search(self.config["path_pattern"], urlparse(href).path, re.I))
 
+    def host_matches(self, href: str) -> bool:
+        actual = (urlparse(href).hostname or "").casefold().removeprefix("www.")
+        expected = self.config["host"].casefold().removeprefix("www.")
+        return actual == expected
+
     def _open(self, page, url: str) -> None:
         last_error = None
         for attempt in range(2):
@@ -83,7 +88,7 @@ class SiteAdapter:
         }""", {"pattern": pattern, "cities": cities})
         unique: dict[str, dict[str, str]] = {}
         for card in cards:
-            if self.link_matches(card["href"]) and urlparse(card["href"]).hostname == self.config["host"]:
+            if self.link_matches(card["href"]) and self.host_matches(card["href"]):
                 unique.setdefault(card["href"].split("#")[0], card)
         return list(unique.values())
 
@@ -158,13 +163,12 @@ class SiteAdapter:
                         detail_links = page.locator("a[href]").evaluate_all("""links => links.map(a => ({url:a.href, text:(a.innerText || a.textContent || '').trim()})).filter(x => /edital|matr[ií]cula|documento|\\.pdf(\\?|$)/i.test(x.text + ' ' + x.url))""")
                         detail_images = page.evaluate("""() => {
                           const urls = [...document.images].flatMap(image => {
-                            const rect = image.getBoundingClientRect();
                             const width = image.naturalWidth;
                             const height = image.naturalHeight;
                             const source = image.currentSrc || image.dataset.src || image.dataset.original || image.getAttribute('src');
                             if (!source || width < 240 || height < 150) return [];
                             const url = new URL(source, location.href);
-                            if (!['http:', 'https:'].includes(url.protocol) || /\.(svg|gif)(?:$|\?)/i.test(url.pathname)) return [];
+                            if (!['http:', 'https:'].includes(url.protocol) || /\\.(svg|gif)(?:$|\\?)/i.test(url.pathname)) return [];
                             if (/logo|icon|avatar|banner|pixel|tracking/i.test(`${url.pathname} ${image.alt || ''}`)) return [];
                             return [url.href];
                           });
@@ -173,6 +177,8 @@ class SiteAdapter:
                     except (SourceUnavailable, PlaywrightError) as exception:
                         detail_error = detail_error or str(exception)
                     item = parse_item(self.config, card["href"], combined, self.cities, captured_at)
+                    if item and self.config.get("require_property_type") and item.get("property_type") not in {"Casa", "Apartamento", "Terreno", "Lote", "Lote Urbano"}:
+                        item = None
                     if item:
                         item["document_urls"] = list(dict.fromkeys(link["url"] for link in detail_links))
                         item["image_urls"] = detail_images

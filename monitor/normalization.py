@@ -5,6 +5,7 @@ import re
 import unicodedata
 from datetime import datetime
 from typing import Any
+from urllib.parse import urlparse
 
 
 def fold(value: str) -> str:
@@ -108,7 +109,9 @@ def parse_item(source: dict[str, Any], href: str, text: str, cities: list[str], 
     normalized_address = fold(street or "")
     identity_basis = f"matricula:{registry}" if registry else f"address:{fold(city)}:{normalized_address}" if normalized_address else f"source:{source['id']}:{id_match or href}"
     stable_id = hashlib.sha256(identity_basis.encode()).hexdigest()[:20]
-    official = href.startswith("https://") and source["host"] in href
+    actual_host = (urlparse(href).hostname or "").casefold().removeprefix("www.")
+    expected_host = source["host"].casefold().removeprefix("www.")
+    official = href.startswith("https://") and actual_host == expected_host
     fields = ["city", "property_type", "appraisal_value_brl", "first_minimum_bid_brl", "second_minimum_bid_brl", "current_minimum_bid_brl", "occupancy", "registry_number", "auction_events"]
     populated = {"city": "declared"}
     for field, value in (("property_type", property_type), ("appraisal_value_brl", appraisal), ("first_minimum_bid_brl", bids["first"]), ("second_minimum_bid_brl", bids["second"]), ("current_minimum_bid_brl", current), ("occupancy", occupied), ("registry_number", registry), ("auction_events", events)):
