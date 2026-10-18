@@ -31,6 +31,8 @@ def extract(page) -> list[dict]:
         pass
     page.wait_for_timeout(1500)
     print(f"Fonte carregada: {page.url} | {page.title()}")
+    if "attention required" in page.title().casefold() or "cloudflare" in page.title().casefold():
+        raise RuntimeError("Portal Zuk bloqueou o runner (Cloudflare); dados anteriores foram preservados.")
     print(f"Links gerais de imóveis: {page.locator('a[href*="/imovel/"]').count()}")
     for _ in range(12):
         button = page.get_by_role("button", name=re.compile("carregar mais", re.I))
