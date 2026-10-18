@@ -4,7 +4,8 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: '20 11 * * *' # publica os dados cerca de 20 min após a coleta
+    - cron: '20 8 * * *'
+      timezone: America/Sao_Paulo
   workflow_dispatch:
 
 permissions:
@@ -29,7 +30,11 @@ jobs:
       - name: Instalar dependências
         run: npm ci
       - name: Compilar painel
-        run: npm run build
+        run: |
+          mkdir -p public/data
+          cp data/properties.json public/data/properties.json
+          cp data/last-run.json public/data/last-run.json
+          npm run build
       - name: Configurar GitHub Pages
         uses: actions/configure-pages@v5
         with:

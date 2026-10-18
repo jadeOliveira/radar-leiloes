@@ -2,7 +2,8 @@ name: Coleta diária de leilões
 
 on:
   schedule:
-    - cron: '0 11 * * *' # 08:00 em Brasília (UTC-3)
+    - cron: '0 8 * * *'
+      timezone: America/Sao_Paulo
   workflow_dispatch:
 
 permissions:
@@ -15,6 +16,7 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
+    timeout-minutes: 120
     steps:
       - name: Baixar repositório
         uses: actions/checkout@v4
@@ -28,15 +30,17 @@ jobs:
           python -m pip install -r requirements.txt
           python -m playwright install --with-deps chromium
       - name: Coletar anúncios públicos
-        run: python scripts/collect_zuk.py
+        id: collect
+        run: python -m monitor.run
       - name: Registrar atualização dos dados
+        if: always()
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add public/data/auctions.json
+          git add data/properties.json data/history.json data/changes.json data/last-run.json
           if git diff --cached --quiet; then
             echo 'Sem alterações nos dados coletados.'
           else
-            git commit -m 'data: refresh auction listings'
+            git commit -m 'data: update auction monitor records'
             git push
           fi
