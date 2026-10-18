@@ -66,7 +66,6 @@ export default function App() {
     const matchesScope = (item: Property) => {
       const status = displayStatus(item, today);
       if (statusScope === 'all') return true;
-      if (statusScope === 'all') return true;
       if (statusScope === 'opportunities') return status === 'active' || status === 'scheduled_unverified';
       return status === 'active';
     };
