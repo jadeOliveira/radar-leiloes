@@ -74,7 +74,8 @@
       "adapter": "zampieri",
       "url": "https://www.zampierileiloeiro.com.br/",
       "host": "www.zampierileiloeiro.com.br",
-      "path_pattern": "/pregao/"
+      "path_pattern": "/pregao/",
+      "require_property_type": true
     },
     {
       "id": "seu_imovel_bb",
