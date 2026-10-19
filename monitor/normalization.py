@@ -98,8 +98,10 @@ def parse_item(source: dict[str, Any], href: str, text: str, cities: list[str], 
     # summary. Keep market amounts and dates tied to the listing header.
     market_text = text[:2000]
 
-    type_match = re.search(r"\b(casa|apartamento|terreno|lote(?:\s+urbano)?|sala\s+comercial|im[oó]vel\s+comercial)\b", market_text, re.I)
+    type_match = re.search(r"\b(casa|apartamento|terreno|lote\s+(?:urbano|rural|de\s+terreno|de\s+terras)|galp[aã]o(?:\s+industrial)?)\b", market_text, re.I)
     property_type = type_match.group(1).title() if type_match else None
+    if property_type and fold(property_type).startswith("galpao"):
+        property_type = "Galpão"
     # Parse only labels that state what the value means; never infer appraisal from a bid.
     # Require the currency value immediately after the appraisal label. A broad
     # search can cross unrelated card text and mistake a later price for appraisal.

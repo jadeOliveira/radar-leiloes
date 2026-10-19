@@ -32,6 +32,10 @@ const auctionEvent = (property: Property, today: string) => {
   return events.find((event) => (event.date ?? '') >= today) ?? events.at(-1);
 };
 const displayStatus = (property: Property, today: string) => property.status === 'unknown' && futureAuctionDate(property, today) ? 'scheduled_unverified' : property.status ?? 'unknown';
+const isRealEstate = (property: Property) => {
+  const type = (property.property_type ?? '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLocaleLowerCase('pt-BR').trim();
+  return ['casa', 'apartamento', 'terreno', 'lote', 'lote urbano', 'galpao', 'galpao industrial'].includes(type);
+};
 
 function PropertyPhoto({ property }: { property: Property }) {
   const [failed, setFailed] = useState(false);
@@ -64,7 +68,8 @@ export default function App() {
       .finally(() => setLoading(false));
   }, []);
 
-  const properties = data.properties ?? [];
+  // Hide legacy vehicle/movable-goods records without deleting stored history.
+  const properties = (data.properties ?? []).filter(isRealEstate);
   const cities = data.cities?.length ? data.cities : [...new Set(properties.map((item) => item.city).filter(Boolean))].sort();
   const types = [...new Set(properties.map((item) => item.property_type).filter(Boolean))].sort() as string[];
   const filtered = useMemo(() => {

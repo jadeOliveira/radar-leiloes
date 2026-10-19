@@ -191,7 +191,13 @@ class SiteAdapter:
                         except (SourceUnavailable, PlaywrightError) as exception:
                             detail_error = detail_error or str(exception)
                     item = parse_item(self.config, card["href"], combined, self.cities, captured_at)
-                    if item and self.config.get("require_property_type") and item.get("property_type") not in {"Casa", "Apartamento", "Terreno", "Lote", "Lote Urbano"}:
+                    # Mixed auction portals also list cars, machines and other movable goods.
+                    # Keep discovery broad, then publish only explicitly recognized real estate.
+                    non_property_signal = bool(re.search(
+                        r"\b(?:autom[oó]vel|ve[ií]culo|carro|motocicleta|moto|caminh[aã]o|trator|embarca[cç][aã]o|sucata|maquin[aá]rio)\b",
+                        combined[:2000], re.I,
+                    ))
+                    if item and (non_property_signal or item.get("property_type") not in {"Casa", "Apartamento", "Terreno", "Lote Urbano", "Lote Rural", "Lote De Terreno", "Lote De Terras", "Galpão"}):
                         item = None
                     if item:
                         item["image_urls"] = detail_images
