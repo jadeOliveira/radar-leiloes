@@ -1,9 +1,9 @@
 {
-  "run_id": "417e1cc8-0285-46ad-baf4-ce8782a57443",
+  "run_id": "91620980-96c9-4da3-a7ca-2c05a359dd57",
   "status": "partial",
-  "started_at": "2026-10-19T10:17:43-03:00",
-  "finished_at": "2026-10-19T10:18:38-03:00",
-  "duration_seconds": 54.31,
+  "started_at": "2026-10-19T10:30:38-03:00",
+  "finished_at": "2026-10-19T10:31:35-03:00",
+  "duration_seconds": 56.35,
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -27,8 +27,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.35,
-      "finished_at": "2026-10-19T10:17:45-03:00"
+      "duration_seconds": 1.27,
+      "finished_at": "2026-10-19T10:30:41-03:00"
     },
     {
       "source_id": "caixa",
@@ -44,8 +44,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 2.08,
-      "finished_at": "2026-10-19T10:17:47-03:00"
+      "duration_seconds": 1.92,
+      "finished_at": "2026-10-19T10:30:43-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -61,9 +61,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 7.15,
-      "finished_at": "2026-10-19T10:17:54-03:00",
-      "last_success_at": "2026-10-19T10:17:54-03:00"
+      "duration_seconds": 7.19,
+      "finished_at": "2026-10-19T10:30:50-03:00",
+      "last_success_at": "2026-10-19T10:30:50-03:00"
     },
     {
       "source_id": "superbid",
@@ -79,8 +79,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.06,
-      "finished_at": "2026-10-19T10:17:55-03:00"
+      "duration_seconds": 1.09,
+      "finished_at": "2026-10-19T10:30:51-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -96,8 +96,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.22,
-      "finished_at": "2026-10-19T10:17:57-03:00"
+      "duration_seconds": 1.26,
+      "finished_at": "2026-10-19T10:30:52-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -114,7 +114,7 @@
         "Rio do Sul": 0
       },
       "duration_seconds": 1.19,
-      "finished_at": "2026-10-19T10:17:58-03:00"
+      "finished_at": "2026-10-19T10:30:53-03:00"
     },
     {
       "source_id": "freitas",
@@ -130,9 +130,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 16.16,
-      "finished_at": "2026-10-19T10:18:14-03:00",
-      "last_success_at": "2026-10-19T10:18:14-03:00"
+      "duration_seconds": 18.03,
+      "finished_at": "2026-10-19T10:31:11-03:00",
+      "last_success_at": "2026-10-19T10:31:11-03:00"
     },
     {
       "source_id": "comprei",
@@ -148,8 +148,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 2.0,
-      "finished_at": "2026-10-19T10:18:17-03:00"
+      "duration_seconds": 1.92,
+      "finished_at": "2026-10-19T10:31:13-03:00"
     },
     {
       "source_id": "sampaio",
@@ -165,9 +165,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 5.81,
-      "finished_at": "2026-10-19T10:18:22-03:00",
-      "last_success_at": "2026-10-19T10:18:22-03:00"
+      "duration_seconds": 5.75,
+      "finished_at": "2026-10-19T10:31:19-03:00",
+      "last_success_at": "2026-10-19T10:31:19-03:00"
     },
     {
       "source_id": "machado",
@@ -183,8 +183,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.24,
-      "finished_at": "2026-10-19T10:18:24-03:00"
+      "duration_seconds": 1.23,
+      "finished_at": "2026-10-19T10:31:20-03:00"
     },
     {
       "source_id": "hasta",
@@ -200,33 +200,182 @@
         "Barra Velha": 3,
         "Rio do Sul": 17
       },
-      "duration_seconds": 13.91,
-      "finished_at": "2026-10-19T10:18:38-03:00",
-      "last_success_at": "2026-10-19T10:18:38-03:00"
+      "duration_seconds": 14.0,
+      "finished_at": "2026-10-19T10:31:35-03:00",
+      "last_success_at": "2026-10-19T10:31:35-03:00"
     }
   ],
   "data_status": "updated",
-  "data_updated_at": "2026-10-19T10:18:38-03:00",
+  "data_updated_at": "2026-10-19T10:31:35-03:00",
   "counts": {
-    "new_listings": 5,
-    "changed_listings": 3,
-    "new_or_updated": 8,
+    "new_listings": 0,
+    "changed_listings": 158,
+    "new_or_updated": 158,
     "total_preserved": 207,
     "sources_succeeded": 4,
     "sources_partial": 0,
     "sources_failed": 7
   },
-  "new_property_ids": [
-    "1556d3485addc60e3398",
-    "314db08f260a3c4192a9",
-    "568e1ff77e60d2679a24",
-    "68b3a7b7a7c3adf840e5",
-    "9bde10dcaec9559687ad"
-  ],
+  "new_property_ids": [],
   "changed_property_ids": [
+    "0025d7addfa110458918",
+    "004cff21779dc54649de",
+    "0467a20555cfcec2fe46",
+    "04fed9d77ac896fb3d80",
+    "07e6be5f6dbbfef13cbb",
+    "0ad6519068704c438998",
     "0fc466da0d41eebd3fab",
+    "11fa0857703630b13ba6",
+    "148da9b4c7a4a4dc4dcb",
+    "150e33a012603589032c",
+    "1556d3485addc60e3398",
+    "156322f6af67613a79b8",
     "18b39785d4392fa30f5f",
-    "dbd539c4482fa925a12a"
+    "19092d4a649668cf9012",
+    "1a20be5f779cf5f4409a",
+    "1ade8e46f20e49701722",
+    "1d8772fdbe1c70e5b04e",
+    "1f4300803ee2cdc58b46",
+    "20086256b8ce71ad91f1",
+    "208e5cb631fadc27dcaa",
+    "20fd0b9b6356ec174d81",
+    "20fe234890ec51c87edd",
+    "22e06b6796a1938be66f",
+    "23fa965ece4277305e11",
+    "270a93f7bc136faf7572",
+    "28f1e0ceda6d3f706553",
+    "2acf6c9bce6388b1296c",
+    "2c1a34723877e103d57a",
+    "2c49574df3bab9a5ccae",
+    "2db2dbfd4dc16749882e",
+    "314db08f260a3c4192a9",
+    "330d54fc71cdc7a6476e",
+    "36c68b362c00de16f369",
+    "36dcfaa54f2f10dc7d7f",
+    "3714117092feb852b763",
+    "399fcaf0c964cd9d6bd7",
+    "3cef7fc45e954d5fe069",
+    "3d703895dc274004f79f",
+    "3e170fc3d51f4d7b1b60",
+    "3e7c546840f530b417dc",
+    "400f8aa70434acb93bf9",
+    "41923e816374a11c1686",
+    "43b2c273ed2e2464aace",
+    "47324d0881e47a4fce40",
+    "47963d3af68a948dd0d3",
+    "47bfd0b4b2820f41330b",
+    "4869eb031114b1d0ba59",
+    "488ef164eee3de4ca1ce",
+    "49905dad427eb62e1d34",
+    "4a2e2e5abc53df2b0b68",
+    "4c7276b76bcea57a760b",
+    "4ead49556c3ed2e8a9f2",
+    "4fce775e168123626657",
+    "50a18739351cdd90ae96",
+    "52adcbdce81e1039f400",
+    "53ebef2c2ec3286d25da",
+    "54876b50bf5ea584a6dc",
+    "55e7b94db4e79aba95b3",
+    "568e1ff77e60d2679a24",
+    "57d84a932dfcc54f6ad2",
+    "5967008dc9c0d0d290e7",
+    "5b8f8c01a9dcdd95d58c",
+    "5be0ed88edba94809d8c",
+    "5f945cd668932337ba71",
+    "602eeaa9278501805877",
+    "60739d34f368032b17c7",
+    "615afa871d57c63828f0",
+    "61de78297ab780ec9fc4",
+    "62f226bd6935bed8ef35",
+    "634946a661cc12762b48",
+    "68b3a7b7a7c3adf840e5",
+    "6a1c2b5efd660362bb34",
+    "6b9e57794b1ba20e2e9b",
+    "6b9ee1df97d6dc66be3d",
+    "6bcf0295ba37ddf2d809",
+    "6e7bb0413fbe6d7cd121",
+    "751444c2714c343b1064",
+    "7592ab19267bfb35d0cb",
+    "75b5fbf450a8aca50887",
+    "77bc06edfe395ecb268b",
+    "77c7d2b58a2ac581655c",
+    "78b18e108f5c62b21ab3",
+    "790e340d3d32c038af02",
+    "7df9fb45eb4411760fb1",
+    "7f1836fe15d8b455b718",
+    "7f5aba9095ff73a4a4f3",
+    "806b3dcc57bd44aecdfc",
+    "80dc8c82250e1a10d2ef",
+    "81f30b402316acc37ba4",
+    "8254ac4ba8d517c3a39f",
+    "842d9becd96a946a8f75",
+    "865d5d703be0729da6fa",
+    "87bff8889472116c9401",
+    "8e2dc035b98bb213565b",
+    "9245947d3e75607bb019",
+    "93061cfac5b8bddc51d2",
+    "939f69693a255d11742d",
+    "94dfd11010dbccbc09c7",
+    "95ec06eae7e81289b74e",
+    "96f9b57c16f1159141bc",
+    "97704f8a04c77d4e4cfb",
+    "985f2b707643dc9e922e",
+    "98639ecb617696bfc554",
+    "9bde10dcaec9559687ad",
+    "9e9adf7601901bcd97c8",
+    "9f59bed005d86dfa5bba",
+    "a45a21ae9768cdbf1db8",
+    "a9218d3503939d4de8a3",
+    "aa0e2eeda84cb785589d",
+    "abfeceecbc36b9d2b691",
+    "ac46260a040dfbc20e7b",
+    "ad2bf2d6c5e30dce8715",
+    "add6cca33993c891122b",
+    "af77573d850dc952d3b9",
+    "b1d8d7c9b25bc6ca9a00",
+    "b4a0df5b2a4e2536be8d",
+    "b4ead90a050179a23196",
+    "b742ee7238cba76f4544",
+    "b79898cf34e4838c3449",
+    "b880767e91a5af233522",
+    "b8a5be2a704498ed207c",
+    "bc1078fcfc1296bf5ded",
+    "bc11428240adb22000d2",
+    "bf519bb2409f6af2897e",
+    "c295f3ec9fadf920d8dd",
+    "c49492fc6b8a4798204e",
+    "c7d3a89ff43caa55ffe5",
+    "c8088d2985cd807f7bec",
+    "cb4ae04d1ecc19903bb3",
+    "d10edaaa8ef7265db0aa",
+    "d19e9babe68a5fa2c479",
+    "d25ba90f13d453aa64fe",
+    "d3344a31675898a6feaf",
+    "d377429f3f1d961dc221",
+    "dbd539c4482fa925a12a",
+    "dc7c2e6eb7314d89133b",
+    "dce6ecc1a29ec8363d67",
+    "de13120571b88c7b541d",
+    "de2c997a7701b7b5a453",
+    "e334403a5e8128a66bbd",
+    "e98e0977d4e843841950",
+    "ea819b5e1f79d17cb78c",
+    "eaf55559b0be298a4827",
+    "eb79c4020ab8161c6a5a",
+    "ef38e9ba92625ff77d98",
+    "f247a7b1f8923f0e2785",
+    "f2a088071fd21ee8f010",
+    "f455cfd98d008b452b0e",
+    "f4e1c13a5ed19c4f3fc5",
+    "f5d481e440ddbf5c0aaf",
+    "f734f7324b37784f6b99",
+    "f746f542ac6c9f5afeff",
+    "f91e9602ae3758705407",
+    "f973e25b6daf730a764b",
+    "fb92334b71ba59283573",
+    "fe53f2e2adc1e7ab726a",
+    "fedc1e7a898c7b810295",
+    "ff61811de521a83d8a2c"
   ],
   "errors": [
     {
