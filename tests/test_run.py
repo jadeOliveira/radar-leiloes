@@ -4,6 +4,24 @@ from monitor.run import merge_property
 
 
 class MergePropertyTests(unittest.TestCase):
+    def test_empty_refresh_does_not_erase_previous_values_or_images(self):
+        old = {
+            "id": "item", "source_ids": ["hasta"], "city": "Joinville", "state": "SC",
+            "current_minimum_bid_brl": 150000.0, "source_listing_price_brl": 150000.0,
+            "image_urls": ["https://example.com/listing.jpg"],
+        }
+        refresh = {
+            "id": "item", "source_ids": ["hasta"], "city": "Joinville", "state": "SC",
+            "current_minimum_bid_brl": None, "source_listing_price_brl": None,
+            "image_urls": [],
+        }
+
+        merged, _ = merge_property(old, refresh)
+
+        self.assertEqual(merged["current_minimum_bid_brl"], 150000.0)
+        self.assertEqual(merged["source_listing_price_brl"], 150000.0)
+        self.assertEqual(merged["image_urls"], ["https://example.com/listing.jpg"])
+
     def test_verified_active_listing_survives_unverified_aggregator_refresh(self):
         official_url = "https://www.portalzuk.com.br/imovel/sc/rio-do-sul/centro/avenida-oscar-barcelos-1977/37735-236051"
         old = {

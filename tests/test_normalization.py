@@ -1,6 +1,6 @@
 import unittest
 
-from monitor.normalization import fold, identity_keys, money, parse_item
+from monitor.normalization import fold, has_card_details, identity_keys, money, parse_item
 
 
 SOURCE = {
@@ -13,6 +13,25 @@ class NormalizationTests(unittest.TestCase):
     def test_normalizes_city_accents_and_currency(self):
         self.assertEqual(fold("Balneário Piçarras"), "balneario picarras")
         self.assertEqual(money("R$ 1.234.567,89"), 1234567.89)
+
+    def test_keeps_unlabeled_listing_price_separate_from_bid_and_appraisal(self):
+        item = parse_item(SOURCE, "https://leiloes.example.br/imovel/listed", "Casa Res são roque 📍 Joinville, SC R$ 475.000,00", CITIES, "2026-10-17T08:00:00-03:00")
+        self.assertEqual(item["source_listing_price_brl"], 475000.0)
+        self.assertIsNone(item["current_minimum_bid_brl"])
+        self.assertIsNone(item["appraisal_value_brl"])
+        self.assertIsNone(item["discount_on_appraisal_percent"])
+
+    def test_does_not_cross_match_appraisal_and_parses_explicit_bid_without_cents(self):
+        text = "Imóvel comercial Leilão · 08/12 − 50 % sobre a avaliação Loja · Joinville/SC Loja Lance mínimo R$ 150.000 avaliação d 📍 Joinville, SC R$ 150,00"
+        item = parse_item(SOURCE, "https://leiloes.example.br/imovel/store", text, CITIES, "2026-10-17T08:00:00-03:00")
+        self.assertEqual(item["current_minimum_bid_brl"], 150000.0)
+        self.assertEqual(item["source_listing_price_brl"], 150000.0)
+        self.assertIsNone(item["appraisal_value_brl"])
+        self.assertEqual(item["discount_on_appraisal_percent"], 50.0)
+
+    def test_card_validation_requires_a_listing_fact(self):
+        self.assertFalse(has_card_details({"city": "Joinville", "status": "unknown"}))
+        self.assertTrue(has_card_details({"city": "Joinville", "source_listing_price_brl": 475000.0}))
 
     def test_does_not_infer_appraisal_or_discount_from_two_auction_bids(self):
         text = "Casa em Joinville/SC. 1º leilão R$ 500.000,00 02/12/2026 às 10:00. 2º leilão R$ 350.000,00 09/12/2026 às 10:00. Aberto para lances."

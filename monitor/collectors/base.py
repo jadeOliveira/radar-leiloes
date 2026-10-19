@@ -10,7 +10,7 @@ from zoneinfo import ZoneInfo
 
 from playwright.sync_api import Error as PlaywrightError, TimeoutError as PlaywrightTimeoutError
 
-from ..normalization import fold, parse_item
+from ..normalization import fold, has_card_details, parse_item
 
 
 class SourceUnavailable(RuntimeError):
@@ -79,8 +79,15 @@ class SiteAdapter:
               const candidate = (node.innerText || '').replace(/\\s+/g, ' ').trim();
               if (candidate.length > 40 && candidate.length < 2500 && locality.test(candidate) && /R\\$|lance|proposta|venda/i.test(candidate)) {
                 text = candidate;
-                const picture = [...node.querySelectorAll('img')].find(img => (img.currentSrc || img.dataset.src || img.getAttribute('src')) && img.naturalWidth >= 120 && img.naturalHeight >= 90);
-                image = picture ? (picture.currentSrc || picture.dataset.src || picture.getAttribute('src')) : null;
+              const picture = [...node.querySelectorAll('img')].map(img => {
+                const srcset = img.getAttribute('srcset') || img.dataset.srcset || '';
+                const source = img.currentSrc || img.dataset.src || img.dataset.lazySrc || img.dataset.original || img.getAttribute('data-original-src') || srcset.split(',')[0]?.trim().split(/\\s+/)[0] || img.getAttribute('src');
+                if (!source || /^(?:data:|blob:)/i.test(source)) return null;
+                if (img.complete && img.naturalWidth > 0 && (img.naturalWidth < 120 || img.naturalHeight < 90)) return null;
+                if (/logo|icon|avatar|banner|pixel|tracking|placeholder/i.test(`${source} ${img.alt || ''}`)) return null;
+                return source;
+              }).find(Boolean);
+                image = picture || null;
                 break;
               }
             }
@@ -128,6 +135,7 @@ class SiteAdapter:
         pages_ok = 0
         error = None
         detail_error = None
+        discarded_empty_cards = 0
         dynamic_next_url = None
         for page_number in range(1, self.max_pages + 1):
             url = self.page_url(page_number) if "{page}" in self.config["url"] or page_number == 1 else dynamic_next_url
@@ -186,6 +194,10 @@ class SiteAdapter:
                     if item and self.config.get("require_property_type") and item.get("property_type") not in {"Casa", "Apartamento", "Terreno", "Lote", "Lote Urbano"}:
                         item = None
                     if item:
+                        item["image_urls"] = detail_images
+                        if not has_card_details(item):
+                            discarded_empty_cards += 1
+                            continue
                         item["document_urls"] = list(dict.fromkeys(link["url"] for link in detail_links))
                         item["image_urls"] = detail_images
                         item["edital_url"] = next((link["url"] for link in detail_links if "edital" in link["text"].casefold()), None)
@@ -208,6 +220,9 @@ class SiteAdapter:
             error = f"Limite de {self.max_pages} páginas alcançado; a fonte pode ter mais resultados."
         if detail_error and not error:
             error = f"Alguns anúncios não puderam ser abertos: {detail_error}"
+        if discarded_empty_cards:
+            message = f"{discarded_empty_cards} anúncios descartados por não conterem dados suficientes para um card."
+            error = f"{error}; {message}" if error else message
         status = "success" if not error else ("partial" if pages_ok else "failed")
         summary = {
             "source_id": self.config["id"], "name": self.config["name"], "status": status,

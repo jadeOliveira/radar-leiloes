@@ -42,9 +42,21 @@ def money(value: str | None) -> float | None:
         return None
 
 
+CURRENCY_AMOUNT = r"R\$\s*(?:(?:\d{1,3}(?:\.\d{3})+)|\d+)(?:,\d{2})?"
+
+
 def first(pattern: str, text: str, flags: int = re.I) -> str | None:
     match = re.search(pattern, text, flags)
     return match.group(1).strip() if match else None
+
+
+def has_card_details(item: dict[str, Any]) -> bool:
+    """Require at least one listing fact beyond city/status before publishing a card."""
+    return any((
+        item.get("property_type"), item.get("address"), item.get("source_listing_price_brl"),
+        item.get("current_minimum_bid_brl"), item.get("appraisal_value_brl"),
+        item.get("auction_events"), item.get("image_urls"),
+    ))
 
 
 STATE_CODES = "AC AL AP AM BA CE DF ES GO MA MT MS MG PA PB PR PE PI RJ RN RS RO RR SC SP SE TO".split()
@@ -76,10 +88,12 @@ def parse_item(source: dict[str, Any], href: str, text: str, cities: list[str], 
     type_match = re.search(r"\b(casa|apartamento|terreno|lote(?:\s+urbano)?|sala\s+comercial|im[oó]vel\s+comercial)\b", market_text, re.I)
     property_type = type_match.group(1).title() if type_match else None
     # Parse only labels that state what the value means; never infer appraisal from a bid.
-    appraisal = money(first(r"(?:avalia[cç][aã]o|valor\s+de\s+avalia[cç][aã]o)\D{0,24}(R\$\s*[\d.]+,\d{2})", text[:8000]) or "")
+    # Require the currency value immediately after the appraisal label. A broad
+    # search can cross unrelated card text and mistake a later price for appraisal.
+    appraisal = money(first(r"(?:valor\s+de\s+)?avalia[cç][aã]o\s*(?:do\s+im[oó]vel\s*)?[:\-]?\s*(" + CURRENCY_AMOUNT + r")", text[:8000]) or "")
     bid_labels = r"(1[ºo]\s*(?:leil[aã]o|pra[cç]a)|2[ºo]\s*(?:leil[aã]o|pra[cç]a)|lance\s+m[ií]nimo|lance\s+inicial|valor\s+(?:de\s+lance\s+)?inicial)"
-    labeled_bids = [(label, money(value)) for label, value in re.findall(bid_labels + r"\D{0,35}(R\$\s*[\d.]+,\d{2})", market_text, re.I)]
-    labeled_bids += [(label, money(value)) for value, label in re.findall(r"(R\$\s*[\d.]+,\d{2})\D{0,35}" + bid_labels, market_text, re.I)]
+    labeled_bids = [(label, money(value)) for label, value in re.findall(bid_labels + r"\D{0,35}(" + CURRENCY_AMOUNT + r")", market_text, re.I)]
+    labeled_bids += [(label, money(value)) for value, label in re.findall(r"(" + CURRENCY_AMOUNT + r")\D{0,35}" + bid_labels, market_text, re.I)]
     bids = {"first": None, "second": None, "current": None}
     for label, amount in labeled_bids:
         if amount is None:
@@ -88,7 +102,12 @@ def parse_item(source: dict[str, Any], href: str, text: str, cities: list[str], 
         if bids[key] is None:
             bids[key] = amount
     current = bids["second"] or bids["first"] or bids["current"]
-    discount = round((1 - current / appraisal) * 100, 2) if current is not None and appraisal and appraisal > 0 else None
+    declared_discount = first(r"(\d{1,2}(?:[,.]\d{1,2})?)\s*%\s*(?:de\s+desconto\s*)?(?:sobre|abaixo|da)\s*(?:[ao]\s*)?(?:valor\s+)?(?:de\s+)?avalia[cç][aã]o", market_text)
+    discount = (float(declared_discount.replace(",", ".")) if declared_discount else
+                round((1 - current / appraisal) * 100, 2) if current is not None and appraisal and appraisal > 0 else None)
+    # Preserve an unlabelled amount as a source-display price only. It is not
+    # promoted to an auction bid or appraisal without an explicit source label.
+    source_listing_price = money(first("(" + CURRENCY_AMOUNT + r")", market_text) or "")
     date_matches = re.findall(r"(\d{2}/\d{2}/\d{4})(?:\s*(?:às|as)?\s*(\d{1,2}:\d{2}))?", market_text, re.I)
     events = []
     for i, (date, time) in enumerate(date_matches):
@@ -166,6 +185,7 @@ def parse_item(source: dict[str, Any], href: str, text: str, cities: list[str], 
         "first_minimum_bid_brl": bids["first"],
         "second_minimum_bid_brl": bids["second"],
         "current_minimum_bid_brl": current,
+        "source_listing_price_brl": source_listing_price,
         "discount_on_appraisal_percent": discount,
         "auction_events": events,
         "commission_percent": float(first(r"comiss[aã]o\D{0,12}(\d{1,2}(?:[,\.]\d+)?)\s*%", text).replace(",", ".")) if first(r"comiss[aã]o\D{0,12}(\d{1,2}(?:[,\.]\d+)?)\s*%", text) else None,
@@ -182,6 +202,6 @@ def parse_item(source: dict[str, Any], href: str, text: str, cities: list[str], 
         "last_checked_at": seen_at,
         "classification": "A" if status == "active" and current is not None and current <= max_bid and discount is not None and discount >= min_discount else "B",
         "risk_flags": ["occupancy_unknown"] if occupied is None else (["occupied"] if occupied == "ocupado" else []),
-        "field_verification": {**populated, "official_url": "verified" if official else "unverified", **{field: populated.get(field, "unknown") for field in fields if field not in populated}},
+        "field_verification": {**populated, "source_listing_price_brl": "declared" if source_listing_price is not None else "unknown", "official_url": "verified" if official else "unverified", **{field: populated.get(field, "unknown") for field in fields if field not in populated}},
         "provenance": {"source_id": source["id"], "captured_from": href, "is_aggregator": bool(source.get("is_aggregator")), "raw_text": text[:3000]},
     }

@@ -14,7 +14,7 @@ from zoneinfo import ZoneInfo
 from playwright.sync_api import sync_playwright
 
 from .collectors import ADAPTERS
-from .normalization import identity_keys
+from .normalization import has_card_details, identity_keys
 
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG_PATH = ROOT / "config" / "monitor.json"
@@ -52,7 +52,7 @@ def merge_property(old: dict[str, Any] | None, new: dict[str, Any]) -> tuple[dic
     tracked = (
         "city", "neighborhood", "address", "property_type", "area_privative_m2", "area_built_m2", "area_total_m2",
         "registry_number", "registry_office", "auction_lot", "auctioneer", "seller", "modality",
-        "appraisal_value_brl", "first_minimum_bid_brl", "second_minimum_bid_brl", "current_minimum_bid_brl",
+        "appraisal_value_brl", "first_minimum_bid_brl", "second_minimum_bid_brl", "current_minimum_bid_brl", "source_listing_price_brl",
         "discount_on_appraisal_percent", "auction_events", "commission_percent", "payment_conditions",
         "occupancy", "status", "official_url", "source_listing_url", "validation_status", "edital_url",
         "document_urls", "image_urls", "classification", "risk_flags",
@@ -139,6 +139,8 @@ def validate(item: dict[str, Any], cities: list[str]) -> None:
     url = item.get("official_url")
     if url and not url.startswith("https://"):
         raise ValueError(f"URL oficial inválida para {item['id']}")
+    if not has_card_details(item):
+        raise ValueError(f"Registro sem dados suficientes para exibir um card: {item['id']}")
 
 
 def main() -> int:
