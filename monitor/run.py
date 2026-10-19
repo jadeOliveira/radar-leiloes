@@ -58,11 +58,16 @@ def merge_property(old: dict[str, Any] | None, new: dict[str, Any]) -> tuple[dic
         "document_urls", "image_urls", "classification", "risk_flags",
     )
     for field, value in new.items():
-        if value is None or value == [] or value == {}:
-            continue
         previous = merged.get(field)
         old_field_is_verified = merged.get("field_verification", {}).get(field) == "verified"
         incoming_field_is_verified = new.get("field_verification", {}).get(field) == "verified"
+        if value is None or value == [] or value == {}:
+            incoming_state = new.get("field_verification", {}).get(field)
+            if (field == "appraisal_value_brl" and aggregator_only and value is None
+                    and incoming_state == "unknown" and not old_field_is_verified):
+                merged[field] = None
+                merged.setdefault("field_verification", {})[field] = "unknown"
+            continue
         if aggregator_observation and field not in ("status", "classification") and old_field_is_verified and not incoming_field_is_verified:
             continue
         if field in ("source_ids", "source_listing_ids", "document_urls", "image_urls"):

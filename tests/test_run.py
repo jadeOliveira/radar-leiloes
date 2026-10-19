@@ -22,6 +22,24 @@ class MergePropertyTests(unittest.TestCase):
         self.assertEqual(merged["source_listing_price_brl"], 150000.0)
         self.assertEqual(merged["image_urls"], ["https://example.com/listing.jpg"])
 
+    def test_successful_aggregator_refresh_clears_unverified_false_appraisal(self):
+        old = {
+            "id": "item", "source_ids": ["hasta"], "city": "Joinville", "state": "SC",
+            "appraisal_value_brl": 150.0,
+            "field_verification": {"appraisal_value_brl": "declared"},
+        }
+        refresh = {
+            "id": "item", "source_ids": ["hasta"], "city": "Joinville", "state": "SC",
+            "appraisal_value_brl": None,
+            "field_verification": {"appraisal_value_brl": "unknown"},
+            "provenance": {"source_id": "hasta", "is_aggregator": True},
+        }
+
+        merged, _ = merge_property(old, refresh)
+
+        self.assertIsNone(merged["appraisal_value_brl"])
+        self.assertEqual(merged["field_verification"]["appraisal_value_brl"], "unknown")
+
     def test_verified_active_listing_survives_unverified_aggregator_refresh(self):
         official_url = "https://www.portalzuk.com.br/imovel/sc/rio-do-sul/centro/avenida-oscar-barcelos-1977/37735-236051"
         old = {
