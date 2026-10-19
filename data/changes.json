@@ -10834,6 +10834,488 @@
           "detected_at": "2026-10-19T13:45:41-03:00"
         }
       ]
+    },
+    {
+      "run_id": "ccf8bba3-7ee5-40c3-9abd-58611bef5d61",
+      "detected_at": "2026-10-19T17:02:14-03:00",
+      "changes": [
+        {
+          "property_id": "059fd85cd2dca00530a6",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "17b95e35f56cee9439b3",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "52178ad8ccce265840be",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "abfeceecbc36b9d2b691",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "b1d8d7c9b25bc6ca9a00",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "b4a0df5b2a4e2536be8d",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "d377429f3f1d961dc221",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "f973e25b6daf730a764b",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "095343e085f88914e41c",
+          "city": "Joinville",
+          "source_ids": [
+            "duarte"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "11fa0857703630b13ba6",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "382be583cda2a611d8cc",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "47963d3af68a948dd0d3",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "488ef164eee3de4ca1ce",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "4965bbd799c6b03fec00",
+          "city": "Joinville",
+          "source_ids": [
+            "duarte"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "4ead49556c3ed2e8a9f2",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "568e1ff77e60d2679a24",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "57d84a932dfcc54f6ad2",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "5edc1352063ee0c29bea",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "68b3a7b7a7c3adf840e5",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "696f41f603d60fadaa8e",
+          "city": "Joinville",
+          "source_ids": [
+            "duarte"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "93061cfac5b8bddc51d2",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "98639ecb617696bfc554",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "aa0e2eeda84cb785589d",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "c7d3a89ff43caa55ffe5",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "dbd539c4482fa925a12a",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "fb3f6d4aa1e08b0b04fc",
+          "city": "Joinville",
+          "source_ids": [
+            "duarte"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "fc6801abbce92905d7d9",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "1ade8e46f20e49701722",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "2acf6c9bce6388b1296c",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "3fa0ea0a762151581612",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "4371a4003e0edf941981",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "47324d0881e47a4fce40",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "842d9becd96a946a8f75",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        },
+        {
+          "property_id": "de2c997a7701b7b5a453",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "feed_visibility",
+              "before": "included",
+              "after": "excluded_non_real_estate_or_unconfirmed_type"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
