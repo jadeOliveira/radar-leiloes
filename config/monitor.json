@@ -59,6 +59,24 @@
       "path_pattern": "/leilao/"
     },
     {
+      "id": "duarte",
+      "name": "Duarte Leilões Oficiais",
+      "enabled": true,
+      "adapter": "duarte",
+      "url": "https://www.duarteleiloes.com.br/",
+      "host": "www.duarteleiloes.com.br",
+      "path_pattern": "/oferta/"
+    },
+    {
+      "id": "zampieri",
+      "name": "Zampieri Leiloeiro",
+      "enabled": true,
+      "adapter": "zampieri",
+      "url": "https://www.zampierileiloeiro.com.br/",
+      "host": "www.zampierileiloeiro.com.br",
+      "path_pattern": "/pregao/"
+    },
+    {
       "id": "seu_imovel_bb",
       "name": "Seu Imóvel BB",
       "enabled": true,

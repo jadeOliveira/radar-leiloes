@@ -50,6 +50,19 @@ def first(pattern: str, text: str, flags: int = re.I) -> str | None:
     return match.group(1).strip() if match else None
 
 
+def extract_neighborhood(text: str) -> str | None:
+    """Extract a neighborhood only when the listing labels it explicitly."""
+    value = first(r"\bbairro(?:\s+de)?\s*[:\-]?\s*([^,;|]{2,60})", text)
+    if not value:
+        return None
+    value = re.split(r"\s+(?:-|–|—)\s+", value, maxsplit=1)[0]
+    value = re.split(r"\s+(?:cep|cidade|matr[ií]cula|localiza[cç][aã]o|endere[cç]o|comarca|lote)\b", value, maxsplit=1, flags=re.I)[0]
+    value = value.strip(" .:-–—")
+    if len(value) < 2 or len(value) > 50:
+        return None
+    return value
+
+
 def has_card_details(item: dict[str, Any]) -> bool:
     """Require at least one listing fact beyond city/status before publishing a card."""
     return any((
@@ -169,7 +182,7 @@ def parse_item(source: dict[str, Any], href: str, text: str, cities: list[str], 
         "source_listing_ids": [id_match] if id_match else [],
         "city": city,
         "state": "SC",
-        "neighborhood": first(r"\b(?:bairro|bairro\s+de)\s*[:\-]?\s*([\wÀ-ÿ -]{2,50})", market_text),
+        "neighborhood": extract_neighborhood(market_text),
         "address": street,
         "property_type": property_type,
         "area_privative_m2": float(area.replace(".", "").replace(",", ".")) if area else None,
