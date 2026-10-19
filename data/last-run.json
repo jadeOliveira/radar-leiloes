@@ -1,9 +1,9 @@
 {
-  "run_id": "75ab68db-55b6-49d7-8cf5-4516a8b4c122",
+  "run_id": "2881c7ef-149b-45c8-a7c8-09d42f2a862f",
   "status": "partial",
-  "started_at": "2026-10-19T10:37:41-03:00",
-  "finished_at": "2026-10-19T10:38:32-03:00",
-  "duration_seconds": 50.98,
+  "started_at": "2026-10-19T13:20:30-03:00",
+  "finished_at": "2026-10-19T13:21:56-03:00",
+  "duration_seconds": 85.47,
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -28,7 +28,7 @@
         "Rio do Sul": 0
       },
       "duration_seconds": 1.21,
-      "finished_at": "2026-10-19T10:37:43-03:00"
+      "finished_at": "2026-10-19T13:20:32-03:00"
     },
     {
       "source_id": "caixa",
@@ -44,8 +44,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 2.06,
-      "finished_at": "2026-10-19T10:37:45-03:00"
+      "duration_seconds": 1.66,
+      "finished_at": "2026-10-19T13:20:34-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -61,9 +61,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 6.06,
-      "finished_at": "2026-10-19T10:37:51-03:00",
-      "last_success_at": "2026-10-19T10:37:51-03:00"
+      "duration_seconds": 31.18,
+      "finished_at": "2026-10-19T13:21:05-03:00",
+      "last_success_at": "2026-10-19T13:21:05-03:00"
     },
     {
       "source_id": "superbid",
@@ -79,8 +79,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.02,
-      "finished_at": "2026-10-19T10:37:52-03:00"
+      "duration_seconds": 1.06,
+      "finished_at": "2026-10-19T13:21:06-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -96,8 +96,42 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.25,
-      "finished_at": "2026-10-19T10:37:53-03:00"
+      "duration_seconds": 1.48,
+      "finished_at": "2026-10-19T13:21:08-03:00"
+    },
+    {
+      "source_id": "duarte",
+      "name": "Duarte Leilões Oficiais",
+      "status": "failed",
+      "pages_read": 0,
+      "listings_found": 0,
+      "error": "Página carregada, mas o formato dos resultados ainda não foi reconhecido.",
+      "listings_by_city": {
+        "Joinville": 0,
+        "Balneário Camboriú": 0,
+        "Balneário Piçarras": 0,
+        "Barra Velha": 0,
+        "Rio do Sul": 0
+      },
+      "duration_seconds": 6.23,
+      "finished_at": "2026-10-19T13:21:14-03:00"
+    },
+    {
+      "source_id": "zampieri",
+      "name": "Zampieri Leiloeiro",
+      "status": "failed",
+      "pages_read": 0,
+      "listings_found": 0,
+      "error": "Página carregada, mas o formato dos resultados ainda não foi reconhecido.",
+      "listings_by_city": {
+        "Joinville": 0,
+        "Balneário Camboriú": 0,
+        "Balneário Piçarras": 0,
+        "Barra Velha": 0,
+        "Rio do Sul": 0
+      },
+      "duration_seconds": 2.74,
+      "finished_at": "2026-10-19T13:21:17-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -113,8 +147,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.25,
-      "finished_at": "2026-10-19T10:37:55-03:00"
+      "duration_seconds": 1.24,
+      "finished_at": "2026-10-19T13:21:18-03:00"
     },
     {
       "source_id": "freitas",
@@ -130,9 +164,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 14.36,
-      "finished_at": "2026-10-19T10:38:09-03:00",
-      "last_success_at": "2026-10-19T10:38:09-03:00"
+      "duration_seconds": 14.49,
+      "finished_at": "2026-10-19T13:21:32-03:00",
+      "last_success_at": "2026-10-19T13:21:32-03:00"
     },
     {
       "source_id": "comprei",
@@ -148,8 +182,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.77,
-      "finished_at": "2026-10-19T10:38:11-03:00"
+      "duration_seconds": 1.73,
+      "finished_at": "2026-10-19T13:21:34-03:00"
     },
     {
       "source_id": "sampaio",
@@ -165,9 +199,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 5.42,
-      "finished_at": "2026-10-19T10:38:16-03:00",
-      "last_success_at": "2026-10-19T10:38:16-03:00"
+      "duration_seconds": 5.21,
+      "finished_at": "2026-10-19T13:21:39-03:00",
+      "last_success_at": "2026-10-19T13:21:39-03:00"
     },
     {
       "source_id": "machado",
@@ -183,112 +217,47 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.26,
-      "finished_at": "2026-10-19T10:38:18-03:00"
+      "duration_seconds": 1.23,
+      "finished_at": "2026-10-19T13:21:41-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
       "status": "success",
-      "pages_read": 9,
-      "listings_found": 155,
+      "pages_read": 10,
+      "listings_found": 156,
       "error": null,
       "listings_by_city": {
         "Joinville": 102,
-        "Balneário Camboriú": 31,
+        "Balneário Camboriú": 32,
         "Balneário Piçarras": 2,
         "Barra Velha": 3,
         "Rio do Sul": 17
       },
-      "duration_seconds": 14.1,
-      "finished_at": "2026-10-19T10:38:32-03:00",
-      "last_success_at": "2026-10-19T10:38:32-03:00"
+      "duration_seconds": 15.07,
+      "finished_at": "2026-10-19T13:21:56-03:00",
+      "last_success_at": "2026-10-19T13:21:56-03:00"
     }
   ],
   "data_status": "updated",
-  "data_updated_at": "2026-10-19T10:38:32-03:00",
+  "data_updated_at": "2026-10-19T13:21:56-03:00",
   "counts": {
-    "new_listings": 0,
-    "changed_listings": 71,
-    "new_or_updated": 71,
-    "total_preserved": 207,
+    "new_listings": 1,
+    "changed_listings": 4,
+    "new_or_updated": 5,
+    "total_preserved": 208,
     "sources_succeeded": 4,
     "sources_partial": 0,
-    "sources_failed": 7
+    "sources_failed": 9
   },
-  "new_property_ids": [],
+  "new_property_ids": [
+    "1fef50ae419211d44a7e"
+  ],
   "changed_property_ids": [
-    "0025d7addfa110458918",
-    "0467a20555cfcec2fe46",
-    "0ad6519068704c438998",
     "148da9b4c7a4a4dc4dcb",
-    "150e33a012603589032c",
-    "156322f6af67613a79b8",
-    "1a20be5f779cf5f4409a",
-    "1ade8e46f20e49701722",
-    "1d8772fdbe1c70e5b04e",
-    "1f4300803ee2cdc58b46",
-    "20086256b8ce71ad91f1",
     "208e5cb631fadc27dcaa",
-    "23fa965ece4277305e11",
-    "270a93f7bc136faf7572",
     "2db2dbfd4dc16749882e",
-    "36c68b362c00de16f369",
-    "36dcfaa54f2f10dc7d7f",
-    "3cef7fc45e954d5fe069",
-    "400f8aa70434acb93bf9",
-    "41923e816374a11c1686",
-    "43b2c273ed2e2464aace",
-    "47bfd0b4b2820f41330b",
-    "4a2e2e5abc53df2b0b68",
-    "4ead49556c3ed2e8a9f2",
-    "4fce775e168123626657",
-    "568e1ff77e60d2679a24",
-    "5967008dc9c0d0d290e7",
-    "5b8f8c01a9dcdd95d58c",
-    "5f945cd668932337ba71",
-    "602eeaa9278501805877",
-    "62f226bd6935bed8ef35",
-    "6b9ee1df97d6dc66be3d",
-    "6e7bb0413fbe6d7cd121",
-    "77c7d2b58a2ac581655c",
-    "78b18e108f5c62b21ab3",
-    "790e340d3d32c038af02",
-    "7f1836fe15d8b455b718",
-    "806b3dcc57bd44aecdfc",
-    "81f30b402316acc37ba4",
-    "8254ac4ba8d517c3a39f",
-    "842d9becd96a946a8f75",
-    "865d5d703be0729da6fa",
-    "97704f8a04c77d4e4cfb",
-    "985f2b707643dc9e922e",
-    "9e9adf7601901bcd97c8",
-    "9f59bed005d86dfa5bba",
-    "a45a21ae9768cdbf1db8",
-    "aa0e2eeda84cb785589d",
-    "abfeceecbc36b9d2b691",
-    "af77573d850dc952d3b9",
-    "b1d8d7c9b25bc6ca9a00",
-    "b4a0df5b2a4e2536be8d",
-    "b79898cf34e4838c3449",
-    "b880767e91a5af233522",
-    "b8a5be2a704498ed207c",
-    "bc11428240adb22000d2",
-    "c295f3ec9fadf920d8dd",
-    "c7d3a89ff43caa55ffe5",
-    "d10edaaa8ef7265db0aa",
-    "d19e9babe68a5fa2c479",
-    "d377429f3f1d961dc221",
-    "de2c997a7701b7b5a453",
-    "e334403a5e8128a66bbd",
-    "ea819b5e1f79d17cb78c",
-    "eb79c4020ab8161c6a5a",
-    "ef38e9ba92625ff77d98",
-    "f2a088071fd21ee8f010",
-    "f5d481e440ddbf5c0aaf",
-    "f973e25b6daf730a764b",
-    "fedc1e7a898c7b810295",
-    "ff61811de521a83d8a2c"
+    "d3344a31675898a6feaf"
   ],
   "errors": [
     {
@@ -306,6 +275,14 @@
     {
       "source_id": "diego_leiloes",
       "message": "Bloqueio/CAPTCHA detectado; a fonte não foi contornada."
+    },
+    {
+      "source_id": "duarte",
+      "message": "Página carregada, mas o formato dos resultados ainda não foi reconhecido."
+    },
+    {
+      "source_id": "zampieri",
+      "message": "Página carregada, mas o formato dos resultados ainda não foi reconhecido."
     },
     {
       "source_id": "seu_imovel_bb",

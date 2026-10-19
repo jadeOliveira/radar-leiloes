@@ -10575,6 +10575,87 @@
           "detected_at": "2026-10-19T10:38:32-03:00"
         }
       ]
+    },
+    {
+      "run_id": "2881c7ef-149b-45c8-a7c8-09d42f2a862f",
+      "detected_at": "2026-10-19T13:21:56-03:00",
+      "changes": [
+        {
+          "property_id": "148da9b4c7a4a4dc4dcb",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "neighborhood",
+              "before": "- des",
+              "after": "des 📍 Joinville"
+            }
+          ],
+          "detected_at": "2026-10-19T13:21:56-03:00"
+        },
+        {
+          "property_id": "d3344a31675898a6feaf",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "neighborhood",
+              "before": "atiradores",
+              "after": "atiradores. joinville 📍 Joinville"
+            }
+          ],
+          "detected_at": "2026-10-19T13:21:56-03:00"
+        },
+        {
+          "property_id": "208e5cb631fadc27dcaa",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "neighborhood",
+              "before": "JARDIM PARAÍSO EM JOINVILLE",
+              "after": "JARDIM PARAÍSO EM JOINVILLE/SC"
+            }
+          ],
+          "detected_at": "2026-10-19T13:21:56-03:00"
+        },
+        {
+          "property_id": "2db2dbfd4dc16749882e",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "neighborhood",
+              "before": "GLÓRIA EM JOINVILLE",
+              "after": "GLÓRIA EM JOINVILLE/SC"
+            }
+          ],
+          "detected_at": "2026-10-19T13:21:56-03:00"
+        },
+        {
+          "property_id": "1fef50ae419211d44a7e",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-19T13:21:56-03:00"
+        }
+      ]
     }
   ]
 }
