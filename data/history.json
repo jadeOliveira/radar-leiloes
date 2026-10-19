@@ -10580,6 +10580,112 @@
         }
       ],
       "detected_at": "2026-10-19T13:30:18-03:00"
+    },
+    {
+      "property_id": "4869eb031114b1d0ba59",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "property_type",
+          "before": null,
+          "after": "Galpão"
+        }
+      ],
+      "detected_at": "2026-10-19T13:45:41-03:00"
+    },
+    {
+      "property_id": "bd5a9740c942b827ceff",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "appraisal_value_brl",
+          "before": 250000.0,
+          "after": null
+        },
+        {
+          "field": "source_listing_price_brl",
+          "before": null,
+          "after": 250000.0
+        },
+        {
+          "field": "image_urls",
+          "before": [
+            "https://hasta.com.br/foto/968700/0.jpg",
+            "https://hasta.com.br/foto/968700/1.jpg",
+            "https://hasta.com.br/foto/968700/2.jpg"
+          ],
+          "after": [
+            "https://hasta.com.br/foto/968700/0.jpg",
+            "https://hasta.com.br/foto/968700/1.jpg",
+            "https://hasta.com.br/foto/968700/2.jpg",
+            "https://ms.sbwebservices.net/photos/a5e3b7b2-37ef-46e3-ae6b-fd9a38ad0f4e.jpg"
+          ]
+        },
+        {
+          "field": "risk_flags",
+          "before": [
+            "occupied",
+            "aggregator_listing_unverified"
+          ],
+          "after": [
+            "occupied",
+            "aggregator_listing_unverified",
+            "occupancy_unknown"
+          ]
+        }
+      ],
+      "detected_at": "2026-10-19T13:45:41-03:00"
+    },
+    {
+      "property_id": "9dc442788404a27cb8cd",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-19T13:45:41-03:00"
+    },
+    {
+      "property_id": "ce53bc97541685740e5d",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-19T13:45:41-03:00"
+    },
+    {
+      "property_id": "75b5fbf450a8aca50887",
+      "city": "Balneário Piçarras",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "property_type",
+          "before": "Imóvel Comercial",
+          "after": "Terreno"
+        }
+      ],
+      "detected_at": "2026-10-19T13:45:41-03:00"
     }
   ]
 }
