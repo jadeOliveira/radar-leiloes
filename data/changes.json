@@ -6815,6 +6815,140 @@
           "detected_at": "2026-10-18T20:24:47-03:00"
         }
       ]
+    },
+    {
+      "run_id": "417e1cc8-0285-46ad-baf4-ce8782a57443",
+      "detected_at": "2026-10-19T10:18:38-03:00",
+      "changes": [
+        {
+          "property_id": "0fc466da0d41eebd3fab",
+          "city": "Joinville",
+          "source_ids": [
+            "freitas",
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "scheduled_unverified",
+              "after": "active"
+            }
+          ],
+          "detected_at": "2026-10-19T10:18:38-03:00"
+        },
+        {
+          "property_id": "314db08f260a3c4192a9",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-19T10:18:38-03:00"
+        },
+        {
+          "property_id": "1556d3485addc60e3398",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-19T10:18:38-03:00"
+        },
+        {
+          "property_id": "dbd539c4482fa925a12a",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "image_urls",
+              "before": [
+                "https://hasta.com.br/foto/317386/0.jpg"
+              ],
+              "after": [
+                "https://hasta.com.br/foto/317386/0.jpg",
+                "https://static.suporteleiloes.com.br/trileiloescombr/leiloes/132/6a3ef9546ac6f-6a3ef95476341.jpg"
+              ]
+            }
+          ],
+          "detected_at": "2026-10-19T10:18:38-03:00"
+        },
+        {
+          "property_id": "568e1ff77e60d2679a24",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-19T10:18:38-03:00"
+        },
+        {
+          "property_id": "68b3a7b7a7c3adf840e5",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-19T10:18:38-03:00"
+        },
+        {
+          "property_id": "9bde10dcaec9559687ad",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-19T10:18:38-03:00"
+        },
+        {
+          "property_id": "18b39785d4392fa30f5f",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "image_urls",
+              "before": [],
+              "after": [
+                "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/32/3275ed983edd118990da2278f35825a70a7216dfda69b8f5d73ce24cb45fba46.jpg"
+              ]
+            }
+          ],
+          "detected_at": "2026-10-19T10:18:38-03:00"
+        }
+      ]
     }
   ]
 }
