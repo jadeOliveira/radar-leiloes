@@ -67,6 +67,8 @@ def merge_property(old: dict[str, Any] | None, new: dict[str, Any]) -> tuple[dic
                     and incoming_state == "unknown" and not old_field_is_verified):
                 merged[field] = None
                 merged.setdefault("field_verification", {})[field] = "unknown"
+                if field in tracked and previous is not None:
+                    changes.append({"field": field, "before": previous, "after": None})
             continue
         if aggregator_observation and field not in ("status", "classification") and old_field_is_verified and not incoming_field_is_verified:
             continue
