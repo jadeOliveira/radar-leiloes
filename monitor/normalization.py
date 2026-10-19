@@ -12,6 +12,33 @@ def fold(value: str) -> str:
     return " ".join(unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode().casefold().split())
 
 
+def canonical_property_type(item: dict[str, Any], listing_text: str = "") -> str | None:
+    """Accept only requested property categories; resolve a generic lot only with land evidence."""
+    raw_type = fold(str(item.get("property_type") or ""))
+    direct_types = {
+        "casa": "Casa",
+        "apartamento": "Apartamento",
+        "terreno": "Terreno",
+        "galpao": "Galpão",
+        "galpao industrial": "Galpão",
+    }
+    if raw_type in direct_types:
+        return direct_types[raw_type]
+
+    context = fold(" ".join((
+        str(item.get("source_listing_url") or ""), str(item.get("official_url") or ""),
+        str(item.get("address") or ""), str(item.get("neighborhood") or ""), listing_text,
+    )))
+    land_evidence = re.search(
+        r"\b(?:terreno|terrno|lote\s+(?:urbano|rural|de\s+terreno|de\s+terras))\b|"
+        r"\b(?:lote-a-venda|lote-de-terreno|lote-urbano|lote-rural)\b",
+        context,
+    )
+    if land_evidence:
+        return "Terreno"
+    return None
+
+
 def identity_keys(item: dict[str, Any]) -> list[str]:
     """Return all stable identity aliases so new document data cannot split a record."""
     keys = []
@@ -98,10 +125,9 @@ def parse_item(source: dict[str, Any], href: str, text: str, cities: list[str], 
     # summary. Keep market amounts and dates tied to the listing header.
     market_text = text[:2000]
 
-    type_match = re.search(r"\b(casa|apartamento|terreno|lote\s+(?:urbano|rural|de\s+terreno|de\s+terras)|galp[aã]o(?:\s+industrial)?)\b", market_text, re.I)
+    type_match = re.search(r"\b(casa|apartamento|terreno|terrno|lote\s+(?:urbano|rural|de\s+terreno|de\s+terras)|galp[aã]o(?:\s+industrial)?)\b", market_text, re.I)
     property_type = type_match.group(1).title() if type_match else None
-    if property_type and fold(property_type).startswith("galpao"):
-        property_type = "Galpão"
+    property_type = canonical_property_type({"property_type": property_type}, market_text)
     # Parse only labels that state what the value means; never infer appraisal from a bid.
     # Require the currency value immediately after the appraisal label. A broad
     # search can cross unrelated card text and mistake a later price for appraisal.

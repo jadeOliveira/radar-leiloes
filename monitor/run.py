@@ -14,7 +14,7 @@ from zoneinfo import ZoneInfo
 from playwright.sync_api import sync_playwright
 
 from .collectors import ADAPTERS
-from .normalization import has_card_details, identity_keys
+from .normalization import canonical_property_type, has_card_details, identity_keys
 
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG_PATH = ROOT / "config" / "monitor.json"
@@ -162,6 +162,16 @@ def main() -> int:
     existing = existing_data.get("properties", [])
     if not existing:
         existing = migrate_legacy()
+    retained_existing = []
+    excluded_existing = []
+    for item in existing:
+        normalized_type = canonical_property_type(item)
+        if normalized_type:
+            item["property_type"] = normalized_type
+            retained_existing.append(item)
+        else:
+            excluded_existing.append(item)
+    existing = retained_existing
     by_identity: dict[str, dict[str, Any]] = {}
     id_remap: dict[str, str] = {}
     for item in existing:
@@ -212,7 +222,12 @@ def main() -> int:
         browser.close()
 
     checked_at = now(timezone).isoformat(timespec="seconds")
-    changes = []
+    changes = [{
+        "property_id": item["id"],
+        "city": item.get("city"),
+        "source_ids": item.get("source_ids", []),
+        "changes": [{"field": "feed_visibility", "before": "included", "after": "excluded_non_real_estate_or_unconfirmed_type"}],
+    } for item in excluded_existing if item.get("id")]
     for item in collected:
         validate(item, cities)
         keys = identity_keys(item)

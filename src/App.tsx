@@ -34,7 +34,7 @@ const auctionEvent = (property: Property, today: string) => {
 const displayStatus = (property: Property, today: string) => property.status === 'unknown' && futureAuctionDate(property, today) ? 'scheduled_unverified' : property.status ?? 'unknown';
 const isRealEstate = (property: Property) => {
   const type = (property.property_type ?? '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLocaleLowerCase('pt-BR').trim();
-  return ['casa', 'apartamento', 'terreno', 'lote', 'lote urbano', 'galpao', 'galpao industrial'].includes(type);
+  return ['casa', 'apartamento', 'terreno', 'galpao', 'galpao industrial'].includes(type);
 };
 
 function PropertyPhoto({ property }: { property: Property }) {

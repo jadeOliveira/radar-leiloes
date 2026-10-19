@@ -10,7 +10,7 @@ from zoneinfo import ZoneInfo
 
 from playwright.sync_api import Error as PlaywrightError, TimeoutError as PlaywrightTimeoutError
 
-from ..normalization import fold, has_card_details, parse_item
+from ..normalization import canonical_property_type, fold, has_card_details, parse_item
 
 
 class SourceUnavailable(RuntimeError):
@@ -197,7 +197,9 @@ class SiteAdapter:
                         r"\b(?:autom[oó]vel|ve[ií]culo|carro|motocicleta|moto|caminh[aã]o|trator|embarca[cç][aã]o|sucata|maquin[aá]rio)\b",
                         combined[:2000], re.I,
                     ))
-                    if item and (non_property_signal or item.get("property_type") not in {"Casa", "Apartamento", "Terreno", "Lote Urbano", "Lote Rural", "Lote De Terreno", "Lote De Terras", "Galpão"}):
+                    if item:
+                        item["property_type"] = canonical_property_type(item, combined)
+                    if item and (non_property_signal or not item.get("property_type")):
                         item = None
                     if item:
                         item["image_urls"] = detail_images
