@@ -10656,6 +10656,72 @@
           "detected_at": "2026-10-19T13:21:56-03:00"
         }
       ]
+    },
+    {
+      "run_id": "7fb40eec-fce1-446f-82b8-15c1d6afdd61",
+      "detected_at": "2026-10-19T13:30:18-03:00",
+      "changes": [
+        {
+          "property_id": "095343e085f88914e41c",
+          "city": "Joinville",
+          "source_ids": [
+            "duarte"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-19T13:30:18-03:00"
+        },
+        {
+          "property_id": "fb3f6d4aa1e08b0b04fc",
+          "city": "Joinville",
+          "source_ids": [
+            "duarte"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-19T13:30:18-03:00"
+        },
+        {
+          "property_id": "696f41f603d60fadaa8e",
+          "city": "Joinville",
+          "source_ids": [
+            "duarte"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-19T13:30:18-03:00"
+        },
+        {
+          "property_id": "4965bbd799c6b03fec00",
+          "city": "Joinville",
+          "source_ids": [
+            "duarte"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-19T13:30:18-03:00"
+        }
+      ]
     }
   ]
 }
