@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T10:31:35-03:00",
+  "updated_at": "2026-10-19T10:38:32-03:00",
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -64,7 +64,7 @@
         "https://static.suporteleiloes.com.br/donizetteleiloescombr/bens/9082/arquivos/sl-bem-9082-6a2afec57fb46-6a2afec587497.jpg"
       ],
       "first_seen_at": "2026-10-17T23:17:11-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -217,7 +217,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 1500000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 1500000.0,
@@ -262,7 +262,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/f4/f43d5df9e8db8b69bd0d31002b35b8d0d3b86b278a34375c1e4609027112ad8c.jpg"
       ],
       "first_seen_at": "2026-10-17T23:06:42-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -272,7 +272,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -315,7 +315,7 @@
       "auctioneer": null,
       "seller": "ATÉ A DATA DO LEILÃO · Condições de pagamento: À vista ou Financiamento em até 420 meses Localização",
       "modality": "judicial",
-      "appraisal_value_brl": 910000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 728000.0,
@@ -352,7 +352,7 @@
         "https://www.santanderimoveis.com.br/wp-content/uploads/2026/08/1785954893959.jpeg"
       ],
       "first_seen_at": "2026-10-17T23:17:42-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -362,7 +362,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -535,7 +535,7 @@
         "https://hasta.com.br/foto/1942348/1.jpg"
       ],
       "first_seen_at": "2026-10-17T23:17:14-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -588,7 +588,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 1400000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 1400000.0,
@@ -643,7 +643,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/f4/f43d5df9e8db8b69bd0d31002b35b8d0d3b86b278a34375c1e4609027112ad8c.jpg"
       ],
       "first_seen_at": "2026-10-17T23:07:30-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -653,7 +653,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -711,7 +711,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:58-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -791,7 +791,7 @@
         "https://hasta.com.br/foto/2092415/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:17:32-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -844,7 +844,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 2300000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 2300000.0,
@@ -876,7 +876,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/44/44bcb6723b31d6b0d4106694b9caf04cdaa3fa6a30115128cf374fb85f688a60.jpg"
       ],
       "first_seen_at": "2026-10-17T23:17:04-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -886,7 +886,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -929,7 +929,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 2250000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 2307000.0,
@@ -1000,7 +1000,7 @@
         "https://hasta.com.br/foto/905194/11.jpg"
       ],
       "first_seen_at": "2026-10-17T23:06:51-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -1010,7 +1010,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -1094,7 +1094,7 @@
         "https://hasta.com.br/foto/1001567/11.jpg"
       ],
       "first_seen_at": "2026-10-17T23:06:58-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -1147,7 +1147,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 370000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 370000.0,
@@ -1192,7 +1192,7 @@
         "https://hasta.com.br/foto/2025919/3.jpg"
       ],
       "first_seen_at": "2026-10-17T23:16:54-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -1202,7 +1202,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -1245,7 +1245,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 700000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 620000.0,
@@ -1277,7 +1277,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/c7/c7bc5fc6cc1195f62ca4d36ad3327d1ef8fc332119c5a83708493f33f9dc0400.jpg"
       ],
       "first_seen_at": "2026-10-17T23:17:40-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -1287,7 +1287,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -1411,7 +1411,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 952255.53,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 1803663.0,
@@ -1466,7 +1466,7 @@
         "https://hasta.com.br/foto/1805694/1.jpg"
       ],
       "first_seen_at": "2026-10-17T23:17:09-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -1476,7 +1476,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -1548,7 +1548,7 @@
         "https://s3-sa-east-1.amazonaws.com/906de634c48fb7d34136160b4c353ae4/public/fotos/imoveis/640x480/I_29660_912883_A.webp"
       ],
       "first_seen_at": "2026-10-17T23:17:02-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -1601,7 +1601,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 952255.53,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 1803663.0,
@@ -1643,7 +1643,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/bd/bd91a19f16601c12c3097b1c919fe9e6af3823ae7e33ade7f2f880b771f5da2b.png"
       ],
       "first_seen_at": "2026-10-17T23:07:28-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -1653,7 +1653,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -1730,7 +1730,7 @@
         "https://dto3gws2tdkmm.cloudfront.net/leiloes/001105-6aae00f3dba00.jpeg"
       ],
       "first_seen_at": "2026-10-17T23:17:28-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -1872,7 +1872,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 960000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 982000.0,
@@ -1925,7 +1925,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/f4/f43d5df9e8db8b69bd0d31002b35b8d0d3b86b278a34375c1e4609027112ad8c.jpg"
       ],
       "first_seen_at": "2026-10-17T23:06:55-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -1935,7 +1935,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -2018,7 +2018,7 @@
         "https://hasta.com.br/foto/1492335/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:17:27-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -2086,7 +2086,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:58-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2405,7 +2405,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 49671.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 49671.0,
@@ -2453,7 +2453,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/b3/b3b9c5164ef11a551bd4e2522559a3d52826aa0dc20532f2ad7a047e29b5babb.gif"
       ],
       "first_seen_at": "2026-10-17T23:17:36-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -2463,7 +2463,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "unknown",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -2521,7 +2521,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:58-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2572,7 +2572,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 2300000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 2300000.0,
@@ -2622,7 +2622,7 @@
         "https://hasta.com.br/foto/1943341/4.jpg"
       ],
       "first_seen_at": "2026-10-17T23:16:56-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -2632,7 +2632,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -2675,7 +2675,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 1900000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 1900000.0,
@@ -2744,7 +2744,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/f4/f43d5df9e8db8b69bd0d31002b35b8d0d3b86b278a34375c1e4609027112ad8c.jpg"
       ],
       "first_seen_at": "2026-10-17T23:07:08-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -2754,7 +2754,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -2797,7 +2797,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 496710.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 49671.0,
@@ -2839,7 +2839,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/fotos/xx/12042/00.jpg"
       ],
       "first_seen_at": "2026-10-17T23:16:42-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -2849,7 +2849,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "unknown",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -2981,7 +2981,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 320000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": null,
@@ -3038,7 +3038,7 @@
         "https://hasta.com.br/foto/1230780/5.jpg"
       ],
       "first_seen_at": "2026-10-17T23:06:26-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -3048,7 +3048,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "unknown",
@@ -3106,7 +3106,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:58-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3155,7 +3155,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 150000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 150000.0,
@@ -3200,7 +3200,7 @@
         "https://hasta.com.br/foto/2120542/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:17:12-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -3210,7 +3210,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -3268,7 +3268,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:58-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3319,7 +3319,7 @@
       "auctioneer": null,
       "seller": "a; estrema a Oeste com uma rua projetada e",
       "modality": "judicial",
-      "appraisal_value_brl": 1800000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 1891600.0,
@@ -3366,7 +3366,7 @@
         "https://hasta.com.br/foto/1736666/1.jpg"
       ],
       "first_seen_at": "2026-10-17T23:17:20-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -3376,7 +3376,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -3434,7 +3434,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:58-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3485,7 +3485,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 3650000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": 3650000.0,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 3650000.0,
@@ -3539,7 +3539,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/af/af33c752902ecac9b22696ecdca65adf90973c282c476cfd7307c88ade817e1f.jpg"
       ],
       "first_seen_at": "2026-10-17T23:17:29-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -3549,7 +3549,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "unknown",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "declared",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -3609,7 +3609,7 @@
         "https://ms.sbwebservices.net/photos/62ea129e-3052-4d19-84a3-dbdb297c56ad.jpg"
       ],
       "first_seen_at": "2026-10-17T23:23:59-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3768,7 +3768,7 @@
         "https://d107brv7xtbumz.cloudfront.net/709dbd4b-5a01-4815-9ec3-f936469d5857"
       ],
       "first_seen_at": "2026-10-17T23:17:44-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -3868,7 +3868,7 @@
         "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grlkbn1ggqso/b/astavero/o/anexos/mazzolli/6abd3d06d846463f40e90e6e/6abd3e73e79d89d25be22d1d/foto_4-1790946160000.jpg"
       ],
       "first_seen_at": "2026-10-17T23:07:54-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -3921,7 +3921,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 169934.16,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 84967.08,
@@ -3967,7 +3967,7 @@
         "https://csdl-production.s3-sa-east-1.amazonaws.com/uploads/fotos/lotes/243664/terreno-barra-velha-02.png"
       ],
       "first_seen_at": "2026-10-17T23:07:49-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -3977,7 +3977,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -4063,7 +4063,7 @@
         "https://imagens.portalzuk.com.br/mini/2026/09/503d271474858e51f5fc0d50e62da4b3.jpg"
       ],
       "first_seen_at": "2026-10-17T23:07:47-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -4116,7 +4116,7 @@
       "auctioneer": null,
       "seller": "Caixa Econômica Federal - CAIXA Cidade: Joinville/SC Endereço: Descrição: NÚMERO DO BEM: 85555295431",
       "modality": "judicial",
-      "appraisal_value_brl": 180000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": 180000.0,
       "current_minimum_bid_brl": 180000.0,
@@ -4171,7 +4171,7 @@
         "https://hasta.com.br/foto/2041112/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:40-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -4181,7 +4181,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "declared",
         "current_minimum_bid_brl": "declared",
@@ -4239,7 +4239,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:54-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4435,7 +4435,7 @@
         "https://hasta.com.br/guias/analise-de-edital-e-matricula"
       ],
       "first_seen_at": "2026-10-17T22:03:11-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied"
@@ -4458,7 +4458,7 @@
       "provenance": {
         "source_id": "freitas",
         "captured_from": "https://www.freitasleiloeiro.com.br/Leiloes/LoteDetalhes?leilaoId=8127&loteNumero=8",
-        "raw_text": "008 05/11/2026 12:00 JOINVILLE/SC - Apartamento nº 601 do Residencial Rio Danúbio, Rua Pernambuco, nº... R$ 699.000,00 Lance Inicial JOINVILLE/SC ABERTO PARA LANCES Início Agenda Organização Cadastre-se Contato Serviços Login LEILÃO \"ON-LINE\" - 29 IMÓVEIS - BANCO DAYCOVAL S/A Apartamento | JOINVILLE/SC Favoritar Ver Favoritos Previous Next Lote 008 Data do Leilão 05/11/2026 Horário 12:00 Anterior Lotes Próximo Navegar Visitas 138 Curtidas 0 ABERTO Condições de venda Edital / Anúncio Catálogo do leilão Como participar Endereço: Rua Pernambuco, nº 200, Anita Garibaldi - JOINVILLE/SC Descrição completa: JOINVILLE/SC - Apartamento nº 601 do Residencial Rio Danúbio, Rua Pernambuco, nº 200, Anita Garibaldi. Área privativa: 122,86m²; área de garagem: 21,60m²; área comum: 49,27m²; área total: 193,73m². Matrícula nº 34.530 do 2º RI local. Obs.: Consta Ação de Procedimento Comum, processo nº 4000182-85.2026.8.26.0654 em trâmite na Vara Única da Comarca de Vargem Grande Paulista/SP. O Vendedor responde pelo resultado da ação, de acordo com os critérios e limites estabelecidos nas “Condições de Venda dos Imóveis” constantes do edital. Consta Ação de Reintegração/Manutenção de Posse, processo nº 4002552-88.2026.8.26.0152 em trâmite na Vara Única da Comarca de Vargem Grande Paulista/SP. O Arrematante, por possuir conhecimento, declara a sua anuência quanto à transferência do patrocínio, aos eventuais resultados e aos efeitos da ação informada, responsabilizando-se pela regularização processual, no prazo máximo de 5 dias. O Banco permanecerá atuando no processo até comunicação da venda nos autos. Imóvel ocupado, desocupação por conta do arrematante. Informações importantes: Fotos Meramente Ilustrativas; 5% referente à comissão do leiloeiro acrescido ao valor da arrematação; Abertura p/ lances: 19/10/2026 09:00 Leiloeiro: Sérgio Villa Nova de Freitas Modalidade: SOMENTE ONLINE Local do leilão: INTERNET (São Paulo/SP) Arquivos: Matrícula Edital Leia atentamente as condições antes de participar do leilão: Condições de Pagamento – Imóveis Ocupados Sobre o valor do arremate, incorrerá a comissão de 5% ao leiloeiro a ser pago pelo arrematante. Formas de Pagamento - À vista: Pagamento integral em até 48 horas úteis após a comunicação da homologação da arrematação. - Parcelamento Direto com o Banco Daycoval • Entrada mínima de 40%; • Saldo em até 60 meses; • Sujeito à análise e aprovação de crédito; • Parcelas corrigidas por 1,35% ao mês + IPCA. Importante: Não há opção de financiamento imobiliário para imóveis ocupados. R$ 699.000,00 Lance Inicial R$ 20.000,00 Incremento Mínimo Maior lance: Aguardando lances Encerramento prev.: 05/11/2026 12:16:00 Restando: 17 dia(s) e 01h 44m 55s ABERTO PARA LANCES Área de lances Efetuar Login Praça da Liberdade, 130 - 15º andar - Liberdade - São Paulo/SP - CEP: 01503-010 - Fone: (11) 3117-1000 Atendimento presencial de segunda a sexta das 09:00 às 16:30. Atendimento Cadastro Telefone: (11) 3117-1000 - Ramais: 132, 133 e 134 online@f",
+        "raw_text": "008 05/11/2026 12:00 JOINVILLE/SC - Apartamento nº 601 do Residencial Rio Danúbio, Rua Pernambuco, nº... R$ 699.000,00 Lance Inicial JOINVILLE/SC ABERTO PARA LANCES Início Agenda Organização Cadastre-se Contato Serviços Login LEILÃO \"ON-LINE\" - 29 IMÓVEIS - BANCO DAYCOVAL S/A Apartamento | JOINVILLE/SC Favoritar Ver Favoritos Previous Next Lote 008 Data do Leilão 05/11/2026 Horário 12:00 Anterior Lotes Próximo Navegar Visitas 140 Curtidas 0 ABERTO Condições de venda Edital / Anúncio Catálogo do leilão Como participar Endereço: Rua Pernambuco, nº 200, Anita Garibaldi - JOINVILLE/SC Descrição completa: JOINVILLE/SC - Apartamento nº 601 do Residencial Rio Danúbio, Rua Pernambuco, nº 200, Anita Garibaldi. Área privativa: 122,86m²; área de garagem: 21,60m²; área comum: 49,27m²; área total: 193,73m². Matrícula nº 34.530 do 2º RI local. Obs.: Consta Ação de Procedimento Comum, processo nº 4000182-85.2026.8.26.0654 em trâmite na Vara Única da Comarca de Vargem Grande Paulista/SP. O Vendedor responde pelo resultado da ação, de acordo com os critérios e limites estabelecidos nas “Condições de Venda dos Imóveis” constantes do edital. Consta Ação de Reintegração/Manutenção de Posse, processo nº 4002552-88.2026.8.26.0152 em trâmite na Vara Única da Comarca de Vargem Grande Paulista/SP. O Arrematante, por possuir conhecimento, declara a sua anuência quanto à transferência do patrocínio, aos eventuais resultados e aos efeitos da ação informada, responsabilizando-se pela regularização processual, no prazo máximo de 5 dias. O Banco permanecerá atuando no processo até comunicação da venda nos autos. Imóvel ocupado, desocupação por conta do arrematante. Informações importantes: Fotos Meramente Ilustrativas; 5% referente à comissão do leiloeiro acrescido ao valor da arrematação; Abertura p/ lances: 19/10/2026 09:00 Leiloeiro: Sérgio Villa Nova de Freitas Modalidade: SOMENTE ONLINE Local do leilão: INTERNET (São Paulo/SP) Arquivos: Matrícula Edital Leia atentamente as condições antes de participar do leilão: Condições de Pagamento – Imóveis Ocupados Sobre o valor do arremate, incorrerá a comissão de 5% ao leiloeiro a ser pago pelo arrematante. Formas de Pagamento - À vista: Pagamento integral em até 48 horas úteis após a comunicação da homologação da arrematação. - Parcelamento Direto com o Banco Daycoval • Entrada mínima de 40%; • Saldo em até 60 meses; • Sujeito à análise e aprovação de crédito; • Parcelas corrigidas por 1,35% ao mês + IPCA. Importante: Não há opção de financiamento imobiliário para imóveis ocupados. R$ 699.000,00 Lance Inicial R$ 20.000,00 Incremento Mínimo Maior lance: Aguardando lances Encerramento prev.: 05/11/2026 12:16:00 Restando: 17 dia(s) e 01h 37m 56s ABERTO PARA LANCES Área de lances Efetuar Login Praça da Liberdade, 130 - 15º andar - Liberdade - São Paulo/SP - CEP: 01503-010 - Fone: (11) 3117-1000 Atendimento presencial de segunda a sexta das 09:00 às 16:30. Atendimento Cadastro Telefone: (11) 3117-1000 - Ramais: 132, 133 e 134 online@f",
         "is_aggregator": false
       },
       "image_urls": [
@@ -4627,7 +4627,7 @@
         "https://hasta.com.br/foto/999027/1.jpg"
       ],
       "first_seen_at": "2026-10-17T23:14:43-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -4680,7 +4680,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 210000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": null,
@@ -4720,7 +4720,7 @@
         "https://hasta.com.br/foto/2123069/1.jpg"
       ],
       "first_seen_at": "2026-10-17T23:05:16-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -4730,7 +4730,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "unknown",
@@ -4788,7 +4788,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-19T10:18:26-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4840,7 +4840,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 280000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 280000.0,
@@ -4894,7 +4894,7 @@
         "https://hasta.com.br/foto/1505309/3.jpg"
       ],
       "first_seen_at": "2026-10-17T23:12:23-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -4904,7 +4904,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -4964,7 +4964,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/32/3275ed983edd118990da2278f35825a70a7216dfda69b8f5d73ce24cb45fba46.jpg"
       ],
       "first_seen_at": "2026-10-17T23:23:56-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5043,7 +5043,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/67/6725626ffaa405389de3795242a3432caac3a4f003d2a7f954021a868ffd13d8.jpg"
       ],
       "first_seen_at": "2026-10-17T23:14:16-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -5096,7 +5096,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 5000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 5000.0,
@@ -5133,7 +5133,7 @@
         "https://hasta.com.br/foto/2083843/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:35-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -5143,7 +5143,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -5186,7 +5186,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 220000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 220000.0,
@@ -5230,7 +5230,7 @@
         "https://hasta.com.br/foto/962700/1.jpg"
       ],
       "first_seen_at": "2026-10-17T23:12:52-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -5240,7 +5240,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -5283,7 +5283,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 510000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 520000.0,
@@ -5339,7 +5339,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/46/46ca3c6ec32a2584a811e35866225e1955419a523e174312969cfd0f923a3b8e.jpg"
       ],
       "first_seen_at": "2026-10-17T23:16:23-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -5349,7 +5349,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -5392,7 +5392,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 90000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 90000.0,
@@ -5437,7 +5437,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/55/552eec27baa9510c7d6885675977ae04b4add557b6faf6ef901c18fc0c9953c7.jpg"
       ],
       "first_seen_at": "2026-10-17T23:16:04-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -5447,7 +5447,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -5524,7 +5524,7 @@
         "https://hasta.com.br/foto/1617515/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:14:47-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -5622,7 +5622,7 @@
         "https://dto3gws2tdkmm.cloudfront.net/bens/0000004489/img-4489-6ab70b95ede22.jpeg"
       ],
       "first_seen_at": "2026-10-17T23:14:39-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -5675,7 +5675,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 1580433.02,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 1580433.02,
@@ -5728,7 +5728,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/e4/e4cc5aa383d24885762e8060f5601b4e2224eff93a6aa0d73961d43d3a411931.jpg"
       ],
       "first_seen_at": "2026-10-17T23:16:18-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -5738,7 +5738,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -5796,7 +5796,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-19T10:18:26-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5953,7 +5953,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:53-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6202,7 +6202,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:56-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6253,7 +6253,7 @@
       "auctioneer": null,
       "seller": "RESPONDERÁ PELA EVICÇÃO DE DIREITOS CONFORME CLAUSULAS 4",
       "modality": "judicial",
-      "appraisal_value_brl": 890000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 845500.0,
@@ -6288,7 +6288,7 @@
         "https://www.santanderimoveis.com.br/wp-content/uploads/2026/07/1785440605006.jpeg"
       ],
       "first_seen_at": "2026-10-17T23:16:31-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -6298,7 +6298,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -6356,7 +6356,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:53-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6437,7 +6437,7 @@
         "https://24e53253961aecf7.cdn.gocache.net/watermark/bens/0000086419/img-86419-6aa85abf0cb9f.jpg"
       ],
       "first_seen_at": "2026-10-17T23:23:56-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6486,7 +6486,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 20000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 650000.0,
@@ -6530,7 +6530,7 @@
         "https://hasta.com.br/foto/1942356/6.jpg"
       ],
       "first_seen_at": "2026-10-17T23:14:24-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -6540,7 +6540,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -6598,7 +6598,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:56-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6649,7 +6649,7 @@
       "auctioneer": null,
       "seller": "Caixa Econômica Federal - CAIXA Cidade: Joinville/SC Endereço: Descrição: NÚMERO DO BEM: 87877125972",
       "modality": "judicial",
-      "appraisal_value_brl": 228000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": 228000.0,
       "current_minimum_bid_brl": 228000.0,
@@ -6704,7 +6704,7 @@
         "https://hasta.com.br/foto/2040725/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:46-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -6714,7 +6714,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "declared",
         "current_minimum_bid_brl": "declared",
@@ -6868,7 +6868,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:53-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6936,7 +6936,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/05/05c90af579547ed871c42c717f371094a03883881ab49be869377333f1024325.jpg"
       ],
       "first_seen_at": "2026-10-17T23:23:56-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7004,7 +7004,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/02/020617f20f9c7670a31a6fbd60b236d2dcf897b9ed16056c6f507fed3cd1ce2e.jpg"
       ],
       "first_seen_at": "2026-10-17T23:23:57-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7183,7 +7183,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:53-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7232,7 +7232,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 13100.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 13100.0,
@@ -7274,7 +7274,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/88/88149c8c42e8c749748312859c2bbd8568b321b55a8210ed6ec2ab5440ec04d6.png"
       ],
       "first_seen_at": "2026-10-17T23:15:09-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -7284,7 +7284,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -7342,7 +7342,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:53-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7420,7 +7420,7 @@
         "https://49150d03d11fa9b9.cdn.gocache.net/leiloes/000000-6a99bff9072b4.jpg"
       ],
       "first_seen_at": "2026-10-17T23:14:12-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -7507,7 +7507,7 @@
         "https://hasta.com.br/guias/analise-de-edital-e-matricula"
       ],
       "first_seen_at": "2026-10-17T22:06:30-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied"
@@ -7530,7 +7530,7 @@
       "provenance": {
         "source_id": "mega_leiloes",
         "captured_from": "https://www.megaleiloes.com.br/imoveis/terrenos-e-lotes/sc/joinville/terreno-391-m2-floresta-joinville-sc-x130445?utm_source=megaleiloes&utm_medium=link&utm_campaign=terreno-391-m2-floresta-joinville-sc-x130445&utm_term=X130445&utm_content=link",
-        "raw_text": "IMÓVEL DESOCUPADO R$ 260.000,00 4992 0 Terreno 391 m² - Floresta - Joinville - SC X130445 Joinville, SC ABERTO PARA LANCES Data: 20/10/2026 às 13:05 R$ 260.000,00 IR Explore por Categorias Pesquisa Avançada FAQ Entrar ou Criar conta Valor inicial R$ 260.000,00 Extrajudicial Leilão ML34972 Código Lote X130445 Número Lote LOTE 188 Visitas 4.993 Habilitados 135 Lances 0 Mega Leilões Imóveis Terrenos e Lotes Santa Catarina Joinville Terreno 391 m² - Floresta - Joinville - SC Navegue pelos lotes: Lote 1 Lote 2 Lote 3 Lote 4 Lote 5 Lote 6 Lote 7 Lote 8 Lote 9 Lote 10 Lote 11 Lote 12 Lote 13 Lote 14 Lote 15 Lote 16 Lote 17 Lote 18 Lote 19 Lote 20 Lote 21 Lote 22 Lote 23 Lote 24 Lote 25 Lote 26 Lote 27 Lote 28 Lote 29 Lote 30 Lote 31 Lote 32 Lote 33 Lote 34 Lote 35 Lote 36 Lote 37 Lote 38 Lote 39 Lote 40 Lote 41 Lote 42 Lote 43 Lote 44 Lote 45 Lote 46 Lote 47 Lote 48 Lote 49 Lote 50 Lote 51 Lote 52 Lote 53 Lote 54 Lote 55 Lote 56 Lote 57 Lote 58 Lote 59 Lote 60 Lote 61 Lote 62 Lote 63 Lote 64 Lote 65 Lote 66 Lote 67 Lote 68 Lote 69 Lote 70 Lote 71 Lote 72 Lote 73 Lote 74 Lote 75 Lote 76 Lote 77 Lote 78 Lote 79 Lote 80 Lote 81 Lote 82 Lote 83 Lote 84 Lote 85 Lote 86 Lote 87 Lote 88 Lote 89 Lote 90 Lote 91 Lote 92 Lote 93 Lote 94 Lote 95 Lote 96 Lote 97 Lote 98 Lote 99 Lote 100 Lote 101 Lote 102 Lote 103 Lote 104 Lote 105 Lote 106 Lote 107 Lote 108 Lote 109 Lote 110 Lote 111 Lote 112 Lote 113 Lote 114 Lote 115 Lote 116 Lote 117 Lote 118 Lote 119 Lote 120 Lote 121 Lote 122 Lote 123 Lote 124 Lote 125 Lote 126 Lote 127 Lote 128 Lote 129 Lote 130 Lote 131 Lote 132 Lote 133 Lote 134 Lote 135 Lote 136 Lote 137 Lote 138 Lote 139 Lote 140 Lote 141 Lote 142 Lote 143 Lote 144 Lote 145 Lote 146 Lote 147 Lote 148 Lote 149 Lote 150 Lote 151 Lote 152 Lote 153 Lote 154 Lote 155 Lote 156 Lote 157 Lote 158 Lote 159 Lote 160 Lote 161 Lote 162 Lote 163 Lote 164 Lote 165 Lote 166 Lote 167 Lote 168 Lote 169 Lote 170 Lote 171 Lote 172 Lote 173 Lote 174 Lote 175 Lote 176 Lote 177 Lote 178 Lote 179 Lote 180 Lote 181 Lote 182 Lote 183 Lote 184 Lote 185 Lote 186 Lote 187 Lote 188 Lote 189 Lote 190 Lote 191 Lote 192 Lote 193 Lote 194 Lote 195 Lote 196 Lote 197 Lote 198 Lote 199 Lote 200 Lote 201 Lote 202 Lote 203 Lote 204 IMÓVEL DESOCUPADO Localização Rua Mozart, 358, Floresta, Joinville, SC Comitente BANCO SANTANDER S.A. Leiloeiro Fernando José Cerello G. Pereira JUCESP Nº 844 - Leiloeiro oficial do Estado de São Paulo JUCEMG Nº 1192 - Leiloeiro oficial do Estado de Minas Gerais JUCEMAT Nº 73 - Leiloeiro oficial do Estado de Mato Grosso Valor de Avaliação R$ 342.000,00 ( Trezentos e quarenta e dois mil reais) . A descrição dos lotes é uma cópia fiel das informações fornecidas pelos cartórios, comitente ou outro órgão responsável pelo bem. O bem será vendido no estado em que se encontra conforme edital publicado. Reservamo-nos o direito de corrigir possíveis erros de digitação. Cumpre informar, que nos leilões Judiciais e de Falência, o procedimento do pós-arrematação, deve ser real",
+        "raw_text": "IMÓVEL DESOCUPADO R$ 260.000,00 4998 0 Terreno 391 m² - Floresta - Joinville - SC X130445 Joinville, SC ABERTO PARA LANCES Data: 20/10/2026 às 13:05 R$ 260.000,00 IR Explore por Categorias Pesquisa Avançada FAQ Entrar ou Criar conta Valor inicial R$ 260.000,00 Extrajudicial Leilão ML34972 Código Lote X130445 Número Lote LOTE 188 Visitas 4.999 Habilitados 135 Lances 0 Mega Leilões Imóveis Terrenos e Lotes Santa Catarina Joinville Terreno 391 m² - Floresta - Joinville - SC Navegue pelos lotes: Lote 1 Lote 2 Lote 3 Lote 4 Lote 5 Lote 6 Lote 7 Lote 8 Lote 9 Lote 10 Lote 11 Lote 12 Lote 13 Lote 14 Lote 15 Lote 16 Lote 17 Lote 18 Lote 19 Lote 20 Lote 21 Lote 22 Lote 23 Lote 24 Lote 25 Lote 26 Lote 27 Lote 28 Lote 29 Lote 30 Lote 31 Lote 32 Lote 33 Lote 34 Lote 35 Lote 36 Lote 37 Lote 38 Lote 39 Lote 40 Lote 41 Lote 42 Lote 43 Lote 44 Lote 45 Lote 46 Lote 47 Lote 48 Lote 49 Lote 50 Lote 51 Lote 52 Lote 53 Lote 54 Lote 55 Lote 56 Lote 57 Lote 58 Lote 59 Lote 60 Lote 61 Lote 62 Lote 63 Lote 64 Lote 65 Lote 66 Lote 67 Lote 68 Lote 69 Lote 70 Lote 71 Lote 72 Lote 73 Lote 74 Lote 75 Lote 76 Lote 77 Lote 78 Lote 79 Lote 80 Lote 81 Lote 82 Lote 83 Lote 84 Lote 85 Lote 86 Lote 87 Lote 88 Lote 89 Lote 90 Lote 91 Lote 92 Lote 93 Lote 94 Lote 95 Lote 96 Lote 97 Lote 98 Lote 99 Lote 100 Lote 101 Lote 102 Lote 103 Lote 104 Lote 105 Lote 106 Lote 107 Lote 108 Lote 109 Lote 110 Lote 111 Lote 112 Lote 113 Lote 114 Lote 115 Lote 116 Lote 117 Lote 118 Lote 119 Lote 120 Lote 121 Lote 122 Lote 123 Lote 124 Lote 125 Lote 126 Lote 127 Lote 128 Lote 129 Lote 130 Lote 131 Lote 132 Lote 133 Lote 134 Lote 135 Lote 136 Lote 137 Lote 138 Lote 139 Lote 140 Lote 141 Lote 142 Lote 143 Lote 144 Lote 145 Lote 146 Lote 147 Lote 148 Lote 149 Lote 150 Lote 151 Lote 152 Lote 153 Lote 154 Lote 155 Lote 156 Lote 157 Lote 158 Lote 159 Lote 160 Lote 161 Lote 162 Lote 163 Lote 164 Lote 165 Lote 166 Lote 167 Lote 168 Lote 169 Lote 170 Lote 171 Lote 172 Lote 173 Lote 174 Lote 175 Lote 176 Lote 177 Lote 178 Lote 179 Lote 180 Lote 181 Lote 182 Lote 183 Lote 184 Lote 185 Lote 186 Lote 187 Lote 188 Lote 189 Lote 190 Lote 191 Lote 192 Lote 193 Lote 194 Lote 195 Lote 196 Lote 197 Lote 198 Lote 199 Lote 200 Lote 201 Lote 202 Lote 203 Lote 204 IMÓVEL DESOCUPADO Localização Rua Mozart, 358, Floresta, Joinville, SC Comitente BANCO SANTANDER S.A. Leiloeiro Fernando José Cerello G. Pereira JUCESP Nº 844 - Leiloeiro oficial do Estado de São Paulo JUCEMG Nº 1192 - Leiloeiro oficial do Estado de Minas Gerais JUCEMAT Nº 73 - Leiloeiro oficial do Estado de Mato Grosso Valor de Avaliação R$ 342.000,00 ( Trezentos e quarenta e dois mil reais) . A descrição dos lotes é uma cópia fiel das informações fornecidas pelos cartórios, comitente ou outro órgão responsável pelo bem. O bem será vendido no estado em que se encontra conforme edital publicado. Reservamo-nos o direito de corrigir possíveis erros de digitação. Cumpre informar, que nos leilões Judiciais e de Falência, o procedimento do pós-arrematação, deve ser real",
         "is_aggregator": false
       },
       "image_urls": [
@@ -7612,7 +7612,7 @@
         "https://imagens.portalzuk.com.br/mini/2026/10/b6ef026a062928dc338beeb1a8dc7f0e.jpg"
       ],
       "first_seen_at": "2026-10-17T23:14:13-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -7680,7 +7680,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:54-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7729,7 +7729,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": null,
-      "appraisal_value_brl": 150.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 150000.0,
@@ -7748,7 +7748,7 @@
         "https://5c78720e80156cfd.cdn.gocache.net/bens/0000003625/img-3625-6ace4cf462889.jpg"
       ],
       "first_seen_at": "2026-10-19T10:18:29-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7757,7 +7757,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -7910,7 +7910,7 @@
         "https://dto3gws2tdkmm.cloudfront.net/leiloes/000000-6a6c146ce86fe.jpeg"
       ],
       "first_seen_at": "2026-10-17T23:23:56-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8039,7 +8039,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 4200000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 4200000.0,
@@ -8092,7 +8092,7 @@
         "https://hasta.com.br/foto/2054133/8.jpg"
       ],
       "first_seen_at": "2026-10-17T23:12:22-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -8102,7 +8102,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -8145,7 +8145,7 @@
       "auctioneer": null,
       "seller": "Caixa Econômica Federal - CAIXA Cidade: Joinville/SC Endereço: Descrição: NÚMERO DO BEM: 87877015633",
       "modality": "judicial",
-      "appraisal_value_brl": 205000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": 217666.0,
       "current_minimum_bid_brl": 217666.0,
@@ -8200,7 +8200,7 @@
         "https://hasta.com.br/foto/2040827/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:44-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -8210,7 +8210,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "declared",
         "current_minimum_bid_brl": "declared",
@@ -8295,7 +8295,7 @@
         "https://imagens.portalzuk.com.br/mini/2026/10/af94758ad7f208b78ae8fce9362fa258.jpg"
       ],
       "first_seen_at": "2026-10-17T23:14:11-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -8443,7 +8443,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 200000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 200000.0,
@@ -8486,7 +8486,7 @@
         "https://hasta.com.br/foto/1588250/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:12:19-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -8496,7 +8496,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -8537,7 +8537,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 354190.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 354190.0,
@@ -8575,7 +8575,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/17/17073eb89d43fc7660fab6a95f8542168413fc580c3b28d2bc6a43276278b2bc.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:53-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -8585,7 +8585,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -8645,7 +8645,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:53-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8711,7 +8711,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:53-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8777,7 +8777,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:53-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8929,7 +8929,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-19T10:18:29-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9024,7 +9024,7 @@
         "https://hasta.com.br/foto/999607/11.jpg"
       ],
       "first_seen_at": "2026-10-17T23:14:19-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -9092,7 +9092,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:54-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9232,7 +9232,7 @@
       "auctioneer": null,
       "seller": "ou outro órgão responsável",
       "modality": "judicial",
-      "appraisal_value_brl": 67500.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 67500.0,
@@ -9279,7 +9279,7 @@
         "https://hasta.com.br/foto/1083652/3.jpg"
       ],
       "first_seen_at": "2026-10-17T23:16:20-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -9289,7 +9289,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -9471,7 +9471,7 @@
         "https://hasta.com.br/foto/2106472/6.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:17-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -9539,7 +9539,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:53-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9590,7 +9590,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 227000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 299562.75,
@@ -9632,7 +9632,7 @@
         "https://hasta.com.br/foto/1948254/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:14:54-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -9642,7 +9642,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -9685,7 +9685,7 @@
       "auctioneer": null,
       "seller": "ATÉ A DATA DO LEILÃO · Condições de pagamento: À vista ou Financiamento em até 420 meses Localização",
       "modality": "judicial",
-      "appraisal_value_brl": 836000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 585000.0,
@@ -9723,7 +9723,7 @@
         "https://www.santanderimoveis.com.br/wp-content/uploads/2026/06/1780662847314.jpeg"
       ],
       "first_seen_at": "2026-10-17T23:16:34-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -9733,7 +9733,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -9776,7 +9776,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 1573880.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 1573880.0,
@@ -9826,7 +9826,7 @@
         "https://hasta.com.br/foto/1067948/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:16:22-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -9836,7 +9836,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -9908,7 +9908,7 @@
         "https://hasta.com.br/foto/2092417/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:29-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -9959,7 +9959,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 873890.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 873890.0,
@@ -10014,7 +10014,7 @@
         "https://hasta.com.br/foto/2102540/11.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:25-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -10024,7 +10024,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -10084,7 +10084,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:53-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -10135,7 +10135,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 200000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 103726.0,
@@ -10164,7 +10164,7 @@
         "https://img.centralsuldeleiloes.com.br/uploads/fotos/lotes/243969/apartamento-res-park-sul-joinville-01_tlnpho9z.jpg"
       ],
       "first_seen_at": "2026-10-17T23:13:41-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -10174,7 +10174,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -10215,7 +10215,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 309440.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 309440.0,
@@ -10253,7 +10253,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/45/459348f6157496d295f416658bccfa75d867547a28ea599e10cfac034b3a03bc.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:54-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -10263,7 +10263,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -10396,7 +10396,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 15767010.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 1576701.0,
@@ -10426,7 +10426,7 @@
         "https://hasta.com.br/foto/1896019/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:12:36-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -10436,7 +10436,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -10494,7 +10494,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:54-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -10601,7 +10601,7 @@
       ],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:14:50-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -10669,7 +10669,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:53-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -10735,7 +10735,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:54-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -10801,7 +10801,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:56-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -10850,7 +10850,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 194312.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 194312.0,
@@ -10906,7 +10906,7 @@
         "https://hasta.com.br/foto/2102539/11.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:27-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -10916,7 +10916,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -11002,7 +11002,7 @@
       ],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:14:46-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -11169,7 +11169,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/98/989e3a96fc3d683f0bc36357e77623c5cc244b1f3ffece861b6b917f7f54a753.webp"
       ],
       "first_seen_at": "2026-10-19T10:18:29-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -11221,7 +11221,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 600000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 600000.0,
@@ -11267,7 +11267,7 @@
         "https://hasta.com.br/foto/1963871/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:14:44-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -11277,7 +11277,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -11318,7 +11318,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 532182.74,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 532182.74,
@@ -11352,7 +11352,7 @@
         "https://hasta.com.br/foto/819981/4.jpg"
       ],
       "first_seen_at": "2026-10-17T23:13:37-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -11362,7 +11362,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -11604,7 +11604,7 @@
       "auctioneer": null,
       "seller": "Caixa Econômica Federal - CAIXA Cidade: Joinville/SC Endereço: Descrição: NÚMERO DO BEM: 84444014935",
       "modality": "judicial",
-      "appraisal_value_brl": 245000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": 245000.0,
       "current_minimum_bid_brl": 245000.0,
@@ -11659,7 +11659,7 @@
         "https://hasta.com.br/foto/2040828/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:43-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -11669,7 +11669,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "declared",
         "current_minimum_bid_brl": "declared",
@@ -11727,7 +11727,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:56-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -11778,7 +11778,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 33075936.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 264607.48,
@@ -11820,7 +11820,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/fotos/xx/12034/00.jpg"
       ],
       "first_seen_at": "2026-10-17T23:13:58-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -11830,7 +11830,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "unknown",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -11888,7 +11888,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:54-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -12055,7 +12055,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/ef/efc11344a54e348c006f18c21075b11825eee130822a3cc777be9d1091c574ad.jpg"
       ],
       "first_seen_at": "2026-10-17T23:23:57-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -12123,7 +12123,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/c8/c85aa89342ed784e001ee9d3c27584030c4218360aa3e2837beb70fd53bea3d4.webp"
       ],
       "first_seen_at": "2026-10-17T23:23:56-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -12174,7 +12174,7 @@
       "auctioneer": null,
       "seller": "quais débitos pendentes ficam com o comprador",
       "modality": "judicial",
-      "appraisal_value_brl": 220000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": null,
@@ -12215,7 +12215,7 @@
         "https://hasta.com.br/foto/2152361/11.jpg"
       ],
       "first_seen_at": "2026-10-17T23:12:20-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -12225,7 +12225,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "unknown",
@@ -12285,7 +12285,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/fb/fb3a05514f468d63a93f85eb36b225aa6cb708293060f2e5c27a56b86bdbd72a.jpg"
       ],
       "first_seen_at": "2026-10-17T23:23:57-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -12334,7 +12334,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 240170.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 240170.0,
@@ -12372,7 +12372,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/1e/1e2e503ebd5aa80e5262e1026016ece3da0e6d26f75fc9d9a2d504391cbe1366.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:57-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -12382,7 +12382,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -12657,7 +12657,7 @@
         "https://hasta.com.br/foto/1967088/10.jpg"
       ],
       "first_seen_at": "2026-10-17T23:14:33-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -12708,7 +12708,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 40500000000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 6644387.0,
@@ -12747,7 +12747,7 @@
         "https://hasta.com.br/foto/318895/1.jpg"
       ],
       "first_seen_at": "2026-10-17T23:12:26-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -12757,7 +12757,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -12842,7 +12842,7 @@
         "https://imagens.portalzuk.com.br/mini/2026/09/74f1f0fe30d601a2e45e477feacaaad8.jpg"
       ],
       "first_seen_at": "2026-10-17T23:14:15-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -12895,7 +12895,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 300000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 150000.0,
@@ -12934,7 +12934,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/6a/6a58e2a1d2573776bfffd2207fa10e4ff6ac5be766e288964d39fcb1e630b33e.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:38-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -12944,7 +12944,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -13028,7 +13028,7 @@
         "https://hasta.com.br/foto/2106474/6.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:15-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -13280,7 +13280,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 1604270.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 1604270.0,
@@ -13318,7 +13318,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/b3/b309d3294ba8088f97cbebf40724e640b6afa5dd5896a649f38124dfb8a24da5.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:59-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -13328,7 +13328,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -13369,7 +13369,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 235750.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 235750.0,
@@ -13407,7 +13407,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/ea/eac68aef6c8720aad92333f5bbd17653ee36aafda391c3129feb9688a89f3659.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:50-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -13417,7 +13417,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -13502,7 +13502,7 @@
         "https://hasta.com.br/foto/999657/11.jpg"
       ],
       "first_seen_at": "2026-10-17T23:14:18-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -13570,7 +13570,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:54-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -13747,7 +13747,7 @@
         "https://static.suporteleiloes.com.br/trileiloescombr/leiloes/132/6a3ef9546ac6f-6a3ef95476341.jpg"
       ],
       "first_seen_at": "2026-10-17T23:16:36-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -13851,7 +13851,7 @@
         "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grlkbn1ggqso/b/astavero/o/anexos/sampaio/6ab191ab4cf1962c5289c9c8/6ab191e3ab0be795d32c9339/foto_frontal_1-1790079901000.png"
       ],
       "first_seen_at": "2026-10-17T22:56:32-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown"
@@ -13872,7 +13872,7 @@
       "provenance": {
         "source_id": "sampaio",
         "captured_from": "https://sampaioleiloes.com.br/pregao/6ab191ab4cf1962c5289c9c8/6ab191e3ab0be795d32c9339",
-        "raw_text": "Apartamento em Joinville JOINVILLE - SC R$ 280.000,00 10/11/2026 ABERTO 1º LEILÃO home arrow_back Sampaio Leilões João Paulo Sampaio Damiani Leiloeiro Oficial JUCESC AARC-379 search account_circle more_vert ABERTO Oferta Data Valor Licitante Lote: ( 01 ) visibility VISITAS: 2556 APARTAMENTO EM JOINVILLE Valor: R$ 280.000,00 Escolha sua oferta: R$ 280.000,00 R$ 290.000,00 R$ 305.000,00 keyboard_arrow_up keyboard_arrow_down CONFIRMA Programar oferta: R$ 295.000,00 keyboard_arrow_up keyboard_arrow_down PROGRAMAR Vai para lote no pregão first_page keyboard_arrow_left keyboard_arrow_right last_page 1/1 01 Aberto Apartamento em Joinville Início: 10/11 10:00 Encerra a partir: 10/11 14:00 Valor avaliação: R$ 280.000,00 attach_file Edital attach_file Descrição do bem Favoritos star 01 (um) apartamento, matriculado sob o n.º 18.869, no Cartório do 3º Ofício do Registro de Imóveis da Comarca de Joinville (SC), correspondente à unidade n.º 03, 1º pavimento, bloco n.º 10 do Conjunto Residencial Campo Belo, situado na rua Padre Kolb, n.º 99, em Joinville (SC), medindo 97,26 m² de área real total, sendo 73,02 m² de área real privativa e 24,24 m² de área real de uso comum, inclusive uma vaga de garagem. Ônus: R-4 Hipoteca em favor da Caixa Econômica Federal – CEF. R-05 Penhora em favor de Condomínio Conjunto Residencial Campo Belo gravada nos autos nº 038.11.033310-9/001, da 2ª Vara Cível da Comarca de Joinville/SC. R-06 Penhora em favor da Caixa Econômica Federal – CEF gravada nos autos nº 5000054-66.2014.4.04.7201, da 2ª Vara Federal de Joinville/SC. Avaliação: R$ 280.000,00 (duzentos e oitenta mil reais), em 18/11/2024. Pagamento O pagamento do preço se dará no ato do leilão e por depósito bancário, em conta vinculada ao juízo, aberta para esse fim. Dados do leilão Disponibilidade: Aberto 1º Leilão: 10/11/2026 14:00 Local: Datas dos Leilões 1º Leilão: 10/11/2026 14:00 Valor leilão: R$ 280.000,00 2º Leilão: 17/11/2026 14:00 Valor leilão: R$ 252.000,00 placeLocal do leilao placeLocal do bem Dados do Processo Vara da Justiça: 8ª Vara Cível Da Comarca de Joinville Magistrado: DANIEL RADUNZ Processo: 5000538-16.2012.8.24.0038 Tipo de processo: Exequente: Condomínio Conjunto Residencial Campo Belo Executado: José de Fatima Caetano e Debora Cristina Izauro Caetano Depositário: José de Fatima Caetano e Debora Cristina Izauro Caetano Cidade/UF: Joinville/SC Endereço: rua Padre Kolb, n.º 99 - Visitação: Apenas de forma externa Retirada: Não se aplica signal_wifi_statusbar_4_barON mailAvisos de leilões attributionInstitucional arrow_upward",
+        "raw_text": "Apartamento em Joinville JOINVILLE - SC R$ 280.000,00 10/11/2026 ABERTO 1º LEILÃO home arrow_back Sampaio Leilões João Paulo Sampaio Damiani Leiloeiro Oficial JUCESC AARC-379 search account_circle more_vert ABERTO Oferta Data Valor Licitante Lote: ( 01 ) visibility VISITAS: 2562 APARTAMENTO EM JOINVILLE Valor: R$ 280.000,00 Escolha sua oferta: R$ 280.000,00 R$ 290.000,00 R$ 305.000,00 keyboard_arrow_up keyboard_arrow_down CONFIRMA Programar oferta: R$ 295.000,00 keyboard_arrow_up keyboard_arrow_down PROGRAMAR Vai para lote no pregão first_page keyboard_arrow_left keyboard_arrow_right last_page 1/1 01 Aberto Apartamento em Joinville Início: 10/11 10:00 Encerra a partir: 10/11 14:00 Valor avaliação: R$ 280.000,00 attach_file Edital attach_file Descrição do bem Favoritos star 01 (um) apartamento, matriculado sob o n.º 18.869, no Cartório do 3º Ofício do Registro de Imóveis da Comarca de Joinville (SC), correspondente à unidade n.º 03, 1º pavimento, bloco n.º 10 do Conjunto Residencial Campo Belo, situado na rua Padre Kolb, n.º 99, em Joinville (SC), medindo 97,26 m² de área real total, sendo 73,02 m² de área real privativa e 24,24 m² de área real de uso comum, inclusive uma vaga de garagem. Ônus: R-4 Hipoteca em favor da Caixa Econômica Federal – CEF. R-05 Penhora em favor de Condomínio Conjunto Residencial Campo Belo gravada nos autos nº 038.11.033310-9/001, da 2ª Vara Cível da Comarca de Joinville/SC. R-06 Penhora em favor da Caixa Econômica Federal – CEF gravada nos autos nº 5000054-66.2014.4.04.7201, da 2ª Vara Federal de Joinville/SC. Avaliação: R$ 280.000,00 (duzentos e oitenta mil reais), em 18/11/2024. Pagamento O pagamento do preço se dará no ato do leilão e por depósito bancário, em conta vinculada ao juízo, aberta para esse fim. Dados do leilão Disponibilidade: Aberto 1º Leilão: 10/11/2026 14:00 Local: Datas dos Leilões 1º Leilão: 10/11/2026 14:00 Valor leilão: R$ 280.000,00 2º Leilão: 17/11/2026 14:00 Valor leilão: R$ 252.000,00 placeLocal do leilao placeLocal do bem Dados do Processo Vara da Justiça: 8ª Vara Cível Da Comarca de Joinville Magistrado: DANIEL RADUNZ Processo: 5000538-16.2012.8.24.0038 Tipo de processo: Exequente: Condomínio Conjunto Residencial Campo Belo Executado: José de Fatima Caetano e Debora Cristina Izauro Caetano Depositário: José de Fatima Caetano e Debora Cristina Izauro Caetano Cidade/UF: Joinville/SC Endereço: rua Padre Kolb, n.º 99 - Visitação: Apenas de forma externa Retirada: Não se aplica signal_wifi_statusbar_4_barON mailAvisos de leilões attributionInstitucional arrow_upward",
         "is_aggregator": false
       },
       "source_listing_url": "https://sampaioleiloes.com.br/pregao/6ab191ab4cf1962c5289c9c8/6ab191e3ab0be795d32c9339",
@@ -13940,7 +13940,7 @@
         "https://hasta.com.br/foto/2106473/6.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:16-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -14192,7 +14192,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 745330.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 745330.0,
@@ -14230,7 +14230,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/5b/5b3f431a67529c56eff0308205acb18de8c05611f6162e34f0476cdc24a3a808.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:55-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -14240,7 +14240,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -14527,7 +14527,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 183906.89,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 183906.89,
@@ -14574,7 +14574,7 @@
         "https://imagens.portalzuk.com.br/detalhe/2026/09/017b1449be561de1eef0a2b11b2849b6.jpg"
       ],
       "first_seen_at": "2026-10-17T23:16:11-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -14584,7 +14584,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -14671,7 +14671,7 @@
       ],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:16:03-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -14724,7 +14724,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 200000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 120882.7,
@@ -14757,7 +14757,7 @@
         "https://d107brv7xtbumz.cloudfront.net/50bd10c9-de4b-4007-853f-1f6aadb72530"
       ],
       "first_seen_at": "2026-10-17T23:05:19-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -14767,7 +14767,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -14983,7 +14983,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 445630.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 445630.0,
@@ -15021,7 +15021,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/fb/fb7bb7c4f45bb108125de518af64615deccd75c5b0f975981f1cdeaa1843e9df.jpg"
       ],
       "first_seen_at": "2026-10-17T23:16:02-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -15031,7 +15031,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -15074,7 +15074,7 @@
       "auctioneer": null,
       "seller": "Caixa Econômica Federal - CAIXA Cidade: Joinville/SC Endereço: Descrição: NÚMERO DO BEM: 85555057969",
       "modality": "judicial",
-      "appraisal_value_brl": 170000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": 170000.0,
       "current_minimum_bid_brl": 170000.0,
@@ -15129,7 +15129,7 @@
         "https://hasta.com.br/foto/2040925/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:42-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -15139,7 +15139,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "declared",
         "current_minimum_bid_brl": "declared",
@@ -15211,7 +15211,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/46/46ed7a026af136ba32bbcf6b8e9e2dfee55791f10c03f09e0af686216a8b34eb.jpg"
       ],
       "first_seen_at": "2026-10-17T23:13:55-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -15281,7 +15281,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:56-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -15361,7 +15361,7 @@
         "https://hasta.com.br/foto/1785653/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:14:37-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -15431,7 +15431,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/af/af4bd205ad983f3b53105d99714a7c0a4fa2cfc3f1abdcd9f519ce648855a78f.jpg"
       ],
       "first_seen_at": "2026-10-17T23:23:56-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -15523,7 +15523,7 @@
         "https://hasta.com.br/foto/2106471/6.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:19-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -15693,7 +15693,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/70/70c6f12935bc2d26912edf94e38330909264d866f349eba72395ab002f670ccf.webp"
       ],
       "first_seen_at": "2026-10-17T23:15:11-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -15746,7 +15746,7 @@
       "auctioneer": null,
       "seller": "ATÉ A DATA DO LEILÃO · Condições de pagamento: Somente à vista Localização 📍 Floresta",
       "modality": "judicial",
-      "appraisal_value_brl": 342000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 260000.0,
@@ -15782,7 +15782,7 @@
         "https://www.santanderimoveis.com.br/wp-content/uploads/2026/09/1788533080897.jpeg"
       ],
       "first_seen_at": "2026-10-17T23:16:16-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -15792,7 +15792,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -15926,7 +15926,7 @@
       "auctioneer": null,
       "seller": "ATÉ A DATA DO LEILÃO · Condições de pagamento: À vista ou Financiamento em até 420 meses Localização",
       "modality": "judicial",
-      "appraisal_value_brl": 1769000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 1238000.0,
@@ -15961,7 +15961,7 @@
         "https://www.santanderimoveis.com.br/wp-content/uploads/2026/04/1775572276222.jpeg"
       ],
       "first_seen_at": "2026-10-17T23:16:33-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -15971,7 +15971,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -16014,7 +16014,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 20050.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": 2000.0,
       "current_minimum_bid_brl": 2000.0,
@@ -16056,7 +16056,7 @@
         "https://hasta.com.br/foto/1753653/6.jpg"
       ],
       "first_seen_at": "2026-10-17T23:18:20-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -16066,7 +16066,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "declared",
         "current_minimum_bid_brl": "declared",
@@ -16144,7 +16144,7 @@
         "https://24e53253961aecf7.cdn.gocache.net/watermark/bens/0000086681/img-86681-6ab3e48a5074f.jpg"
       ],
       "first_seen_at": "2026-10-17T23:18:25-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -16197,7 +16197,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 2320752.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 11603.76,
@@ -16238,7 +16238,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/fotos/xx/12010/00.jpg"
       ],
       "first_seen_at": "2026-10-17T23:18:09-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -16248,7 +16248,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "unknown",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -16382,7 +16382,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 220000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 220000.0,
@@ -16433,7 +16433,7 @@
         "https://hasta.com.br/foto/1577545/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:18:36-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -16443,7 +16443,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -16503,7 +16503,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:24:02-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -16742,7 +16742,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 20050.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": 2000.0,
       "current_minimum_bid_brl": 2000.0,
@@ -16784,7 +16784,7 @@
         "https://hasta.com.br/foto/1755089/6.jpg"
       ],
       "first_seen_at": "2026-10-17T23:18:06-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -16794,7 +16794,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "declared",
         "current_minimum_bid_brl": "declared",
@@ -16957,7 +16957,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:24:02-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -17008,7 +17008,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 50595.18,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 50595.18,
@@ -17072,7 +17072,7 @@
         "https://hasta.com.br/foto/1311441/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:18:47-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -17082,7 +17082,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -17142,7 +17142,7 @@
         "https://ms.sbwebservices.net/photos/e7e665fe-7894-46bd-b2da-c582a16b098d.jpg"
       ],
       "first_seen_at": "2026-10-17T23:24:02-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -17210,7 +17210,7 @@
         "https://imagens.portalzuk.com.br/mini/2026/10/5124ff3d92075e9a3badb830bef2340e.jpg"
       ],
       "first_seen_at": "2026-10-18T20:24:47-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -17261,7 +17261,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 76606.99,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 76606.99,
@@ -17305,7 +17305,7 @@
         "https://hasta.com.br/foto/1709977/1.jpg"
       ],
       "first_seen_at": "2026-10-17T23:18:26-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -17315,7 +17315,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "unknown",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -17487,7 +17487,7 @@
         "https://imagens.portalzuk.com.br/mini/2026/09/7ebe8dc031c06e9810c103f7e481730d.jpg"
       ],
       "first_seen_at": "2026-10-17T23:08:08-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -17540,7 +17540,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 52064.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 52064.0,
@@ -17596,7 +17596,7 @@
         "https://hasta.com.br/foto/1352938/11.jpg"
       ],
       "first_seen_at": "2026-10-17T23:08:09-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -17606,7 +17606,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -17980,7 +17980,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/24/24052df3ebd3338b9f5867a5b77d36782d748fa4a10399a4dccdb334d96f2b0b.jpg"
       ],
       "first_seen_at": "2026-10-17T23:18:30-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -18033,7 +18033,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 3518000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 3518000.0,
@@ -18077,7 +18077,7 @@
         "https://hasta.com.br/foto/1597363/1.jpg"
       ],
       "first_seen_at": "2026-10-17T23:18:24-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -18087,7 +18087,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -18145,7 +18145,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:24:02-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -18196,7 +18196,7 @@
       "auctioneer": null,
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 23207.52,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": 11603.76,
@@ -18243,7 +18243,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/b3/b3b9c5164ef11a551bd4e2522559a3d52826aa0dc20532f2ad7a047e29b5babb.gif"
       ],
       "first_seen_at": "2026-10-17T23:18:33-03:00",
-      "last_checked_at": "2026-10-19T10:31:35-03:00",
+      "last_checked_at": "2026-10-19T10:38:32-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -18253,7 +18253,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "unknown",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -18389,8 +18389,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.27,
-      "finished_at": "2026-10-19T10:30:41-03:00"
+      "duration_seconds": 1.21,
+      "finished_at": "2026-10-19T10:37:43-03:00"
     },
     {
       "source_id": "caixa",
@@ -18406,8 +18406,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.92,
-      "finished_at": "2026-10-19T10:30:43-03:00"
+      "duration_seconds": 2.06,
+      "finished_at": "2026-10-19T10:37:45-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -18423,9 +18423,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 7.19,
-      "finished_at": "2026-10-19T10:30:50-03:00",
-      "last_success_at": "2026-10-19T10:30:50-03:00"
+      "duration_seconds": 6.06,
+      "finished_at": "2026-10-19T10:37:51-03:00",
+      "last_success_at": "2026-10-19T10:37:51-03:00"
     },
     {
       "source_id": "superbid",
@@ -18441,8 +18441,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.09,
-      "finished_at": "2026-10-19T10:30:51-03:00"
+      "duration_seconds": 1.02,
+      "finished_at": "2026-10-19T10:37:52-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -18458,8 +18458,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.26,
-      "finished_at": "2026-10-19T10:30:52-03:00"
+      "duration_seconds": 1.25,
+      "finished_at": "2026-10-19T10:37:53-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -18475,8 +18475,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.19,
-      "finished_at": "2026-10-19T10:30:53-03:00"
+      "duration_seconds": 1.25,
+      "finished_at": "2026-10-19T10:37:55-03:00"
     },
     {
       "source_id": "freitas",
@@ -18492,9 +18492,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 18.03,
-      "finished_at": "2026-10-19T10:31:11-03:00",
-      "last_success_at": "2026-10-19T10:31:11-03:00"
+      "duration_seconds": 14.36,
+      "finished_at": "2026-10-19T10:38:09-03:00",
+      "last_success_at": "2026-10-19T10:38:09-03:00"
     },
     {
       "source_id": "comprei",
@@ -18510,8 +18510,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.92,
-      "finished_at": "2026-10-19T10:31:13-03:00"
+      "duration_seconds": 1.77,
+      "finished_at": "2026-10-19T10:38:11-03:00"
     },
     {
       "source_id": "sampaio",
@@ -18527,9 +18527,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 5.75,
-      "finished_at": "2026-10-19T10:31:19-03:00",
-      "last_success_at": "2026-10-19T10:31:19-03:00"
+      "duration_seconds": 5.42,
+      "finished_at": "2026-10-19T10:38:16-03:00",
+      "last_success_at": "2026-10-19T10:38:16-03:00"
     },
     {
       "source_id": "machado",
@@ -18545,8 +18545,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.23,
-      "finished_at": "2026-10-19T10:31:20-03:00"
+      "duration_seconds": 1.26,
+      "finished_at": "2026-10-19T10:38:18-03:00"
     },
     {
       "source_id": "hasta",
@@ -18562,9 +18562,9 @@
         "Barra Velha": 3,
         "Rio do Sul": 17
       },
-      "duration_seconds": 14.0,
-      "finished_at": "2026-10-19T10:31:35-03:00",
-      "last_success_at": "2026-10-19T10:31:35-03:00"
+      "duration_seconds": 14.1,
+      "finished_at": "2026-10-19T10:38:32-03:00",
+      "last_success_at": "2026-10-19T10:38:32-03:00"
     }
   ]
 }

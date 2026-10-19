@@ -9504,6 +9504,1077 @@
           "detected_at": "2026-10-19T10:31:35-03:00"
         }
       ]
+    },
+    {
+      "run_id": "75ab68db-55b6-49d7-8cf5-4516a8b4c122",
+      "detected_at": "2026-10-19T10:38:32-03:00",
+      "changes": [
+        {
+          "property_id": "148da9b4c7a4a4dc4dcb",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 210000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "eb79c4020ab8161c6a5a",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 200000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "5f945cd668932337ba71",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 200000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "b8a5be2a704498ed207c",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 220000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "5967008dc9c0d0d290e7",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 4200000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "156322f6af67613a79b8",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 280000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "c295f3ec9fadf920d8dd",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 40500000000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "865d5d703be0729da6fa",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 15767010.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "f2a088071fd21ee8f010",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 170000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "a45a21ae9768cdbf1db8",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 245000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "0025d7addfa110458918",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 180000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "47bfd0b4b2820f41330b",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 228000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "ea819b5e1f79d17cb78c",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 183906.89,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "1d8772fdbe1c70e5b04e",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 220000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "806b3dcc57bd44aecdfc",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 873890.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "9f59bed005d86dfa5bba",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 532182.74,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "81f30b402316acc37ba4",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 200000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "aa0e2eeda84cb785589d",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 33075936.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "985f2b707643dc9e922e",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 194312.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "568e1ff77e60d2679a24",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 150.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "41923e816374a11c1686",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 20000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "9e9adf7601901bcd97c8",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 600000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "77c7d2b58a2ac581655c",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 227000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "4ead49556c3ed2e8a9f2",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 13100.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "1a20be5f779cf5f4409a",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 5000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "c7d3a89ff43caa55ffe5",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 300000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "5b8f8c01a9dcdd95d58c",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 205000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "d19e9babe68a5fa2c479",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 235750.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "602eeaa9278501805877",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 354190.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "8254ac4ba8d517c3a39f",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 309440.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "e334403a5e8128a66bbd",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 745330.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "bc11428240adb22000d2",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 240170.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "d10edaaa8ef7265db0aa",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 1604270.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "ef38e9ba92625ff77d98",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 445630.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "208e5cb631fadc27dcaa",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 90000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "fedc1e7a898c7b810295",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 342000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "2db2dbfd4dc16749882e",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 1580433.02,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "6e7bb0413fbe6d7cd121",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 67500.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "790e340d3d32c038af02",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 1573880.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "20086256b8ce71ad91f1",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 510000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "3cef7fc45e954d5fe069",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 890000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "ff61811de521a83d8a2c",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 1769000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "78b18e108f5c62b21ab3",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 836000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "b79898cf34e4838c3449",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 320000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "b4a0df5b2a4e2536be8d",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 496710.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "6b9ee1df97d6dc66be3d",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 952255.53,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "43b2c273ed2e2464aace",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 370000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "0ad6519068704c438998",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 1500000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "af77573d850dc952d3b9",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 2300000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "36dcfaa54f2f10dc7d7f",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 2250000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "36c68b362c00de16f369",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 2300000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "7f1836fe15d8b455b718",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 960000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "62f226bd6935bed8ef35",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 952255.53,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "d377429f3f1d961dc221",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 150000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "b1d8d7c9b25bc6ca9a00",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 1900000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "f5d481e440ddbf5c0aaf",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 1800000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "f973e25b6daf730a764b",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 3650000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "abfeceecbc36b9d2b691",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 49671.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "270a93f7bc136faf7572",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 1400000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "4a2e2e5abc53df2b0b68",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 700000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "150e33a012603589032c",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 910000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "23fa965ece4277305e11",
+          "city": "Barra Velha",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 169934.16,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "400f8aa70434acb93bf9",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 20050.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "1ade8e46f20e49701722",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 2320752.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "97704f8a04c77d4e4cfb",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 52064.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "0467a20555cfcec2fe46",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 20050.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "b880767e91a5af233522",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 3518000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "842d9becd96a946a8f75",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 76606.99,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "de2c997a7701b7b5a453",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 23207.52,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "1f4300803ee2cdc58b46",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 220000.0,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        },
+        {
+          "property_id": "4fce775e168123626657",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "appraisal_value_brl",
+              "before": 50595.18,
+              "after": null
+            }
+          ],
+          "detected_at": "2026-10-19T10:38:32-03:00"
+        }
+      ]
     }
   ]
 }
