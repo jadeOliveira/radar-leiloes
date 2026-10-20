@@ -50,7 +50,9 @@ class SiteAdapter:
         last_error = None
         for attempt in range(2):
             try:
-                page.goto(url, wait_until="domcontentloaded", timeout=self.timeout_ms)
+                response = page.goto(url, wait_until="domcontentloaded", timeout=self.timeout_ms)
+                if response and response.status in (401, 403, 429):
+                    raise SourceUnavailable(f"Fonte limitada (HTTP {response.status}); acesso não contornado.")
                 page.wait_for_timeout(900)
                 title = page.title().casefold()
                 body = page.locator("body").inner_text(timeout=5000)

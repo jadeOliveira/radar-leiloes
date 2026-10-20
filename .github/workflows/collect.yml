@@ -36,11 +36,16 @@ jobs:
       - name: Coletar anúncios públicos
         id: collect
         run: python -m monitor.run
+      - name: Recuperar fotos ausentes de todos os anúncios
+        id: images
+        if: always()
+        run: python -m monitor.ensure_images
       - name: Registrar execução e enviar resultados
         if: always()
         env:
           COLLECT_OUTCOME: ${{ steps.collect.outcome || 'not_run' }}
           SCHEDULE: ${{ github.event.schedule || '' }}
+          IMAGE_OUTCOME: ${{ steps.images.outcome || 'not_run' }}
         run: |
           python - <<'PY'
           import json, os
@@ -55,6 +60,7 @@ jobs:
               'trigger': os.environ['GITHUB_EVENT_NAME'],
               'scheduled_for': os.environ.get('SCHEDULE') or None,
               'collection_outcome': os.environ.get('COLLECT_OUTCOME', 'not_run'),
+              'image_outcome': os.environ.get('IMAGE_OUTCOME', 'not_run'),
               'finished_at': datetime.now(ZoneInfo('America/Sao_Paulo')).isoformat(timespec='seconds'),
               'source_commit': os.environ['GITHUB_SHA'],
               'run_url': f"https://github.com/{os.environ['GITHUB_REPOSITORY']}/actions/runs/{run_id}",
@@ -65,7 +71,7 @@ jobs:
           PY
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/properties.json data/history.json data/changes.json data/last-run.json data/collection-trigger.json
+          git add data/properties.json data/history.json data/changes.json data/last-run.json data/collection-trigger.json data/image-report.json
           if git diff --cached --quiet; then
             echo 'Registro da execução já estava atualizado.'
           else

@@ -47,6 +47,8 @@ jobs:
           node-version: 22
       - name: Instalar dependências
         run: npm ci
+      - name: Exigir imagem em todos os anúncios antes de publicar
+        run: python -m monitor.photo_policy
       - name: Compilar painel
         run: |
           mkdir -p public/data
