@@ -13,7 +13,16 @@ def fold(value: str) -> str:
 
 
 def canonical_property_type(item: dict[str, Any], listing_text: str = "") -> str | None:
-    """Accept only requested property categories; resolve a generic lot only with land evidence."""
+    """Accept requested property categories and reject clearly movable-goods lots."""
+    context = fold(" ".join((
+        str(item.get("source_listing_url") or ""), str(item.get("official_url") or ""),
+        str(item.get("address") or ""), str(item.get("neighborhood") or ""), listing_text,
+        str(item.get("provenance", {}).get("raw_text") or ""),
+    )))
+    if re.search(r"\blote\s+de\s+(?:equip(?:s|amentos?)|m[aá]quinas?|ve[ií]culos?|bens)\b|"
+                 r"\b(?:equipamentos?\s+(?:de\s+)?(?:escrit[oó]rio|industriais?)|bens\s+m[oó]veis?)\b", context):
+        return None
+
     raw_type = fold(str(item.get("property_type") or ""))
     direct_types = {
         "casa": "Casa",
@@ -25,10 +34,6 @@ def canonical_property_type(item: dict[str, Any], listing_text: str = "") -> str
     if raw_type in direct_types:
         return direct_types[raw_type]
 
-    context = fold(" ".join((
-        str(item.get("source_listing_url") or ""), str(item.get("official_url") or ""),
-        str(item.get("address") or ""), str(item.get("neighborhood") or ""), listing_text,
-    )))
     land_evidence = re.search(
         r"\b(?:terreno|terrno|lote\s+(?:urbano|rural|de\s+terreno|de\s+terras))\b|"
         r"\b(?:lote-a-venda|lote-de-terreno|lote-urbano|lote-rural)\b",

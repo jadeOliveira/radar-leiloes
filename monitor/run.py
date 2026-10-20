@@ -54,7 +54,7 @@ def merge_property(old: dict[str, Any] | None, new: dict[str, Any]) -> tuple[dic
         "registry_number", "registry_office", "auction_lot", "auctioneer", "seller", "modality",
         "appraisal_value_brl", "first_minimum_bid_brl", "second_minimum_bid_brl", "current_minimum_bid_brl", "source_listing_price_brl",
         "discount_on_appraisal_percent", "auction_events", "commission_percent", "payment_conditions",
-        "occupancy", "status", "official_url", "source_listing_url", "validation_status", "edital_url",
+        "occupancy", "status", "official_url", "validation_status", "edital_url",
         "document_urls", "image_urls", "classification", "risk_flags",
     )
     for field, value in new.items():
@@ -130,8 +130,10 @@ def merge_property(old: dict[str, Any] | None, new: dict[str, Any]) -> tuple[dic
             "address": new.get("field_verification", {}).get("address", "unknown"),
         })
     urls = list(merged.get("source_listing_urls", []))
-    urls.extend([merged.get("source_listing_url"), new.get("source_listing_url"), new.get("official_url")])
+    urls.extend([merged.get("source_listing_url"), old.get("source_listing_url"), new.get("source_listing_url"), new.get("official_url")])
     merged["source_listing_urls"] = list(dict.fromkeys(url for url in urls if url))
+    old_primary_url = old.get("source_listing_url")
+    merged["source_listing_url"] = old_primary_url if old_primary_url in merged["source_listing_urls"] else next(iter(merged["source_listing_urls"]), None)
     merged["id"] = old["id"]
     merged["first_seen_at"] = old.get("first_seen_at") or new.get("first_seen_at")
     return merged, changes
