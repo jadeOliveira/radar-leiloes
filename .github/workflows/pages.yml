@@ -7,9 +7,6 @@ on:
     workflows: ["Coleta diária de leilões"]
     types: [completed]
     branches: [main]
-  schedule:
-    - cron: '20 8 * * *'
-      timezone: America/Sao_Paulo
   workflow_dispatch:
 
 permissions:
@@ -27,6 +24,23 @@ jobs:
     steps:
       - name: Baixar repositório
         uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Confirmar gatilho da coleta
+        if: github.event_name == 'workflow_run'
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          trigger = json.loads(Path('data/collection-trigger.json').read_text(encoding='utf-8'))
+          print(json.dumps({
+              'run_id': trigger.get('run_id'),
+              'trigger': trigger.get('trigger'),
+              'collection_outcome': trigger.get('collection_outcome'),
+              'finished_at': trigger.get('finished_at'),
+          }, ensure_ascii=False))
+          PY
       - name: Preparar Node.js
         uses: actions/setup-node@v4
         with:

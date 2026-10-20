@@ -36,15 +36,40 @@ jobs:
       - name: Coletar anúncios públicos
         id: collect
         run: python -m monitor.run
-      - name: Registrar atualização dos dados
+      - name: Registrar execução e enviar resultados
         if: always()
+        env:
+          COLLECT_OUTCOME: ${{ steps.collect.outcome || 'not_run' }}
+          SCHEDULE: ${{ github.event.schedule || '' }}
         run: |
+          python - <<'PY'
+          import json, os
+          from datetime import datetime
+          from pathlib import Path
+          from zoneinfo import ZoneInfo
+
+          run_id = os.environ['GITHUB_RUN_ID']
+          trigger = {
+              'run_id': run_id,
+              'run_attempt': int(os.environ['GITHUB_RUN_ATTEMPT']),
+              'trigger': os.environ['GITHUB_EVENT_NAME'],
+              'scheduled_for': os.environ.get('SCHEDULE') or None,
+              'collection_outcome': os.environ.get('COLLECT_OUTCOME', 'not_run'),
+              'finished_at': datetime.now(ZoneInfo('America/Sao_Paulo')).isoformat(timespec='seconds'),
+              'source_commit': os.environ['GITHUB_SHA'],
+              'run_url': f"https://github.com/{os.environ['GITHUB_REPOSITORY']}/actions/runs/{run_id}",
+          }
+          Path('data/collection-trigger.json').write_text(
+              json.dumps(trigger, ensure_ascii=False, indent=2) + '\n', encoding='utf-8'
+          )
+          PY
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/properties.json data/history.json data/changes.json data/last-run.json
+          git add data/properties.json data/history.json data/changes.json data/last-run.json data/collection-trigger.json
           if git diff --cached --quiet; then
-            echo 'Sem alterações nos dados coletados.'
+            echo 'Registro da execução já estava atualizado.'
           else
-            git commit -m 'data: update auction monitor records'
-            git push
+            git commit -m 'data: record collection run'
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi

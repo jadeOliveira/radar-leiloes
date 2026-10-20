@@ -37,8 +37,8 @@ python -m monitor.run
 
 ## Automação e publicação
 
-- `.github/workflows/collect.yml` roda diariamente às 08:00 com fuso `America/Sao_Paulo` e também permite execução manual. O job grava duração, estado, fontes, contagens de imóveis novos/alterados, data da base exibida e erros; só atualiza os anúncios quando há novidades ou mudanças relevantes e não apaga dados após falha de fonte.
-- `.github/workflows/pages.yml` compila e publica no GitHub Pages após pushes, execução manual e diariamente às 08:20 em `America/Sao_Paulo`.
+- `.github/workflows/collect.yml` roda diariamente às 08:00 com fuso `America/Sao_Paulo` e também permite execução manual. O job grava duração, estado, fontes, contagens de imóveis novos/alterados, data da base exibida e erros; além disso, sempre atualiza `data/collection-trigger.json` e envia o registro para `main`, mesmo quando não há novos anúncios.
+- `.github/workflows/pages.yml` compila e publica após pushes de código, execução manual e conclusão da coleta. Ao receber a conclusão, baixa `main`, lê o registro de execução e publica os arquivos de dados atuais no GitHub Pages.
 - O workflow tenta habilitar o GitHub Pages automaticamente. Se a política da conta impedir isso, habilite em **Settings → Pages → Build and deployment → Source: GitHub Actions** e execute o workflow novamente.
 
 O painel está publicado em `https://jadeoliveira.github.io/radar-leiloes/`.
