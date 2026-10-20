@@ -6,7 +6,7 @@ from monitor.normalization import fold, has_card_details, identity_keys, money, 
 SOURCE = {
     "id": "example", "name": "Fonte oficial", "host": "leiloes.example.br"
 }
-CITIES = ["Joinville", "Balneário Camboriú", "Balneário Piçarras", "Barra Velha", "Penha", "Navegantes"]
+CITIES = ["Joinville", "Balneário Camboriú", "Balneário Piçarras", "Barra Velha", "Penha", "Navegantes", "Rio do Sul"]
 
 
 class NormalizationTests(unittest.TestCase):

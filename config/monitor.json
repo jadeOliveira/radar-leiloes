@@ -5,7 +5,8 @@
     "Balneário Piçarras",
     "Barra Velha",
     "Penha",
-    "Navegantes"
+    "Navegantes",
+    "Rio do Sul"
   ],
   "state": "SC",
   "timezone": "America/Sao_Paulo",
@@ -20,6 +21,15 @@
       "enabled": true,
       "adapter": "portalzuk",
       "url": "https://www.portalzuk.com.br/leilao-de-imoveis/u/todos-imoveis/sc",
+      "host": "www.portalzuk.com.br",
+      "path_pattern": "/imovel/"
+    },
+    {
+      "id": "portalzuk_zukerman",
+      "name": "Portal Zuk — Zukerman",
+      "enabled": true,
+      "adapter": "portalzuk",
+      "url": "https://www.portalzuk.com.br/leilao-de-imoveis/v/zukerman/710",
       "host": "www.portalzuk.com.br",
       "path_pattern": "/imovel/"
     },
