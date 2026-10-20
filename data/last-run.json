@@ -1,9 +1,9 @@
 {
-  "run_id": "ccf8bba3-7ee5-40c3-9abd-58611bef5d61",
+  "run_id": "0cf8ed52-ec80-4b81-bc82-9ff7fb082a7e",
   "status": "partial",
-  "started_at": "2026-10-19T17:00:19-03:00",
-  "finished_at": "2026-10-19T17:02:14-03:00",
-  "duration_seconds": 115.01,
+  "started_at": "2026-10-20T09:07:29-03:00",
+  "finished_at": "2026-10-20T09:09:08-03:00",
+  "duration_seconds": 98.86,
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -27,8 +27,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.29,
-      "finished_at": "2026-10-19T17:00:21-03:00"
+      "duration_seconds": 1.19,
+      "finished_at": "2026-10-20T09:07:34-03:00"
     },
     {
       "source_id": "caixa",
@@ -44,8 +44,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 2.21,
-      "finished_at": "2026-10-19T17:00:23-03:00"
+      "duration_seconds": 2.01,
+      "finished_at": "2026-10-20T09:07:36-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -61,9 +61,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 6.47,
-      "finished_at": "2026-10-19T17:00:30-03:00",
-      "last_success_at": "2026-10-19T17:00:30-03:00"
+      "duration_seconds": 6.19,
+      "finished_at": "2026-10-20T09:07:43-03:00",
+      "last_success_at": "2026-10-20T09:07:43-03:00"
     },
     {
       "source_id": "superbid",
@@ -79,8 +79,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.17,
-      "finished_at": "2026-10-19T17:00:31-03:00"
+      "duration_seconds": 1.06,
+      "finished_at": "2026-10-20T09:07:44-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -96,8 +96,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.29,
-      "finished_at": "2026-10-19T17:00:32-03:00"
+      "duration_seconds": 1.17,
+      "finished_at": "2026-10-20T09:07:45-03:00"
     },
     {
       "source_id": "duarte",
@@ -113,9 +113,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 52.72,
-      "finished_at": "2026-10-19T17:01:25-03:00",
-      "last_success_at": "2026-10-19T17:01:25-03:00"
+      "duration_seconds": 39.3,
+      "finished_at": "2026-10-20T09:08:24-03:00",
+      "last_success_at": "2026-10-20T09:08:24-03:00"
     },
     {
       "source_id": "zampieri",
@@ -131,9 +131,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 7.57,
-      "finished_at": "2026-10-19T17:01:33-03:00",
-      "last_success_at": "2026-10-19T17:01:33-03:00"
+      "duration_seconds": 7.05,
+      "finished_at": "2026-10-20T09:08:31-03:00",
+      "last_success_at": "2026-10-20T09:08:31-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -149,8 +149,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.29,
-      "finished_at": "2026-10-19T17:01:34-03:00"
+      "duration_seconds": 1.14,
+      "finished_at": "2026-10-20T09:08:33-03:00"
     },
     {
       "source_id": "freitas",
@@ -166,9 +166,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 15.34,
-      "finished_at": "2026-10-19T17:01:49-03:00",
-      "last_success_at": "2026-10-19T17:01:49-03:00"
+      "duration_seconds": 14.04,
+      "finished_at": "2026-10-20T09:08:47-03:00",
+      "last_success_at": "2026-10-20T09:08:47-03:00"
     },
     {
       "source_id": "comprei",
@@ -184,8 +184,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 2.05,
-      "finished_at": "2026-10-19T17:01:52-03:00"
+      "duration_seconds": 1.63,
+      "finished_at": "2026-10-20T09:08:48-03:00"
     },
     {
       "source_id": "sampaio",
@@ -201,9 +201,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 5.68,
-      "finished_at": "2026-10-19T17:01:57-03:00",
-      "last_success_at": "2026-10-19T17:01:57-03:00"
+      "duration_seconds": 5.17,
+      "finished_at": "2026-10-20T09:08:54-03:00",
+      "last_success_at": "2026-10-20T09:08:54-03:00"
     },
     {
       "source_id": "machado",
@@ -219,75 +219,48 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.26,
-      "finished_at": "2026-10-19T17:01:59-03:00"
+      "duration_seconds": 1.14,
+      "finished_at": "2026-10-20T09:08:55-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
       "status": "success",
-      "pages_read": 10,
-      "listings_found": 129,
+      "pages_read": 9,
+      "listings_found": 128,
       "error": null,
       "listings_by_city": {
-        "Joinville": 88,
-        "Balneário Camboriú": 24,
+        "Joinville": 90,
+        "Balneário Camboriú": 22,
         "Balneário Piçarras": 2,
         "Barra Velha": 3,
-        "Rio do Sul": 12
+        "Rio do Sul": 11
       },
-      "duration_seconds": 15.51,
-      "finished_at": "2026-10-19T17:02:14-03:00",
-      "last_success_at": "2026-10-19T17:02:14-03:00"
+      "duration_seconds": 13.19,
+      "finished_at": "2026-10-20T09:09:08-03:00",
+      "last_success_at": "2026-10-20T09:09:08-03:00"
     }
   ],
   "data_status": "updated",
-  "data_updated_at": "2026-10-19T17:02:14-03:00",
+  "data_updated_at": "2026-10-20T09:09:08-03:00",
   "counts": {
-    "new_listings": 0,
-    "changed_listings": 34,
-    "new_or_updated": 34,
-    "total_preserved": 180,
+    "new_listings": 3,
+    "changed_listings": 3,
+    "new_or_updated": 6,
+    "total_preserved": 183,
     "sources_succeeded": 6,
     "sources_partial": 0,
     "sources_failed": 7
   },
-  "new_property_ids": [],
+  "new_property_ids": [
+    "03692fe334d21e3f3fee",
+    "5851202baa0748c9de7c",
+    "92e0eca528b25f82fef4"
+  ],
   "changed_property_ids": [
-    "059fd85cd2dca00530a6",
-    "095343e085f88914e41c",
-    "11fa0857703630b13ba6",
-    "17b95e35f56cee9439b3",
-    "1ade8e46f20e49701722",
-    "2acf6c9bce6388b1296c",
-    "382be583cda2a611d8cc",
-    "3fa0ea0a762151581612",
-    "4371a4003e0edf941981",
-    "47324d0881e47a4fce40",
-    "47963d3af68a948dd0d3",
-    "488ef164eee3de4ca1ce",
-    "4965bbd799c6b03fec00",
-    "4ead49556c3ed2e8a9f2",
-    "52178ad8ccce265840be",
-    "568e1ff77e60d2679a24",
-    "57d84a932dfcc54f6ad2",
-    "5edc1352063ee0c29bea",
-    "68b3a7b7a7c3adf840e5",
-    "696f41f603d60fadaa8e",
-    "842d9becd96a946a8f75",
-    "93061cfac5b8bddc51d2",
-    "98639ecb617696bfc554",
-    "aa0e2eeda84cb785589d",
-    "abfeceecbc36b9d2b691",
-    "b1d8d7c9b25bc6ca9a00",
-    "b4a0df5b2a4e2536be8d",
-    "c7d3a89ff43caa55ffe5",
-    "d377429f3f1d961dc221",
-    "dbd539c4482fa925a12a",
-    "de2c997a7701b7b5a453",
-    "f973e25b6daf730a764b",
-    "fb3f6d4aa1e08b0b04fc",
-    "fc6801abbce92905d7d9"
+    "1049ea8d2d2c2a7ece6a",
+    "81f30b402316acc37ba4",
+    "8e2dc035b98bb213565b"
   ],
   "errors": [
     {

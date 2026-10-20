@@ -11162,6 +11162,128 @@
           "after": "excluded_non_real_estate_or_unconfirmed_type"
         }
       ]
+    },
+    {
+      "property_id": "1049ea8d2d2c2a7ece6a",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "appraisal_value_brl",
+          "before": 200000.0,
+          "after": null
+        },
+        {
+          "field": "source_listing_price_brl",
+          "before": null,
+          "after": 200000.0
+        },
+        {
+          "field": "image_urls",
+          "before": [
+            "https://hasta.com.br/foto/968506/0.jpg"
+          ],
+          "after": [
+            "https://hasta.com.br/foto/968506/0.jpg",
+            "https://ms.sbwebservices.net/photos/9dc72313-7a0d-468a-adf6-79d41c03004e.jpg"
+          ]
+        },
+        {
+          "field": "risk_flags",
+          "before": [
+            "occupied",
+            "aggregator_listing_unverified"
+          ],
+          "after": [
+            "occupied",
+            "aggregator_listing_unverified",
+            "occupancy_unknown"
+          ]
+        }
+      ],
+      "detected_at": "2026-10-20T09:09:08-03:00"
+    },
+    {
+      "property_id": "81f30b402316acc37ba4",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "image_urls",
+          "before": [
+            "https://img.centralsuldeleiloes.com.br/uploads/fotos/lotes/243969/apartamento-res-park-sul-joinville-01_tlnpho9z.jpg"
+          ],
+          "after": [
+            "https://img.centralsuldeleiloes.com.br/uploads/fotos/lotes/243969/apartamento-res-park-sul-joinville-01_tlnpho9z.jpg",
+            "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/f4/f444e2260ed07c4a8c8eca9c3eabcce8844e61566984598a5bf74edc105217f6.jpg"
+          ]
+        }
+      ],
+      "detected_at": "2026-10-20T09:09:08-03:00"
+    },
+    {
+      "property_id": "92e0eca528b25f82fef4",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T09:09:08-03:00"
+    },
+    {
+      "property_id": "03692fe334d21e3f3fee",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T09:09:08-03:00"
+    },
+    {
+      "property_id": "5851202baa0748c9de7c",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T09:09:08-03:00"
+    },
+    {
+      "property_id": "8e2dc035b98bb213565b",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "source_listing_price_brl",
+          "before": 1157300.0,
+          "after": 739818.0
+        }
+      ],
+      "detected_at": "2026-10-20T09:09:08-03:00"
     }
   ]
 }
