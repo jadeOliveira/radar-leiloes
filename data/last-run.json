@@ -1,9 +1,9 @@
 {
-  "run_id": "bda57fd4-0dde-46c8-a560-b57d45d14a69",
+  "run_id": "2c82cfa4-f27f-4c3a-b36e-b3332f8ae9c6",
   "status": "partial",
-  "started_at": "2026-10-20T12:58:46-03:00",
-  "finished_at": "2026-10-20T13:00:35-03:00",
-  "duration_seconds": 109.01,
+  "started_at": "2026-10-20T13:13:40-03:00",
+  "finished_at": "2026-10-20T13:15:26-03:00",
+  "duration_seconds": 105.5,
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -29,8 +29,8 @@
         "Penha": 0,
         "Navegantes": 0
       },
-      "duration_seconds": 1.22,
-      "finished_at": "2026-10-20T12:58:47-03:00"
+      "duration_seconds": 1.21,
+      "finished_at": "2026-10-20T13:13:42-03:00"
     },
     {
       "source_id": "caixa",
@@ -47,27 +47,27 @@
         "Penha": 0,
         "Navegantes": 0
       },
-      "duration_seconds": 2.21,
-      "finished_at": "2026-10-20T12:58:50-03:00"
+      "duration_seconds": 2.07,
+      "finished_at": "2026-10-20T13:13:44-03:00"
     },
     {
       "source_id": "mega_leiloes",
       "name": "Mega Leilões",
       "status": "success",
       "pages_read": 1,
-      "listings_found": 1,
+      "listings_found": 0,
       "error": null,
       "listings_by_city": {
-        "Joinville": 1,
+        "Joinville": 0,
         "Balneário Camboriú": 0,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
         "Penha": 0,
         "Navegantes": 0
       },
-      "duration_seconds": 7.22,
-      "finished_at": "2026-10-20T12:58:57-03:00",
-      "last_success_at": "2026-10-20T12:58:57-03:00"
+      "duration_seconds": 4.02,
+      "finished_at": "2026-10-20T13:13:48-03:00",
+      "last_success_at": "2026-10-20T13:13:48-03:00"
     },
     {
       "source_id": "superbid",
@@ -84,8 +84,8 @@
         "Penha": 0,
         "Navegantes": 0
       },
-      "duration_seconds": 1.07,
-      "finished_at": "2026-10-20T12:58:58-03:00"
+      "duration_seconds": 1.05,
+      "finished_at": "2026-10-20T13:13:49-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -102,8 +102,8 @@
         "Penha": 0,
         "Navegantes": 0
       },
-      "duration_seconds": 1.31,
-      "finished_at": "2026-10-20T12:58:59-03:00"
+      "duration_seconds": 1.23,
+      "finished_at": "2026-10-20T13:13:51-03:00"
     },
     {
       "source_id": "duarte",
@@ -120,9 +120,9 @@
         "Penha": 0,
         "Navegantes": 0
       },
-      "duration_seconds": 45.47,
-      "finished_at": "2026-10-20T12:59:45-03:00",
-      "last_success_at": "2026-10-20T12:59:45-03:00"
+      "duration_seconds": 45.92,
+      "finished_at": "2026-10-20T13:14:36-03:00",
+      "last_success_at": "2026-10-20T13:14:36-03:00"
     },
     {
       "source_id": "zampieri",
@@ -139,9 +139,9 @@
         "Penha": 0,
         "Navegantes": 0
       },
-      "duration_seconds": 7.5,
-      "finished_at": "2026-10-20T12:59:52-03:00",
-      "last_success_at": "2026-10-20T12:59:52-03:00"
+      "duration_seconds": 7.75,
+      "finished_at": "2026-10-20T13:14:44-03:00",
+      "last_success_at": "2026-10-20T13:14:44-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -158,8 +158,8 @@
         "Penha": 0,
         "Navegantes": 0
       },
-      "duration_seconds": 1.33,
-      "finished_at": "2026-10-20T12:59:54-03:00"
+      "duration_seconds": 1.21,
+      "finished_at": "2026-10-20T13:14:46-03:00"
     },
     {
       "source_id": "freitas",
@@ -176,9 +176,9 @@
         "Penha": 0,
         "Navegantes": 0
       },
-      "duration_seconds": 15.31,
-      "finished_at": "2026-10-20T13:00:09-03:00",
-      "last_success_at": "2026-10-20T13:00:09-03:00"
+      "duration_seconds": 15.64,
+      "finished_at": "2026-10-20T13:15:01-03:00",
+      "last_success_at": "2026-10-20T13:15:01-03:00"
     },
     {
       "source_id": "comprei",
@@ -195,8 +195,8 @@
         "Penha": 0,
         "Navegantes": 0
       },
-      "duration_seconds": 1.81,
-      "finished_at": "2026-10-20T13:00:11-03:00"
+      "duration_seconds": 2.04,
+      "finished_at": "2026-10-20T13:15:03-03:00"
     },
     {
       "source_id": "sampaio",
@@ -213,9 +213,9 @@
         "Penha": 0,
         "Navegantes": 0
       },
-      "duration_seconds": 5.55,
-      "finished_at": "2026-10-20T13:00:17-03:00",
-      "last_success_at": "2026-10-20T13:00:17-03:00"
+      "duration_seconds": 5.59,
+      "finished_at": "2026-10-20T13:15:09-03:00",
+      "last_success_at": "2026-10-20T13:15:09-03:00"
     },
     {
       "source_id": "machado",
@@ -232,8 +232,8 @@
         "Penha": 0,
         "Navegantes": 0
       },
-      "duration_seconds": 1.68,
-      "finished_at": "2026-10-20T13:00:18-03:00"
+      "duration_seconds": 1.19,
+      "finished_at": "2026-10-20T13:15:10-03:00"
     },
     {
       "source_id": "hasta",
@@ -250,27 +250,23 @@
         "Penha": 1,
         "Navegantes": 1
       },
-      "duration_seconds": 16.15,
-      "finished_at": "2026-10-20T13:00:35-03:00",
-      "last_success_at": "2026-10-20T13:00:35-03:00"
+      "duration_seconds": 15.58,
+      "finished_at": "2026-10-20T13:15:26-03:00",
+      "last_success_at": "2026-10-20T13:15:26-03:00"
     }
   ],
-  "data_status": "updated",
+  "data_status": "unchanged",
   "data_updated_at": "2026-10-20T13:00:35-03:00",
   "counts": {
-    "new_listings": 3,
+    "new_listings": 0,
     "changed_listings": 0,
-    "new_or_updated": 3,
+    "new_or_updated": 0,
     "total_preserved": 131,
     "sources_succeeded": 6,
     "sources_partial": 0,
     "sources_failed": 7
   },
-  "new_property_ids": [
-    "08f4d528c584a645188b",
-    "943ed6fce20df0bd8fe2",
-    "f1f0059a498b6c403d31"
-  ],
+  "new_property_ids": [],
   "changed_property_ids": [],
   "errors": [
     {
