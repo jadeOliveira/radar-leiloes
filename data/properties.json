@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T10:18:55-03:00",
+  "updated_at": "2026-10-20T13:00:35-03:00",
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -64,7 +64,7 @@
         "https://static.suporteleiloes.com.br/donizetteleiloescombr/bens/9082/arquivos/sl-bem-9082-6a2afec57fb46-6a2afec587497.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -139,7 +139,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/bd/bd91a19f16601c12c3097b1c919fe9e6af3823ae7e33ade7f2f880b771f5da2b.png"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -212,7 +212,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -285,7 +285,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -358,7 +358,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -431,7 +431,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -508,7 +508,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/c7/c7bc5fc6cc1195f62ca4d36ad3327d1ef8fc332119c5a83708493f33f9dc0400.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -590,7 +590,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/44/44bcb6723b31d6b0d4106694b9caf04cdaa3fa6a30115128cf374fb85f688a60.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -663,7 +663,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -736,7 +736,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -811,7 +811,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -886,7 +886,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -959,7 +959,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1032,7 +1032,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1105,7 +1105,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1178,7 +1178,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1255,7 +1255,7 @@
         "https://www.santanderimoveis.com.br/wp-content/uploads/2026/08/1785954893959.jpeg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1328,7 +1328,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1402,7 +1402,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1476,7 +1476,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1549,7 +1549,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1624,7 +1624,7 @@
         "https://ms.sbwebservices.net/photos/62ea129e-3052-4d19-84a3-dbdb297c56ad.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:09-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1699,7 +1699,7 @@
         "https://d107brv7xtbumz.cloudfront.net/709dbd4b-5a01-4815-9ec3-f936469d5857"
       ],
       "first_seen_at": "2026-10-20T10:11:09-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1776,7 +1776,7 @@
         "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grlkbn1ggqso/b/astavero/o/anexos/mazzolli/6abd3d06d846463f40e90e6e/6abd3e73e79d89d25be22d1d/foto_4-1790946160000.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:10-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1853,7 +1853,7 @@
         "https://csdl-production.s3-sa-east-1.amazonaws.com/uploads/fotos/lotes/243664/terreno-barra-velha-02.png"
       ],
       "first_seen_at": "2026-10-20T10:11:10-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1928,7 +1928,7 @@
         "https://imagens.portalzuk.com.br/mini/2026/09/503d271474858e51f5fc0d50e62da4b3.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:10-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2001,7 +2001,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2089,7 +2089,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/58/58ff0ce3e5c30571f9861172e20ce69c06bda212497206410deb095ed7a70b78.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2162,7 +2162,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2237,7 +2237,7 @@
         "https://imagens.portalzuk.com.br/mini/2026/10/af94758ad7f208b78ae8fce9362fa258.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2310,7 +2310,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2383,7 +2383,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2458,7 +2458,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/ea/eac68aef6c8720aad92333f5bbd17653ee36aafda391c3129feb9688a89f3659.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2567,7 +2567,7 @@
         "https://cdn3.freitasleiloeiro.com.br/Assets/Imagens/LanceAutomatico.jpg"
       ],
       "first_seen_at": "2026-10-20T10:10:42-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied"
@@ -2590,7 +2590,7 @@
         "source_id": "freitas",
         "captured_from": "https://www.freitasleiloeiro.com.br/Leiloes/LoteDetalhes?leilaoId=8127&loteNumero=8",
         "is_aggregator": false,
-        "raw_text": "008 05/11/2026 12:00 JOINVILLE/SC - Apartamento nº 601 do Residencial Rio Danúbio, Rua Pernambuco, nº... R$ 699.000,00 Lance Inicial JOINVILLE/SC ABERTO PARA LANCES Início Agenda Organização Cadastre-se Contato Serviços Login LEILÃO \"ON-LINE\" - 29 IMÓVEIS - BANCO DAYCOVAL S/A Apartamento | JOINVILLE/SC Favoritar Ver Favoritos Previous Next Lote 008 Data do Leilão 05/11/2026 Horário 12:00 Anterior Lotes Próximo Navegar Visitas 182 Curtidas 0 ABERTO Condições de venda Edital / Anúncio Catálogo do leilão Como participar Endereço: Rua Pernambuco, nº 200, Anita Garibaldi - JOINVILLE/SC Descrição completa: JOINVILLE/SC - Apartamento nº 601 do Residencial Rio Danúbio, Rua Pernambuco, nº 200, Anita Garibaldi. Área privativa: 122,86m²; área de garagem: 21,60m²; área comum: 49,27m²; área total: 193,73m². Matrícula nº 34.530 do 2º RI local. Obs.: Consta Ação de Procedimento Comum, processo nº 4000182-85.2026.8.26.0654 em trâmite na Vara Única da Comarca de Vargem Grande Paulista/SP. O Vendedor responde pelo resultado da ação, de acordo com os critérios e limites estabelecidos nas “Condições de Venda dos Imóveis” constantes do edital. Consta Ação de Reintegração/Manutenção de Posse, processo nº 4002552-88.2026.8.26.0152 em trâmite na Vara Única da Comarca de Vargem Grande Paulista/SP. O Arrematante, por possuir conhecimento, declara a sua anuência quanto à transferência do patrocínio, aos eventuais resultados e aos efeitos da ação informada, responsabilizando-se pela regularização processual, no prazo máximo de 5 dias. O Banco permanecerá atuando no processo até comunicação da venda nos autos. Imóvel ocupado, desocupação por conta do arrematante. Informações importantes: Fotos Meramente Ilustrativas; 5% referente à comissão do leiloeiro acrescido ao valor da arrematação; Abertura p/ lances: 19/10/2026 09:00 Leiloeiro: Sérgio Villa Nova de Freitas Modalidade: SOMENTE ONLINE Local do leilão: INTERNET (São Paulo/SP) Arquivos: Matrícula Edital Leia atentamente as condições antes de participar do leilão: Condições de Pagamento – Imóveis Ocupados Sobre o valor do arremate, incorrerá a comissão de 5% ao leiloeiro a ser pago pelo arrematante. Formas de Pagamento - À vista: Pagamento integral em até 48 horas úteis após a comunicação da homologação da arrematação. - Parcelamento Direto com o Banco Daycoval • Entrada mínima de 40%; • Saldo em até 60 meses; • Sujeito à análise e aprovação de crédito; • Parcelas corrigidas por 1,35% ao mês + IPCA. Importante: Não há opção de financiamento imobiliário para imóveis ocupados. R$ 699.000,00 Lance Inicial R$ 20.000,00 Incremento Mínimo Maior lance: Aguardando lances Encerramento prev.: 05/11/2026 12:16:00 Restando: 16 dia(s) e 01h 57m 37s ABERTO PARA LANCES Área de lances Efetuar Login Praça da Liberdade, 130 - 15º andar - Liberdade - São Paulo/SP - CEP: 01503-010 - Fone: (11) 3117-1000 Atendimento presencial de segunda a sexta das 09:00 às 16:30. Atendimento Cadastro Telefone: (11) 3117-1000 - Ramais: 132, 133 e 134 online@f",
+        "raw_text": "008 05/11/2026 12:00 JOINVILLE/SC - Apartamento nº 601 do Residencial Rio Danúbio, Rua Pernambuco, nº... R$ 699.000,00 Lance Inicial JOINVILLE/SC ABERTO PARA LANCES Início Agenda Organização Cadastre-se Contato Serviços Login LEILÃO \"ON-LINE\" - 29 IMÓVEIS - BANCO DAYCOVAL S/A Apartamento | JOINVILLE/SC Favoritar Ver Favoritos Previous Next Lote 008 Data do Leilão 05/11/2026 Horário 12:00 Anterior Lotes Próximo Navegar Visitas 186 Curtidas 0 ABERTO Condições de venda Edital / Anúncio Catálogo do leilão Como participar Endereço: Rua Pernambuco, nº 200, Anita Garibaldi - JOINVILLE/SC Descrição completa: JOINVILLE/SC - Apartamento nº 601 do Residencial Rio Danúbio, Rua Pernambuco, nº 200, Anita Garibaldi. Área privativa: 122,86m²; área de garagem: 21,60m²; área comum: 49,27m²; área total: 193,73m². Matrícula nº 34.530 do 2º RI local. Obs.: Consta Ação de Procedimento Comum, processo nº 4000182-85.2026.8.26.0654 em trâmite na Vara Única da Comarca de Vargem Grande Paulista/SP. O Vendedor responde pelo resultado da ação, de acordo com os critérios e limites estabelecidos nas “Condições de Venda dos Imóveis” constantes do edital. Consta Ação de Reintegração/Manutenção de Posse, processo nº 4002552-88.2026.8.26.0152 em trâmite na Vara Única da Comarca de Vargem Grande Paulista/SP. O Arrematante, por possuir conhecimento, declara a sua anuência quanto à transferência do patrocínio, aos eventuais resultados e aos efeitos da ação informada, responsabilizando-se pela regularização processual, no prazo máximo de 5 dias. O Banco permanecerá atuando no processo até comunicação da venda nos autos. Imóvel ocupado, desocupação por conta do arrematante. Informações importantes: Fotos Meramente Ilustrativas; 5% referente à comissão do leiloeiro acrescido ao valor da arrematação; Abertura p/ lances: 19/10/2026 09:00 Leiloeiro: Sérgio Villa Nova de Freitas Modalidade: SOMENTE ONLINE Local do leilão: INTERNET (São Paulo/SP) Arquivos: Matrícula Edital Leia atentamente as condições antes de participar do leilão: Condições de Pagamento – Imóveis Ocupados Sobre o valor do arremate, incorrerá a comissão de 5% ao leiloeiro a ser pago pelo arrematante. Formas de Pagamento - À vista: Pagamento integral em até 48 horas úteis após a comunicação da homologação da arrematação. - Parcelamento Direto com o Banco Daycoval • Entrada mínima de 40%; • Saldo em até 60 meses; • Sujeito à análise e aprovação de crédito; • Parcelas corrigidas por 1,35% ao mês + IPCA. Importante: Não há opção de financiamento imobiliário para imóveis ocupados. R$ 699.000,00 Lance Inicial R$ 20.000,00 Incremento Mínimo Maior lance: Aguardando lances Encerramento prev.: 05/11/2026 12:16:00 Restando: 15 dia(s) e 23h 15m 56s ABERTO PARA LANCES Área de lances Efetuar Login Praça da Liberdade, 130 - 15º andar - Liberdade - São Paulo/SP - CEP: 01503-010 - Fone: (11) 3117-1000 Atendimento presencial de segunda a sexta das 09:00 às 16:30. Atendimento Cadastro Telefone: (11) 3117-1000 - Ramais: 132, 133 e 134 online@f",
         "source_listing_urls": [
           "https://www.freitasleiloeiro.com.br/Leiloes/LoteDetalhes?leilaoId=8127&loteNumero=8"
         ]
@@ -2638,7 +2638,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2711,7 +2711,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2786,7 +2786,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/32/3275ed983edd118990da2278f35825a70a7216dfda69b8f5d73ce24cb45fba46.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2859,7 +2859,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2932,7 +2932,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3005,7 +3005,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3080,7 +3080,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3155,7 +3155,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3230,7 +3230,7 @@
         "https://ms.sbwebservices.net/photos/9dc72313-7a0d-468a-adf6-79d41c03004e.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:06-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3303,7 +3303,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3380,7 +3380,7 @@
         "https://www.santanderimoveis.com.br/wp-content/uploads/2026/07/1785440605006.jpeg"
       ],
       "first_seen_at": "2026-10-20T10:11:06-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3455,7 +3455,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3528,7 +3528,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3603,7 +3603,7 @@
         "https://dto3gws2tdkmm.cloudfront.net/bens/0000004489/img-4489-6ab70b95ede22.jpeg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3676,7 +3676,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3749,7 +3749,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3837,7 +3837,7 @@
         "https://24e53253961aecf7.cdn.gocache.net/watermark/bens/0000086419/img-86419-6aa85abf0cb9f.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3910,7 +3910,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3992,7 +3992,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/f4/f444e2260ed07c4a8c8eca9c3eabcce8844e61566984598a5bf74edc105217f6.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4074,7 +4074,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/46/46ed7a026af136ba32bbcf6b8e9e2dfee55791f10c03f09e0af686216a8b34eb.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4147,7 +4147,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4220,7 +4220,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4295,7 +4295,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/02/020617f20f9c7670a31a6fbd60b236d2dcf897b9ed16056c6f507fed3cd1ce2e.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4368,7 +4368,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4445,7 +4445,7 @@
         "https://www.santanderimoveis.com.br/wp-content/uploads/2026/04/1775572276222.jpeg"
       ],
       "first_seen_at": "2026-10-20T10:11:06-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4518,7 +4518,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4614,7 +4614,7 @@
         "https://cdn1.megaleiloes.com.br/batches/130445/be6d178b51552f2aa1156646a8f4338f_670x380.jpg"
       ],
       "first_seen_at": "2026-10-20T10:09:30-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [],
       "field_verification": {
@@ -4635,7 +4635,7 @@
         "source_id": "mega_leiloes",
         "captured_from": "https://www.megaleiloes.com.br/imoveis/terrenos-e-lotes/sc/joinville/terreno-391-m2-floresta-joinville-sc-x130445?utm_source=megaleiloes&utm_medium=link&utm_campaign=terreno-391-m2-floresta-joinville-sc-x130445&utm_term=X130445&utm_content=link",
         "is_aggregator": false,
-        "raw_text": "IMÓVEL DESOCUPADO R$ 260.000,00 5342 0 Terreno 391 m² - Floresta - Joinville - SC X130445 Joinville, SC ABERTO PARA LANCES Data: 20/10/2026 às 13:05 R$ 260.000,00 IR Explore por Categorias Pesquisa Avançada FAQ Entrar ou Criar conta Valor inicial R$ 260.000,00 Extrajudicial Leilão ML34972 Código Lote X130445 Número Lote LOTE 188 Visitas 5.343 Habilitados 173 Lances 0 Mega Leilões Imóveis Terrenos e Lotes Santa Catarina Joinville Terreno 391 m² - Floresta - Joinville - SC Navegue pelos lotes: Lote 1 Lote 2 Lote 3 Lote 4 Lote 5 Lote 6 Lote 7 Lote 8 Lote 9 Lote 10 Lote 11 Lote 12 Lote 13 Lote 14 Lote 15 Lote 16 Lote 17 Lote 18 Lote 19 Lote 20 Lote 21 Lote 22 Lote 23 Lote 24 Lote 25 Lote 26 Lote 27 Lote 28 Lote 29 Lote 30 Lote 31 Lote 32 Lote 33 Lote 34 Lote 35 Lote 36 Lote 37 Lote 38 Lote 39 Lote 40 Lote 41 Lote 42 Lote 43 Lote 44 Lote 45 Lote 46 Lote 47 Lote 48 Lote 49 Lote 50 Lote 51 Lote 52 Lote 53 Lote 54 Lote 55 Lote 56 Lote 57 Lote 58 Lote 59 Lote 60 Lote 61 Lote 62 Lote 63 Lote 64 Lote 65 Lote 66 Lote 67 Lote 68 Lote 69 Lote 70 Lote 71 Lote 72 Lote 73 Lote 74 Lote 75 Lote 76 Lote 77 Lote 78 Lote 79 Lote 80 Lote 81 Lote 82 Lote 83 Lote 84 Lote 85 Lote 86 Lote 87 Lote 88 Lote 89 Lote 90 Lote 91 Lote 92 Lote 93 Lote 94 Lote 95 Lote 96 Lote 97 Lote 98 Lote 99 Lote 100 Lote 101 Lote 102 Lote 103 Lote 104 Lote 105 Lote 106 Lote 107 Lote 108 Lote 109 Lote 110 Lote 111 Lote 112 Lote 113 Lote 114 Lote 115 Lote 116 Lote 117 Lote 118 Lote 119 Lote 120 Lote 121 Lote 122 Lote 123 Lote 124 Lote 125 Lote 126 Lote 127 Lote 128 Lote 129 Lote 130 Lote 131 Lote 132 Lote 133 Lote 134 Lote 135 Lote 136 Lote 137 Lote 138 Lote 139 Lote 140 Lote 141 Lote 142 Lote 143 Lote 144 Lote 145 Lote 146 Lote 147 Lote 148 Lote 149 Lote 150 Lote 151 Lote 152 Lote 153 Lote 154 Lote 155 Lote 156 Lote 157 Lote 158 Lote 159 Lote 160 Lote 161 Lote 162 Lote 163 Lote 164 Lote 165 Lote 166 Lote 167 Lote 168 Lote 169 Lote 170 Lote 171 Lote 172 Lote 173 Lote 174 Lote 175 Lote 176 Lote 177 Lote 178 Lote 179 Lote 180 Lote 181 Lote 182 Lote 183 Lote 184 Lote 185 Lote 186 Lote 187 Lote 188 Lote 189 Lote 190 Lote 191 Lote 192 Lote 193 Lote 194 Lote 195 Lote 196 Lote 197 Lote 198 Lote 199 Lote 200 Lote 201 Lote 202 Lote 203 Lote 204 IMÓVEL DESOCUPADO Localização Rua Mozart, 358, Floresta, Joinville, SC Comitente BANCO SANTANDER S.A. Leiloeiro Fernando José Cerello G. Pereira JUCESP Nº 844 - Leiloeiro oficial do Estado de São Paulo JUCEMG Nº 1192 - Leiloeiro oficial do Estado de Minas Gerais JUCEMAT Nº 73 - Leiloeiro oficial do Estado de Mato Grosso Valor de Avaliação R$ 342.000,00 ( Trezentos e quarenta e dois mil reais) . A descrição dos lotes é uma cópia fiel das informações fornecidas pelos cartórios, comitente ou outro órgão responsável pelo bem. O bem será vendido no estado em que se encontra conforme edital publicado. Reservamo-nos o direito de corrigir possíveis erros de digitação. Cumpre informar, que nos leilões Judiciais e de Falência, o procedimento do pós-arrematação, deve ser real",
+        "raw_text": "IMÓVEL DESOCUPADO R$ 260.000,00 5416 0 Terreno 391 m² - Floresta - Joinville - SC X130445 Joinville, SC ABERTO PARA LANCES Data: 20/10/2026 às 13:05 R$ 260.000,00 IR Explore por Categorias Pesquisa Avançada FAQ Entrar ou Criar conta Valor inicial R$ 260.000,00 Extrajudicial Leilão ML34972 Código Lote X130445 Número Lote LOTE 188 Visitas 5.417 Habilitados 186 Lances 0 Mega Leilões Imóveis Terrenos e Lotes Santa Catarina Joinville Terreno 391 m² - Floresta - Joinville - SC Navegue pelos lotes: Lote 1 Lote 2 Lote 3 Lote 4 Lote 5 Lote 6 Lote 7 Lote 8 Lote 9 Lote 10 Lote 11 Lote 12 Lote 13 Lote 14 Lote 15 Lote 16 Lote 17 Lote 18 Lote 19 Lote 20 Lote 21 Lote 22 Lote 23 Lote 24 Lote 25 Lote 26 Lote 27 Lote 28 Lote 29 Lote 30 Lote 31 Lote 32 Lote 33 Lote 34 Lote 35 Lote 36 Lote 37 Lote 38 Lote 39 Lote 40 Lote 41 Lote 42 Lote 43 Lote 44 Lote 45 Lote 46 Lote 47 Lote 48 Lote 49 Lote 50 Lote 51 Lote 52 Lote 53 Lote 54 Lote 55 Lote 56 Lote 57 Lote 58 Lote 59 Lote 60 Lote 61 Lote 62 Lote 63 Lote 64 Lote 65 Lote 66 Lote 67 Lote 68 Lote 69 Lote 70 Lote 71 Lote 72 Lote 73 Lote 74 Lote 75 Lote 76 Lote 77 Lote 78 Lote 79 Lote 80 Lote 81 Lote 82 Lote 83 Lote 84 Lote 85 Lote 86 Lote 87 Lote 88 Lote 89 Lote 90 Lote 91 Lote 92 Lote 93 Lote 94 Lote 95 Lote 96 Lote 97 Lote 98 Lote 99 Lote 100 Lote 101 Lote 102 Lote 103 Lote 104 Lote 105 Lote 106 Lote 107 Lote 108 Lote 109 Lote 110 Lote 111 Lote 112 Lote 113 Lote 114 Lote 115 Lote 116 Lote 117 Lote 118 Lote 119 Lote 120 Lote 121 Lote 122 Lote 123 Lote 124 Lote 125 Lote 126 Lote 127 Lote 128 Lote 129 Lote 130 Lote 131 Lote 132 Lote 133 Lote 134 Lote 135 Lote 136 Lote 137 Lote 138 Lote 139 Lote 140 Lote 141 Lote 142 Lote 143 Lote 144 Lote 145 Lote 146 Lote 147 Lote 148 Lote 149 Lote 150 Lote 151 Lote 152 Lote 153 Lote 154 Lote 155 Lote 156 Lote 157 Lote 158 Lote 159 Lote 160 Lote 161 Lote 162 Lote 163 Lote 164 Lote 165 Lote 166 Lote 167 Lote 168 Lote 169 Lote 170 Lote 171 Lote 172 Lote 173 Lote 174 Lote 175 Lote 176 Lote 177 Lote 178 Lote 179 Lote 180 Lote 181 Lote 182 Lote 183 Lote 184 Lote 185 Lote 186 Lote 187 Lote 188 Lote 189 Lote 190 Lote 191 Lote 192 Lote 193 Lote 194 Lote 195 Lote 196 Lote 197 Lote 198 Lote 199 Lote 200 Lote 201 Lote 202 Lote 203 Lote 204 IMÓVEL DESOCUPADO Localização Rua Mozart, 358, Floresta, Joinville, SC Comitente BANCO SANTANDER S.A. Leiloeiro Fernando José Cerello G. Pereira JUCESP Nº 844 - Leiloeiro oficial do Estado de São Paulo JUCEMG Nº 1192 - Leiloeiro oficial do Estado de Minas Gerais JUCEMAT Nº 73 - Leiloeiro oficial do Estado de Mato Grosso Valor de Avaliação R$ 342.000,00 ( Trezentos e quarenta e dois mil reais) . A descrição dos lotes é uma cópia fiel das informações fornecidas pelos cartórios, comitente ou outro órgão responsável pelo bem. O bem será vendido no estado em que se encontra conforme edital publicado. Reservamo-nos o direito de corrigir possíveis erros de digitação. Cumpre informar, que nos leilões Judiciais e de Falência, o procedimento do pós-arrematação, deve ser real",
         "source_listing_urls": [
           "https://www.megaleiloes.com.br/imoveis/terrenos-e-lotes/sc/joinville/terreno-391-m2-floresta-joinville-sc-x130445?utm_source=megaleiloes&utm_medium=link&utm_campaign=terreno-391-m2-floresta-joinville-sc-x130445&utm_term=X130445&utm_content=link"
         ]
@@ -4683,7 +4683,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4756,7 +4756,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4831,7 +4831,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/17/17073eb89d43fc7660fab6a95f8542168413fc580c3b28d2bc6a43276278b2bc.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4906,7 +4906,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4979,7 +4979,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5052,7 +5052,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5125,7 +5125,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5200,7 +5200,7 @@
         "https://imagens.portalzuk.com.br/mini/2026/10/b6ef026a062928dc338beeb1a8dc7f0e.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5273,7 +5273,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5346,7 +5346,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5421,7 +5421,7 @@
         "https://imagens.portalzuk.com.br/detalhe/2026/09/017b1449be561de1eef0a2b11b2849b6.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5494,7 +5494,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5567,7 +5567,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5640,7 +5640,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5717,7 +5717,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/55/552eec27baa9510c7d6885675977ae04b4add557b6faf6ef901c18fc0c9953c7.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5794,7 +5794,7 @@
         "https://www.santanderimoveis.com.br/wp-content/uploads/2026/09/1788533080897.jpeg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5869,7 +5869,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5942,7 +5942,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6015,7 +6015,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6097,7 +6097,7 @@
         "https://49150d03d11fa9b9.cdn.gocache.net/leiloes/000000-6a99bff9072b4.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6170,7 +6170,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6243,7 +6243,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6325,7 +6325,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/e3/e36fff1ce18f539f7f0aff5761e442c05aa9eab9910f6ec7e90247cc3acd97cd.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6398,7 +6398,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6471,7 +6471,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6544,7 +6544,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6617,7 +6617,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6692,7 +6692,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/98/989e3a96fc3d683f0bc36357e77623c5cc244b1f3ffece861b6b917f7f54a753.webp"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6765,7 +6765,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6840,7 +6840,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/70/70c6f12935bc2d26912edf94e38330909264d866f349eba72395ab002f670ccf.webp"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6917,7 +6917,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/e4/e4cc5aa383d24885762e8060f5601b4e2224eff93a6aa0d73961d43d3a411931.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6992,7 +6992,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/5b/5b3f431a67529c56eff0308205acb18de8c05611f6162e34f0476cdc24a3a808.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7065,7 +7065,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7147,7 +7147,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/67/6725626ffaa405389de3795242a3432caac3a4f003d2a7f954021a868ffd13d8.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7220,7 +7220,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7297,7 +7297,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/46/46ca3c6ec32a2584a811e35866225e1955419a523e174312969cfd0f923a3b8e.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7372,7 +7372,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/ef/efc11344a54e348c006f18c21075b11825eee130822a3cc777be9d1091c574ad.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7445,7 +7445,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7520,7 +7520,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/c8/c85aa89342ed784e001ee9d3c27584030c4218360aa3e2837beb70fd53bea3d4.webp"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7593,7 +7593,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7666,7 +7666,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7741,7 +7741,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/fb/fb3a05514f468d63a93f85eb36b225aa6cb708293060f2e5c27a56b86bdbd72a.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7816,7 +7816,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/45/459348f6157496d295f416658bccfa75d867547a28ea599e10cfac034b3a03bc.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7889,7 +7889,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7964,7 +7964,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8037,7 +8037,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8110,7 +8110,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8185,7 +8185,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/b3/b309d3294ba8088f97cbebf40724e640b6afa5dd5896a649f38124dfb8a24da5.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8258,7 +8258,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8331,7 +8331,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8442,7 +8442,7 @@
         "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grlkbn1ggqso/b/astavero/o/anexos/sampaio/6ab191ab4cf1962c5289c9c8/6ab191e3ab0be795d32c9339/foto_frontal_1-1790079901000.png"
       ],
       "first_seen_at": "2026-10-20T10:10:55-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown"
@@ -8464,7 +8464,7 @@
         "source_id": "sampaio",
         "captured_from": "https://sampaioleiloes.com.br/pregao/6ab191ab4cf1962c5289c9c8/6ab191e3ab0be795d32c9339",
         "is_aggregator": false,
-        "raw_text": "Apartamento em Joinville JOINVILLE - SC R$ 280.000,00 10/11/2026 ABERTO 1º LEILÃO home arrow_back Sampaio Leilões João Paulo Sampaio Damiani Leiloeiro Oficial JUCESC AARC-379 search account_circle more_vert ABERTO Oferta Data Valor Licitante Lote: ( 01 ) visibility VISITAS: 2741 APARTAMENTO EM JOINVILLE Valor: R$ 280.000,00 Escolha sua oferta: R$ 280.000,00 R$ 290.000,00 R$ 305.000,00 keyboard_arrow_up keyboard_arrow_down CONFIRMA Programar oferta: R$ 295.000,00 keyboard_arrow_up keyboard_arrow_down PROGRAMAR Vai para lote no pregão first_page keyboard_arrow_left keyboard_arrow_right last_page 1/1 01 Aberto Apartamento em Joinville Início: 10/11 10:00 Encerra a partir: 10/11 14:00 Valor avaliação: R$ 280.000,00 attach_file Edital attach_file Descrição do bem Favoritos star 01 (um) apartamento, matriculado sob o n.º 18.869, no Cartório do 3º Ofício do Registro de Imóveis da Comarca de Joinville (SC), correspondente à unidade n.º 03, 1º pavimento, bloco n.º 10 do Conjunto Residencial Campo Belo, situado na rua Padre Kolb, n.º 99, em Joinville (SC), medindo 97,26 m² de área real total, sendo 73,02 m² de área real privativa e 24,24 m² de área real de uso comum, inclusive uma vaga de garagem. Ônus: R-4 Hipoteca em favor da Caixa Econômica Federal – CEF. R-05 Penhora em favor de Condomínio Conjunto Residencial Campo Belo gravada nos autos nº 038.11.033310-9/001, da 2ª Vara Cível da Comarca de Joinville/SC. R-06 Penhora em favor da Caixa Econômica Federal – CEF gravada nos autos nº 5000054-66.2014.4.04.7201, da 2ª Vara Federal de Joinville/SC. Avaliação: R$ 280.000,00 (duzentos e oitenta mil reais), em 18/11/2024. Pagamento O pagamento do preço se dará no ato do leilão e por depósito bancário, em conta vinculada ao juízo, aberta para esse fim. Dados do leilão Disponibilidade: Aberto 1º Leilão: 10/11/2026 14:00 Local: Datas dos Leilões 1º Leilão: 10/11/2026 14:00 Valor leilão: R$ 280.000,00 2º Leilão: 17/11/2026 14:00 Valor leilão: R$ 252.000,00 placeLocal do leilao placeLocal do bem Dados do Processo Vara da Justiça: 8ª Vara Cível Da Comarca de Joinville Magistrado: DANIEL RADUNZ Processo: 5000538-16.2012.8.24.0038 Tipo de processo: Exequente: Condomínio Conjunto Residencial Campo Belo Executado: José de Fatima Caetano e Debora Cristina Izauro Caetano Depositário: José de Fatima Caetano e Debora Cristina Izauro Caetano Cidade/UF: Joinville/SC Endereço: rua Padre Kolb, n.º 99 - Visitação: Apenas de forma externa Retirada: Não se aplica signal_wifi_statusbar_4_barON mailAvisos de leilões attributionInstitucional arrow_upward",
+        "raw_text": "Apartamento em Joinville JOINVILLE - SC R$ 280.000,00 10/11/2026 ABERTO 1º LEILÃO home arrow_back Sampaio Leilões João Paulo Sampaio Damiani Leiloeiro Oficial JUCESC AARC-379 search account_circle more_vert ABERTO Oferta Data Valor Licitante Lote: ( 01 ) visibility VISITAS: 2769 APARTAMENTO EM JOINVILLE Valor: R$ 280.000,00 Escolha sua oferta: R$ 280.000,00 R$ 290.000,00 R$ 305.000,00 keyboard_arrow_up keyboard_arrow_down CONFIRMA Programar oferta: R$ 295.000,00 keyboard_arrow_up keyboard_arrow_down PROGRAMAR Vai para lote no pregão first_page keyboard_arrow_left keyboard_arrow_right last_page 1/1 01 Aberto Apartamento em Joinville Início: 10/11 10:00 Encerra a partir: 10/11 14:00 Valor avaliação: R$ 280.000,00 attach_file Edital attach_file Descrição do bem Favoritos star 01 (um) apartamento, matriculado sob o n.º 18.869, no Cartório do 3º Ofício do Registro de Imóveis da Comarca de Joinville (SC), correspondente à unidade n.º 03, 1º pavimento, bloco n.º 10 do Conjunto Residencial Campo Belo, situado na rua Padre Kolb, n.º 99, em Joinville (SC), medindo 97,26 m² de área real total, sendo 73,02 m² de área real privativa e 24,24 m² de área real de uso comum, inclusive uma vaga de garagem. Ônus: R-4 Hipoteca em favor da Caixa Econômica Federal – CEF. R-05 Penhora em favor de Condomínio Conjunto Residencial Campo Belo gravada nos autos nº 038.11.033310-9/001, da 2ª Vara Cível da Comarca de Joinville/SC. R-06 Penhora em favor da Caixa Econômica Federal – CEF gravada nos autos nº 5000054-66.2014.4.04.7201, da 2ª Vara Federal de Joinville/SC. Avaliação: R$ 280.000,00 (duzentos e oitenta mil reais), em 18/11/2024. Pagamento O pagamento do preço se dará no ato do leilão e por depósito bancário, em conta vinculada ao juízo, aberta para esse fim. Dados do leilão Disponibilidade: Aberto 1º Leilão: 10/11/2026 14:00 Local: Datas dos Leilões 1º Leilão: 10/11/2026 14:00 Valor leilão: R$ 280.000,00 2º Leilão: 17/11/2026 14:00 Valor leilão: R$ 252.000,00 placeLocal do leilao placeLocal do bem Dados do Processo Vara da Justiça: 8ª Vara Cível Da Comarca de Joinville Magistrado: DANIEL RADUNZ Processo: 5000538-16.2012.8.24.0038 Tipo de processo: Exequente: Condomínio Conjunto Residencial Campo Belo Executado: José de Fatima Caetano e Debora Cristina Izauro Caetano Depositário: José de Fatima Caetano e Debora Cristina Izauro Caetano Cidade/UF: Joinville/SC Endereço: rua Padre Kolb, n.º 99 - Visitação: Apenas de forma externa Retirada: Não se aplica signal_wifi_statusbar_4_barON mailAvisos de leilões attributionInstitucional arrow_upward",
         "source_listing_urls": [
           "https://sampaioleiloes.com.br/pregao/6ab191ab4cf1962c5289c9c8/6ab191e3ab0be795d32c9339"
         ]
@@ -8512,7 +8512,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8587,7 +8587,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/fb/fb7bb7c4f45bb108125de518af64615deccd75c5b0f975981f1cdeaa1843e9df.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8618,6 +8618,77 @@
         ]
       },
       "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "id": "f1f0059a498b6c403d31",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [
+        "001"
+      ],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1110780-terreno-joinville-sc"
+      ],
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Terreno",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": "001",
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 95000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/1110780-terreno-joinville-sc",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [],
+      "first_seen_at": "2026-10-20T13:00:24-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/1110780-terreno-joinville-sc",
+        "is_aggregator": true,
+        "raw_text": "Terreno Lote 001 📍 Joinville, SC R$ 95.000,00"
+      },
+      "newly_discovered_at": "2026-10-20T13:00:35-03:00"
     },
     {
       "id": "f4e1c13a5ed19c4f3fc5",
@@ -8662,7 +8733,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8737,7 +8808,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/af/af4bd205ad983f3b53105d99714a7c0a4fa2cfc3f1abdcd9f519ce648855a78f.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8812,7 +8883,7 @@
         "https://imagens.portalzuk.com.br/mini/2026/09/74f1f0fe30d601a2e45e477feacaaad8.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8887,7 +8958,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/1e/1e2e503ebd5aa80e5262e1026016ece3da0e6d26f75fc9d9a2d504391cbe1366.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8964,7 +9035,7 @@
         "https://www.santanderimoveis.com.br/wp-content/uploads/2026/06/1780662847314.jpeg"
       ],
       "first_seen_at": "2026-10-20T10:11:06-03:00",
-      "last_checked_at": "2026-10-20T10:18:55-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8995,6 +9066,150 @@
         ]
       },
       "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "id": "943ed6fce20df0bd8fe2",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [
+        "amento"
+      ],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/900218-terreno-urbano-com-ou-sem-benfeitorias"
+      ],
+      "city": "Navegantes",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Terreno",
+      "area_privative_m2": 252.0,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": "o(s)",
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 270000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/900218-terreno-urbano-com-ou-sem-benfeitorias",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/26/261168a028edfdbfd5bc86b236265777b60fff56fd9e1928cd023a918bc94dcd.jpg"
+      ],
+      "first_seen_at": "2026-10-20T13:00:35-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/900218-terreno-urbano-com-ou-sem-benfeitorias",
+        "is_aggregator": true,
+        "raw_text": "Terreno Terreno - SAO DOMINGOS - NAVEGANTES/SC 📍 Navegantes, SC R$ 270.000,00 40% OFF Casa Terreno com 252,00m² com casa de 60,00m² 📍 Navegantes, SC R$ 500.000,00 Apartamento Apartamento Condomínio, Residencial, 2 dormitório(s), 1 vaga(s) de garagem 📍 Navegantes, SC R$ 900.000,00 Imóvel Imóvel com área de 273,00m², com Edificações, no Jardim Ana Néri, em Navegantes/SC 📍 Navegantes, SC R$ 440.414,51 Terreno Terreno com área de 3.980,30m², Loteamento Costa Gravatá, no Município de Navegantes/SC 📍 Navegantes, SC R$ 720.000,00 Casa Casa, Residencial, Meia Praia, 3 dormitório(s), 2 vaga(s) de garagem 📍 Navegantes, SC R$ 765.000,00 Terreno Terreno urbano com área de 684,05m² em navegantes/sc. 📍 Navegantes, SC R$ 626.665,31 Terreno Terreno urbano com benfeitorias 📍 Navegantes, SC R$ 394.026,07 Imóvel Leilão Online da 1ª Vara Cível de Navegantes/SC. 📍 Navegantes, SC R$ 3.518.000,00"
+      },
+      "newly_discovered_at": "2026-10-20T13:00:35-03:00"
+    },
+    {
+      "id": "08f4d528c584a645188b",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/585659-terreno-c-79-910-54-m2-rod-sc-414-penha-sc"
+      ],
+      "city": "Penha",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Terreno",
+      "area_privative_m2": 79910.54,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": "a - 1740m² - 10min do beto carrero - penha/sc 📍 Penha",
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 9000000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/585659-terreno-c-79-910-54-m2-rod-sc-414-penha-sc",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grlkbn1ggqso/b/astavero/o/anexos/krobel/68efe30af117d3f78b70cc6a/68efe3372aaef720c8bc6af5/screenshot_7-1790563258000.png"
+      ],
+      "first_seen_at": "2026-10-20T13:00:33-03:00",
+      "last_checked_at": "2026-10-20T13:00:35-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/585659-terreno-c-79-910-54-m2-rod-sc-414-penha-sc",
+        "is_aggregator": true,
+        "raw_text": "Terreno Terreno c/ 79.910,54 m2 - Rod SC 414 - Penha SC 📍 Penha, SC R$ 9.000.000,00 Apartamento Fração de tempo apartamento 404 em penha/sc 📍 Penha, SC R$ 63.307,01 Apartamento Fração de tempo apartamento 404 em penha/sc 📍 Penha, SC R$ 63.307,01 Terreno Rua nereu de assis, s/nº, qd i, lt 2, 3, 4, 5 e 6, praia de armação do itapocory, complemento jardim bulcão, penha/sc. - terreno em santa catarina - 1740m² - 10min do beto carrero - penha/sc 📍 Penha, SC R$ 2.000.000,00 Terreno Rua nereu de assis, s/nº, qd i, lt 2, 3, 4, 5 e 6, praia de armação do itapocory, complemento jardim bulcão, penha/sc. - santa catarina - terreno bem próx ao beto carrero 📍 Penha, SC R$ 2.000.000,00 Terreno Rua nereu de assis, s/nº, qd i, lt 2, 3, 4, 5 e 6, praia de armação do itapocory, complemento jardim bulcão, penha/sc. - santa catarina - terreno bem próx ao beto carrero 📍 Penha, SC R$ 2.000.000,00"
+      },
+      "newly_discovered_at": "2026-10-20T13:00:35-03:00"
     },
     {
       "id": "1f8fbcd745a92fd9089c",
@@ -9681,10 +9896,11 @@
         "Balneário Camboriú": 0,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
-        "Rio do Sul": 0
+        "Penha": 0,
+        "Navegantes": 0
       },
-      "duration_seconds": 1.15,
-      "finished_at": "2026-10-20T10:17:14-03:00"
+      "duration_seconds": 1.22,
+      "finished_at": "2026-10-20T12:58:47-03:00"
     },
     {
       "source_id": "caixa",
@@ -9698,10 +9914,11 @@
         "Balneário Camboriú": 0,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
-        "Rio do Sul": 0
+        "Penha": 0,
+        "Navegantes": 0
       },
-      "duration_seconds": 1.81,
-      "finished_at": "2026-10-20T10:17:16-03:00"
+      "duration_seconds": 2.21,
+      "finished_at": "2026-10-20T12:58:50-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -9715,11 +9932,12 @@
         "Balneário Camboriú": 0,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
-        "Rio do Sul": 0
+        "Penha": 0,
+        "Navegantes": 0
       },
-      "duration_seconds": 5.45,
-      "finished_at": "2026-10-20T10:17:22-03:00",
-      "last_success_at": "2026-10-20T10:17:22-03:00"
+      "duration_seconds": 7.22,
+      "finished_at": "2026-10-20T12:58:57-03:00",
+      "last_success_at": "2026-10-20T12:58:57-03:00"
     },
     {
       "source_id": "superbid",
@@ -9733,10 +9951,11 @@
         "Balneário Camboriú": 0,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
-        "Rio do Sul": 0
+        "Penha": 0,
+        "Navegantes": 0
       },
-      "duration_seconds": 1.03,
-      "finished_at": "2026-10-20T10:17:23-03:00"
+      "duration_seconds": 1.07,
+      "finished_at": "2026-10-20T12:58:58-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -9750,10 +9969,11 @@
         "Balneário Camboriú": 0,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
-        "Rio do Sul": 0
+        "Penha": 0,
+        "Navegantes": 0
       },
-      "duration_seconds": 1.17,
-      "finished_at": "2026-10-20T10:17:24-03:00"
+      "duration_seconds": 1.31,
+      "finished_at": "2026-10-20T12:58:59-03:00"
     },
     {
       "source_id": "duarte",
@@ -9767,11 +9987,12 @@
         "Balneário Camboriú": 0,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
-        "Rio do Sul": 0
+        "Penha": 0,
+        "Navegantes": 0
       },
-      "duration_seconds": 40.34,
-      "finished_at": "2026-10-20T10:18:04-03:00",
-      "last_success_at": "2026-10-20T10:18:04-03:00"
+      "duration_seconds": 45.47,
+      "finished_at": "2026-10-20T12:59:45-03:00",
+      "last_success_at": "2026-10-20T12:59:45-03:00"
     },
     {
       "source_id": "zampieri",
@@ -9785,11 +10006,12 @@
         "Balneário Camboriú": 0,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
-        "Rio do Sul": 0
+        "Penha": 0,
+        "Navegantes": 0
       },
-      "duration_seconds": 7.16,
-      "finished_at": "2026-10-20T10:18:12-03:00",
-      "last_success_at": "2026-10-20T10:18:12-03:00"
+      "duration_seconds": 7.5,
+      "finished_at": "2026-10-20T12:59:52-03:00",
+      "last_success_at": "2026-10-20T12:59:52-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -9803,10 +10025,11 @@
         "Balneário Camboriú": 0,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
-        "Rio do Sul": 0
+        "Penha": 0,
+        "Navegantes": 0
       },
-      "duration_seconds": 1.19,
-      "finished_at": "2026-10-20T10:18:13-03:00"
+      "duration_seconds": 1.33,
+      "finished_at": "2026-10-20T12:59:54-03:00"
     },
     {
       "source_id": "freitas",
@@ -9820,11 +10043,12 @@
         "Balneário Camboriú": 0,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
-        "Rio do Sul": 0
+        "Penha": 0,
+        "Navegantes": 0
       },
-      "duration_seconds": 15.34,
-      "finished_at": "2026-10-20T10:18:28-03:00",
-      "last_success_at": "2026-10-20T10:18:28-03:00"
+      "duration_seconds": 15.31,
+      "finished_at": "2026-10-20T13:00:09-03:00",
+      "last_success_at": "2026-10-20T13:00:09-03:00"
     },
     {
       "source_id": "comprei",
@@ -9838,10 +10062,11 @@
         "Balneário Camboriú": 0,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
-        "Rio do Sul": 0
+        "Penha": 0,
+        "Navegantes": 0
       },
-      "duration_seconds": 1.64,
-      "finished_at": "2026-10-20T10:18:30-03:00"
+      "duration_seconds": 1.81,
+      "finished_at": "2026-10-20T13:00:11-03:00"
     },
     {
       "source_id": "sampaio",
@@ -9855,11 +10080,12 @@
         "Balneário Camboriú": 0,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
-        "Rio do Sul": 0
+        "Penha": 0,
+        "Navegantes": 0
       },
-      "duration_seconds": 5.34,
-      "finished_at": "2026-10-20T10:18:35-03:00",
-      "last_success_at": "2026-10-20T10:18:35-03:00"
+      "duration_seconds": 5.55,
+      "finished_at": "2026-10-20T13:00:17-03:00",
+      "last_success_at": "2026-10-20T13:00:17-03:00"
     },
     {
       "source_id": "machado",
@@ -9873,28 +10099,30 @@
         "Balneário Camboriú": 0,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
-        "Rio do Sul": 0
+        "Penha": 0,
+        "Navegantes": 0
       },
-      "duration_seconds": 1.18,
-      "finished_at": "2026-10-20T10:18:37-03:00"
+      "duration_seconds": 1.68,
+      "finished_at": "2026-10-20T13:00:18-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
       "status": "success",
-      "pages_read": 9,
-      "listings_found": 126,
+      "pages_read": 10,
+      "listings_found": 120,
       "error": null,
       "listings_by_city": {
-        "Joinville": 90,
+        "Joinville": 91,
         "Balneário Camboriú": 22,
         "Balneário Piçarras": 2,
         "Barra Velha": 3,
-        "Rio do Sul": 9
+        "Penha": 1,
+        "Navegantes": 1
       },
-      "duration_seconds": 18.33,
-      "finished_at": "2026-10-20T10:18:55-03:00",
-      "last_success_at": "2026-10-20T10:18:55-03:00"
+      "duration_seconds": 16.15,
+      "finished_at": "2026-10-20T13:00:35-03:00",
+      "last_success_at": "2026-10-20T13:00:35-03:00"
     }
   ]
 }

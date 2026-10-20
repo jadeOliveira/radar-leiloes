@@ -2061,6 +2061,57 @@
           "detected_at": "2026-10-20T10:18:55-03:00"
         }
       ]
+    },
+    {
+      "run_id": "bda57fd4-0dde-46c8-a560-b57d45d14a69",
+      "detected_at": "2026-10-20T13:00:35-03:00",
+      "changes": [
+        {
+          "property_id": "f1f0059a498b6c403d31",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-20T13:00:35-03:00"
+        },
+        {
+          "property_id": "08f4d528c584a645188b",
+          "city": "Penha",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-20T13:00:35-03:00"
+        },
+        {
+          "property_id": "943ed6fce20df0bd8fe2",
+          "city": "Navegantes",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-20T13:00:35-03:00"
+        }
+      ]
     }
   ]
 }
