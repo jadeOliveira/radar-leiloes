@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T13:49:54-03:00",
+  "updated_at": "2026-10-20T13:51:31-03:00",
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -95,7 +95,8 @@
           "https://hasta.com.br/imovel/1764623-leilao-casa-balneario-camboriu-sc-1a-praca-30-10-2026-r-3-100-000-ulisses-donize"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1764623-leilao-casa-balneario-camboriu-sc-1a-praca-30-10-2026-r-3-100-000-ulisses-donize"
     },
     {
       "id": "059fd85cd2dca00530a6",
@@ -172,7 +173,8 @@
           "https://hasta.com.br/imovel/1822397-apartamento-2-quartos-70-00m2-ed-michelangelo-balneario-camboriu-sc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1822397-apartamento-2-quartos-70-00m2-ed-michelangelo-balneario-camboriu-sc"
     },
     {
       "id": "0dfb57597aae1a18c02b",
@@ -249,7 +251,8 @@
           "https://hasta.com.br/imovel/1428238-apto-302-ed-resid-canne-s-baln-camboriu-sc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1428238-apto-302-ed-resid-canne-s-baln-camboriu-sc"
     },
     {
       "id": "1c43d8800821095acc99",
@@ -331,7 +334,8 @@
           "https://hasta.com.br/imovel/1230780-apto-18-bl-e-res-bella-praia-ii-baln-camboriu"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1230780-apto-18-bl-e-res-bella-praia-ii-baln-camboriu"
     },
     {
       "id": "2c49574df3bab9a5ccae",
@@ -417,7 +421,8 @@
           "https://hasta.com.br/imovel/1001679-apartamento-condominio-residencial"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1001679-apartamento-condominio-residencial"
     },
     {
       "id": "3025e041dd8cc57c22d1",
@@ -495,7 +500,8 @@
           "https://hasta.com.br/imovel/2025919-apartamento-sao-judas-tadeu-balneario-camboriu-sc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2025919-apartamento-sao-judas-tadeu-balneario-camboriu-sc"
     },
     {
       "id": "33010021572cdaccc0c5",
@@ -580,7 +586,8 @@
           "https://hasta.com.br/imovel/1083274-apartamento-em-balneario-camboriu-sc-lote-001-id-4396"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1083274-apartamento-em-balneario-camboriu-sc-lote-001-id-4396"
     },
     {
       "id": "36c68b362c00de16f369",
@@ -668,7 +675,8 @@
           "https://hasta.com.br/imovel/1967354-judicial-leilao-judicial-apartamento-rua-1401-97-balneario-camboriu-sc-1a-praca"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1967354-judicial-leilao-judicial-apartamento-rua-1401-97-balneario-camboriu-sc-1a-praca"
     },
     {
       "id": "3f862121f487cca878fd",
@@ -744,7 +752,8 @@
           "https://hasta.com.br/imovel/1942348-lote-3-terrenos-com-2-128-00-m2-jardim-real-balneario-camboriu-sc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1942348-lote-3-terrenos-com-2-128-00-m2-jardim-real-balneario-camboriu-sc"
     },
     {
       "id": "5851202baa0748c9de7c",
@@ -820,7 +829,8 @@
           "https://hasta.com.br/imovel/2193840-apartamento-n-105-area-total-128-6-441m2-incluida-uma-vaga-de-uso-coletivo-1o-an"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2193840-apartamento-n-105-area-total-128-6-441m2-incluida-uma-vaga-de-uso-coletivo-1o-an"
     },
     {
       "id": "5afb7aead66b1d3f6183",
@@ -901,7 +911,8 @@
           "https://hasta.com.br/imovel/1943341-lote-001-apartamento"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1943341-lote-001-apartamento"
     },
     {
       "id": "5f21a12239cde0fb9660",
@@ -978,7 +989,8 @@
           "https://hasta.com.br/imovel/2092415-comprei-pgfn-imoveis-em-santa-catarina-lote-074-id-4292"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2092415-comprei-pgfn-imoveis-em-santa-catarina-lote-074-id-4292"
     },
     {
       "id": "62f226bd6935bed8ef35",
@@ -1054,7 +1066,8 @@
           "https://hasta.com.br/imovel/1805694-fonte-nao-publica-imagem-leilao-online-apartamento-rua-2480-323-centro-balneario"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1805694-fonte-nao-publica-imagem-leilao-online-apartamento-rua-2480-323-centro-balneario"
     },
     {
       "id": "95ec06eae7e81289b74e",
@@ -1130,7 +1143,8 @@
           "https://hasta.com.br/imovel/1507910-vagas-de-garagem"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1507910-vagas-de-garagem"
     },
     {
       "id": "98c987362c1c7232be37",
@@ -1216,7 +1230,8 @@
           "https://hasta.com.br/imovel/1001567-apartamento-condominio-residencial"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1001567-apartamento-condominio-residencial"
     },
     {
       "id": "ac46260a040dfbc20e7b",
@@ -1291,7 +1306,8 @@
           "https://hasta.com.br/imovel/395336-ed-res-saint-tropez"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/395336-ed-res-saint-tropez"
     },
     {
       "id": "c7c851cf14061ca175e9",
@@ -1369,7 +1385,8 @@
           "https://hasta.com.br/imovel/788478-apartamento-a-venda-na-rua-vaticano-balneario-camboriu-sc-codigo-02-27082"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/788478-apartamento-a-venda-na-rua-vaticano-balneario-camboriu-sc-codigo-02-27082"
     },
     {
       "id": "cb4ae04d1ecc19903bb3",
@@ -1455,7 +1472,8 @@
           "https://hasta.com.br/imovel/999010-apartamento-condominio-residencial-2-dormitorio-s-1-vaga-s-de-garagem"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/999010-apartamento-condominio-residencial-2-dormitorio-s-1-vaga-s-de-garagem"
     },
     {
       "id": "e98e0977d4e843841950",
@@ -1534,7 +1552,8 @@
           "https://hasta.com.br/imovel/1273893-1apraca-apto-edificio-liverpool-balneario-camboriu"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1273929-2apraca-apto-edificio-liverpool-balneario-camboriu"
     },
     {
       "id": "f91e9602ae3758705407",
@@ -1620,7 +1639,8 @@
           "https://hasta.com.br/imovel/1001548-apartamento-condominio-residencial-centro-2-dormitorio-s-2-vaga-s-de-garagem"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1001548-apartamento-condominio-residencial-centro-2-dormitorio-s-2-vaga-s-de-garagem"
     },
     {
       "id": "febfaa1addb4e42fd266",
@@ -1706,7 +1726,8 @@
           "https://hasta.com.br/imovel/905194-apto-300-resid-torre-di-petra-pioneiros-bc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/905194-apto-300-resid-torre-di-petra-pioneiros-bc"
     },
     {
       "id": "2c1a34723877e103d57a",
@@ -1748,6 +1769,9 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/1114198/0.jpg",
+        "https://hasta.com.br/foto/1114198/1.jpg",
+        "https://hasta.com.br/foto/1114198/2.jpg",
         "https://ms.sbwebservices.net/photos/62ea129e-3052-4d19-84a3-dbdb297c56ad.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:09-03:00",
@@ -1781,7 +1805,8 @@
           "https://hasta.com.br/imovel/1114198-terreno-com-area-de-240m2-contendo-uma-casa-com-area-de-96-75m2-balneario-picarr"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1114198-terreno-com-area-de-240m2-contendo-uma-casa-com-area-de-96-75m2-balneario-picarr"
     },
     {
       "id": "9c2fd69c8950e69fcdd0",
@@ -1823,7 +1848,18 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
-        "https://d107brv7xtbumz.cloudfront.net/709dbd4b-5a01-4815-9ec3-f936469d5857"
+        "https://hasta.com.br/foto/999222/0.jpg",
+        "https://hasta.com.br/foto/999222/1.jpg",
+        "https://hasta.com.br/foto/999222/2.jpg",
+        "https://hasta.com.br/foto/999222/3.jpg",
+        "https://hasta.com.br/foto/999222/4.jpg",
+        "https://hasta.com.br/foto/999222/5.jpg",
+        "https://hasta.com.br/foto/999222/6.jpg",
+        "https://hasta.com.br/foto/999222/7.jpg",
+        "https://hasta.com.br/foto/999222/8.jpg",
+        "https://hasta.com.br/foto/999222/9.jpg",
+        "https://hasta.com.br/foto/999222/10.jpg",
+        "https://hasta.com.br/foto/999222/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:09-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
@@ -1856,7 +1892,8 @@
           "https://hasta.com.br/imovel/999222-chacara-sitio-rural"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/999222-chacara-sitio-rural"
     },
     {
       "id": "20fd0b9b6356ec174d81",
@@ -1900,6 +1937,14 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/1577602/0.jpg",
+        "https://hasta.com.br/foto/1577602/1.jpg",
+        "https://hasta.com.br/foto/1577602/2.jpg",
+        "https://hasta.com.br/foto/1577602/3.jpg",
+        "https://hasta.com.br/foto/1577602/4.jpg",
+        "https://hasta.com.br/foto/1577602/5.jpg",
+        "https://hasta.com.br/foto/1577602/6.jpg",
+        "https://hasta.com.br/foto/1577602/7.jpg",
         "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grlkbn1ggqso/b/astavero/o/anexos/mazzolli/6abd3d06d846463f40e90e6e/6abd3e73e79d89d25be22d1d/foto_4-1790946160000.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:10-03:00",
@@ -1933,7 +1978,8 @@
           "https://hasta.com.br/imovel/1577602-terreno-urbano-barra-velha-lote-001-id-1497"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1577602-terreno-urbano-barra-velha-lote-001-id-1497"
     },
     {
       "id": "3bbb3eb174367f3e9270",
@@ -1977,6 +2023,12 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/847525/0.jpg",
+        "https://hasta.com.br/foto/847525/1.jpg",
+        "https://hasta.com.br/foto/847525/2.jpg",
+        "https://hasta.com.br/foto/847525/3.jpg",
+        "https://hasta.com.br/foto/847525/4.jpg",
+        "https://hasta.com.br/foto/847525/5.jpg",
         "https://csdl-production.s3-sa-east-1.amazonaws.com/uploads/fotos/lotes/243664/terreno-barra-velha-02.png"
       ],
       "first_seen_at": "2026-10-20T10:11:10-03:00",
@@ -2010,7 +2062,8 @@
           "https://hasta.com.br/imovel/847525-terreno-no-lote-18-qd-n-com-area-de-306-00m2-no-loteamento-parque-residencial-mo"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/847525-terreno-no-lote-18-qd-n-com-area-de-306-00m2-no-loteamento-parque-residencial-mo"
     },
     {
       "id": "b5fd1f1525a636aed343",
@@ -2052,6 +2105,7 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/1720889/0.jpg",
         "https://imagens.portalzuk.com.br/mini/2026/09/503d271474858e51f5fc0d50e62da4b3.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:10-03:00",
@@ -2085,7 +2139,8 @@
           "https://hasta.com.br/imovel/1720889-casa-barra-velha-sc-quinta-dos-acorianos-rua-dos-borgonhas-s-n"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1720889-casa-barra-velha-sc-quinta-dos-acorianos-rua-dos-borgonhas-s-n"
     },
     {
       "id": "00b260917e138c3b0b80",
@@ -2126,7 +2181,20 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1676223/0.jpg",
+        "https://hasta.com.br/foto/1676223/1.jpg",
+        "https://hasta.com.br/foto/1676223/2.jpg",
+        "https://hasta.com.br/foto/1676223/3.jpg",
+        "https://hasta.com.br/foto/1676223/4.jpg",
+        "https://hasta.com.br/foto/1676223/5.jpg",
+        "https://hasta.com.br/foto/1676223/6.jpg",
+        "https://hasta.com.br/foto/1676223/7.jpg",
+        "https://hasta.com.br/foto/1676223/8.jpg",
+        "https://hasta.com.br/foto/1676223/9.jpg",
+        "https://hasta.com.br/foto/1676223/10.jpg",
+        "https://hasta.com.br/foto/1676223/11.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -2158,7 +2226,8 @@
           "https://hasta.com.br/imovel/1676223-lote-03-terreno-em-joinville-com-area-de-1-400m2"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1676223-lote-03-terreno-em-joinville-com-area-de-1-400m2"
     },
     {
       "id": "03692fe334d21e3f3fee",
@@ -2213,6 +2282,8 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/1854621/0.jpg",
+        "https://hasta.com.br/foto/1854621/1.jpg",
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/58/58ff0ce3e5c30571f9861172e20ce69c06bda212497206410deb095ed7a70b78.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
@@ -2246,7 +2317,8 @@
           "https://hasta.com.br/imovel/1854621-leilao-online-leilao-apartamento-joinville-sc-1o-leilao-02-12-2026-2o-leilao-04"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1854621-leilao-online-leilao-apartamento-joinville-sc-1o-leilao-02-12-2026-2o-leilao-04"
     },
     {
       "id": "04fed9d77ac896fb3d80",
@@ -2287,7 +2359,12 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1769820/0.jpg",
+        "https://hasta.com.br/foto/1769820/1.jpg",
+        "https://hasta.com.br/foto/1769820/2.jpg",
+        "https://hasta.com.br/foto/1769820/3.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -2319,7 +2396,8 @@
           "https://hasta.com.br/imovel/1769820-casa-santa-catarina-joinville-sc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1769820-casa-santa-catarina-joinville-sc"
     },
     {
       "id": "05f2bb45f351dc068836",
@@ -2361,6 +2439,7 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/2122588/0.jpg",
         "https://imagens.portalzuk.com.br/mini/2026/10/af94758ad7f208b78ae8fce9362fa258.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
@@ -2394,7 +2473,8 @@
           "https://hasta.com.br/imovel/2122588-casa-joinville-sc-pirabeiraba-rua-presidente-vargas-146"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2122588-casa-joinville-sc-pirabeiraba-rua-presidente-vargas-146"
     },
     {
       "id": "086863edd398ce65dcdb",
@@ -2435,7 +2515,15 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2106471/0.jpg",
+        "https://hasta.com.br/foto/2106471/1.jpg",
+        "https://hasta.com.br/foto/2106471/2.jpg",
+        "https://hasta.com.br/foto/2106471/3.jpg",
+        "https://hasta.com.br/foto/2106471/4.jpg",
+        "https://hasta.com.br/foto/2106471/5.jpg",
+        "https://hasta.com.br/foto/2106471/6.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -2467,7 +2555,8 @@
           "https://hasta.com.br/imovel/2106471-imoveis-relacionados"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2106471-imoveis-relacionados"
     },
     {
       "id": "09c1e5d9c97da1723ea5",
@@ -2508,7 +2597,20 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1785653/0.jpg",
+        "https://hasta.com.br/foto/1785653/1.jpg",
+        "https://hasta.com.br/foto/1785653/2.jpg",
+        "https://hasta.com.br/foto/1785653/3.jpg",
+        "https://hasta.com.br/foto/1785653/4.jpg",
+        "https://hasta.com.br/foto/1785653/5.jpg",
+        "https://hasta.com.br/foto/1785653/6.jpg",
+        "https://hasta.com.br/foto/1785653/7.jpg",
+        "https://hasta.com.br/foto/1785653/8.jpg",
+        "https://hasta.com.br/foto/1785653/9.jpg",
+        "https://hasta.com.br/foto/1785653/10.jpg",
+        "https://hasta.com.br/foto/1785653/11.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -2540,7 +2642,8 @@
           "https://hasta.com.br/imovel/1785653-terreno-joinville-joinville-sc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1785653-terreno-joinville-joinville-sc"
     },
     {
       "id": "0aeeadebb932762d85bf",
@@ -2582,7 +2685,18 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
-        "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/ea/eac68aef6c8720aad92333f5bbd17653ee36aafda391c3129feb9688a89f3659.jpg"
+        "https://hasta.com.br/foto/1908557/0.jpg",
+        "https://hasta.com.br/foto/1908557/1.jpg",
+        "https://hasta.com.br/foto/1908557/2.jpg",
+        "https://hasta.com.br/foto/1908557/3.jpg",
+        "https://hasta.com.br/foto/1908557/4.jpg",
+        "https://hasta.com.br/foto/1908557/5.jpg",
+        "https://hasta.com.br/foto/1908557/6.jpg",
+        "https://hasta.com.br/foto/1908557/7.jpg",
+        "https://hasta.com.br/foto/1908557/8.jpg",
+        "https://hasta.com.br/foto/1908557/9.jpg",
+        "https://hasta.com.br/foto/1908557/10.jpg",
+        "https://hasta.com.br/foto/1908557/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
@@ -2615,7 +2729,8 @@
           "https://hasta.com.br/imovel/1908557-imovel-situado-na-rua-sao-paulo-s-n-bairro-floresta-joinville-sc-terreno-com-are"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1908557-imovel-situado-na-rua-sao-paulo-s-n-bairro-floresta-joinville-sc-terreno-com-are"
     },
     {
       "id": "0fc466da0d41eebd3fab",
@@ -2691,14 +2806,7 @@
         "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00149572.JPG",
         "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00149573.JPG",
         "https://cdn3.freitasleiloeiro.com.br/Assets/Imagens/bg_mapa_imoveis_site.jpg",
-        "https://cdn3.freitasleiloeiro.com.br/Assets/Imagens/LanceAutomatico.jpg",
-        "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154115.JPG",
-        "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154116.JPG",
-        "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154117.JPG",
-        "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154118.JPG",
-        "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154119.JPG",
-        "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154121.JPG",
-        "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154122.JPG"
+        "https://cdn3.freitasleiloeiro.com.br/Assets/Imagens/LanceAutomatico.jpg"
       ],
       "first_seen_at": "2026-10-20T10:10:42-03:00",
       "last_checked_at": "2026-10-20T13:49:54-03:00",
@@ -2770,7 +2878,13 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://static.suporteleiloes.com.br/trileiloescombr/bens/12432/arquivos/sl-bem-12432-6ac2fc6707094-6ac2fc670949e.png",
+        "https://static.suporteleiloes.com.br/trileiloescombr/bens/12432/arquivos/sl-bem-12432-6ac2fc688702d-6ac2fc6889461.png",
+        "https://static.suporteleiloes.com.br/trileiloescombr/bens/12432/arquivos/sl-bem-12432-6ac2fc6a32678-6ac2fc6a36c51.png",
+        "https://static.suporteleiloes.com.br/trileiloescombr/bens/12432/arquivos/sl-bem-12432-6ac2fc6c30bcb-6ac2fc6c3393d.png",
+        "https://static.suporteleiloes.com.br/trileiloescombr/bens/12432/arquivos/sl-bem-12432-6ac2fc6dd9af0-6ac2fc6ddbd70.png"
+      ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -2802,7 +2916,8 @@
           "https://hasta.com.br/imovel/1824929-joinville-sc-apartamento-53-49m2"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://www.trileiloes.com.br/eventos/leilao/164/joinville-sc-apartamento-53-49m2/lote?utm_source=hasta&utm_medium=ficha_imovel"
     },
     {
       "id": "1556d3485addc60e3398",
@@ -2843,7 +2958,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2187509/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -2875,7 +2992,8 @@
           "https://hasta.com.br/imovel/2187509-res-sao-roque"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2187509-res-sao-roque"
     },
     {
       "id": "18b39785d4392fa30f5f",
@@ -2917,6 +3035,9 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/2090284/0.jpg",
+        "https://hasta.com.br/foto/2090284/1.jpg",
+        "https://hasta.com.br/foto/2090284/2.jpg",
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/32/3275ed983edd118990da2278f35825a70a7216dfda69b8f5d73ce24cb45fba46.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
@@ -2950,7 +3071,8 @@
           "https://hasta.com.br/imovel/2090284-terreno-avenida-santos-dumont-sem-edificacoes-joinville-sc-area-de-33-220m2-luis"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2090284-terreno-avenida-santos-dumont-sem-edificacoes-joinville-sc-area-de-33-220m2-luis"
     },
     {
       "id": "1be4ddb4d0c1acf400aa",
@@ -2991,7 +3113,15 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2106474/0.jpg",
+        "https://hasta.com.br/foto/2106474/1.jpg",
+        "https://hasta.com.br/foto/2106474/2.jpg",
+        "https://hasta.com.br/foto/2106474/3.jpg",
+        "https://hasta.com.br/foto/2106474/4.jpg",
+        "https://hasta.com.br/foto/2106474/5.jpg",
+        "https://hasta.com.br/foto/2106474/6.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -3023,7 +3153,8 @@
           "https://hasta.com.br/imovel/2106474-imoveis-relacionados"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2106474-imoveis-relacionados"
     },
     {
       "id": "1cafa2c48d2ab8f4382c",
@@ -3064,7 +3195,15 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1942356/0.jpg",
+        "https://hasta.com.br/foto/1942356/1.jpg",
+        "https://hasta.com.br/foto/1942356/2.jpg",
+        "https://hasta.com.br/foto/1942356/3.jpg",
+        "https://hasta.com.br/foto/1942356/4.jpg",
+        "https://hasta.com.br/foto/1942356/5.jpg",
+        "https://hasta.com.br/foto/1942356/6.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -3096,7 +3235,8 @@
           "https://hasta.com.br/imovel/1942356-lote-4-terreno-com-1-214-37-m2-boa-vista-centro-joinville-sc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1942356-lote-4-terreno-com-1-214-37-m2-boa-vista-centro-joinville-sc"
     },
     {
       "id": "1ced93f888f0ff1ae334",
@@ -3137,7 +3277,20 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/999607/0.jpg",
+        "https://hasta.com.br/foto/999607/1.jpg",
+        "https://hasta.com.br/foto/999607/2.jpg",
+        "https://hasta.com.br/foto/999607/3.jpg",
+        "https://hasta.com.br/foto/999607/4.jpg",
+        "https://hasta.com.br/foto/999607/5.jpg",
+        "https://hasta.com.br/foto/999607/6.jpg",
+        "https://hasta.com.br/foto/999607/7.jpg",
+        "https://hasta.com.br/foto/999607/8.jpg",
+        "https://hasta.com.br/foto/999607/9.jpg",
+        "https://hasta.com.br/foto/999607/10.jpg",
+        "https://hasta.com.br/foto/999607/11.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -3169,7 +3322,8 @@
           "https://hasta.com.br/imovel/999607-casa-residencial-gloria-3-dormitorio-s-1-vaga-s-de-garagem"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/999607-casa-residencial-gloria-3-dormitorio-s-1-vaga-s-de-garagem"
     },
     {
       "id": "1ff74318e6f034323726",
@@ -3212,7 +3366,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1067948/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -3244,7 +3400,8 @@
           "https://hasta.com.br/imovel/1067948-2a-vara-federal-de-joinville-lote-001-id-3061"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1067948-2a-vara-federal-de-joinville-lote-001-id-3061"
     },
     {
       "id": "304316b5dfa4be813f4d",
@@ -3287,7 +3444,10 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2123069/0.jpg",
+        "https://hasta.com.br/foto/2123069/1.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -3319,7 +3479,8 @@
           "https://hasta.com.br/imovel/2123069-lote-368-estado-sc-cidade-joinville-endereco-rua-joao-da-costa-junior-n-sn-apto"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2123069-lote-368-estado-sc-cidade-joinville-endereco-rua-joao-da-costa-junior-n-sn-apto"
     },
     {
       "id": "30a95faa59307c10f75b",
@@ -3361,6 +3522,7 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/968506/0.jpg",
         "https://ms.sbwebservices.net/photos/9dc72313-7a0d-468a-adf6-79d41c03004e.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:06-03:00",
@@ -3394,7 +3556,8 @@
           "https://hasta.com.br/imovel/968506-apartamento-residencial-vila-germanica-a-t-62-12m2-a-p-51-14m2-vila-nova-joinvil"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/968506-apartamento-residencial-vila-germanica-a-t-62-12m2-a-p-51-14m2-vila-nova-joinvil"
     },
     {
       "id": "314db08f260a3c4192a9",
@@ -3435,7 +3598,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2187787/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -3467,7 +3632,8 @@
           "https://hasta.com.br/imovel/2187787-joinville-vila-nova"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2187787-joinville-vila-nova"
     },
     {
       "id": "36913ba2a684762ca887",
@@ -3511,6 +3677,7 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/746520/0.jpg",
         "https://www.santanderimoveis.com.br/wp-content/uploads/2026/07/1785440605006.jpeg"
       ],
       "first_seen_at": "2026-10-20T10:11:06-03:00",
@@ -3544,7 +3711,8 @@
           "https://hasta.com.br/imovel/746520-apartamento-a-venda-na-rua-leopoldo-fischer-joinville-sc-codigo-02-26418"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/746520-apartamento-a-venda-na-rua-leopoldo-fischer-joinville-sc-codigo-02-26418"
     },
     {
       "id": "3714117092feb852b763",
@@ -3587,7 +3755,13 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2027072/0.jpg",
+        "https://hasta.com.br/foto/2027072/1.jpg",
+        "https://hasta.com.br/foto/2027072/2.jpg",
+        "https://hasta.com.br/foto/2027072/3.jpg",
+        "https://hasta.com.br/foto/2027072/4.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -3619,7 +3793,8 @@
           "https://hasta.com.br/imovel/2027072-direitos-aquisitivos-em-face-de-plaza-monet-incorporacao-spe-ltda-a-um-apartamen"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2027072-direitos-aquisitivos-em-face-de-plaza-monet-incorporacao-spe-ltda-a-um-apartamen"
     },
     {
       "id": "3731084dac88dec8daba",
@@ -3660,7 +3835,15 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2106473/0.jpg",
+        "https://hasta.com.br/foto/2106473/1.jpg",
+        "https://hasta.com.br/foto/2106473/2.jpg",
+        "https://hasta.com.br/foto/2106473/3.jpg",
+        "https://hasta.com.br/foto/2106473/4.jpg",
+        "https://hasta.com.br/foto/2106473/5.jpg",
+        "https://hasta.com.br/foto/2106473/6.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -3692,7 +3875,8 @@
           "https://hasta.com.br/imovel/2106473-imoveis-relacionados"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2106473-imoveis-relacionados"
     },
     {
       "id": "379e65edade79809c539",
@@ -3734,6 +3918,7 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/1647135/0.jpg",
         "https://dto3gws2tdkmm.cloudfront.net/bens/0000004489/img-4489-6ab70b95ede22.jpeg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
@@ -3767,7 +3952,8 @@
           "https://hasta.com.br/imovel/1647135-leilao-terreno-na-zona-industrial-norte-contendo-4-285-50m2-rua-dos-franceses-s"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1647135-leilao-terreno-na-zona-industrial-norte-contendo-4-285-50m2-rua-dos-franceses-s"
     },
     {
       "id": "399fcaf0c964cd9d6bd7",
@@ -3808,7 +3994,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1785654/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -3840,7 +4028,8 @@
           "https://hasta.com.br/imovel/1785654-terreno-joinville-joinville-sc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1785654-terreno-joinville-joinville-sc"
     },
     {
       "id": "3d703895dc274004f79f",
@@ -3881,7 +4070,20 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/998960/0.jpg",
+        "https://hasta.com.br/foto/998960/1.jpg",
+        "https://hasta.com.br/foto/998960/2.jpg",
+        "https://hasta.com.br/foto/998960/3.jpg",
+        "https://hasta.com.br/foto/998960/4.jpg",
+        "https://hasta.com.br/foto/998960/5.jpg",
+        "https://hasta.com.br/foto/998960/6.jpg",
+        "https://hasta.com.br/foto/998960/7.jpg",
+        "https://hasta.com.br/foto/998960/8.jpg",
+        "https://hasta.com.br/foto/998960/9.jpg",
+        "https://hasta.com.br/foto/998960/10.jpg",
+        "https://hasta.com.br/foto/998960/11.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -3913,7 +4115,8 @@
           "https://hasta.com.br/imovel/998960-apartamento-residencial-anita-garibaldi-2-vaga-s-de-garagem"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/998960-apartamento-residencial-anita-garibaldi-2-vaga-s-de-garagem"
     },
     {
       "id": "3e7c546840f530b417dc",
@@ -3968,6 +4171,7 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/1785698/0.jpg",
         "https://24e53253961aecf7.cdn.gocache.net/watermark/bens/0000086419/img-86419-6aa85abf0cb9f.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
@@ -4001,7 +4205,8 @@
           "https://hasta.com.br/imovel/1785698-leilao-terreno-joinville-sc-1a-praca-03-11-2026-2a-praca-10-11-2026-r-6-785-000"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1785698-leilao-terreno-joinville-sc-1a-praca-03-11-2026-2a-praca-10-11-2026-r-6-785-000"
     },
     {
       "id": "450e172120fdaa017951",
@@ -4042,7 +4247,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1588250/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -4074,7 +4281,8 @@
           "https://hasta.com.br/imovel/1588250-apartamento-parque-jardim-do-rouxinol"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1588250-apartamento-parque-jardim-do-rouxinol"
     },
     {
       "id": "4711a6582c31e17e7454",
@@ -4123,6 +4331,10 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/1996455/0.jpg",
+        "https://hasta.com.br/foto/1996455/1.jpg",
+        "https://hasta.com.br/foto/1996455/2.jpg",
+        "https://hasta.com.br/foto/1996455/3.jpg",
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/f4/f444e2260ed07c4a8c8eca9c3eabcce8844e61566984598a5bf74edc105217f6.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
@@ -4156,7 +4368,8 @@
           "https://hasta.com.br/imovel/1996455-judicial-leilao-judicial-apartamento-joinville-sc-1a-praca-17-12-2026-lance-mini"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1996455-judicial-leilao-judicial-apartamento-joinville-sc-1a-praca-17-12-2026-lance-mini"
     },
     {
       "id": "476eddc9e3271118f542",
@@ -4205,6 +4418,8 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/1764631/0.jpg",
+        "https://hasta.com.br/foto/1764631/1.jpg",
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/46/46ed7a026af136ba32bbcf6b8e9e2dfee55791f10c03f09e0af686216a8b34eb.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
@@ -4238,7 +4453,8 @@
           "https://hasta.com.br/imovel/1764631-leilao-apartamento-joinville-sc-1a-praca-23-10-2026-r-217-666-banco-do-brasil-an"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1764631-leilao-apartamento-joinville-sc-1a-praca-23-10-2026-r-217-666-banco-do-brasil-an"
     },
     {
       "id": "4869eb031114b1d0ba59",
@@ -4279,7 +4495,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/556980/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -4311,7 +4529,8 @@
           "https://hasta.com.br/imovel/556980-joinville-zona-industrial-norte"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/556980-joinville-zona-industrial-norte"
     },
     {
       "id": "4882fb3517ee52da3eb4",
@@ -4352,7 +4571,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2040828/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -4384,7 +4605,8 @@
           "https://hasta.com.br/imovel/2040828-rural-vila-nova-joinville-sc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2040828-rural-vila-nova-joinville-sc"
     },
     {
       "id": "49905dad427eb62e1d34",
@@ -4426,6 +4648,14 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/1908551/0.jpg",
+        "https://hasta.com.br/foto/1908551/1.jpg",
+        "https://hasta.com.br/foto/1908551/2.jpg",
+        "https://hasta.com.br/foto/1908551/3.jpg",
+        "https://hasta.com.br/foto/1908551/4.jpg",
+        "https://hasta.com.br/foto/1908551/5.jpg",
+        "https://hasta.com.br/foto/1908551/6.jpg",
+        "https://hasta.com.br/foto/1908551/7.jpg",
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/02/020617f20f9c7670a31a6fbd60b236d2dcf897b9ed16056c6f507fed3cd1ce2e.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
@@ -4459,7 +4689,8 @@
           "https://hasta.com.br/imovel/1908551-imovel-situado-na-rua-otto-boehm-prolongamento-s-n-bairro-gloria-joinville-sc-te"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1908551-imovel-situado-na-rua-otto-boehm-prolongamento-s-n-bairro-gloria-joinville-sc-te"
     },
     {
       "id": "4c7276b76bcea57a760b",
@@ -4500,7 +4731,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1514941/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -4532,7 +4765,8 @@
           "https://hasta.com.br/imovel/1514941-grande-area-em-regiao-central-de-joinvile-ideal-para-logistica-incorporacoes"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1514941-grande-area-em-regiao-central-de-joinvile-ideal-para-logistica-incorporacoes"
     },
     {
       "id": "4e87051665604a054689",
@@ -4576,6 +4810,7 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/600093/0.jpg",
         "https://www.santanderimoveis.com.br/wp-content/uploads/2026/04/1775572276222.jpeg"
       ],
       "first_seen_at": "2026-10-20T10:11:06-03:00",
@@ -4609,7 +4844,8 @@
           "https://hasta.com.br/imovel/600093-casa-a-venda-na-rua-gustavo-hoepfner-joinville-sc-codigo-02-26232"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/600093-casa-a-venda-na-rua-gustavo-hoepfner-joinville-sc-codigo-02-26232"
     },
     {
       "id": "50a18739351cdd90ae96",
@@ -4650,7 +4886,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1946983/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -4682,7 +4920,8 @@
           "https://hasta.com.br/imovel/1946983-apartamento-saguacu-joinville-sc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1946983-apartamento-saguacu-joinville-sc"
     },
     {
       "id": "53ebef2c2ec3286d25da",
@@ -4821,7 +5060,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2040827/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -4853,7 +5094,8 @@
           "https://hasta.com.br/imovel/2040827-rural-vila-nova-joinville-sc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2040827-rural-vila-nova-joinville-sc"
     },
     {
       "id": "55e7b94db4e79aba95b3",
@@ -4894,7 +5136,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1506788/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -4926,7 +5170,8 @@
           "https://hasta.com.br/imovel/1506788-casa-nova-brasilia-joinville-sc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1506788-casa-nova-brasilia-joinville-sc"
     },
     {
       "id": "5d358f19fb32d726d885",
@@ -4968,7 +5213,18 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
-        "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/17/17073eb89d43fc7660fab6a95f8542168413fc580c3b28d2bc6a43276278b2bc.jpg"
+        "https://hasta.com.br/foto/1908555/0.jpg",
+        "https://hasta.com.br/foto/1908555/1.jpg",
+        "https://hasta.com.br/foto/1908555/2.jpg",
+        "https://hasta.com.br/foto/1908555/3.jpg",
+        "https://hasta.com.br/foto/1908555/4.jpg",
+        "https://hasta.com.br/foto/1908555/5.jpg",
+        "https://hasta.com.br/foto/1908555/6.jpg",
+        "https://hasta.com.br/foto/1908555/7.jpg",
+        "https://hasta.com.br/foto/1908555/8.jpg",
+        "https://hasta.com.br/foto/1908555/9.jpg",
+        "https://hasta.com.br/foto/1908555/10.jpg",
+        "https://hasta.com.br/foto/1908555/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
@@ -5001,7 +5257,8 @@
           "https://hasta.com.br/imovel/1908555-imovel-situado-na-rua-dorothovio-do-nascimento-s-n-zona-industrialnorte-joinvill"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1908555-imovel-situado-na-rua-dorothovio-do-nascimento-s-n-zona-industrialnorte-joinvill"
     },
     {
       "id": "60739d34f368032b17c7",
@@ -5044,7 +5301,13 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2027069/0.jpg",
+        "https://hasta.com.br/foto/2027069/1.jpg",
+        "https://hasta.com.br/foto/2027069/2.jpg",
+        "https://hasta.com.br/foto/2027069/3.jpg",
+        "https://hasta.com.br/foto/2027069/4.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -5076,7 +5339,8 @@
           "https://hasta.com.br/imovel/2027069-direitos-aquisitivos-em-face-de-plaza-monet-incorporacao-spe-ltda-a-um-apartamen"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2027069-direitos-aquisitivos-em-face-de-plaza-monet-incorporacao-spe-ltda-a-um-apartamen"
     },
     {
       "id": "615afa871d57c63828f0",
@@ -5117,7 +5381,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1946982/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -5149,7 +5415,8 @@
           "https://hasta.com.br/imovel/1946982-apartamento-floresta-joinville-sc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1946982-apartamento-floresta-joinville-sc"
     },
     {
       "id": "61de78297ab780ec9fc4",
@@ -5190,7 +5457,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1948256/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -5222,7 +5491,8 @@
           "https://hasta.com.br/imovel/1948256-res-vila-germanica-cj-res-bremen"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1948256-res-vila-germanica-cj-res-bremen"
     },
     {
       "id": "6299ed9b32b57d595205",
@@ -5263,7 +5533,12 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1083652/0.jpg",
+        "https://hasta.com.br/foto/1083652/1.jpg",
+        "https://hasta.com.br/foto/1083652/2.jpg",
+        "https://hasta.com.br/foto/1083652/3.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -5295,7 +5570,8 @@
           "https://hasta.com.br/imovel/1083652-apartamento-sc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1083652-apartamento-sc"
     },
     {
       "id": "6ae9bfa15794b08cfca1",
@@ -5337,6 +5613,7 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/2067943/0.jpg",
         "https://imagens.portalzuk.com.br/mini/2026/10/b6ef026a062928dc338beeb1a8dc7f0e.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
@@ -5370,7 +5647,8 @@
           "https://hasta.com.br/imovel/2067943-casa-joinville-sc-vila-nova-rua-dos-portugueses-47"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2067943-casa-joinville-sc-vila-nova-rua-dos-portugueses-47"
     },
     {
       "id": "6b3a885a73fc39c8e811",
@@ -5411,7 +5689,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://3b666ae36f8a71be.cdn.gocache.net/bens/0000013459/img-13459-6a05f4d80feec.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -5443,7 +5723,8 @@
           "https://hasta.com.br/imovel/139143-apartamento-joinville-sc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://www.agostinholeiloes.com.br/item/15880/detalhes"
     },
     {
       "id": "6bcf0295ba37ddf2d809",
@@ -5484,7 +5765,20 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2120762/0.jpg",
+        "https://hasta.com.br/foto/2120762/1.jpg",
+        "https://hasta.com.br/foto/2120762/2.jpg",
+        "https://hasta.com.br/foto/2120762/3.jpg",
+        "https://hasta.com.br/foto/2120762/4.jpg",
+        "https://hasta.com.br/foto/2120762/5.jpg",
+        "https://hasta.com.br/foto/2120762/6.jpg",
+        "https://hasta.com.br/foto/2120762/7.jpg",
+        "https://hasta.com.br/foto/2120762/8.jpg",
+        "https://hasta.com.br/foto/2120762/9.jpg",
+        "https://hasta.com.br/foto/2120762/10.jpg",
+        "https://hasta.com.br/foto/2120762/11.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -5516,7 +5810,8 @@
           "https://hasta.com.br/imovel/2120762-casa-vila-nova-joinville-sc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2120762-casa-vila-nova-joinville-sc"
     },
     {
       "id": "7394dc14a35f864e8b27",
@@ -5558,6 +5853,7 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/1463844/0.jpg",
         "https://imagens.portalzuk.com.br/detalhe/2026/09/017b1449be561de1eef0a2b11b2849b6.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
@@ -5591,7 +5887,8 @@
           "https://hasta.com.br/imovel/1463844-apartamento-joinville-sc-floresta-rua-princesa-mafalda-474"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1463844-apartamento-joinville-sc-floresta-rua-princesa-mafalda-474"
     },
     {
       "id": "746d9d277b7b4210e869",
@@ -5632,7 +5929,17 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2054133/0.jpg",
+        "https://hasta.com.br/foto/2054133/1.jpg",
+        "https://hasta.com.br/foto/2054133/2.jpg",
+        "https://hasta.com.br/foto/2054133/3.jpg",
+        "https://hasta.com.br/foto/2054133/4.jpg",
+        "https://hasta.com.br/foto/2054133/5.jpg",
+        "https://hasta.com.br/foto/2054133/6.jpg",
+        "https://hasta.com.br/foto/2054133/7.jpg",
+        "https://hasta.com.br/foto/2054133/8.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -5664,7 +5971,8 @@
           "https://hasta.com.br/imovel/2054133-terreno-2-826-25m2"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2054133-terreno-2-826-25m2"
     },
     {
       "id": "77bc06edfe395ecb268b",
@@ -5705,7 +6013,15 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1508159/0.jpg",
+        "https://hasta.com.br/foto/1508159/1.jpg",
+        "https://hasta.com.br/foto/1508159/2.jpg",
+        "https://hasta.com.br/foto/1508159/3.jpg",
+        "https://hasta.com.br/foto/1508159/4.jpg",
+        "https://hasta.com.br/foto/1508159/5.jpg",
+        "https://hasta.com.br/foto/1508159/6.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -5737,7 +6053,8 @@
           "https://hasta.com.br/imovel/1508159-terreno-em-joinville-pirabeiraba-com-5-137-95m2-com-galpao-de-985-50m2-ideal-par"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1508159-terreno-em-joinville-pirabeiraba-com-5-137-95m2-com-galpao-de-985-50m2-ideal-par"
     },
     {
       "id": "7b102f8318aa901098c1",
@@ -5778,7 +6095,20 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2152361/0.jpg",
+        "https://hasta.com.br/foto/2152361/1.jpg",
+        "https://hasta.com.br/foto/2152361/2.jpg",
+        "https://hasta.com.br/foto/2152361/3.jpg",
+        "https://hasta.com.br/foto/2152361/4.jpg",
+        "https://hasta.com.br/foto/2152361/5.jpg",
+        "https://hasta.com.br/foto/2152361/6.jpg",
+        "https://hasta.com.br/foto/2152361/7.jpg",
+        "https://hasta.com.br/foto/2152361/8.jpg",
+        "https://hasta.com.br/foto/2152361/9.jpg",
+        "https://hasta.com.br/foto/2152361/10.jpg",
+        "https://hasta.com.br/foto/2152361/11.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -5810,7 +6140,8 @@
           "https://hasta.com.br/imovel/2152361-apartamento-residencial-anita-garibaldi-3-dormitorio-s-1-vaga-s-de-garagem"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2152361-apartamento-residencial-anita-garibaldi-3-dormitorio-s-1-vaga-s-de-garagem"
     },
     {
       "id": "7b89ba3a02999fcdae54",
@@ -5854,6 +6185,10 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/1824383/0.jpg",
+        "https://hasta.com.br/foto/1824383/1.jpg",
+        "https://hasta.com.br/foto/1824383/2.jpg",
+        "https://hasta.com.br/foto/1824383/3.jpg",
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/55/552eec27baa9510c7d6885675977ae04b4add557b6faf6ef901c18fc0c9953c7.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
@@ -5887,7 +6222,8 @@
           "https://hasta.com.br/imovel/1824383-apartamento-no-bairro-jardim-paraiso-em-joinville-sc-lote-001-id-8412"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1824383-apartamento-no-bairro-jardim-paraiso-em-joinville-sc-lote-001-id-8412"
     },
     {
       "id": "80d0e5b207315b6d1e5d",
@@ -5931,6 +6267,7 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/1250563/0.jpg",
         "https://www.santanderimoveis.com.br/wp-content/uploads/2026/09/1788533080897.jpeg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
@@ -5964,7 +6301,8 @@
           "https://hasta.com.br/imovel/1250563-lote-a-venda-na-rua-mozart-joinville-sc-codigo-02-27499"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1250563-lote-a-venda-na-rua-mozart-joinville-sc-codigo-02-27499"
     },
     {
       "id": "80dc8c82250e1a10d2ef",
@@ -6007,7 +6345,13 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2027070/0.jpg",
+        "https://hasta.com.br/foto/2027070/1.jpg",
+        "https://hasta.com.br/foto/2027070/2.jpg",
+        "https://hasta.com.br/foto/2027070/3.jpg",
+        "https://hasta.com.br/foto/2027070/4.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -6039,7 +6383,8 @@
           "https://hasta.com.br/imovel/2027070-direitos-aquisitivos-em-face-de-plaza-monet-incorporacao-spe-ltda-a-um-apartamen"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2027070-direitos-aquisitivos-em-face-de-plaza-monet-incorporacao-spe-ltda-a-um-apartamen"
     },
     {
       "id": "830d20a29f778cb562ae",
@@ -6080,7 +6425,14 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/962700/0.jpg",
+        "https://hasta.com.br/foto/962700/1.jpg",
+        "https://hasta.com.br/foto/962700/2.jpg",
+        "https://hasta.com.br/foto/962700/3.jpg",
+        "https://hasta.com.br/foto/962700/4.jpg",
+        "https://hasta.com.br/foto/962700/5.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -6112,7 +6464,8 @@
           "https://hasta.com.br/imovel/962700-apartamento-res-spazio-jardim-de-viena"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/962700-apartamento-res-spazio-jardim-de-viena"
     },
     {
       "id": "835051baca5a80c1695d",
@@ -6153,7 +6506,15 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2106472/0.jpg",
+        "https://hasta.com.br/foto/2106472/1.jpg",
+        "https://hasta.com.br/foto/2106472/2.jpg",
+        "https://hasta.com.br/foto/2106472/3.jpg",
+        "https://hasta.com.br/foto/2106472/4.jpg",
+        "https://hasta.com.br/foto/2106472/5.jpg",
+        "https://hasta.com.br/foto/2106472/6.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -6185,7 +6546,8 @@
           "https://hasta.com.br/imovel/2106472-imoveis-relacionados"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2106472-imoveis-relacionados"
     },
     {
       "id": "868f75ef646eba42886e",
@@ -6234,6 +6596,7 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/2091959/0.jpg",
         "https://49150d03d11fa9b9.cdn.gocache.net/leiloes/000000-6a99bff9072b4.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
@@ -6267,7 +6630,8 @@
           "https://hasta.com.br/imovel/2091959-casa-no-bairro-gloria-em-joinville-sc-1o-leilao-04-11-2026-as-14-30-lance-inicia"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2091959-casa-no-bairro-gloria-em-joinville-sc-1o-leilao-04-11-2026-as-14-30-lance-inicia"
     },
     {
       "id": "87bff8889472116c9401",
@@ -6308,7 +6672,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1949169/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -6340,7 +6706,8 @@
           "https://hasta.com.br/imovel/1949169-spazio-jardim-de-bari"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1949169-spazio-jardim-de-bari"
     },
     {
       "id": "925fd912c1beab9817e2",
@@ -6381,7 +6748,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2083843/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -6413,7 +6782,8 @@
           "https://hasta.com.br/imovel/2083843-casa-do-leilao-bem-01-um-ar-condicionado-em-joinville-santa-catarina"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2083843-casa-do-leilao-bem-01-um-ar-condicionado-em-joinville-santa-catarina"
     },
     {
       "id": "92e0eca528b25f82fef4",
@@ -6462,6 +6832,12 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/1914044/0.jpg",
+        "https://hasta.com.br/foto/1914044/1.jpg",
+        "https://hasta.com.br/foto/1914044/2.jpg",
+        "https://hasta.com.br/foto/1914044/3.jpg",
+        "https://hasta.com.br/foto/1914044/4.jpg",
+        "https://hasta.com.br/foto/1914044/5.jpg",
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/e3/e36fff1ce18f539f7f0aff5761e442c05aa9eab9910f6ec7e90247cc3acd97cd.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
@@ -6495,7 +6871,8 @@
           "https://hasta.com.br/imovel/1914044-judicial-leilao-judicial-apartamento-joinville-sc-1a-praca-15-12-2026-lance-mini"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1914044-judicial-leilao-judicial-apartamento-joinville-sc-1a-praca-15-12-2026-lance-mini"
     },
     {
       "id": "939f69693a255d11742d",
@@ -6536,7 +6913,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1504279/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -6568,7 +6947,8 @@
           "https://hasta.com.br/imovel/1504279-edif-res-e-comercial-perondi-villa-office"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1504279-edif-res-e-comercial-perondi-villa-office"
     },
     {
       "id": "94dfd11010dbccbc09c7",
@@ -6609,7 +6989,20 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2124512/0.jpg",
+        "https://hasta.com.br/foto/2124512/1.jpg",
+        "https://hasta.com.br/foto/2124512/2.jpg",
+        "https://hasta.com.br/foto/2124512/3.jpg",
+        "https://hasta.com.br/foto/2124512/4.jpg",
+        "https://hasta.com.br/foto/2124512/5.jpg",
+        "https://hasta.com.br/foto/2124512/6.jpg",
+        "https://hasta.com.br/foto/2124512/7.jpg",
+        "https://hasta.com.br/foto/2124512/8.jpg",
+        "https://hasta.com.br/foto/2124512/9.jpg",
+        "https://hasta.com.br/foto/2124512/10.jpg",
+        "https://hasta.com.br/foto/2124512/11.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -6641,7 +7034,8 @@
           "https://hasta.com.br/imovel/2124512-imoveis-residenciais-a-venda-em-leilao"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2124512-imoveis-residenciais-a-venda-em-leilao"
     },
     {
       "id": "96f9b57c16f1159141bc",
@@ -6682,7 +7076,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1967089/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -6714,7 +7110,8 @@
           "https://hasta.com.br/imovel/1967089-terreno-joinville-joinville-sc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1967089-terreno-joinville-joinville-sc"
     },
     {
       "id": "98e08c55572f938d4e8a",
@@ -6755,7 +7152,13 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/819981/0.jpg",
+        "https://hasta.com.br/foto/819981/1.jpg",
+        "https://hasta.com.br/foto/819981/2.jpg",
+        "https://hasta.com.br/foto/819981/3.jpg",
+        "https://hasta.com.br/foto/819981/4.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -6787,7 +7190,8 @@
           "https://hasta.com.br/imovel/819981-terreno-com-446-20m2-com-2-casas-de-alvenaria-uma-de-87-00m2-e-outra-com-31-17m2"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/819981-terreno-com-446-20m2-com-2-casas-de-alvenaria-uma-de-87-00m2-e-outra-com-31-17m2"
     },
     {
       "id": "9bde10dcaec9559687ad",
@@ -6829,6 +7233,7 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/2187424/0.jpg",
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/98/989e3a96fc3d683f0bc36357e77623c5cc244b1f3ffece861b6b917f7f54a753.webp"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
@@ -6862,7 +7267,8 @@
           "https://hasta.com.br/imovel/2187424-apartamento-em-leilao-em-joinville-sc-3068734"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2187424-apartamento-em-leilao-em-joinville-sc-3068734"
     },
     {
       "id": "9dc442788404a27cb8cd",
@@ -6903,7 +7309,12 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1676590/0.jpg",
+        "https://hasta.com.br/foto/1676590/1.jpg",
+        "https://hasta.com.br/foto/1676590/2.jpg",
+        "https://hasta.com.br/foto/1676590/3.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -6935,7 +7346,8 @@
           "https://hasta.com.br/imovel/1676590-terreno-na-zona-industrial-norte-contendo-4-285-50m2"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1676590-terreno-na-zona-industrial-norte-contendo-4-285-50m2"
     },
     {
       "id": "9fadb12240e2ad55ecd3",
@@ -6977,6 +7389,7 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/2123226/0.jpg",
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/70/70c6f12935bc2d26912edf94e38330909264d866f349eba72395ab002f670ccf.webp"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
@@ -7010,7 +7423,8 @@
           "https://hasta.com.br/imovel/2123226-apartamento-em-leilao-em-joinville-sc-3049029"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2123226-apartamento-em-leilao-em-joinville-sc-3049029"
     },
     {
       "id": "a6c7618c9ab010ffa691",
@@ -7054,6 +7468,11 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/1216324/0.jpg",
+        "https://hasta.com.br/foto/1216324/1.jpg",
+        "https://hasta.com.br/foto/1216324/2.jpg",
+        "https://hasta.com.br/foto/1216324/3.jpg",
+        "https://hasta.com.br/foto/1216324/4.jpg",
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/e4/e4cc5aa383d24885762e8060f5601b4e2224eff93a6aa0d73961d43d3a411931.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
@@ -7087,7 +7506,8 @@
           "https://hasta.com.br/imovel/1216324-casa-no-bairro-gloria-em-joinville-sc-lote-001-id-8225"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1216324-casa-no-bairro-gloria-em-joinville-sc-lote-001-id-8225"
     },
     {
       "id": "a8abab7ef7553f541b10",
@@ -7129,7 +7549,18 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
-        "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/5b/5b3f431a67529c56eff0308205acb18de8c05611f6162e34f0476cdc24a3a808.jpg"
+        "https://hasta.com.br/foto/1908553/0.jpg",
+        "https://hasta.com.br/foto/1908553/1.jpg",
+        "https://hasta.com.br/foto/1908553/2.jpg",
+        "https://hasta.com.br/foto/1908553/3.jpg",
+        "https://hasta.com.br/foto/1908553/4.jpg",
+        "https://hasta.com.br/foto/1908553/5.jpg",
+        "https://hasta.com.br/foto/1908553/6.jpg",
+        "https://hasta.com.br/foto/1908553/7.jpg",
+        "https://hasta.com.br/foto/1908553/8.jpg",
+        "https://hasta.com.br/foto/1908553/9.jpg",
+        "https://hasta.com.br/foto/1908553/10.jpg",
+        "https://hasta.com.br/foto/1908553/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
@@ -7162,7 +7593,8 @@
           "https://hasta.com.br/imovel/1908553-imovel-situado-na-rua-ouro-verde-s-n-bairro-saguacu-joinville-sc-terreno-com-are"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1908553-imovel-situado-na-rua-ouro-verde-s-n-bairro-saguacu-joinville-sc-terreno-com-are"
     },
     {
       "id": "a9218d3503939d4de8a3",
@@ -7203,7 +7635,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1967090/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -7235,7 +7669,8 @@
           "https://hasta.com.br/imovel/1967090-terreno-joinville-joinville-sc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1967090-terreno-joinville-joinville-sc"
     },
     {
       "id": "a9fef7a7026cad66505c",
@@ -7284,6 +7719,11 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/1718758/0.jpg",
+        "https://hasta.com.br/foto/1718758/1.jpg",
+        "https://hasta.com.br/foto/1718758/2.jpg",
+        "https://hasta.com.br/foto/1718758/3.jpg",
+        "https://hasta.com.br/foto/1718758/4.jpg",
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/67/6725626ffaa405389de3795242a3432caac3a4f003d2a7f954021a868ffd13d8.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
@@ -7317,7 +7757,8 @@
           "https://hasta.com.br/imovel/1718758-leilao-casa-santa-catarina-rua-cidade-de-hiroshima-46-joinville-sc-177-74-m2-1a"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1718758-leilao-casa-santa-catarina-rua-cidade-de-hiroshima-46-joinville-sc-177-74-m2-1a"
     },
     {
       "id": "ad2bf2d6c5e30dce8715",
@@ -7358,7 +7799,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/150972/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -7390,7 +7833,8 @@
           "https://hasta.com.br/imovel/150972-apartamento-itaum-joinville-sc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/150972-apartamento-itaum-joinville-sc"
     },
     {
       "id": "b46cfb2a149fec192226",
@@ -7434,6 +7878,7 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/1067824/0.jpg",
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/46/46ca3c6ec32a2584a811e35866225e1955419a523e174312969cfd0f923a3b8e.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
@@ -7467,7 +7912,8 @@
           "https://hasta.com.br/imovel/1067824-leilao-judicial-4a-vara-civel-de-joinville-sc-edital-029-2026-lote-001-id-2508"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1067824-leilao-judicial-4a-vara-civel-de-joinville-sc-edital-029-2026-lote-001-id-2508"
     },
     {
       "id": "b4ead90a050179a23196",
@@ -7509,7 +7955,18 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
-        "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/ef/efc11344a54e348c006f18c21075b11825eee130822a3cc777be9d1091c574ad.jpg"
+        "https://hasta.com.br/foto/1908556/0.jpg",
+        "https://hasta.com.br/foto/1908556/1.jpg",
+        "https://hasta.com.br/foto/1908556/2.jpg",
+        "https://hasta.com.br/foto/1908556/3.jpg",
+        "https://hasta.com.br/foto/1908556/4.jpg",
+        "https://hasta.com.br/foto/1908556/5.jpg",
+        "https://hasta.com.br/foto/1908556/6.jpg",
+        "https://hasta.com.br/foto/1908556/7.jpg",
+        "https://hasta.com.br/foto/1908556/8.jpg",
+        "https://hasta.com.br/foto/1908556/9.jpg",
+        "https://hasta.com.br/foto/1908556/10.jpg",
+        "https://hasta.com.br/foto/1908556/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
@@ -7542,7 +7999,8 @@
           "https://hasta.com.br/imovel/1908556-imovel-situado-na-rua-tuiuti-s-n-bairro-zona-industrial-norte-joinville-sc-terre"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1908556-imovel-situado-na-rua-tuiuti-s-n-bairro-zona-industrial-norte-joinville-sc-terre"
     },
     {
       "id": "b512b9a8e0fabfe84d5b",
@@ -7583,7 +8041,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2041112/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -7615,7 +8075,8 @@
           "https://hasta.com.br/imovel/2041112-rural-paranaguamirim-joinville-sc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2041112-rural-paranaguamirim-joinville-sc"
     },
     {
       "id": "b742ee7238cba76f4544",
@@ -7657,6 +8118,7 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/2114365/0.jpg",
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/c8/c85aa89342ed784e001ee9d3c27584030c4218360aa3e2837beb70fd53bea3d4.webp"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
@@ -7690,7 +8152,8 @@
           "https://hasta.com.br/imovel/2114365-apartamento-em-joinville-sc-2906674"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2114365-apartamento-em-joinville-sc-2906674"
     },
     {
       "id": "b87b53325955c43e46e5",
@@ -7731,7 +8194,20 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1967088/0.jpg",
+        "https://hasta.com.br/foto/1967088/1.jpg",
+        "https://hasta.com.br/foto/1967088/2.jpg",
+        "https://hasta.com.br/foto/1967088/3.jpg",
+        "https://hasta.com.br/foto/1967088/4.jpg",
+        "https://hasta.com.br/foto/1967088/5.jpg",
+        "https://hasta.com.br/foto/1967088/6.jpg",
+        "https://hasta.com.br/foto/1967088/7.jpg",
+        "https://hasta.com.br/foto/1967088/8.jpg",
+        "https://hasta.com.br/foto/1967088/9.jpg",
+        "https://hasta.com.br/foto/1967088/10.jpg",
+        "https://hasta.com.br/foto/1967088/11.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -7763,7 +8239,8 @@
           "https://hasta.com.br/imovel/1967088-terreno-joinville-joinville-sc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1967088-terreno-joinville-joinville-sc"
     },
     {
       "id": "b9cfdd3fbde9ad698a35",
@@ -7804,7 +8281,12 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1505309/0.jpg",
+        "https://hasta.com.br/foto/1505309/1.jpg",
+        "https://hasta.com.br/foto/1505309/2.jpg",
+        "https://hasta.com.br/foto/1505309/3.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -7836,7 +8318,8 @@
           "https://hasta.com.br/imovel/1505309-apartamento-em-joinville"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1505309-apartamento-em-joinville"
     },
     {
       "id": "bc1078fcfc1296bf5ded",
@@ -7878,7 +8361,18 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
-        "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/fb/fb3a05514f468d63a93f85eb36b225aa6cb708293060f2e5c27a56b86bdbd72a.jpg"
+        "https://hasta.com.br/foto/1908549/0.jpg",
+        "https://hasta.com.br/foto/1908549/1.jpg",
+        "https://hasta.com.br/foto/1908549/2.jpg",
+        "https://hasta.com.br/foto/1908549/3.jpg",
+        "https://hasta.com.br/foto/1908549/4.jpg",
+        "https://hasta.com.br/foto/1908549/5.jpg",
+        "https://hasta.com.br/foto/1908549/6.jpg",
+        "https://hasta.com.br/foto/1908549/7.jpg",
+        "https://hasta.com.br/foto/1908549/8.jpg",
+        "https://hasta.com.br/foto/1908549/9.jpg",
+        "https://hasta.com.br/foto/1908549/10.jpg",
+        "https://hasta.com.br/foto/1908549/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
@@ -7911,7 +8405,8 @@
           "https://hasta.com.br/imovel/1908549-imovel-situado-na-rua-juliano-moreira-s-n-bairro-boa-vista-joinville-sc-terreno"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1908549-imovel-situado-na-rua-juliano-moreira-s-n-bairro-boa-vista-joinville-sc-terreno"
     },
     {
       "id": "c1844656eefb2e8dc9f1",
@@ -7953,7 +8448,18 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
-        "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/45/459348f6157496d295f416658bccfa75d867547a28ea599e10cfac034b3a03bc.jpg"
+        "https://hasta.com.br/foto/1908554/0.jpg",
+        "https://hasta.com.br/foto/1908554/1.jpg",
+        "https://hasta.com.br/foto/1908554/2.jpg",
+        "https://hasta.com.br/foto/1908554/3.jpg",
+        "https://hasta.com.br/foto/1908554/4.jpg",
+        "https://hasta.com.br/foto/1908554/5.jpg",
+        "https://hasta.com.br/foto/1908554/6.jpg",
+        "https://hasta.com.br/foto/1908554/7.jpg",
+        "https://hasta.com.br/foto/1908554/8.jpg",
+        "https://hasta.com.br/foto/1908554/9.jpg",
+        "https://hasta.com.br/foto/1908554/10.jpg",
+        "https://hasta.com.br/foto/1908554/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
@@ -7986,7 +8492,8 @@
           "https://hasta.com.br/imovel/1908554-imovel-situado-na-rua-leopoldo-beninca-s-n-bairro-vila-nova-joinville-sc-terreno"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1908554-imovel-situado-na-rua-leopoldo-beninca-s-n-bairro-vila-nova-joinville-sc-terreno"
     },
     {
       "id": "c568331510bbb18014a0",
@@ -8027,7 +8534,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2040925/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -8059,7 +8568,8 @@
           "https://hasta.com.br/imovel/2040925-rural-jarivatuba-joinville-sc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2040925-rural-jarivatuba-joinville-sc"
     },
     {
       "id": "c949e240560fbc62029f",
@@ -8102,7 +8612,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2092417/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -8134,7 +8646,8 @@
           "https://hasta.com.br/imovel/2092417-comprei-pgfn-imoveis-em-santa-catarina-lote-076-id-4294"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2092417-comprei-pgfn-imoveis-em-santa-catarina-lote-076-id-4294"
     },
     {
       "id": "ce53bc97541685740e5d",
@@ -8175,7 +8688,20 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1676221/0.jpg",
+        "https://hasta.com.br/foto/1676221/1.jpg",
+        "https://hasta.com.br/foto/1676221/2.jpg",
+        "https://hasta.com.br/foto/1676221/3.jpg",
+        "https://hasta.com.br/foto/1676221/4.jpg",
+        "https://hasta.com.br/foto/1676221/5.jpg",
+        "https://hasta.com.br/foto/1676221/6.jpg",
+        "https://hasta.com.br/foto/1676221/7.jpg",
+        "https://hasta.com.br/foto/1676221/8.jpg",
+        "https://hasta.com.br/foto/1676221/9.jpg",
+        "https://hasta.com.br/foto/1676221/10.jpg",
+        "https://hasta.com.br/foto/1676221/11.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -8207,7 +8733,8 @@
           "https://hasta.com.br/imovel/1676221-lote-02-terrno-em-joinville-com-area-de-408-52-m2"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1676221-lote-02-terrno-em-joinville-com-area-de-408-52-m2"
     },
     {
       "id": "d3344a31675898a6feaf",
@@ -8248,7 +8775,11 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1514940/0.jpg",
+        "https://hasta.com.br/foto/1514940/1.jpg",
+        "https://hasta.com.br/foto/1514940/2.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -8280,7 +8811,8 @@
           "https://hasta.com.br/imovel/1514940-terreno-central-em-joinville-com-area-de-1-101-67-m2-e-area-construida-de-701m2"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1514940-terreno-central-em-joinville-com-area-de-1-101-67-m2-e-area-construida-de-701m2"
     },
     {
       "id": "d78f9aa0e087dea68852",
@@ -8322,6 +8854,17 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/1908550/0.jpg",
+        "https://hasta.com.br/foto/1908550/1.jpg",
+        "https://hasta.com.br/foto/1908550/2.jpg",
+        "https://hasta.com.br/foto/1908550/3.jpg",
+        "https://hasta.com.br/foto/1908550/4.jpg",
+        "https://hasta.com.br/foto/1908550/5.jpg",
+        "https://hasta.com.br/foto/1908550/6.jpg",
+        "https://hasta.com.br/foto/1908550/7.jpg",
+        "https://hasta.com.br/foto/1908550/8.jpg",
+        "https://hasta.com.br/foto/1908550/9.jpg",
+        "https://hasta.com.br/foto/1908550/10.jpg",
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/b3/b309d3294ba8088f97cbebf40724e640b6afa5dd5896a649f38124dfb8a24da5.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
@@ -8355,7 +8898,8 @@
           "https://hasta.com.br/imovel/1908550-imovel-situado-na-rua-otto-boehm-prolongamento-s-n-bairro-gloria-joinville-sc-te"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1908550-imovel-situado-na-rua-otto-boehm-prolongamento-s-n-bairro-gloria-joinville-sc-te"
     },
     {
       "id": "da565dd10c2f34523fac",
@@ -8396,7 +8940,20 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/999657/0.jpg",
+        "https://hasta.com.br/foto/999657/1.jpg",
+        "https://hasta.com.br/foto/999657/2.jpg",
+        "https://hasta.com.br/foto/999657/3.jpg",
+        "https://hasta.com.br/foto/999657/4.jpg",
+        "https://hasta.com.br/foto/999657/5.jpg",
+        "https://hasta.com.br/foto/999657/6.jpg",
+        "https://hasta.com.br/foto/999657/7.jpg",
+        "https://hasta.com.br/foto/999657/8.jpg",
+        "https://hasta.com.br/foto/999657/9.jpg",
+        "https://hasta.com.br/foto/999657/10.jpg",
+        "https://hasta.com.br/foto/999657/11.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -8428,7 +8985,8 @@
           "https://hasta.com.br/imovel/999657-casa-residencial-3-dormitorio-s-2-vaga-s-de-garagem"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/999657-casa-residencial-3-dormitorio-s-2-vaga-s-de-garagem"
     },
     {
       "id": "dc0b54f0ff94236ea430",
@@ -8469,7 +9027,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2040725/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -8501,7 +9061,8 @@
           "https://hasta.com.br/imovel/2040725-rural-parque-guarani-joinville-sc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2040725-rural-parque-guarani-joinville-sc"
     },
     {
       "id": "dc7c2e6eb7314d89133b",
@@ -8650,7 +9211,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1948254/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -8682,7 +9245,8 @@
           "https://hasta.com.br/imovel/1948254-res-porto-blumen"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1948254-res-porto-blumen"
     },
     {
       "id": "e5cb114253dac03c96da",
@@ -8724,7 +9288,18 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
-        "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/fb/fb7bb7c4f45bb108125de518af64615deccd75c5b0f975981f1cdeaa1843e9df.jpg"
+        "https://hasta.com.br/foto/1908548/0.jpg",
+        "https://hasta.com.br/foto/1908548/1.jpg",
+        "https://hasta.com.br/foto/1908548/2.jpg",
+        "https://hasta.com.br/foto/1908548/3.jpg",
+        "https://hasta.com.br/foto/1908548/4.jpg",
+        "https://hasta.com.br/foto/1908548/5.jpg",
+        "https://hasta.com.br/foto/1908548/6.jpg",
+        "https://hasta.com.br/foto/1908548/7.jpg",
+        "https://hasta.com.br/foto/1908548/8.jpg",
+        "https://hasta.com.br/foto/1908548/9.jpg",
+        "https://hasta.com.br/foto/1908548/10.jpg",
+        "https://hasta.com.br/foto/1908548/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
@@ -8757,7 +9332,8 @@
           "https://hasta.com.br/imovel/1908548-imovel-situado-na-rua-juliano-moreira-s-n-bairro-boa-vista-joinville-sc-terreno"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1908548-imovel-situado-na-rua-juliano-moreira-s-n-bairro-boa-vista-joinville-sc-terreno"
     },
     {
       "id": "f1f0059a498b6c403d31",
@@ -8800,7 +9376,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1110780/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T13:00:24-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -8828,7 +9406,8 @@
         "is_aggregator": true,
         "raw_text": "Terreno Lote 001 📍 Joinville, SC R$ 95.000,00"
       },
-      "newly_discovered_at": "2026-10-20T13:00:35-03:00"
+      "newly_discovered_at": "2026-10-20T13:00:35-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1110780-terreno-joinville-sc"
     },
     {
       "id": "f4e1c13a5ed19c4f3fc5",
@@ -8871,7 +9450,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://6b5a04d21a38ad1e.cdn.gocache.net/bens/0000065331/img-65331-6a75f201d8387.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -8903,7 +9484,8 @@
           "https://hasta.com.br/imovel/1109607-terreno-joinville-sc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://nossoleilao.com.br/item/72614/detalhes?page=1&utm_source=hasta&utm_medium=ficha_imovel"
     },
     {
       "id": "f746f542ac6c9f5afeff",
@@ -8945,6 +9527,12 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/2107963/0.jpg",
+        "https://hasta.com.br/foto/2107963/1.jpg",
+        "https://hasta.com.br/foto/2107963/2.jpg",
+        "https://hasta.com.br/foto/2107963/3.jpg",
+        "https://hasta.com.br/foto/2107963/4.jpg",
+        "https://hasta.com.br/foto/2107963/5.jpg",
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/af/af4bd205ad983f3b53105d99714a7c0a4fa2cfc3f1abdcd9f519ce648855a78f.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
@@ -8978,7 +9566,8 @@
           "https://hasta.com.br/imovel/2107963-apartamento-no-bairro-itinga-joinville-sc-so-leiloes"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2107963-apartamento-no-bairro-itinga-joinville-sc-so-leiloes"
     },
     {
       "id": "fa3ee5ea39779c25e788",
@@ -9020,6 +9609,7 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/1720890/0.jpg",
         "https://imagens.portalzuk.com.br/mini/2026/09/74f1f0fe30d601a2e45e477feacaaad8.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
@@ -9053,7 +9643,8 @@
           "https://hasta.com.br/imovel/1720890-casa-joinville-sc-santa-catarina-rua-cidade-de-hiroshima-46"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1720890-casa-joinville-sc-santa-catarina-rua-cidade-de-hiroshima-46"
     },
     {
       "id": "fcd91371aaf8aa8f1f12",
@@ -9095,6 +9686,15 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/1908552/0.jpg",
+        "https://hasta.com.br/foto/1908552/1.jpg",
+        "https://hasta.com.br/foto/1908552/2.jpg",
+        "https://hasta.com.br/foto/1908552/3.jpg",
+        "https://hasta.com.br/foto/1908552/4.jpg",
+        "https://hasta.com.br/foto/1908552/5.jpg",
+        "https://hasta.com.br/foto/1908552/6.jpg",
+        "https://hasta.com.br/foto/1908552/7.jpg",
+        "https://hasta.com.br/foto/1908552/8.jpg",
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/1e/1e2e503ebd5aa80e5262e1026016ece3da0e6d26f75fc9d9a2d504391cbe1366.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
@@ -9128,7 +9728,8 @@
           "https://hasta.com.br/imovel/1908552-imovel-situado-na-rua-baercker-wagner-s-n-bairro-iririu-joinville-sc-terreno-com"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1908552-imovel-situado-na-rua-baercker-wagner-s-n-bairro-iririu-joinville-sc-terreno-com"
     },
     {
       "id": "ff33b08936fa39787016",
@@ -9172,6 +9773,7 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/599926/0.jpg",
         "https://www.santanderimoveis.com.br/wp-content/uploads/2026/06/1780662847314.jpeg"
       ],
       "first_seen_at": "2026-10-20T10:11:06-03:00",
@@ -9205,7 +9807,8 @@
           "https://hasta.com.br/imovel/599926-casa-a-venda-na-rua-alfredo-max-frederico-volmann-joinville-sc-codigo-02-26822"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/599926-casa-a-venda-na-rua-alfredo-max-frederico-volmann-joinville-sc-codigo-02-26822"
     },
     {
       "id": "943ed6fce20df0bd8fe2",
@@ -9249,6 +9852,10 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/900218/0.jpg",
+        "https://hasta.com.br/foto/900218/1.jpg",
+        "https://hasta.com.br/foto/900218/2.jpg",
+        "https://hasta.com.br/foto/900218/3.jpg",
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/26/261168a028edfdbfd5bc86b236265777b60fff56fd9e1928cd023a918bc94dcd.jpg"
       ],
       "first_seen_at": "2026-10-20T13:00:35-03:00",
@@ -9278,7 +9885,8 @@
         "is_aggregator": true,
         "raw_text": "Terreno Terreno - SAO DOMINGOS - NAVEGANTES/SC 📍 Navegantes, SC R$ 270.000,00 40% OFF Casa Terreno com 252,00m² com casa de 60,00m² 📍 Navegantes, SC R$ 500.000,00 Apartamento Apartamento Condomínio, Residencial, 2 dormitório(s), 1 vaga(s) de garagem 📍 Navegantes, SC R$ 900.000,00 Imóvel Imóvel com área de 273,00m², com Edificações, no Jardim Ana Néri, em Navegantes/SC 📍 Navegantes, SC R$ 440.414,51 Terreno Terreno com área de 3.980,30m², Loteamento Costa Gravatá, no Município de Navegantes/SC 📍 Navegantes, SC R$ 720.000,00 Casa Casa, Residencial, Meia Praia, 3 dormitório(s), 2 vaga(s) de garagem 📍 Navegantes, SC R$ 765.000,00 Terreno Terreno urbano com área de 684,05m² em navegantes/sc. 📍 Navegantes, SC R$ 626.665,31 Terreno Terreno urbano com benfeitorias 📍 Navegantes, SC R$ 394.026,07 Imóvel Leilão Online da 1ª Vara Cível de Navegantes/SC. 📍 Navegantes, SC R$ 3.518.000,00"
       },
-      "newly_discovered_at": "2026-10-20T13:00:35-03:00"
+      "newly_discovered_at": "2026-10-20T13:00:35-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/900218-terreno-urbano-com-ou-sem-benfeitorias"
     },
     {
       "id": "08f4d528c584a645188b",
@@ -9320,6 +9928,9 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/585659/0.jpg",
+        "https://hasta.com.br/foto/585659/1.jpg",
+        "https://hasta.com.br/foto/585659/2.jpg",
         "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grlkbn1ggqso/b/astavero/o/anexos/krobel/68efe30af117d3f78b70cc6a/68efe3372aaef720c8bc6af5/screenshot_7-1790563258000.png"
       ],
       "first_seen_at": "2026-10-20T13:00:33-03:00",
@@ -9349,7 +9960,8 @@
         "is_aggregator": true,
         "raw_text": "Terreno Terreno c/ 79.910,54 m2 - Rod SC 414 - Penha SC 📍 Penha, SC R$ 9.000.000,00 Apartamento Fração de tempo apartamento 404 em penha/sc 📍 Penha, SC R$ 63.307,01 Apartamento Fração de tempo apartamento 404 em penha/sc 📍 Penha, SC R$ 63.307,01 Terreno Rua nereu de assis, s/nº, qd i, lt 2, 3, 4, 5 e 6, praia de armação do itapocory, complemento jardim bulcão, penha/sc. - terreno em santa catarina - 1740m² - 10min do beto carrero - penha/sc 📍 Penha, SC R$ 2.000.000,00 Terreno Rua nereu de assis, s/nº, qd i, lt 2, 3, 4, 5 e 6, praia de armação do itapocory, complemento jardim bulcão, penha/sc. - santa catarina - terreno bem próx ao beto carrero 📍 Penha, SC R$ 2.000.000,00 Terreno Rua nereu de assis, s/nº, qd i, lt 2, 3, 4, 5 e 6, praia de armação do itapocory, complemento jardim bulcão, penha/sc. - santa catarina - terreno bem próx ao beto carrero 📍 Penha, SC R$ 2.000.000,00"
       },
-      "newly_discovered_at": "2026-10-20T13:00:35-03:00"
+      "newly_discovered_at": "2026-10-20T13:00:35-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/585659-terreno-c-79-910-54-m2-rod-sc-414-penha-sc"
     },
     {
       "id": "1f8fbcd745a92fd9089c",
@@ -9392,7 +10004,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1311441/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:11-03:00",
       "last_checked_at": "2026-10-20T10:18:55-03:00",
       "classification": "B",
@@ -9424,7 +10038,8 @@
           "https://hasta.com.br/imovel/1311441-judicial-on-line-comarca-de-rio-do-sul-lote-002-id-9928"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1311441-judicial-on-line-comarca-de-rio-do-sul-lote-002-id-9928"
     },
     {
       "id": "634946a661cc12762b48",
@@ -9466,7 +10081,18 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
-        "https://ms.sbwebservices.net/photos/e7e665fe-7894-46bd-b2da-c582a16b098d.jpg"
+        "https://hasta.com.br/foto/1518876/0.jpg",
+        "https://hasta.com.br/foto/1518876/1.jpg",
+        "https://hasta.com.br/foto/1518876/2.jpg",
+        "https://hasta.com.br/foto/1518876/3.jpg",
+        "https://hasta.com.br/foto/1518876/4.jpg",
+        "https://hasta.com.br/foto/1518876/5.jpg",
+        "https://hasta.com.br/foto/1518876/6.jpg",
+        "https://hasta.com.br/foto/1518876/7.jpg",
+        "https://hasta.com.br/foto/1518876/8.jpg",
+        "https://hasta.com.br/foto/1518876/9.jpg",
+        "https://hasta.com.br/foto/1518876/10.jpg",
+        "https://hasta.com.br/foto/1518876/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:11-03:00",
       "last_checked_at": "2026-10-20T10:18:55-03:00",
@@ -9499,7 +10125,8 @@
           "https://hasta.com.br/imovel/1518876-imovel-urbano-com-area-total-de-2-500-000-m2-em-rio-do-sul-sc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1518876-imovel-urbano-com-area-total-de-2-500-000-m2-em-rio-do-sul-sc"
     },
     {
       "id": "6b80489528b409aaedd5",
@@ -9540,7 +10167,20 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1352938/0.jpg",
+        "https://hasta.com.br/foto/1352938/1.jpg",
+        "https://hasta.com.br/foto/1352938/2.jpg",
+        "https://hasta.com.br/foto/1352938/3.jpg",
+        "https://hasta.com.br/foto/1352938/4.jpg",
+        "https://hasta.com.br/foto/1352938/5.jpg",
+        "https://hasta.com.br/foto/1352938/6.jpg",
+        "https://hasta.com.br/foto/1352938/7.jpg",
+        "https://hasta.com.br/foto/1352938/8.jpg",
+        "https://hasta.com.br/foto/1352938/9.jpg",
+        "https://hasta.com.br/foto/1352938/10.jpg",
+        "https://hasta.com.br/foto/1352938/11.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:11-03:00",
       "last_checked_at": "2026-10-20T10:18:55-03:00",
       "classification": "B",
@@ -9572,7 +10212,8 @@
           "https://hasta.com.br/imovel/1352938-dois-terrenos-total-330-00-m2"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1352938-dois-terrenos-total-330-00-m2"
     },
     {
       "id": "7df9fb45eb4411760fb1",
@@ -9614,6 +10255,7 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/1856789/0.jpg",
         "https://imagens.portalzuk.com.br/mini/2026/10/5124ff3d92075e9a3badb830bef2340e.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:11-03:00",
@@ -9647,7 +10289,8 @@
           "https://hasta.com.br/imovel/1856789-apartamento-rio-do-sul-sc-centro-avenida-oscar-barcelos-1977"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1856789-apartamento-rio-do-sul-sc-centro-avenida-oscar-barcelos-1977"
     },
     {
       "id": "87ea33643cf6790bc7d4",
@@ -9691,6 +10334,9 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/2092507/0.jpg",
+        "https://hasta.com.br/foto/2092507/1.jpg",
+        "https://hasta.com.br/foto/2092507/2.jpg",
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/24/24052df3ebd3338b9f5867a5b77d36782d748fa4a10399a4dccdb334d96f2b0b.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:11-03:00",
@@ -9724,7 +10370,8 @@
           "https://hasta.com.br/imovel/2092507-venda-direta-de-imovel-em-rio-do-sul-sc-1a-vara-civel-de-rio-do-sul-sc-lote-001"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/2092507-venda-direta-de-imovel-em-rio-do-sul-sc-1a-vara-civel-de-rio-do-sul-sc-lote-001"
     },
     {
       "id": "a766c05ab6f4a23d03fb",
@@ -9766,6 +10413,7 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/1596535/0.jpg",
         "https://imagens.portalzuk.com.br/mini/2026/09/7ebe8dc031c06e9810c103f7e481730d.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:11-03:00",
@@ -9799,7 +10447,8 @@
           "https://hasta.com.br/imovel/1596535-apartamento-rio-do-sul-sc-jardim-america-rua-prefeito-raulino-joao-rosar-356"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1596535-apartamento-rio-do-sul-sc-jardim-america-rua-prefeito-raulino-joao-rosar-356"
     },
     {
       "id": "aff4be3d93699dd22bf9",
@@ -9840,7 +10489,10 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1597363/0.jpg",
+        "https://hasta.com.br/foto/1597363/1.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:11-03:00",
       "last_checked_at": "2026-10-20T10:18:55-03:00",
       "classification": "B",
@@ -9872,7 +10524,8 @@
           "https://hasta.com.br/imovel/1597363-terreno-rainha-rio-do-sul-sc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1597363-terreno-rainha-rio-do-sul-sc"
     },
     {
       "id": "bbb1949f789bbc9f2540",
@@ -9915,7 +10568,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1577545/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:11-03:00",
       "last_checked_at": "2026-10-20T10:18:55-03:00",
       "classification": "B",
@@ -9947,7 +10602,8 @@
           "https://hasta.com.br/imovel/1577545-judicial-on-line-comarca-de-rio-do-sul-lote-001-id-10006"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1577545-judicial-on-line-comarca-de-rio-do-sul-lote-001-id-10006"
     },
     {
       "id": "de13120571b88c7b541d",
@@ -9988,7 +10644,15 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1676890/0.jpg",
+        "https://hasta.com.br/foto/1676890/1.jpg",
+        "https://hasta.com.br/foto/1676890/2.jpg",
+        "https://hasta.com.br/foto/1676890/3.jpg",
+        "https://hasta.com.br/foto/1676890/4.jpg",
+        "https://hasta.com.br/foto/1676890/5.jpg",
+        "https://hasta.com.br/foto/1676890/6.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:11-03:00",
       "last_checked_at": "2026-10-20T10:18:55-03:00",
       "classification": "B",
@@ -10020,7 +10684,8 @@
           "https://hasta.com.br/imovel/1676890-apartamento-jardim-america-rio-do-sul-sc"
         ]
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/1676890-apartamento-jardim-america-rio-do-sul-sc"
     }
   ],
   "sources": [

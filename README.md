@@ -46,3 +46,5 @@ O painel está publicado em `https://jadeoliveira.github.io/radar-leiloes/`.
 ### Fotos dos anúncios
 
 Em 20/10/2026, as galerias dos 21 anúncios de Balneário Camboriú foram conferidas individualmente e suas URLs adicionadas à base (antes, somente cinco tinham imagem). As fotos permanecem hospedadas nas fontes públicas; não são substituídas por imagens de outros imóveis. O coletor abre os detalhes da Hasta nas próximas execuções para renovar essas URLs. Se a fonte remover ou bloquear todas as fotos, o cartão informa a ausência.
+
+A revisão foi ampliada para todos os 131 anúncios da base em 20/10/2026: todos receberam URLs de fotos. Foram conferidas as 128 páginas da Hasta; três galerias ausentes no agregador foram recuperadas nos leiloeiros originais, com identidade do lote/bem conferida. A origem das fotos recuperadas fica em `image_source_url` e o resumo em `data/image-report.json`. As próximas coletas já abrem os detalhes da Hasta em todas as cidades configuradas, sem restrição a Balneário Camboriú; registros históricos preservam as fotos recuperadas.
