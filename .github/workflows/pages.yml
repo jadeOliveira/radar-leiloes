@@ -52,6 +52,7 @@ jobs:
           mkdir -p public/data
           cp data/properties.json public/data/properties.json
           cp data/last-run.json public/data/last-run.json
+          cp data/changes.json public/data/changes.json
           npm run build
       - name: Configurar GitHub Pages
         uses: actions/configure-pages@v5
