@@ -1,3 +1,1924 @@
 {
-  "events": []
+  "events": [
+    {
+      "property_id": "53ebef2c2ec3286d25da",
+      "city": "Joinville",
+      "source_ids": [
+        "mega_leiloes"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "0fc466da0d41eebd3fab",
+      "city": "Joinville",
+      "source_ids": [
+        "freitas"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "dc7c2e6eb7314d89133b",
+      "city": "Joinville",
+      "source_ids": [
+        "sampaio"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "304316b5dfa4be813f4d",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "77bc06edfe395ecb268b",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "6b3a885a73fc39c8e811",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "4869eb031114b1d0ba59",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "4c7276b76bcea57a760b",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "450e172120fdaa017951",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "7b102f8318aa901098c1",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "746d9d277b7b4210e869",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "b9cfdd3fbde9ad698a35",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "3d703895dc274004f79f",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "314db08f260a3c4192a9",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "615afa871d57c63828f0",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "50a18739351cdd90ae96",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "61de78297ab780ec9fc4",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "c568331510bbb18014a0",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "4882fb3517ee52da3eb4",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "939f69693a255d11742d",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "b512b9a8e0fabfe84d5b",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "dc0b54f0ff94236ea430",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "7394dc14a35f864e8b27",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "830d20a29f778cb562ae",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "1556d3485addc60e3398",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "30a95faa59307c10f75b",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "55e7b94db4e79aba95b3",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "3714117092feb852b763",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "80dc8c82250e1a10d2ef",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "60739d34f368032b17c7",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "835051baca5a80c1695d",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "00b260917e138c3b0b80",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "d3344a31675898a6feaf",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "98e08c55572f938d4e8a",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "ad2bf2d6c5e30dce8715",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "4711a6582c31e17e7454",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "92e0eca528b25f82fef4",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "03692fe334d21e3f3fee",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "3e7c546840f530b417dc",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "1be4ddb4d0c1acf400aa",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "086863edd398ce65dcdb",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "476eddc9e3271118f542",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "94dfd11010dbccbc09c7",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "6bcf0295ba37ddf2d809",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "87bff8889472116c9401",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "04fed9d77ac896fb3d80",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "3731084dac88dec8daba",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "05f2bb45f351dc068836",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "868f75ef646eba42886e",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "6ae9bfa15794b08cfca1",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "fa3ee5ea39779c25e788",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "a9fef7a7026cad66505c",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "da565dd10c2f34523fac",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "1ced93f888f0ff1ae334",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "9dc442788404a27cb8cd",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "ce53bc97541685740e5d",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "1cafa2c48d2ab8f4382c",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "a9218d3503939d4de8a3",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "96f9b57c16f1159141bc",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "b87b53325955c43e46e5",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "399fcaf0c964cd9d6bd7",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "09c1e5d9c97da1723ea5",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "379e65edade79809c539",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "e3172a71edfd8d1e8d6e",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "f4e1c13a5ed19c4f3fc5",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "f746f542ac6c9f5afeff",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "9bde10dcaec9559687ad",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "9fadb12240e2ad55ecd3",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "b742ee7238cba76f4544",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "c949e240560fbc62029f",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "18b39785d4392fa30f5f",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "925fd912c1beab9817e2",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "5489d0ed1097f5d06394",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "0aeeadebb932762d85bf",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "b4ead90a050179a23196",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "5d358f19fb32d726d885",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "c1844656eefb2e8dc9f1",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "a8abab7ef7553f541b10",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "fcd91371aaf8aa8f1f12",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "49905dad427eb62e1d34",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "d78f9aa0e087dea68852",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "bc1078fcfc1296bf5ded",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "e5cb114253dac03c96da",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "1549c3304caf7da52d2d",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "7b89ba3a02999fcdae54",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "80d0e5b207315b6d1e5d",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "a6c7618c9ab010ffa691",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "6299ed9b32b57d595205",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "1ff74318e6f034323726",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "b46cfb2a149fec192226",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "36913ba2a684762ca887",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "4e87051665604a054689",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "ff33b08936fa39787016",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "1c43d8800821095acc99",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "e98e0977d4e843841950",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "ac46260a040dfbc20e7b",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "95ec06eae7e81289b74e",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "059fd85cd2dca00530a6",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "3025e041dd8cc57c22d1",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "5afb7aead66b1d3f6183",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "f91e9602ae3758705407",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "cb4ae04d1ecc19903bb3",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "febfaa1addb4e42fd266",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "36c68b362c00de16f369",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "0dfb57597aae1a18c02b",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "2c49574df3bab9a5ccae",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "98c987362c1c7232be37",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "62f226bd6935bed8ef35",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "004cff21779dc54649de",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "3f862121f487cca878fd",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "5851202baa0748c9de7c",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "5f21a12239cde0fb9660",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "33010021572cdaccc0c5",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "c7c851cf14061ca175e9",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "9c2fd69c8950e69fcdd0",
+      "city": "Balneário Piçarras",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "2c1a34723877e103d57a",
+      "city": "Balneário Piçarras",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "20fd0b9b6356ec174d81",
+      "city": "Barra Velha",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "b5fd1f1525a636aed343",
+      "city": "Barra Velha",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "3bbb3eb174367f3e9270",
+      "city": "Barra Velha",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "de13120571b88c7b541d",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "634946a661cc12762b48",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "7df9fb45eb4411760fb1",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "a766c05ab6f4a23d03fb",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "6b80489528b409aaedd5",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "aff4be3d93699dd22bf9",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "87ea33643cf6790bc7d4",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "bbb1949f789bbc9f2540",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "1f8fbcd745a92fd9089c",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-20T10:11:11-03:00"
+    }
+  ]
 }
