@@ -55,7 +55,7 @@ def merge_property(old: dict[str, Any] | None, new: dict[str, Any]) -> tuple[dic
         "appraisal_value_brl", "first_minimum_bid_brl", "second_minimum_bid_brl", "current_minimum_bid_brl", "source_listing_price_brl",
         "discount_on_appraisal_percent", "auction_events", "commission_percent", "payment_conditions",
         "occupancy", "status", "official_url", "validation_status", "edital_url",
-        "document_urls", "image_urls", "classification", "risk_flags",
+        "document_urls", "image_urls", "classification",
     )
     for field, value in new.items():
         previous = merged.get(field)
@@ -74,6 +74,8 @@ def merge_property(old: dict[str, Any] | None, new: dict[str, Any]) -> tuple[dic
             continue
         if field in ("source_ids", "source_listing_ids", "source_listing_urls", "document_urls", "image_urls"):
             merged[field] = list(dict.fromkeys((previous or []) + value))
+        elif field == "source_listing_price_brl":
+            merged[field] = min(previous, value) if previous is not None else value
         elif field == "auction_events":
             events = list(previous or [])
             event_keys = {(event.get("date"), event.get("time"), event.get("stage"), event.get("minimum_bid_brl")) for event in events if isinstance(event, dict)}
