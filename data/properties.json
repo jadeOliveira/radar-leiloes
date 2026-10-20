@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T09:09:08-03:00",
+  "updated_at": "2026-10-20T09:37:02-03:00",
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -64,7 +64,7 @@
         "https://static.suporteleiloes.com.br/donizetteleiloescombr/bens/9082/arquivos/sl-bem-9082-6a2afec57fb46-6a2afec587497.jpg"
       ],
       "first_seen_at": "2026-10-17T23:17:11-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -91,10 +91,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1764623-leilao-casa-balneario-camboriu-sc-1a-praca-30-10-2026-r-3-100-000-ulisses-donize",
         "is_aggregator": true,
-        "raw_text": "Casa Leilão Casa Balneário Camboriú/SC 1ª praça 30/10/2026 R$ 3.100.000 Ulisses Donizete Ramos ↗ Anúncio 📍 Balneário Camboriú, SC R$ 3.100.000,00"
+        "raw_text": "Casa Leilão Casa Balneário Camboriú/SC 1ª praça 30/10/2026 R$ 3.100.000 Ulisses Donizete Ramos ↗ Anúncio 📍 Balneário Camboriú, SC R$ 3.100.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1764623-leilao-casa-balneario-camboriu-sc-1a-praca-30-10-2026-r-3-100-000-ulisses-donize"
+        ]
       },
       "source_listing_price_brl": 3100000.0,
-      "newly_discovered_at": "2026-10-17T23:17:11-03:00"
+      "newly_discovered_at": "2026-10-17T23:17:11-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1764623-leilao-casa-balneario-camboriu-sc-1a-praca-30-10-2026-r-3-100-000-ulisses-donize"
+      ]
     },
     {
       "id": "0ad6519068704c438998",
@@ -142,7 +148,7 @@
       "occupancy": "ocupado",
       "status": "unknown",
       "official_url": null,
-      "source_listing_url": "https://hasta.com.br/imovel/1273929-2apraca-apto-edificio-liverpool-balneario-camboriu",
+      "source_listing_url": "https://hasta.com.br/imovel/1273893-1apraca-apto-edificio-liverpool-balneario-camboriu",
       "validation_status": "nao_verificado",
       "edital_url": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grlkbn1ggqso/b/astavero/o/anexos/nelci/6aa433b6e45eb56d96e3d6d8/6aa433b6e45eb56d96e3d6d8/edital_retificado_de_leil_o_1_juizado_especial_civel_balne_rio_cambori__nelcir_catafesta_leil_es_e_dep_sitos_judiciais-1791299928000.pdf",
       "document_urls": [
@@ -163,7 +169,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/f4/f43d5df9e8db8b69bd0d31002b35b8d0d3b86b278a34375c1e4609027112ad8c.jpg"
       ],
       "first_seen_at": "2026-10-17T23:06:42-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -188,15 +194,15 @@
       },
       "provenance": {
         "source_id": "hasta",
-        "captured_from": "https://hasta.com.br/imovel/1273929-2apraca-apto-edificio-liverpool-balneario-camboriu",
-        "raw_text": "Apartamento 2ªPRAÇA:APTO EDIFÍCIO LIVERPOOL BALNEÁRIO CAMBORIÚ 📍 Balneário Camboriú, SC R$ 765.000,00 49% OFF",
+        "captured_from": "https://hasta.com.br/imovel/1273893-1apraca-apto-edificio-liverpool-balneario-camboriu",
+        "raw_text": "Apartamento 1ªPRAÇA:APTO EDIFÍCIO LIVERPOOL BALNEARIO CAMBORIÚ 📍 Balneário Camboriú, SC R$ 1.500.000,00",
         "is_aggregator": true,
         "source_listing_urls": [
           "https://hasta.com.br/imovel/1273893-1apraca-apto-edificio-liverpool-balneario-camboriu",
           "https://hasta.com.br/imovel/1273929-2apraca-apto-edificio-liverpool-balneario-camboriu"
         ]
       },
-      "source_listing_price_brl": 765000.0,
+      "source_listing_price_brl": 1500000.0,
       "newly_discovered_at": "2026-10-17T23:23:58-03:00",
       "source_listing_urls": [
         "https://hasta.com.br/imovel/1273929-2apraca-apto-edificio-liverpool-balneario-camboriu",
@@ -262,7 +268,7 @@
         "https://www.santanderimoveis.com.br/wp-content/uploads/2026/08/1785954893959.jpeg"
       ],
       "first_seen_at": "2026-10-17T23:17:42-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -289,10 +295,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/788478-apartamento-a-venda-na-rua-vaticano-balneario-camboriu-sc-codigo-02-27082",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento à venda na Rua Vaticano - Balneário Camboriú/SC Código: 02.27082 📍 Balneário Camboriú, SC R$ 728.000,00"
+        "raw_text": "Apartamento Apartamento à venda na Rua Vaticano - Balneário Camboriú/SC Código: 02.27082 📍 Balneário Camboriú, SC R$ 728.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/788478-apartamento-a-venda-na-rua-vaticano-balneario-camboriu-sc-codigo-02-27082"
+        ]
       },
       "source_listing_price_brl": 728000.0,
-      "newly_discovered_at": "2026-10-17T23:17:42-03:00"
+      "newly_discovered_at": "2026-10-17T23:17:42-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/788478-apartamento-a-venda-na-rua-vaticano-balneario-camboriu-sc-codigo-02-27082"
+      ]
     },
     {
       "id": "20fe234890ec51c87edd",
@@ -354,7 +366,7 @@
         "https://hasta.com.br/foto/1942348/1.jpg"
       ],
       "first_seen_at": "2026-10-17T23:17:14-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -381,10 +393,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1942348-lote-3-terrenos-com-2-128-00-m2-jardim-real-balneario-camboriu-sc",
         "is_aggregator": true,
-        "raw_text": "Terreno Lote 3: terrenos com 2.128,00 m² - jardim real balneário camboriú sc 📍 Balneário Camboriú, SC R$ 2.100.000,00"
+        "raw_text": "Terreno Lote 3: terrenos com 2.128,00 m² - jardim real balneário camboriú sc 📍 Balneário Camboriú, SC R$ 2.100.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1942348-lote-3-terrenos-com-2-128-00-m2-jardim-real-balneario-camboriu-sc"
+        ]
       },
       "source_listing_price_brl": 2100000.0,
-      "newly_discovered_at": "2026-10-17T23:17:14-03:00"
+      "newly_discovered_at": "2026-10-17T23:17:14-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1942348-lote-3-terrenos-com-2-128-00-m2-jardim-real-balneario-camboriu-sc"
+      ]
     },
     {
       "id": "270a93f7bc136faf7572",
@@ -438,7 +456,7 @@
       "occupancy": "ocupado",
       "status": "unknown",
       "official_url": null,
-      "source_listing_url": "https://hasta.com.br/imovel/2190479-apartamento-n-105-area-total-128-6-441m2-incluida-uma-vaga-de-uso-coletivo-1o-an",
+      "source_listing_url": "https://hasta.com.br/imovel/2193840-apartamento-n-105-area-total-128-6-441m2-incluida-uma-vaga-de-uso-coletivo-1o-an",
       "validation_status": "nao_verificado",
       "edital_url": "https://s.superbid.net/event/801917/attachment/dc8cd246-c90e-4a3c-a4bf-648da9072490.pdf",
       "document_urls": [
@@ -463,7 +481,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/f4/f43d5df9e8db8b69bd0d31002b35b8d0d3b86b278a34375c1e4609027112ad8c.jpg"
       ],
       "first_seen_at": "2026-10-17T23:07:30-03:00",
-      "last_checked_at": "2026-10-19T17:02:14-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -488,8 +506,8 @@
       },
       "provenance": {
         "source_id": "hasta",
-        "captured_from": "https://hasta.com.br/imovel/2190479-apartamento-n-105-area-total-128-6-441m2-incluida-uma-vaga-de-uso-coletivo-1o-an",
-        "raw_text": "Apartamento Apartamento n.105, área total: 128,6 441m² (incluída uma vaga de uso coletivo), 1º andar ou 2º pavimento, 📍 Balneário Camboriú, SC R$ 700.000,00",
+        "captured_from": "https://hasta.com.br/imovel/2193840-apartamento-n-105-area-total-128-6-441m2-incluida-uma-vaga-de-uso-coletivo-1o-an",
+        "raw_text": "Apartamento Apartamento n.105, área total: 128,6 441m² (incluída uma vaga de uso coletivo), 1º andar ou 2º pavimento, 📍 Balneário Camboriú, SC R$ 1.400.000,00",
         "is_aggregator": true,
         "source_listing_urls": [
           "https://hasta.com.br/imovel/1607907-apartamento-n-105-area-total-128-6-441m2-incluida-uma-vaga-de-uso-coletivo-1o-an",
@@ -497,7 +515,7 @@
           "https://hasta.com.br/imovel/2190479-apartamento-n-105-area-total-128-6-441m2-incluida-uma-vaga-de-uso-coletivo-1o-an"
         ]
       },
-      "source_listing_price_brl": 700000.0,
+      "source_listing_price_brl": 1400000.0,
       "newly_discovered_at": "2026-10-19T13:21:56-03:00",
       "source_listing_urls": [
         "https://hasta.com.br/imovel/2193840-apartamento-n-105-area-total-128-6-441m2-incluida-uma-vaga-de-uso-coletivo-1o-an",
@@ -542,7 +560,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:58-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -567,10 +585,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1001679-apartamento-condominio-residencial",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento Condomínio, Residencial 📍 Balneário Camboriú, SC R$ 1.600.000,00"
+        "raw_text": "Apartamento Apartamento Condomínio, Residencial 📍 Balneário Camboriú, SC R$ 1.600.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1001679-apartamento-condominio-residencial"
+        ]
       },
       "source_listing_price_brl": 1600000.0,
-      "newly_discovered_at": "2026-10-17T23:23:58-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:58-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1001679-apartamento-condominio-residencial"
+      ]
     },
     {
       "id": "330d54fc71cdc7a6476e",
@@ -623,7 +647,7 @@
         "https://hasta.com.br/foto/2092415/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:17:32-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -650,10 +674,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2092415-comprei-pgfn-imoveis-em-santa-catarina-lote-074-id-4292",
         "is_aggregator": true,
-        "raw_text": "Apartamento COMPREI/PGFN - IMÓVEIS EM SANTA CATARINA - Lote 074 (ID 4292) 📍 Balneário Camboriú, SC R$ 1.352.747,25"
+        "raw_text": "Apartamento COMPREI/PGFN - IMÓVEIS EM SANTA CATARINA - Lote 074 (ID 4292) 📍 Balneário Camboriú, SC R$ 1.352.747,25",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2092415-comprei-pgfn-imoveis-em-santa-catarina-lote-074-id-4292"
+        ]
       },
       "source_listing_price_brl": 1352747.25,
-      "newly_discovered_at": "2026-10-17T23:17:32-03:00"
+      "newly_discovered_at": "2026-10-17T23:17:32-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2092415-comprei-pgfn-imoveis-em-santa-catarina-lote-074-id-4292"
+      ]
     },
     {
       "id": "36c68b362c00de16f369",
@@ -709,7 +739,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/44/44bcb6723b31d6b0d4106694b9caf04cdaa3fa6a30115128cf374fb85f688a60.jpg"
       ],
       "first_seen_at": "2026-10-17T23:17:04-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -736,10 +766,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1967354-judicial-leilao-judicial-apartamento-rua-1401-97-balneario-camboriu-sc-1a-praca",
         "is_aggregator": true,
-        "raw_text": "Apartamento Judicial Leilão judicial Apartamento Rua 1401, 97 Balneário Camboriú/SC 1ª praça 12/11/2026 2ª praça 📍 Balneário Camboriú, SC R$ 2.300.000,00"
+        "raw_text": "Apartamento Judicial Leilão judicial Apartamento Rua 1401, 97 Balneário Camboriú/SC 1ª praça 12/11/2026 2ª praça 📍 Balneário Camboriú, SC R$ 2.300.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1967354-judicial-leilao-judicial-apartamento-rua-1401-97-balneario-camboriu-sc-1a-praca"
+        ]
       },
       "source_listing_price_brl": 2300000.0,
-      "newly_discovered_at": "2026-10-17T23:17:04-03:00"
+      "newly_discovered_at": "2026-10-17T23:17:04-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1967354-judicial-leilao-judicial-apartamento-rua-1401-97-balneario-camboriu-sc-1a-praca"
+      ]
     },
     {
       "id": "36dcfaa54f2f10dc7d7f",
@@ -834,7 +870,7 @@
         "https://hasta.com.br/foto/905194/11.jpg"
       ],
       "first_seen_at": "2026-10-17T23:06:51-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -861,10 +897,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/905194-apto-300-resid-torre-di-petra-pioneiros-bc",
         "raw_text": "Apartamento Apto 300 Resid. Torre Di Petra - Pioneiros, BC. 📍 Balneário Camboriú, SC R$ 2.307.000,00",
-        "is_aggregator": true
+        "is_aggregator": true,
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/905194-apto-300-resid-torre-di-petra-pioneiros-bc"
+        ]
       },
       "source_listing_price_brl": 2307000.0,
-      "newly_discovered_at": "2026-10-17T23:06:51-03:00"
+      "newly_discovered_at": "2026-10-17T23:06:51-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/905194-apto-300-resid-torre-di-petra-pioneiros-bc"
+      ]
     },
     {
       "id": "3e170fc3d51f4d7b1b60",
@@ -929,7 +971,7 @@
         "https://hasta.com.br/foto/1001567/11.jpg"
       ],
       "first_seen_at": "2026-10-17T23:06:58-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -956,10 +998,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1001567-apartamento-condominio-residencial",
         "raw_text": "Apartamento Apartamento Condomínio, Residencial 📍 Balneário Camboriú, SC R$ 1.550.000,00",
-        "is_aggregator": true
+        "is_aggregator": true,
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1001567-apartamento-condominio-residencial"
+        ]
       },
       "source_listing_price_brl": 1550000.0,
-      "newly_discovered_at": "2026-10-17T23:06:58-03:00"
+      "newly_discovered_at": "2026-10-17T23:06:58-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1001567-apartamento-condominio-residencial"
+      ]
     },
     {
       "id": "43b2c273ed2e2464aace",
@@ -1028,7 +1076,7 @@
         "https://hasta.com.br/foto/2025919/3.jpg"
       ],
       "first_seen_at": "2026-10-17T23:16:54-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -1055,10 +1103,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2025919-apartamento-sao-judas-tadeu-balneario-camboriu-sc",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento - 46,32m² de área privativa, com vaga de garagem - balneario camboriu/sc 📍 Balneário Camboriú, SC R$ 370.000,00"
+        "raw_text": "Apartamento Apartamento - 46,32m² de área privativa, com vaga de garagem - balneario camboriu/sc 📍 Balneário Camboriú, SC R$ 370.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2025919-apartamento-sao-judas-tadeu-balneario-camboriu-sc"
+        ]
       },
       "source_listing_price_brl": 370000.0,
-      "newly_discovered_at": "2026-10-17T23:16:54-03:00"
+      "newly_discovered_at": "2026-10-17T23:16:54-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2025919-apartamento-sao-judas-tadeu-balneario-camboriu-sc"
+      ]
     },
     {
       "id": "4a2e2e5abc53df2b0b68",
@@ -1114,7 +1168,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/c7/c7bc5fc6cc1195f62ca4d36ad3327d1ef8fc332119c5a83708493f33f9dc0400.jpg"
       ],
       "first_seen_at": "2026-10-17T23:17:40-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -1141,10 +1195,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1083274-apartamento-em-balneario-camboriu-sc-lote-001-id-4396",
         "is_aggregator": true,
-        "raw_text": "Apartamento APARTAMENTO EM BALNEÁRIO CAMBORIÚ/SC. - Lote 001 (ID 4396) 📍 Balneário Camboriú, SC R$ 620.000,00"
+        "raw_text": "Apartamento APARTAMENTO EM BALNEÁRIO CAMBORIÚ/SC. - Lote 001 (ID 4396) 📍 Balneário Camboriú, SC R$ 620.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1083274-apartamento-em-balneario-camboriu-sc-lote-001-id-4396"
+        ]
       },
       "source_listing_price_brl": 620000.0,
-      "newly_discovered_at": "2026-10-17T23:17:40-03:00"
+      "newly_discovered_at": "2026-10-17T23:17:40-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1083274-apartamento-em-balneario-camboriu-sc-lote-001-id-4396"
+      ]
     },
     {
       "id": "62f226bd6935bed8ef35",
@@ -1223,7 +1283,7 @@
         "https://hasta.com.br/foto/1805694/1.jpg"
       ],
       "first_seen_at": "2026-10-17T23:17:09-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -1250,10 +1310,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1805694-fonte-nao-publica-imagem-leilao-online-apartamento-rua-2480-323-centro-balneario",
         "is_aggregator": true,
-        "raw_text": "Apartamento Fonte não publica imagem Leilão online Apartamento Rua 2480, 323, Centro, Balneário Camboriú, SC Bal 📍 Balneário Camboriú, SC R$ 1.803.663,00"
+        "raw_text": "Apartamento Fonte não publica imagem Leilão online Apartamento Rua 2480, 323, Centro, Balneário Camboriú, SC Bal 📍 Balneário Camboriú, SC R$ 1.803.663,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1805694-fonte-nao-publica-imagem-leilao-online-apartamento-rua-2480-323-centro-balneario"
+        ]
       },
       "source_listing_price_brl": 1803663.0,
-      "newly_discovered_at": "2026-10-17T23:17:09-03:00"
+      "newly_discovered_at": "2026-10-17T23:17:09-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1805694-fonte-nao-publica-imagem-leilao-online-apartamento-rua-2480-323-centro-balneario"
+      ]
     },
     {
       "id": "6a1c2b5efd660362bb34",
@@ -1402,7 +1468,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/bd/bd91a19f16601c12c3097b1c919fe9e6af3823ae7e33ade7f2f880b771f5da2b.png"
       ],
       "first_seen_at": "2026-10-17T23:07:28-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -1429,10 +1495,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1822397-apartamento-2-quartos-70-00m2-ed-michelangelo-balneario-camboriu-sc",
         "raw_text": "Apartamento Apartamento, 2 Quartos, 70,00m², Ed. Michelangelo, Balneário Camboriú/SC 📍 Balneário Camboriú, SC R$ 1.803.663,00",
-        "is_aggregator": true
+        "is_aggregator": true,
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1822397-apartamento-2-quartos-70-00m2-ed-michelangelo-balneario-camboriu-sc"
+        ]
       },
       "source_listing_price_brl": 1803663.0,
-      "newly_discovered_at": "2026-10-17T23:07:28-03:00"
+      "newly_discovered_at": "2026-10-17T23:07:28-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1822397-apartamento-2-quartos-70-00m2-ed-michelangelo-balneario-camboriu-sc"
+      ]
     },
     {
       "id": "7592ab19267bfb35d0cb",
@@ -1687,7 +1759,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/f4/f43d5df9e8db8b69bd0d31002b35b8d0d3b86b278a34375c1e4609027112ad8c.jpg"
       ],
       "first_seen_at": "2026-10-17T23:06:55-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -1714,10 +1786,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1428238-apto-302-ed-resid-canne-s-baln-camboriu-sc",
         "raw_text": "Apartamento Apto. 302 Ed. Resid. Canne´s - Baln. Camboriu SC 📍 Balneário Camboriú, SC R$ 982.000,00",
-        "is_aggregator": true
+        "is_aggregator": true,
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1428238-apto-302-ed-resid-canne-s-baln-camboriu-sc"
+        ]
       },
       "source_listing_price_brl": 982000.0,
-      "newly_discovered_at": "2026-10-17T23:06:55-03:00"
+      "newly_discovered_at": "2026-10-17T23:06:55-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1428238-apto-302-ed-resid-canne-s-baln-camboriu-sc"
+      ]
     },
     {
       "id": "9245947d3e75607bb019",
@@ -1850,7 +1928,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:58-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1875,10 +1953,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1507910-vagas-de-garagem",
         "is_aggregator": true,
-        "raw_text": "Casa Vagas de garagem 📍 Balneário Camboriú, SC R$ 392.500,00 24% OFF"
+        "raw_text": "Casa Vagas de garagem 📍 Balneário Camboriú, SC R$ 392.500,00 24% OFF",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1507910-vagas-de-garagem"
+        ]
       },
       "source_listing_price_brl": 392500.0,
-      "newly_discovered_at": "2026-10-17T23:23:58-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:58-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1507910-vagas-de-garagem"
+      ]
     },
     {
       "id": "a428b14c589e5f206806",
@@ -2105,7 +2189,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:58-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2130,10 +2214,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/395336-ed-res-saint-tropez",
         "is_aggregator": true,
-        "raw_text": "Apartamento Ed res saint tropez 📍 Balneário Camboriú, SC R$ 872.483,28 32% OFF"
+        "raw_text": "Apartamento Ed res saint tropez 📍 Balneário Camboriú, SC R$ 872.483,28 32% OFF",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/395336-ed-res-saint-tropez"
+        ]
       },
       "source_listing_price_brl": 872483.28,
-      "newly_discovered_at": "2026-10-17T23:23:58-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:58-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/395336-ed-res-saint-tropez"
+      ]
     },
     {
       "id": "af77573d850dc952d3b9",
@@ -2207,7 +2297,7 @@
         "https://hasta.com.br/foto/1943341/4.jpg"
       ],
       "first_seen_at": "2026-10-17T23:16:56-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -2234,10 +2324,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1943341-lote-001-apartamento",
         "is_aggregator": true,
-        "raw_text": "Apartamento Lote 001 - apartamento 📍 Balneário Camboriú, SC R$ 2.300.000,00"
+        "raw_text": "Apartamento Lote 001 - apartamento 📍 Balneário Camboriú, SC R$ 2.300.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1943341-lote-001-apartamento"
+        ]
       },
       "source_listing_price_brl": 2300000.0,
-      "newly_discovered_at": "2026-10-17T23:16:56-03:00"
+      "newly_discovered_at": "2026-10-17T23:16:56-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1943341-lote-001-apartamento"
+      ]
     },
     {
       "id": "b6d5291eaf57e658332e",
@@ -2424,7 +2520,7 @@
         "https://hasta.com.br/foto/1230780/5.jpg"
       ],
       "first_seen_at": "2026-10-17T23:06:26-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -2451,10 +2547,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1230780-apto-18-bl-e-res-bella-praia-ii-baln-camboriu",
         "raw_text": "Apartamento Apto 18, bl E -Res. BELLA PRAIA II -Baln. Camboriú 📍 Balneário Camboriú, SC R$ 3.350,00 98% OFF",
-        "is_aggregator": true
+        "is_aggregator": true,
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1230780-apto-18-bl-e-res-bella-praia-ii-baln-camboriu"
+        ]
       },
       "source_listing_price_brl": 3350.0,
-      "newly_discovered_at": "2026-10-17T23:06:26-03:00"
+      "newly_discovered_at": "2026-10-17T23:06:26-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1230780-apto-18-bl-e-res-bella-praia-ii-baln-camboriu"
+      ]
     },
     {
       "id": "cb4ae04d1ecc19903bb3",
@@ -2493,7 +2595,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:58-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2518,10 +2620,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/999010-apartamento-condominio-residencial-2-dormitorio-s-1-vaga-s-de-garagem",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento Condomínio, Residencial, 2 dormitório(s), 1 vaga(s) de garagem 📍 Balneário Camboriú, SC R$ 1.100.000,00"
+        "raw_text": "Apartamento Apartamento Condomínio, Residencial, 2 dormitório(s), 1 vaga(s) de garagem 📍 Balneário Camboriú, SC R$ 1.100.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/999010-apartamento-condominio-residencial-2-dormitorio-s-1-vaga-s-de-garagem"
+        ]
       },
       "source_listing_price_brl": 1100000.0,
-      "newly_discovered_at": "2026-10-17T23:23:58-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:58-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/999010-apartamento-condominio-residencial-2-dormitorio-s-1-vaga-s-de-garagem"
+      ]
     },
     {
       "id": "f5d481e440ddbf5c0aaf",
@@ -2661,7 +2769,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:58-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2686,10 +2794,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1001548-apartamento-condominio-residencial-centro-2-dormitorio-s-2-vaga-s-de-garagem",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento Condomínio, Residencial, Centro, 2 dormitório(s), 2 vaga(s) de garagem 📍 Balneário Camboriú, SC R$ 3.100.000,00"
+        "raw_text": "Apartamento Apartamento Condomínio, Residencial, Centro, 2 dormitório(s), 2 vaga(s) de garagem 📍 Balneário Camboriú, SC R$ 3.100.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1001548-apartamento-condominio-residencial-centro-2-dormitorio-s-2-vaga-s-de-garagem"
+        ]
       },
       "source_listing_price_brl": 3100000.0,
-      "newly_discovered_at": "2026-10-17T23:23:58-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:58-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1001548-apartamento-condominio-residencial-centro-2-dormitorio-s-2-vaga-s-de-garagem"
+      ]
     },
     {
       "id": "2c1a34723877e103d57a",
@@ -2730,7 +2844,7 @@
         "https://ms.sbwebservices.net/photos/62ea129e-3052-4d19-84a3-dbdb297c56ad.jpg"
       ],
       "first_seen_at": "2026-10-17T23:23:59-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2755,10 +2869,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1114198-terreno-com-area-de-240m2-contendo-uma-casa-com-area-de-96-75m2-balneario-picarr",
         "is_aggregator": true,
-        "raw_text": "Casa Terreno com área de 240m², contendo uma casa com área de 96,75m², Balneário Piçarras/SC 📍 Balneário Piçarras, SC R$ 1.500.000,00"
+        "raw_text": "Casa Terreno com área de 240m², contendo uma casa com área de 96,75m², Balneário Piçarras/SC 📍 Balneário Piçarras, SC R$ 1.500.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1114198-terreno-com-area-de-240m2-contendo-uma-casa-com-area-de-96-75m2-balneario-picarr"
+        ]
       },
       "source_listing_price_brl": 1500000.0,
-      "newly_discovered_at": "2026-10-17T23:23:59-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:59-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1114198-terreno-com-area-de-240m2-contendo-uma-casa-com-area-de-96-75m2-balneario-picarr"
+      ]
     },
     {
       "id": "6298305b8548e64f6ec0",
@@ -2891,7 +3011,7 @@
         "https://d107brv7xtbumz.cloudfront.net/709dbd4b-5a01-4815-9ec3-f936469d5857"
       ],
       "first_seen_at": "2026-10-17T23:17:44-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -2918,10 +3038,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/999222-chacara-sitio-rural",
         "is_aggregator": true,
-        "raw_text": "Imóvel Chácara/Sítio, Rural 📍 Balneário Piçarras, SC R$ 2.500.000,00 Imóvel comercial IMOVEL URBANO TERRENO 288M² COM EDIFICAÇÃO BAIRRO NOSSA SENHORA DA PAZ EM BALNEÁRIO PIÇARRAS/SC 📍 Balneário Piçarras, SC R$ 616.045,17 Casa Terreno com área de 240m², contendo uma casa com área de 96,75m², Balneário Piçarras/SC 📍 Balneário Piçarras, SC R$ 1.500.000,00"
+        "raw_text": "Imóvel Chácara/Sítio, Rural 📍 Balneário Piçarras, SC R$ 2.500.000,00 Imóvel comercial IMOVEL URBANO TERRENO 288M² COM EDIFICAÇÃO BAIRRO NOSSA SENHORA DA PAZ EM BALNEÁRIO PIÇARRAS/SC 📍 Balneário Piçarras, SC R$ 616.045,17 Casa Terreno com área de 240m², contendo uma casa com área de 96,75m², Balneário Piçarras/SC 📍 Balneário Piçarras, SC R$ 1.500.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/999222-chacara-sitio-rural"
+        ]
       },
       "source_listing_price_brl": 2500000.0,
-      "newly_discovered_at": "2026-10-17T23:17:44-03:00"
+      "newly_discovered_at": "2026-10-17T23:17:44-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/999222-chacara-sitio-rural"
+      ]
     },
     {
       "id": "20fd0b9b6356ec174d81",
@@ -2992,7 +3118,7 @@
         "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grlkbn1ggqso/b/astavero/o/anexos/mazzolli/6abd3d06d846463f40e90e6e/6abd3e73e79d89d25be22d1d/foto_4-1790946160000.jpg"
       ],
       "first_seen_at": "2026-10-17T23:07:54-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -3019,10 +3145,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1577602-terreno-urbano-barra-velha-lote-001-id-1497",
         "raw_text": "Terreno Terreno Urbano 300m² - Itajuba 📍 Barra Velha, SC R$ 68.100,00 50% OFF Terreno Terreno Urbano 300m² - Itajuba 📍 Barra Velha, SC R$ 68.100,00 50% OFF Casa Casa - 44,88m² de área privativa, 59,28m² de área do terreno, com vaga de garagem - barra velha/sc 📍 Barra Velha, SC R$ 238.000,00 Casa Con res natalia v 📍 Barra Velha, SC R$ 238.000,00 Casa Casa à venda em leilão 📍 Barra Velha, SC R$ 285.015,73 Casa Casa - Barra Velha / SC - Quinta dos Açorianos Rua dos Borgonhas, s/n 📍 Barra Velha, SC R$ 285.015,73 Terreno Terreno no Lote 18 QD N com área de 306,00m², no Loteamento Parque Residencial Mônica, em Barra Velha/SC 📍 Barra Velha, SC R$ 84.967,08 Imóvel matrícula n° 31.352 📍 Barra Velha, SC R$ 164.054,40 Imóvel matrícula n° 31.352 📍 Barra Velha, SC R$ 164.054,40 Casa Casa, Residencial, 1 vaga(s) de garagem 📍 Barra Velha, SC R$ 480.000,00 Terreno 2 Áreas 1 com 35.951,47m2 e outra com 17.178,53m2 📍 Barra Velha, SC R$ 15.886.326,00 Terreno Terreno Urbano Barra Velha - Lote 001 (ID 1497) 📍 Barra Velha, SC R$ 125.974,39",
-        "is_aggregator": true
+        "is_aggregator": true,
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1577602-terreno-urbano-barra-velha-lote-001-id-1497"
+        ]
       },
       "source_listing_price_brl": 68100.0,
-      "newly_discovered_at": "2026-10-17T23:07:54-03:00"
+      "newly_discovered_at": "2026-10-17T23:07:54-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1577602-terreno-urbano-barra-velha-lote-001-id-1497"
+      ]
     },
     {
       "id": "23fa965ece4277305e11",
@@ -3092,7 +3224,7 @@
         "https://csdl-production.s3-sa-east-1.amazonaws.com/uploads/fotos/lotes/243664/terreno-barra-velha-02.png"
       ],
       "first_seen_at": "2026-10-17T23:07:49-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -3119,10 +3251,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/847525-terreno-no-lote-18-qd-n-com-area-de-306-00m2-no-loteamento-parque-residencial-mo",
         "raw_text": "Terreno Terreno no Lote 18 QD N com área de 306,00m², no Loteamento Parque Residencial Mônica, em Barra Velha/SC 📍 Barra Velha, SC R$ 84.967,08",
-        "is_aggregator": true
+        "is_aggregator": true,
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/847525-terreno-no-lote-18-qd-n-com-area-de-306-00m2-no-loteamento-parque-residencial-mo"
+        ]
       },
       "source_listing_price_brl": 84967.08,
-      "newly_discovered_at": "2026-10-17T23:07:49-03:00"
+      "newly_discovered_at": "2026-10-17T23:07:49-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/847525-terreno-no-lote-18-qd-n-com-area-de-306-00m2-no-loteamento-parque-residencial-mo"
+      ]
     },
     {
       "id": "f247a7b1f8923f0e2785",
@@ -3189,7 +3327,7 @@
         "https://imagens.portalzuk.com.br/mini/2026/09/503d271474858e51f5fc0d50e62da4b3.jpg"
       ],
       "first_seen_at": "2026-10-17T23:07:47-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -3216,10 +3354,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1720889-casa-barra-velha-sc-quinta-dos-acorianos-rua-dos-borgonhas-s-n",
         "raw_text": "Casa Casa - Barra Velha / SC - Quinta dos Açorianos Rua dos Borgonhas, s/n 📍 Barra Velha, SC R$ 285.015,73",
-        "is_aggregator": true
+        "is_aggregator": true,
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1720889-casa-barra-velha-sc-quinta-dos-acorianos-rua-dos-borgonhas-s-n"
+        ]
       },
       "source_listing_price_brl": 285015.73,
-      "newly_discovered_at": "2026-10-17T23:07:47-03:00"
+      "newly_discovered_at": "2026-10-17T23:07:47-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1720889-casa-barra-velha-sc-quinta-dos-acorianos-rua-dos-borgonhas-s-n"
+      ]
     },
     {
       "id": "0025d7addfa110458918",
@@ -3298,7 +3442,7 @@
         "https://hasta.com.br/foto/2041112/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:40-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -3325,10 +3469,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2041112-rural-paranaguamirim-joinville-sc",
         "is_aggregator": true,
-        "raw_text": "Imóvel rural Apartamento 📍 Joinville, SC R$ 180.000,00"
+        "raw_text": "Imóvel rural Apartamento 📍 Joinville, SC R$ 180.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2041112-rural-paranaguamirim-joinville-sc"
+        ]
       },
       "source_listing_price_brl": 180000.0,
-      "newly_discovered_at": "2026-10-17T23:15:40-03:00"
+      "newly_discovered_at": "2026-10-17T23:15:40-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2041112-rural-paranaguamirim-joinville-sc"
+      ]
     },
     {
       "id": "03692fe334d21e3f3fee",
@@ -3383,7 +3533,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/58/58ff0ce3e5c30571f9861172e20ce69c06bda212497206410deb095ed7a70b78.jpg"
       ],
       "first_seen_at": "2026-10-20T09:08:58-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3401,15 +3551,22 @@
         "auction_events": "declared",
         "source_listing_price_brl": "declared",
         "official_url": "unverified",
-        "auctioneer": "unverified"
+        "auctioneer": "unverified",
+        "address": "unknown"
       },
       "provenance": {
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1854621-leilao-online-leilao-apartamento-joinville-sc-1o-leilao-02-12-2026-2o-leilao-04",
         "is_aggregator": true,
-        "raw_text": "Apartamento Leilão online Leilão Apartamento Joinville/SC 1º leilão 02/12/2026 2º leilão 04/12/2026 Lance mínimo 📍 Joinville, SC R$ 105.000,00"
+        "raw_text": "Apartamento Leilão online Leilão Apartamento Joinville/SC 1º leilão 02/12/2026 2º leilão 04/12/2026 Lance mínimo 📍 Joinville, SC R$ 105.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1854621-leilao-online-leilao-apartamento-joinville-sc-1o-leilao-02-12-2026-2o-leilao-04"
+        ]
       },
-      "newly_discovered_at": "2026-10-20T09:09:08-03:00"
+      "newly_discovered_at": "2026-10-20T09:09:08-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1854621-leilao-online-leilao-apartamento-joinville-sc-1o-leilao-02-12-2026-2o-leilao-04"
+      ]
     },
     {
       "id": "04fed9d77ac896fb3d80",
@@ -3448,7 +3605,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:54-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3473,10 +3630,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1769820-casa-santa-catarina-joinville-sc",
         "is_aggregator": true,
-        "raw_text": "Casa Casa à venda em leilão 📍 Joinville, SC R$ 620.265,00"
+        "raw_text": "Casa Casa à venda em leilão 📍 Joinville, SC R$ 620.265,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1769820-casa-santa-catarina-joinville-sc"
+        ]
       },
       "source_listing_price_brl": 620265.0,
-      "newly_discovered_at": "2026-10-17T23:23:54-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:54-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1769820-casa-santa-catarina-joinville-sc"
+      ]
     },
     {
       "id": "0d4f16c224b730f2fac4",
@@ -3609,6 +3772,12 @@
       "discount_on_appraisal_percent": null,
       "auction_events": [
         {
+          "date": "2026-10-19",
+          "time": "09:00",
+          "minimum_bid_brl": 699000.0,
+          "stage": "unknown"
+        },
+        {
           "date": "2026-11-05",
           "time": "12:00",
           "minimum_bid_brl": null,
@@ -3619,12 +3788,6 @@
           "time": null,
           "minimum_bid_brl": null,
           "stage": "second"
-        },
-        {
-          "date": "2026-10-19",
-          "time": "09:00",
-          "minimum_bid_brl": 699000.0,
-          "stage": "unknown"
         }
       ],
       "commission_percent": 5.0,
@@ -3646,7 +3809,7 @@
         "https://hasta.com.br/guias/analise-de-edital-e-matricula"
       ],
       "first_seen_at": "2026-10-17T22:03:11-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied"
@@ -3669,8 +3832,11 @@
       "provenance": {
         "source_id": "freitas",
         "captured_from": "https://www.freitasleiloeiro.com.br/Leiloes/LoteDetalhes?leilaoId=8127&loteNumero=8",
-        "raw_text": "008 05/11/2026 12:00 JOINVILLE/SC - Apartamento nº 601 do Residencial Rio Danúbio, Rua Pernambuco, nº... R$ 699.000,00 Lance Inicial JOINVILLE/SC ABERTO PARA LANCES Início Agenda Organização Cadastre-se Contato Serviços Login LEILÃO \"ON-LINE\" - 29 IMÓVEIS - BANCO DAYCOVAL S/A Apartamento | JOINVILLE/SC Favoritar Ver Favoritos Previous Next Lote 008 Data do Leilão 05/11/2026 Horário 12:00 Anterior Lotes Próximo Navegar Visitas 173 Curtidas 0 ABERTO Condições de venda Edital / Anúncio Catálogo do leilão Como participar Endereço: Rua Pernambuco, nº 200, Anita Garibaldi - JOINVILLE/SC Descrição completa: JOINVILLE/SC - Apartamento nº 601 do Residencial Rio Danúbio, Rua Pernambuco, nº 200, Anita Garibaldi. Área privativa: 122,86m²; área de garagem: 21,60m²; área comum: 49,27m²; área total: 193,73m². Matrícula nº 34.530 do 2º RI local. Obs.: Consta Ação de Procedimento Comum, processo nº 4000182-85.2026.8.26.0654 em trâmite na Vara Única da Comarca de Vargem Grande Paulista/SP. O Vendedor responde pelo resultado da ação, de acordo com os critérios e limites estabelecidos nas “Condições de Venda dos Imóveis” constantes do edital. Consta Ação de Reintegração/Manutenção de Posse, processo nº 4002552-88.2026.8.26.0152 em trâmite na Vara Única da Comarca de Vargem Grande Paulista/SP. O Arrematante, por possuir conhecimento, declara a sua anuência quanto à transferência do patrocínio, aos eventuais resultados e aos efeitos da ação informada, responsabilizando-se pela regularização processual, no prazo máximo de 5 dias. O Banco permanecerá atuando no processo até comunicação da venda nos autos. Imóvel ocupado, desocupação por conta do arrematante. Informações importantes: Fotos Meramente Ilustrativas; 5% referente à comissão do leiloeiro acrescido ao valor da arrematação; Abertura p/ lances: 19/10/2026 09:00 Leiloeiro: Sérgio Villa Nova de Freitas Modalidade: SOMENTE ONLINE Local do leilão: INTERNET (São Paulo/SP) Arquivos: Matrícula Edital Leia atentamente as condições antes de participar do leilão: Condições de Pagamento – Imóveis Ocupados Sobre o valor do arremate, incorrerá a comissão de 5% ao leiloeiro a ser pago pelo arrematante. Formas de Pagamento - À vista: Pagamento integral em até 48 horas úteis após a comunicação da homologação da arrematação. - Parcelamento Direto com o Banco Daycoval • Entrada mínima de 40%; • Saldo em até 60 meses; • Sujeito à análise e aprovação de crédito; • Parcelas corrigidas por 1,35% ao mês + IPCA. Importante: Não há opção de financiamento imobiliário para imóveis ocupados. R$ 699.000,00 Lance Inicial R$ 20.000,00 Incremento Mínimo Maior lance: Aguardando lances Encerramento prev.: 05/11/2026 12:16:00 Restando: 16 dia(s) e 03h 07m 18s ABERTO PARA LANCES Área de lances Efetuar Login Praça da Liberdade, 130 - 15º andar - Liberdade - São Paulo/SP - CEP: 01503-010 - Fone: (11) 3117-1000 Atendimento presencial de segunda a sexta das 09:00 às 16:30. Atendimento Cadastro Telefone: (11) 3117-1000 - Ramais: 132, 133 e 134 online@f",
-        "is_aggregator": false
+        "raw_text": "008 05/11/2026 12:00 JOINVILLE/SC - Apartamento nº 601 do Residencial Rio Danúbio, Rua Pernambuco, nº... R$ 699.000,00 Lance Inicial JOINVILLE/SC ABERTO PARA LANCES Início Agenda Organização Cadastre-se Contato Serviços Login LEILÃO \"ON-LINE\" - 29 IMÓVEIS - BANCO DAYCOVAL S/A Apartamento | JOINVILLE/SC Favoritar Ver Favoritos Previous Next Lote 008 Data do Leilão 05/11/2026 Horário 12:00 Anterior Lotes Próximo Navegar Visitas 176 Curtidas 0 ABERTO Condições de venda Edital / Anúncio Catálogo do leilão Como participar Endereço: Rua Pernambuco, nº 200, Anita Garibaldi - JOINVILLE/SC Descrição completa: JOINVILLE/SC - Apartamento nº 601 do Residencial Rio Danúbio, Rua Pernambuco, nº 200, Anita Garibaldi. Área privativa: 122,86m²; área de garagem: 21,60m²; área comum: 49,27m²; área total: 193,73m². Matrícula nº 34.530 do 2º RI local. Obs.: Consta Ação de Procedimento Comum, processo nº 4000182-85.2026.8.26.0654 em trâmite na Vara Única da Comarca de Vargem Grande Paulista/SP. O Vendedor responde pelo resultado da ação, de acordo com os critérios e limites estabelecidos nas “Condições de Venda dos Imóveis” constantes do edital. Consta Ação de Reintegração/Manutenção de Posse, processo nº 4002552-88.2026.8.26.0152 em trâmite na Vara Única da Comarca de Vargem Grande Paulista/SP. O Arrematante, por possuir conhecimento, declara a sua anuência quanto à transferência do patrocínio, aos eventuais resultados e aos efeitos da ação informada, responsabilizando-se pela regularização processual, no prazo máximo de 5 dias. O Banco permanecerá atuando no processo até comunicação da venda nos autos. Imóvel ocupado, desocupação por conta do arrematante. Informações importantes: Fotos Meramente Ilustrativas; 5% referente à comissão do leiloeiro acrescido ao valor da arrematação; Abertura p/ lances: 19/10/2026 09:00 Leiloeiro: Sérgio Villa Nova de Freitas Modalidade: SOMENTE ONLINE Local do leilão: INTERNET (São Paulo/SP) Arquivos: Matrícula Edital Leia atentamente as condições antes de participar do leilão: Condições de Pagamento – Imóveis Ocupados Sobre o valor do arremate, incorrerá a comissão de 5% ao leiloeiro a ser pago pelo arrematante. Formas de Pagamento - À vista: Pagamento integral em até 48 horas úteis após a comunicação da homologação da arrematação. - Parcelamento Direto com o Banco Daycoval • Entrada mínima de 40%; • Saldo em até 60 meses; • Sujeito à análise e aprovação de crédito; • Parcelas corrigidas por 1,35% ao mês + IPCA. Importante: Não há opção de financiamento imobiliário para imóveis ocupados. R$ 699.000,00 Lance Inicial R$ 20.000,00 Incremento Mínimo Maior lance: Aguardando lances Encerramento prev.: 05/11/2026 12:16:00 Restando: 16 dia(s) e 02h 39m 36s ABERTO PARA LANCES Área de lances Efetuar Login Praça da Liberdade, 130 - 15º andar - Liberdade - São Paulo/SP - CEP: 01503-010 - Fone: (11) 3117-1000 Atendimento presencial de segunda a sexta das 09:00 às 16:30. Atendimento Cadastro Telefone: (11) 3117-1000 - Ramais: 132, 133 e 134 online@f",
+        "is_aggregator": false,
+        "source_listing_urls": [
+          "https://www.freitasleiloeiro.com.br/Leiloes/LoteDetalhes?leilaoId=8127&loteNumero=8"
+        ]
       },
       "image_urls": [
         "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/LT008_01.JPG",
@@ -3690,7 +3856,10 @@
       "source_listing_url": "https://www.freitasleiloeiro.com.br/Leiloes/LoteDetalhes?leilaoId=8127&loteNumero=8",
       "validation_status": "verified",
       "source_listing_price_brl": 699000.0,
-      "newly_discovered_at": "2026-10-17T22:03:11-03:00"
+      "newly_discovered_at": "2026-10-17T22:03:11-03:00",
+      "source_listing_urls": [
+        "https://www.freitasleiloeiro.com.br/Leiloes/LoteDetalhes?leilaoId=8127&loteNumero=8"
+      ]
     },
     {
       "id": "1049ea8d2d2c2a7ece6a",
@@ -3760,7 +3929,7 @@
         "https://ms.sbwebservices.net/photos/9dc72313-7a0d-468a-adf6-79d41c03004e.jpg"
       ],
       "first_seen_at": "2026-10-17T23:16:30-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -3787,10 +3956,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/968506-apartamento-residencial-vila-germanica-a-t-62-12m2-a-p-51-14m2-vila-nova-joinvil",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento Residencial Vila Germânica, A.T. 62,12m², A.P. 51,14m² Vila Nova, Joinville/SC 📍 Joinville, SC R$ 200.000,00"
+        "raw_text": "Apartamento Apartamento Residencial Vila Germânica, A.T. 62,12m², A.P. 51,14m² Vila Nova, Joinville/SC 📍 Joinville, SC R$ 200.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/968506-apartamento-residencial-vila-germanica-a-t-62-12m2-a-p-51-14m2-vila-nova-joinvil"
+        ]
       },
       "source_listing_price_brl": 200000.0,
-      "newly_discovered_at": "2026-10-17T23:16:30-03:00"
+      "newly_discovered_at": "2026-10-17T23:16:30-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/968506-apartamento-residencial-vila-germanica-a-t-62-12m2-a-p-51-14m2-vila-nova-joinvil"
+      ]
     },
     {
       "id": "148da9b4c7a4a4dc4dcb",
@@ -3854,7 +4029,7 @@
         "https://hasta.com.br/foto/2123069/1.jpg"
       ],
       "first_seen_at": "2026-10-17T23:05:16-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -3881,10 +4056,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2123069-lote-368-estado-sc-cidade-joinville-endereco-rua-joao-da-costa-junior-n-sn-apto",
         "raw_text": "Apartamento Lote 368: estado: sc - cidade: joinville - endereço: rua joão da costa junior, n. sn, apto. 202, bloco 05, 2. pavimento, vaga 29 e m05 - bairro: - des 📍 Joinville, SC R$ 126.926,84 39% OFF",
-        "is_aggregator": true
+        "is_aggregator": true,
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2123069-lote-368-estado-sc-cidade-joinville-endereco-rua-joao-da-costa-junior-n-sn-apto"
+        ]
       },
       "source_listing_price_brl": 126926.84,
-      "newly_discovered_at": "2026-10-17T23:05:16-03:00"
+      "newly_discovered_at": "2026-10-17T23:05:16-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2123069-lote-368-estado-sc-cidade-joinville-endereco-rua-joao-da-costa-junior-n-sn-apto"
+      ]
     },
     {
       "id": "1556d3485addc60e3398",
@@ -3923,7 +4104,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-19T10:18:26-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3948,10 +4129,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2187509-res-sao-roque",
         "is_aggregator": true,
-        "raw_text": "Casa Res são roque 📍 Joinville, SC R$ 475.000,00"
+        "raw_text": "Casa Res são roque 📍 Joinville, SC R$ 475.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2187509-res-sao-roque"
+        ]
       },
       "newly_discovered_at": "2026-10-19T10:18:38-03:00",
-      "source_listing_price_brl": 475000.0
+      "source_listing_price_brl": 475000.0,
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2187509-res-sao-roque"
+      ]
     },
     {
       "id": "156322f6af67613a79b8",
@@ -4029,7 +4216,7 @@
         "https://hasta.com.br/foto/1505309/3.jpg"
       ],
       "first_seen_at": "2026-10-17T23:12:23-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -4056,10 +4243,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1505309-apartamento-em-joinville",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento em Joinville 📍 Joinville, SC R$ 280.000,00"
+        "raw_text": "Apartamento Apartamento em Joinville 📍 Joinville, SC R$ 280.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1505309-apartamento-em-joinville"
+        ]
       },
       "source_listing_price_brl": 280000.0,
-      "newly_discovered_at": "2026-10-17T23:12:23-03:00"
+      "newly_discovered_at": "2026-10-17T23:12:23-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1505309-apartamento-em-joinville"
+      ]
     },
     {
       "id": "18b39785d4392fa30f5f",
@@ -4100,7 +4293,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/32/3275ed983edd118990da2278f35825a70a7216dfda69b8f5d73ce24cb45fba46.jpg"
       ],
       "first_seen_at": "2026-10-17T23:23:56-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4125,10 +4318,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2090284-terreno-avenida-santos-dumont-sem-edificacoes-joinville-sc-area-de-33-220m2-luis",
         "is_aggregator": true,
-        "raw_text": "Terreno TERRENO - AVENIDA SANTOS DUMONT, SEM EDIFICAÇÕES, JOINVILLE/SC, ÁREA DE 33.220M² - Luis Leiloeiro 📍 Joinville, SC R$ 5.855.191,10"
+        "raw_text": "Terreno TERRENO - AVENIDA SANTOS DUMONT, SEM EDIFICAÇÕES, JOINVILLE/SC, ÁREA DE 33.220M² - Luis Leiloeiro 📍 Joinville, SC R$ 5.855.191,10",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2090284-terreno-avenida-santos-dumont-sem-edificacoes-joinville-sc-area-de-33-220m2-luis"
+        ]
       },
       "source_listing_price_brl": 5855191.1,
-      "newly_discovered_at": "2026-10-17T23:23:56-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:56-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2090284-terreno-avenida-santos-dumont-sem-edificacoes-joinville-sc-area-de-33-220m2-luis"
+      ]
     },
     {
       "id": "19092d4a649668cf9012",
@@ -4180,7 +4379,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/67/6725626ffaa405389de3795242a3432caac3a4f003d2a7f954021a868ffd13d8.jpg"
       ],
       "first_seen_at": "2026-10-17T23:14:16-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -4207,10 +4406,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1718758-leilao-casa-santa-catarina-rua-cidade-de-hiroshima-46-joinville-sc-177-74-m2-1a",
         "is_aggregator": true,
-        "raw_text": "Casa Leilão Casa · Santa Catarina Rua Cidade de Hiroshima, 46 Joinville/SC 177,74 m² 1ª praça 02/12/2026 📍 Joinville, SC R$ 620.265,00"
+        "raw_text": "Casa Leilão Casa · Santa Catarina Rua Cidade de Hiroshima, 46 Joinville/SC 177,74 m² 1ª praça 02/12/2026 📍 Joinville, SC R$ 620.265,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1718758-leilao-casa-santa-catarina-rua-cidade-de-hiroshima-46-joinville-sc-177-74-m2-1a"
+        ]
       },
       "source_listing_price_brl": 620265.0,
-      "newly_discovered_at": "2026-10-17T23:14:16-03:00"
+      "newly_discovered_at": "2026-10-17T23:14:16-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1718758-leilao-casa-santa-catarina-rua-cidade-de-hiroshima-46-joinville-sc-177-74-m2-1a"
+      ]
     },
     {
       "id": "1a20be5f779cf5f4409a",
@@ -4271,7 +4476,7 @@
         "https://hasta.com.br/foto/2083843/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:35-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -4298,10 +4503,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2083843-casa-do-leilao-bem-01-um-ar-condicionado-em-joinville-santa-catarina",
         "is_aggregator": true,
-        "raw_text": "Imóvel Casa Do Leilão | Bem: 01 (um) ar condicionado em JOINVILLE - Santa Catarina 📍 Joinville, SC R$ 5.000,00"
+        "raw_text": "Imóvel Casa Do Leilão | Bem: 01 (um) ar condicionado em JOINVILLE - Santa Catarina 📍 Joinville, SC R$ 5.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2083843-casa-do-leilao-bem-01-um-ar-condicionado-em-joinville-santa-catarina"
+        ]
       },
       "source_listing_price_brl": 5000.0,
-      "newly_discovered_at": "2026-10-17T23:15:35-03:00"
+      "newly_discovered_at": "2026-10-17T23:15:35-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2083843-casa-do-leilao-bem-01-um-ar-condicionado-em-joinville-santa-catarina"
+      ]
     },
     {
       "id": "1d8772fdbe1c70e5b04e",
@@ -4369,7 +4580,7 @@
         "https://hasta.com.br/foto/962700/1.jpg"
       ],
       "first_seen_at": "2026-10-17T23:12:52-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -4396,10 +4607,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/962700-apartamento-res-spazio-jardim-de-viena",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento - Res. SPAZIO JARDIM DE VIENA 📍 Joinville, SC R$ 220.000,00"
+        "raw_text": "Apartamento Apartamento - Res. SPAZIO JARDIM DE VIENA 📍 Joinville, SC R$ 220.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/962700-apartamento-res-spazio-jardim-de-viena"
+        ]
       },
       "source_listing_price_brl": 220000.0,
-      "newly_discovered_at": "2026-10-17T23:12:52-03:00"
+      "newly_discovered_at": "2026-10-17T23:12:52-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/962700-apartamento-res-spazio-jardim-de-viena"
+      ]
     },
     {
       "id": "20086256b8ce71ad91f1",
@@ -4479,7 +4696,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/46/46ca3c6ec32a2584a811e35866225e1955419a523e174312969cfd0f923a3b8e.jpg"
       ],
       "first_seen_at": "2026-10-17T23:16:23-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -4506,10 +4723,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1067824-leilao-judicial-4a-vara-civel-de-joinville-sc-edital-029-2026-lote-001-id-2508",
         "is_aggregator": true,
-        "raw_text": "Casa LEILÃO JUDICIAL - 4ª VARA CÍVEL DE JOINVILLE/SC - EDITAL 029/2026 - Lote 001 (ID 2508) 📍 Joinville, SC R$ 364.000,00"
+        "raw_text": "Casa LEILÃO JUDICIAL - 4ª VARA CÍVEL DE JOINVILLE/SC - EDITAL 029/2026 - Lote 001 (ID 2508) 📍 Joinville, SC R$ 364.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1067824-leilao-judicial-4a-vara-civel-de-joinville-sc-edital-029-2026-lote-001-id-2508"
+        ]
       },
       "source_listing_price_brl": 364000.0,
-      "newly_discovered_at": "2026-10-17T23:16:23-03:00"
+      "newly_discovered_at": "2026-10-17T23:16:23-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1067824-leilao-judicial-4a-vara-civel-de-joinville-sc-edital-029-2026-lote-001-id-2508"
+      ]
     },
     {
       "id": "208e5cb631fadc27dcaa",
@@ -4578,7 +4801,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/55/552eec27baa9510c7d6885675977ae04b4add557b6faf6ef901c18fc0c9953c7.jpg"
       ],
       "first_seen_at": "2026-10-17T23:16:04-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -4605,10 +4828,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1824383-apartamento-no-bairro-jardim-paraiso-em-joinville-sc-lote-001-id-8412",
         "is_aggregator": true,
-        "raw_text": "Apartamento APARTAMENTO NO BAIRRO JARDIM PARAÍSO EM JOINVILLE/SC - Lote 001 (ID 8412) 📍 Joinville, SC R$ 90.000,00"
+        "raw_text": "Apartamento APARTAMENTO NO BAIRRO JARDIM PARAÍSO EM JOINVILLE/SC - Lote 001 (ID 8412) 📍 Joinville, SC R$ 90.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1824383-apartamento-no-bairro-jardim-paraiso-em-joinville-sc-lote-001-id-8412"
+        ]
       },
       "source_listing_price_brl": 90000.0,
-      "newly_discovered_at": "2026-10-17T23:16:04-03:00"
+      "newly_discovered_at": "2026-10-17T23:16:04-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1824383-apartamento-no-bairro-jardim-paraiso-em-joinville-sc-lote-001-id-8412"
+      ]
     },
     {
       "id": "22e06b6796a1938be66f",
@@ -4765,7 +4994,7 @@
         "https://dto3gws2tdkmm.cloudfront.net/bens/0000004489/img-4489-6ab70b95ede22.jpeg"
       ],
       "first_seen_at": "2026-10-17T23:14:39-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -4792,10 +5021,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1647135-leilao-terreno-na-zona-industrial-norte-contendo-4-285-50m2-rua-dos-franceses-s",
         "is_aggregator": true,
-        "raw_text": "Terreno Leilão TERRENO NA ZONA INDUSTRIAL NORTE CONTENDO 4.285,50m² Rua dos Franceses, S/Nº, Joinville/SC 1ª 📍 Joinville, SC R$ 4.400.000,00"
+        "raw_text": "Terreno Leilão TERRENO NA ZONA INDUSTRIAL NORTE CONTENDO 4.285,50m² Rua dos Franceses, S/Nº, Joinville/SC 1ª 📍 Joinville, SC R$ 4.400.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1647135-leilao-terreno-na-zona-industrial-norte-contendo-4-285-50m2-rua-dos-franceses-s"
+        ]
       },
       "source_listing_price_brl": 4400000.0,
-      "newly_discovered_at": "2026-10-17T23:14:39-03:00"
+      "newly_discovered_at": "2026-10-17T23:14:39-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1647135-leilao-terreno-na-zona-industrial-norte-contendo-4-285-50m2-rua-dos-franceses-s"
+      ]
     },
     {
       "id": "2db2dbfd4dc16749882e",
@@ -4872,7 +5107,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/e4/e4cc5aa383d24885762e8060f5601b4e2224eff93a6aa0d73961d43d3a411931.jpg"
       ],
       "first_seen_at": "2026-10-17T23:16:18-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -4899,10 +5134,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1216324-casa-no-bairro-gloria-em-joinville-sc-lote-001-id-8225",
         "is_aggregator": true,
-        "raw_text": "Casa CASA NO BAIRRO GLÓRIA EM JOINVILLE/SC - Lote 001 (ID 8225) 📍 Joinville, SC R$ 1.580.433,02"
+        "raw_text": "Casa CASA NO BAIRRO GLÓRIA EM JOINVILLE/SC - Lote 001 (ID 8225) 📍 Joinville, SC R$ 1.580.433,02",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1216324-casa-no-bairro-gloria-em-joinville-sc-lote-001-id-8225"
+        ]
       },
       "source_listing_price_brl": 1580433.02,
-      "newly_discovered_at": "2026-10-17T23:16:18-03:00"
+      "newly_discovered_at": "2026-10-17T23:16:18-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1216324-casa-no-bairro-gloria-em-joinville-sc-lote-001-id-8225"
+      ]
     },
     {
       "id": "314db08f260a3c4192a9",
@@ -4941,7 +5182,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-19T10:18:26-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4966,10 +5207,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2187787-joinville-vila-nova",
         "is_aggregator": true,
-        "raw_text": "Apartamento Joinville - vila nova 📍 Joinville, SC R$ 224.131,44"
+        "raw_text": "Apartamento Joinville - vila nova 📍 Joinville, SC R$ 224.131,44",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2187787-joinville-vila-nova"
+        ]
       },
       "newly_discovered_at": "2026-10-19T10:18:38-03:00",
-      "source_listing_price_brl": 224131.44
+      "source_listing_price_brl": 224131.44,
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2187787-joinville-vila-nova"
+      ]
     },
     {
       "id": "36e1da71a680abb6162c",
@@ -5124,7 +5371,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:53-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5149,10 +5396,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2027072-direitos-aquisitivos-em-face-de-plaza-monet-incorporacao-spe-ltda-a-um-apartamen",
         "is_aggregator": true,
-        "raw_text": "Apartamento Direitos aquisitivos em face de plaza monet incorporação spe ltda- (a) um apartamento de n°1011, 10º pavimento, do residencial plaza monet e suas respectivas vagas de garagem. 📍 Joinville, SC R$ 2.733.922,36"
+        "raw_text": "Apartamento Direitos aquisitivos em face de plaza monet incorporação spe ltda- (a) um apartamento de n°1011, 10º pavimento, do residencial plaza monet e suas respectivas vagas de garagem. 📍 Joinville, SC R$ 2.733.922,36",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2027072-direitos-aquisitivos-em-face-de-plaza-monet-incorporacao-spe-ltda-a-um-apartamen"
+        ]
       },
       "source_listing_price_brl": 2733922.36,
-      "newly_discovered_at": "2026-10-17T23:23:53-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:53-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2027072-direitos-aquisitivos-em-face-de-plaza-monet-incorporacao-spe-ltda-a-um-apartamen"
+      ]
     },
     {
       "id": "3743d46db92caec2e2a1",
@@ -5280,7 +5533,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:56-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5305,10 +5558,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1785654-terreno-joinville-joinville-sc",
         "is_aggregator": true,
-        "raw_text": "Terreno Lote 3 📍 Joinville, SC R$ 30.000,00"
+        "raw_text": "Terreno Lote 3 📍 Joinville, SC R$ 30.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1785654-terreno-joinville-joinville-sc"
+        ]
       },
       "source_listing_price_brl": 30000.0,
-      "newly_discovered_at": "2026-10-17T23:23:56-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:56-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1785654-terreno-joinville-joinville-sc"
+      ]
     },
     {
       "id": "3cef7fc45e954d5fe069",
@@ -5367,7 +5626,7 @@
         "https://www.santanderimoveis.com.br/wp-content/uploads/2026/07/1785440605006.jpeg"
       ],
       "first_seen_at": "2026-10-17T23:16:31-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -5394,10 +5653,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/746520-apartamento-a-venda-na-rua-leopoldo-fischer-joinville-sc-codigo-02-26418",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento à venda na Rua Leopoldo Fischer - Joinville/SC Código: 02.26418 📍 Joinville, SC R$ 845.500,00"
+        "raw_text": "Apartamento Apartamento à venda na Rua Leopoldo Fischer - Joinville/SC Código: 02.26418 📍 Joinville, SC R$ 845.500,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/746520-apartamento-a-venda-na-rua-leopoldo-fischer-joinville-sc-codigo-02-26418"
+        ]
       },
       "source_listing_price_brl": 845500.0,
-      "newly_discovered_at": "2026-10-17T23:16:31-03:00"
+      "newly_discovered_at": "2026-10-17T23:16:31-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/746520-apartamento-a-venda-na-rua-leopoldo-fischer-joinville-sc-codigo-02-26418"
+      ]
     },
     {
       "id": "3d703895dc274004f79f",
@@ -5436,7 +5701,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:53-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5461,10 +5726,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/998960-apartamento-residencial-anita-garibaldi-2-vaga-s-de-garagem",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento, Residencial, Anita Garibaldi, 2 vaga(s) de garagem 📍 Joinville, SC R$ 945.880,00 3% OFF"
+        "raw_text": "Apartamento Apartamento, Residencial, Anita Garibaldi, 2 vaga(s) de garagem 📍 Joinville, SC R$ 945.880,00 3% OFF",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/998960-apartamento-residencial-anita-garibaldi-2-vaga-s-de-garagem"
+        ]
       },
       "source_listing_price_brl": 945880.0,
-      "newly_discovered_at": "2026-10-17T23:23:53-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:53-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/998960-apartamento-residencial-anita-garibaldi-2-vaga-s-de-garagem"
+      ]
     },
     {
       "id": "3e7c546840f530b417dc",
@@ -5518,7 +5789,7 @@
         "https://24e53253961aecf7.cdn.gocache.net/watermark/bens/0000086419/img-86419-6aa85abf0cb9f.jpg"
       ],
       "first_seen_at": "2026-10-17T23:23:56-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5543,10 +5814,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1785698-leilao-terreno-joinville-sc-1a-praca-03-11-2026-2a-praca-10-11-2026-r-6-785-000",
         "is_aggregator": true,
-        "raw_text": "Terreno Leilão Terreno Joinville/SC 1ª praça 03/11/2026 2ª praça 10/11/2026 R$ 6.785.000 Danielgarcia Leilõe 📍 Joinville, SC R$ 6.785.000,00"
+        "raw_text": "Terreno Leilão Terreno Joinville/SC 1ª praça 03/11/2026 2ª praça 10/11/2026 R$ 6.785.000 Danielgarcia Leilõe 📍 Joinville, SC R$ 6.785.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1785698-leilao-terreno-joinville-sc-1a-praca-03-11-2026-2a-praca-10-11-2026-r-6-785-000"
+        ]
       },
       "source_listing_price_brl": 6785000.0,
-      "newly_discovered_at": "2026-10-17T23:23:56-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:56-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1785698-leilao-terreno-joinville-sc-1a-praca-03-11-2026-2a-praca-10-11-2026-r-6-785-000"
+      ]
     },
     {
       "id": "41923e816374a11c1686",
@@ -5612,7 +5889,7 @@
         "https://hasta.com.br/foto/1942356/6.jpg"
       ],
       "first_seen_at": "2026-10-17T23:14:24-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -5639,10 +5916,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1942356-lote-4-terreno-com-1-214-37-m2-boa-vista-centro-joinville-sc",
         "is_aggregator": true,
-        "raw_text": "Terreno Lote 4: terreno com 1.214,37 m² - boa vista (centro) joinville sc 📍 Joinville, SC R$ 650.000,00"
+        "raw_text": "Terreno Lote 4: terreno com 1.214,37 m² - boa vista (centro) joinville sc 📍 Joinville, SC R$ 650.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1942356-lote-4-terreno-com-1-214-37-m2-boa-vista-centro-joinville-sc"
+        ]
       },
       "source_listing_price_brl": 650000.0,
-      "newly_discovered_at": "2026-10-17T23:14:24-03:00"
+      "newly_discovered_at": "2026-10-17T23:14:24-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1942356-lote-4-terreno-com-1-214-37-m2-boa-vista-centro-joinville-sc"
+      ]
     },
     {
       "id": "47bfd0b4b2820f41330b",
@@ -5721,7 +6004,7 @@
         "https://hasta.com.br/foto/2040725/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:46-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -5748,10 +6031,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2040725-rural-parque-guarani-joinville-sc",
         "is_aggregator": true,
-        "raw_text": "Imóvel rural Apartamento 📍 Joinville, SC R$ 228.000,00"
+        "raw_text": "Imóvel rural Apartamento 📍 Joinville, SC R$ 228.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2040725-rural-parque-guarani-joinville-sc"
+        ]
       },
       "source_listing_price_brl": 228000.0,
-      "newly_discovered_at": "2026-10-17T23:15:46-03:00"
+      "newly_discovered_at": "2026-10-17T23:15:46-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2040725-rural-parque-guarani-joinville-sc"
+      ]
     },
     {
       "id": "47eb0583306dd9a9ca1f",
@@ -5887,7 +6176,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:53-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5912,10 +6201,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/556980-joinville-zona-industrial-norte",
         "is_aggregator": true,
-        "raw_text": "Galpão Joinville - zona industrial norte 📍 Joinville, SC R$ 5.243.826,79 40% OFF"
+        "raw_text": "Galpão Joinville - zona industrial norte 📍 Joinville, SC R$ 5.243.826,79 40% OFF",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/556980-joinville-zona-industrial-norte"
+        ]
       },
       "source_listing_price_brl": 5243826.79,
-      "newly_discovered_at": "2026-10-17T23:23:53-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:53-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/556980-joinville-zona-industrial-norte"
+      ]
     },
     {
       "id": "49905dad427eb62e1d34",
@@ -5956,7 +6251,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/02/020617f20f9c7670a31a6fbd60b236d2dcf897b9ed16056c6f507fed3cd1ce2e.jpg"
       ],
       "first_seen_at": "2026-10-17T23:23:57-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5981,10 +6276,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1908551-imovel-situado-na-rua-otto-boehm-prolongamento-s-n-bairro-gloria-joinville-sc-te",
         "is_aggregator": true,
-        "raw_text": "Terreno Imóvel situado na Rua Otto Boehm (prolongamento), S/N - Bairro Glória,Joinville / SC - Terreno com área de 4.121,00m², sem benfeitorias. 📍 Joinville, SC R$ 1.700.710,00"
+        "raw_text": "Terreno Imóvel situado na Rua Otto Boehm (prolongamento), S/N - Bairro Glória,Joinville / SC - Terreno com área de 4.121,00m², sem benfeitorias. 📍 Joinville, SC R$ 1.700.710,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1908551-imovel-situado-na-rua-otto-boehm-prolongamento-s-n-bairro-gloria-joinville-sc-te"
+        ]
       },
       "source_listing_price_brl": 1700710.0,
-      "newly_discovered_at": "2026-10-17T23:23:57-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:57-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1908551-imovel-situado-na-rua-otto-boehm-prolongamento-s-n-bairro-gloria-joinville-sc-te"
+      ]
     },
     {
       "id": "4a3355ebca0acf959591",
@@ -6137,7 +6438,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:53-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6162,10 +6463,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1514941-grande-area-em-regiao-central-de-joinvile-ideal-para-logistica-incorporacoes",
         "is_aggregator": true,
-        "raw_text": "Terreno Grande área em região central de joinvile, ideal para logistica, incorporações 📍 Joinville, SC R$ 2.091.474,00 30% OFF"
+        "raw_text": "Terreno Grande área em região central de joinvile, ideal para logistica, incorporações 📍 Joinville, SC R$ 2.091.474,00 30% OFF",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1514941-grande-area-em-regiao-central-de-joinvile-ideal-para-logistica-incorporacoes"
+        ]
       },
       "source_listing_price_brl": 2091474.0,
-      "newly_discovered_at": "2026-10-17T23:23:53-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:53-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1514941-grande-area-em-regiao-central-de-joinvile-ideal-para-logistica-incorporacoes"
+      ]
     },
     {
       "id": "50a18739351cdd90ae96",
@@ -6204,7 +6511,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:53-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6229,10 +6536,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1946983-apartamento-saguacu-joinville-sc",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento 📍 Joinville, SC R$ 310.000,00"
+        "raw_text": "Apartamento Apartamento 📍 Joinville, SC R$ 310.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1946983-apartamento-saguacu-joinville-sc"
+        ]
       },
       "source_listing_price_brl": 310000.0,
-      "newly_discovered_at": "2026-10-17T23:23:53-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:53-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1946983-apartamento-saguacu-joinville-sc"
+      ]
     },
     {
       "id": "52adcbdce81e1039f400",
@@ -6283,7 +6596,7 @@
         "https://49150d03d11fa9b9.cdn.gocache.net/leiloes/000000-6a99bff9072b4.jpg"
       ],
       "first_seen_at": "2026-10-17T23:14:12-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -6310,10 +6623,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2091959-casa-no-bairro-gloria-em-joinville-sc-1o-leilao-04-11-2026-as-14-30-lance-inicia",
         "is_aggregator": true,
-        "raw_text": "Casa CASA NO BAIRRO GLÓRIA EM JOINVILLE/SC 1º Leilão: 04/11/2026 às 14:30 Lance Inicial R$ 1.580.433,02 2 📍 Joinville, SC R$ 1.580.433,02"
+        "raw_text": "Casa CASA NO BAIRRO GLÓRIA EM JOINVILLE/SC 1º Leilão: 04/11/2026 às 14:30 Lance Inicial R$ 1.580.433,02 2 📍 Joinville, SC R$ 1.580.433,02",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2091959-casa-no-bairro-gloria-em-joinville-sc-1o-leilao-04-11-2026-as-14-30-lance-inicia"
+        ]
       },
       "source_listing_price_brl": 1580433.02,
-      "newly_discovered_at": "2026-10-17T23:14:12-03:00"
+      "newly_discovered_at": "2026-10-17T23:14:12-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2091959-casa-no-bairro-gloria-em-joinville-sc-1o-leilao-04-11-2026-as-14-30-lance-inicia"
+      ]
     },
     {
       "id": "53ebef2c2ec3286d25da",
@@ -6371,7 +6690,7 @@
         "https://hasta.com.br/guias/analise-de-edital-e-matricula"
       ],
       "first_seen_at": "2026-10-17T22:06:30-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied"
@@ -6394,8 +6713,11 @@
       "provenance": {
         "source_id": "mega_leiloes",
         "captured_from": "https://www.megaleiloes.com.br/imoveis/terrenos-e-lotes/sc/joinville/terreno-391-m2-floresta-joinville-sc-x130445?utm_source=megaleiloes&utm_medium=link&utm_campaign=terreno-391-m2-floresta-joinville-sc-x130445&utm_term=X130445&utm_content=link",
-        "raw_text": "IMÓVEL DESOCUPADO R$ 260.000,00 5305 0 Terreno 391 m² - Floresta - Joinville - SC X130445 Joinville, SC ABERTO PARA LANCES Data: 20/10/2026 às 13:05 R$ 260.000,00 IR Explore por Categorias Pesquisa Avançada FAQ Entrar ou Criar conta Valor inicial R$ 260.000,00 Extrajudicial Leilão ML34972 Código Lote X130445 Número Lote LOTE 188 Visitas 5.306 Habilitados 167 Lances 0 Mega Leilões Imóveis Terrenos e Lotes Santa Catarina Joinville Terreno 391 m² - Floresta - Joinville - SC Navegue pelos lotes: Lote 1 Lote 2 Lote 3 Lote 4 Lote 5 Lote 6 Lote 7 Lote 8 Lote 9 Lote 10 Lote 11 Lote 12 Lote 13 Lote 14 Lote 15 Lote 16 Lote 17 Lote 18 Lote 19 Lote 20 Lote 21 Lote 22 Lote 23 Lote 24 Lote 25 Lote 26 Lote 27 Lote 28 Lote 29 Lote 30 Lote 31 Lote 32 Lote 33 Lote 34 Lote 35 Lote 36 Lote 37 Lote 38 Lote 39 Lote 40 Lote 41 Lote 42 Lote 43 Lote 44 Lote 45 Lote 46 Lote 47 Lote 48 Lote 49 Lote 50 Lote 51 Lote 52 Lote 53 Lote 54 Lote 55 Lote 56 Lote 57 Lote 58 Lote 59 Lote 60 Lote 61 Lote 62 Lote 63 Lote 64 Lote 65 Lote 66 Lote 67 Lote 68 Lote 69 Lote 70 Lote 71 Lote 72 Lote 73 Lote 74 Lote 75 Lote 76 Lote 77 Lote 78 Lote 79 Lote 80 Lote 81 Lote 82 Lote 83 Lote 84 Lote 85 Lote 86 Lote 87 Lote 88 Lote 89 Lote 90 Lote 91 Lote 92 Lote 93 Lote 94 Lote 95 Lote 96 Lote 97 Lote 98 Lote 99 Lote 100 Lote 101 Lote 102 Lote 103 Lote 104 Lote 105 Lote 106 Lote 107 Lote 108 Lote 109 Lote 110 Lote 111 Lote 112 Lote 113 Lote 114 Lote 115 Lote 116 Lote 117 Lote 118 Lote 119 Lote 120 Lote 121 Lote 122 Lote 123 Lote 124 Lote 125 Lote 126 Lote 127 Lote 128 Lote 129 Lote 130 Lote 131 Lote 132 Lote 133 Lote 134 Lote 135 Lote 136 Lote 137 Lote 138 Lote 139 Lote 140 Lote 141 Lote 142 Lote 143 Lote 144 Lote 145 Lote 146 Lote 147 Lote 148 Lote 149 Lote 150 Lote 151 Lote 152 Lote 153 Lote 154 Lote 155 Lote 156 Lote 157 Lote 158 Lote 159 Lote 160 Lote 161 Lote 162 Lote 163 Lote 164 Lote 165 Lote 166 Lote 167 Lote 168 Lote 169 Lote 170 Lote 171 Lote 172 Lote 173 Lote 174 Lote 175 Lote 176 Lote 177 Lote 178 Lote 179 Lote 180 Lote 181 Lote 182 Lote 183 Lote 184 Lote 185 Lote 186 Lote 187 Lote 188 Lote 189 Lote 190 Lote 191 Lote 192 Lote 193 Lote 194 Lote 195 Lote 196 Lote 197 Lote 198 Lote 199 Lote 200 Lote 201 Lote 202 Lote 203 Lote 204 IMÓVEL DESOCUPADO Localização Rua Mozart, 358, Floresta, Joinville, SC Comitente BANCO SANTANDER S.A. Leiloeiro Fernando José Cerello G. Pereira JUCESP Nº 844 - Leiloeiro oficial do Estado de São Paulo JUCEMG Nº 1192 - Leiloeiro oficial do Estado de Minas Gerais JUCEMAT Nº 73 - Leiloeiro oficial do Estado de Mato Grosso Valor de Avaliação R$ 342.000,00 ( Trezentos e quarenta e dois mil reais) . A descrição dos lotes é uma cópia fiel das informações fornecidas pelos cartórios, comitente ou outro órgão responsável pelo bem. O bem será vendido no estado em que se encontra conforme edital publicado. Reservamo-nos o direito de corrigir possíveis erros de digitação. Cumpre informar, que nos leilões Judiciais e de Falência, o procedimento do pós-arrematação, deve ser real",
-        "is_aggregator": false
+        "raw_text": "IMÓVEL DESOCUPADO R$ 260.000,00 5319 0 Terreno 391 m² - Floresta - Joinville - SC X130445 Joinville, SC ABERTO PARA LANCES Data: 20/10/2026 às 13:05 R$ 260.000,00 IR Explore por Categorias Pesquisa Avançada FAQ Entrar ou Criar conta Valor inicial R$ 260.000,00 Extrajudicial Leilão ML34972 Código Lote X130445 Número Lote LOTE 188 Visitas 5.320 Habilitados 168 Lances 0 Mega Leilões Imóveis Terrenos e Lotes Santa Catarina Joinville Terreno 391 m² - Floresta - Joinville - SC Navegue pelos lotes: Lote 1 Lote 2 Lote 3 Lote 4 Lote 5 Lote 6 Lote 7 Lote 8 Lote 9 Lote 10 Lote 11 Lote 12 Lote 13 Lote 14 Lote 15 Lote 16 Lote 17 Lote 18 Lote 19 Lote 20 Lote 21 Lote 22 Lote 23 Lote 24 Lote 25 Lote 26 Lote 27 Lote 28 Lote 29 Lote 30 Lote 31 Lote 32 Lote 33 Lote 34 Lote 35 Lote 36 Lote 37 Lote 38 Lote 39 Lote 40 Lote 41 Lote 42 Lote 43 Lote 44 Lote 45 Lote 46 Lote 47 Lote 48 Lote 49 Lote 50 Lote 51 Lote 52 Lote 53 Lote 54 Lote 55 Lote 56 Lote 57 Lote 58 Lote 59 Lote 60 Lote 61 Lote 62 Lote 63 Lote 64 Lote 65 Lote 66 Lote 67 Lote 68 Lote 69 Lote 70 Lote 71 Lote 72 Lote 73 Lote 74 Lote 75 Lote 76 Lote 77 Lote 78 Lote 79 Lote 80 Lote 81 Lote 82 Lote 83 Lote 84 Lote 85 Lote 86 Lote 87 Lote 88 Lote 89 Lote 90 Lote 91 Lote 92 Lote 93 Lote 94 Lote 95 Lote 96 Lote 97 Lote 98 Lote 99 Lote 100 Lote 101 Lote 102 Lote 103 Lote 104 Lote 105 Lote 106 Lote 107 Lote 108 Lote 109 Lote 110 Lote 111 Lote 112 Lote 113 Lote 114 Lote 115 Lote 116 Lote 117 Lote 118 Lote 119 Lote 120 Lote 121 Lote 122 Lote 123 Lote 124 Lote 125 Lote 126 Lote 127 Lote 128 Lote 129 Lote 130 Lote 131 Lote 132 Lote 133 Lote 134 Lote 135 Lote 136 Lote 137 Lote 138 Lote 139 Lote 140 Lote 141 Lote 142 Lote 143 Lote 144 Lote 145 Lote 146 Lote 147 Lote 148 Lote 149 Lote 150 Lote 151 Lote 152 Lote 153 Lote 154 Lote 155 Lote 156 Lote 157 Lote 158 Lote 159 Lote 160 Lote 161 Lote 162 Lote 163 Lote 164 Lote 165 Lote 166 Lote 167 Lote 168 Lote 169 Lote 170 Lote 171 Lote 172 Lote 173 Lote 174 Lote 175 Lote 176 Lote 177 Lote 178 Lote 179 Lote 180 Lote 181 Lote 182 Lote 183 Lote 184 Lote 185 Lote 186 Lote 187 Lote 188 Lote 189 Lote 190 Lote 191 Lote 192 Lote 193 Lote 194 Lote 195 Lote 196 Lote 197 Lote 198 Lote 199 Lote 200 Lote 201 Lote 202 Lote 203 Lote 204 IMÓVEL DESOCUPADO Localização Rua Mozart, 358, Floresta, Joinville, SC Comitente BANCO SANTANDER S.A. Leiloeiro Fernando José Cerello G. Pereira JUCESP Nº 844 - Leiloeiro oficial do Estado de São Paulo JUCEMG Nº 1192 - Leiloeiro oficial do Estado de Minas Gerais JUCEMAT Nº 73 - Leiloeiro oficial do Estado de Mato Grosso Valor de Avaliação R$ 342.000,00 ( Trezentos e quarenta e dois mil reais) . A descrição dos lotes é uma cópia fiel das informações fornecidas pelos cartórios, comitente ou outro órgão responsável pelo bem. O bem será vendido no estado em que se encontra conforme edital publicado. Reservamo-nos o direito de corrigir possíveis erros de digitação. Cumpre informar, que nos leilões Judiciais e de Falência, o procedimento do pós-arrematação, deve ser real",
+        "is_aggregator": false,
+        "source_listing_urls": [
+          "https://www.megaleiloes.com.br/imoveis/terrenos-e-lotes/sc/joinville/terreno-391-m2-floresta-joinville-sc-x130445?utm_source=megaleiloes&utm_medium=link&utm_campaign=terreno-391-m2-floresta-joinville-sc-x130445&utm_term=X130445&utm_content=link"
+        ]
       },
       "image_urls": [
         "https://cdn1.megaleiloes.com.br/batches/130445/54ab297692cb9cfad546c4eef1e818b2_670x380.jpg",
@@ -6411,7 +6733,10 @@
       "source_listing_url": "https://www.megaleiloes.com.br/imoveis/terrenos-e-lotes/sc/joinville/terreno-391-m2-floresta-joinville-sc-x130445?utm_source=megaleiloes&utm_medium=link&utm_campaign=terreno-391-m2-floresta-joinville-sc-x130445&utm_term=X130445&utm_content=link",
       "validation_status": "verified",
       "source_listing_price_brl": 260000.0,
-      "newly_discovered_at": "2026-10-17T22:06:30-03:00"
+      "newly_discovered_at": "2026-10-17T22:06:30-03:00",
+      "source_listing_urls": [
+        "https://www.megaleiloes.com.br/imoveis/terrenos-e-lotes/sc/joinville/terreno-391-m2-floresta-joinville-sc-x130445?utm_source=megaleiloes&utm_medium=link&utm_campaign=terreno-391-m2-floresta-joinville-sc-x130445&utm_term=X130445&utm_content=link"
+      ]
     },
     {
       "id": "54876b50bf5ea584a6dc",
@@ -6477,7 +6802,7 @@
         "https://imagens.portalzuk.com.br/mini/2026/10/b6ef026a062928dc338beeb1a8dc7f0e.jpg"
       ],
       "first_seen_at": "2026-10-17T23:14:13-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -6504,10 +6829,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2067943-casa-joinville-sc-vila-nova-rua-dos-portugueses-47",
         "is_aggregator": true,
-        "raw_text": "Casa Casa - Joinville / SC - Vila Nova Rua dos Portugueses, 47 📍 Joinville, SC R$ 806.270,10"
+        "raw_text": "Casa Casa - Joinville / SC - Vila Nova Rua dos Portugueses, 47 📍 Joinville, SC R$ 806.270,10",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2067943-casa-joinville-sc-vila-nova-rua-dos-portugueses-47"
+        ]
       },
       "source_listing_price_brl": 806270.1,
-      "newly_discovered_at": "2026-10-17T23:14:13-03:00"
+      "newly_discovered_at": "2026-10-17T23:14:13-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2067943-casa-joinville-sc-vila-nova-rua-dos-portugueses-47"
+      ]
     },
     {
       "id": "55e7b94db4e79aba95b3",
@@ -6546,7 +6877,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:54-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6571,10 +6902,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1506788-casa-nova-brasilia-joinville-sc",
         "is_aggregator": true,
-        "raw_text": "Casa Terreno 📍 Joinville, SC R$ 6.785.000,00"
+        "raw_text": "Casa Terreno 📍 Joinville, SC R$ 6.785.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1506788-casa-nova-brasilia-joinville-sc"
+        ]
       },
       "source_listing_price_brl": 6785000.0,
-      "newly_discovered_at": "2026-10-17T23:23:54-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:54-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1506788-casa-nova-brasilia-joinville-sc"
+      ]
     },
     {
       "id": "576333704e67aa225c69",
@@ -6817,7 +7154,7 @@
         "https://hasta.com.br/foto/2054133/8.jpg"
       ],
       "first_seen_at": "2026-10-17T23:12:22-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -6844,10 +7181,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2054133-terreno-2-826-25m2",
         "is_aggregator": true,
-        "raw_text": "Terreno Terreno - 2.826,25m² 📍 Joinville, SC R$ 4.200.000,00"
+        "raw_text": "Terreno Terreno - 2.826,25m² 📍 Joinville, SC R$ 4.200.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2054133-terreno-2-826-25m2"
+        ]
       },
       "source_listing_price_brl": 4200000.0,
-      "newly_discovered_at": "2026-10-17T23:12:22-03:00"
+      "newly_discovered_at": "2026-10-17T23:12:22-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2054133-terreno-2-826-25m2"
+      ]
     },
     {
       "id": "5b8f8c01a9dcdd95d58c",
@@ -6926,7 +7269,7 @@
         "https://hasta.com.br/foto/2040827/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:44-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -6953,10 +7296,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2040827-rural-vila-nova-joinville-sc",
         "is_aggregator": true,
-        "raw_text": "Imóvel rural Apartamento 📍 Joinville, SC R$ 205.000,00"
+        "raw_text": "Imóvel rural Apartamento 📍 Joinville, SC R$ 205.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2040827-rural-vila-nova-joinville-sc"
+        ]
       },
       "source_listing_price_brl": 205000.0,
-      "newly_discovered_at": "2026-10-17T23:15:44-03:00"
+      "newly_discovered_at": "2026-10-17T23:15:44-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2040827-rural-vila-nova-joinville-sc"
+      ]
     },
     {
       "id": "5be0ed88edba94809d8c",
@@ -7022,7 +7371,7 @@
         "https://imagens.portalzuk.com.br/mini/2026/10/af94758ad7f208b78ae8fce9362fa258.jpg"
       ],
       "first_seen_at": "2026-10-17T23:14:11-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -7049,10 +7398,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2122588-casa-joinville-sc-pirabeiraba-rua-presidente-vargas-146",
         "is_aggregator": true,
-        "raw_text": "Casa Casa - Joinville / SC - Pirabeiraba Rua Presidente Vargas, 146 📍 Joinville, SC R$ 2.074.088,87"
+        "raw_text": "Casa Casa - Joinville / SC - Pirabeiraba Rua Presidente Vargas, 146 📍 Joinville, SC R$ 2.074.088,87",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2122588-casa-joinville-sc-pirabeiraba-rua-presidente-vargas-146"
+        ]
       },
       "source_listing_price_brl": 2074088.87,
-      "newly_discovered_at": "2026-10-17T23:14:11-03:00"
+      "newly_discovered_at": "2026-10-17T23:14:11-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2122588-casa-joinville-sc-pirabeiraba-rua-presidente-vargas-146"
+      ]
     },
     {
       "id": "5f945cd668932337ba71",
@@ -7119,7 +7474,7 @@
         "https://hasta.com.br/foto/1588250/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:12:19-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -7146,10 +7501,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1588250-apartamento-parque-jardim-do-rouxinol",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento - Parque Jardim do Rouxinol 📍 Joinville, SC R$ 200.000,00"
+        "raw_text": "Apartamento Apartamento - Parque Jardim do Rouxinol 📍 Joinville, SC R$ 200.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1588250-apartamento-parque-jardim-do-rouxinol"
+        ]
       },
       "source_listing_price_brl": 200000.0,
-      "newly_discovered_at": "2026-10-17T23:12:19-03:00"
+      "newly_discovered_at": "2026-10-17T23:12:19-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1588250-apartamento-parque-jardim-do-rouxinol"
+      ]
     },
     {
       "id": "602eeaa9278501805877",
@@ -7209,7 +7570,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/17/17073eb89d43fc7660fab6a95f8542168413fc580c3b28d2bc6a43276278b2bc.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:53-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -7236,10 +7597,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1908555-imovel-situado-na-rua-dorothovio-do-nascimento-s-n-zona-industrialnorte-joinvill",
         "is_aggregator": true,
-        "raw_text": "Terreno Imóvel situado na Rua Dorothóvio do Nascimento, S/N - Zona IndustrialNorte, Joinville / SC - Terreno com área de 915,00m², sem benfeitorias. 📍 Joinville, SC R$ 354.190,00"
+        "raw_text": "Terreno Imóvel situado na Rua Dorothóvio do Nascimento, S/N - Zona IndustrialNorte, Joinville / SC - Terreno com área de 915,00m², sem benfeitorias. 📍 Joinville, SC R$ 354.190,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1908555-imovel-situado-na-rua-dorothovio-do-nascimento-s-n-zona-industrialnorte-joinvill"
+        ]
       },
       "source_listing_price_brl": 354190.0,
-      "newly_discovered_at": "2026-10-17T23:15:53-03:00"
+      "newly_discovered_at": "2026-10-17T23:15:53-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1908555-imovel-situado-na-rua-dorothovio-do-nascimento-s-n-zona-industrialnorte-joinvill"
+      ]
     },
     {
       "id": "60739d34f368032b17c7",
@@ -7280,7 +7647,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:53-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7305,10 +7672,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2027069-direitos-aquisitivos-em-face-de-plaza-monet-incorporacao-spe-ltda-a-um-apartamen",
         "is_aggregator": true,
-        "raw_text": "Apartamento Direitos aquisitivos em face de plaza monet incorporação spe ltda- (a) um apartamento de n°1112, 11º pavimento, do residencial plaza monet 📍 Joinville, SC R$ 2.207.516,43"
+        "raw_text": "Apartamento Direitos aquisitivos em face de plaza monet incorporação spe ltda- (a) um apartamento de n°1112, 11º pavimento, do residencial plaza monet 📍 Joinville, SC R$ 2.207.516,43",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2027069-direitos-aquisitivos-em-face-de-plaza-monet-incorporacao-spe-ltda-a-um-apartamen"
+        ]
       },
       "source_listing_price_brl": 2207516.43,
-      "newly_discovered_at": "2026-10-17T23:23:53-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:53-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2027069-direitos-aquisitivos-em-face-de-plaza-monet-incorporacao-spe-ltda-a-um-apartamen"
+      ]
     },
     {
       "id": "615afa871d57c63828f0",
@@ -7347,7 +7720,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:53-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7372,10 +7745,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1946982-apartamento-floresta-joinville-sc",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento 📍 Joinville, SC R$ 230.000,00"
+        "raw_text": "Apartamento Apartamento 📍 Joinville, SC R$ 230.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1946982-apartamento-floresta-joinville-sc"
+        ]
       },
       "source_listing_price_brl": 230000.0,
-      "newly_discovered_at": "2026-10-17T23:23:53-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:53-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1946982-apartamento-floresta-joinville-sc"
+      ]
     },
     {
       "id": "61de78297ab780ec9fc4",
@@ -7414,7 +7793,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:53-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7439,10 +7818,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1948256-res-vila-germanica-cj-res-bremen",
         "is_aggregator": true,
-        "raw_text": "Apartamento Res vila germanica cj res bremen 📍 Joinville, SC R$ 240.000,00"
+        "raw_text": "Apartamento Res vila germanica cj res bremen 📍 Joinville, SC R$ 240.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1948256-res-vila-germanica-cj-res-bremen"
+        ]
       },
       "source_listing_price_brl": 240000.0,
-      "newly_discovered_at": "2026-10-17T23:23:53-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:53-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1948256-res-vila-germanica-cj-res-bremen"
+      ]
     },
     {
       "id": "63b2a85588b7d4d1a3ca",
@@ -7596,7 +7981,7 @@
         "https://hasta.com.br/foto/999607/11.jpg"
       ],
       "first_seen_at": "2026-10-17T23:14:19-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -7623,10 +8008,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/999607-casa-residencial-gloria-3-dormitorio-s-1-vaga-s-de-garagem",
         "is_aggregator": true,
-        "raw_text": "Casa Casa, Residencial, Glória, 3 dormitório(s), 1 vaga(s) de garagem 📍 Joinville, SC R$ 840.000,00"
+        "raw_text": "Casa Casa, Residencial, Glória, 3 dormitório(s), 1 vaga(s) de garagem 📍 Joinville, SC R$ 840.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/999607-casa-residencial-gloria-3-dormitorio-s-1-vaga-s-de-garagem"
+        ]
       },
       "source_listing_price_brl": 840000.0,
-      "newly_discovered_at": "2026-10-17T23:14:19-03:00"
+      "newly_discovered_at": "2026-10-17T23:14:19-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/999607-casa-residencial-gloria-3-dormitorio-s-1-vaga-s-de-garagem"
+      ]
     },
     {
       "id": "6bcf0295ba37ddf2d809",
@@ -7665,7 +8056,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:54-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7690,10 +8081,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2120762-casa-vila-nova-joinville-sc",
         "is_aggregator": true,
-        "raw_text": "Casa Casa à venda em leilão 📍 Joinville, SC R$ 806.270,10"
+        "raw_text": "Casa Casa à venda em leilão 📍 Joinville, SC R$ 806.270,10",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2120762-casa-vila-nova-joinville-sc"
+        ]
       },
       "source_listing_price_brl": 806270.1,
-      "newly_discovered_at": "2026-10-17T23:23:54-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:54-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2120762-casa-vila-nova-joinville-sc"
+      ]
     },
     {
       "id": "6c51127bdc6209684202",
@@ -7854,7 +8251,7 @@
         "https://hasta.com.br/foto/1083652/3.jpg"
       ],
       "first_seen_at": "2026-10-17T23:16:20-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -7881,10 +8278,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1083652-apartamento-sc",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento 📍 Joinville, SC R$ 67.500,00"
+        "raw_text": "Apartamento Apartamento 📍 Joinville, SC R$ 67.500,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1083652-apartamento-sc"
+        ]
       },
       "source_listing_price_brl": 67500.0,
-      "newly_discovered_at": "2026-10-17T23:16:20-03:00"
+      "newly_discovered_at": "2026-10-17T23:16:20-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1083652-apartamento-sc"
+      ]
     },
     {
       "id": "728f24f934365455cf2d",
@@ -8048,7 +8451,7 @@
         "https://hasta.com.br/foto/2106472/6.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:17-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -8075,10 +8478,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2106472-imoveis-relacionados",
         "is_aggregator": true,
-        "raw_text": "Apartamento Imóveis relacionados 📍 Joinville, SC R$ 195.693,39"
+        "raw_text": "Apartamento Imóveis relacionados 📍 Joinville, SC R$ 195.693,39",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2106472-imoveis-relacionados"
+        ]
       },
       "source_listing_price_brl": 195693.39,
-      "newly_discovered_at": "2026-10-17T23:15:17-03:00"
+      "newly_discovered_at": "2026-10-17T23:15:17-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2106472-imoveis-relacionados"
+      ]
     },
     {
       "id": "77bc06edfe395ecb268b",
@@ -8117,7 +8526,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:53-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8142,10 +8551,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1508159-terreno-em-joinville-pirabeiraba-com-5-137-95m2-com-galpao-de-985-50m2-ideal-par",
         "is_aggregator": true,
-        "raw_text": "Terreno Terreno em joinville, pirabeiraba, com 5.137.95m2 com galpão de 985,50m2 ideal para industrias e logistica valor em 2a. praça: r$ 6.050.000,00 podendo ser à prazo. 50% 📍 Joinville, SC R$ 6.050.000,00 37% OFF"
+        "raw_text": "Terreno Terreno em joinville, pirabeiraba, com 5.137.95m2 com galpão de 985,50m2 ideal para industrias e logistica valor em 2a. praça: r$ 6.050.000,00 podendo ser à prazo. 50% 📍 Joinville, SC R$ 6.050.000,00 37% OFF",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1508159-terreno-em-joinville-pirabeiraba-com-5-137-95m2-com-galpao-de-985-50m2-ideal-par"
+        ]
       },
       "source_listing_price_brl": 6050000.0,
-      "newly_discovered_at": "2026-10-17T23:23:53-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:53-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1508159-terreno-em-joinville-pirabeiraba-com-5-137-95m2-com-galpao-de-985-50m2-ideal-par"
+      ]
     },
     {
       "id": "77c7d2b58a2ac581655c",
@@ -8211,7 +8626,7 @@
         "https://hasta.com.br/foto/1948254/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:14:54-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -8238,10 +8653,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1948254-res-porto-blumen",
         "is_aggregator": true,
-        "raw_text": "Apartamento Res porto blumen 📍 Joinville, SC R$ 299.562,75"
+        "raw_text": "Apartamento Res porto blumen 📍 Joinville, SC R$ 299.562,75",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1948254-res-porto-blumen"
+        ]
       },
       "source_listing_price_brl": 299562.75,
-      "newly_discovered_at": "2026-10-17T23:14:54-03:00"
+      "newly_discovered_at": "2026-10-17T23:14:54-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1948254-res-porto-blumen"
+      ]
     },
     {
       "id": "78b18e108f5c62b21ab3",
@@ -8303,7 +8724,7 @@
         "https://www.santanderimoveis.com.br/wp-content/uploads/2026/06/1780662847314.jpeg"
       ],
       "first_seen_at": "2026-10-17T23:16:34-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -8330,10 +8751,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/599926-casa-a-venda-na-rua-alfredo-max-frederico-volmann-joinville-sc-codigo-02-26822",
         "is_aggregator": true,
-        "raw_text": "Casa Casa à venda na Rua Alfredo Max Frederico Volmann - Joinville/SC Código: 02.26822 📍 Joinville, SC R$ 585.000,00"
+        "raw_text": "Casa Casa à venda na Rua Alfredo Max Frederico Volmann - Joinville/SC Código: 02.26822 📍 Joinville, SC R$ 585.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/599926-casa-a-venda-na-rua-alfredo-max-frederico-volmann-joinville-sc-codigo-02-26822"
+        ]
       },
       "source_listing_price_brl": 585000.0,
-      "newly_discovered_at": "2026-10-17T23:16:34-03:00"
+      "newly_discovered_at": "2026-10-17T23:16:34-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/599926-casa-a-venda-na-rua-alfredo-max-frederico-volmann-joinville-sc-codigo-02-26822"
+      ]
     },
     {
       "id": "790e340d3d32c038af02",
@@ -8407,7 +8834,7 @@
         "https://hasta.com.br/foto/1067948/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:16:22-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -8434,10 +8861,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1067948-2a-vara-federal-de-joinville-lote-001-id-3061",
         "is_aggregator": true,
-        "raw_text": "Terreno 2ª Vara Federal de Joinville - Lote 001 (ID 3061) 📍 Joinville, SC R$ 1.573.880,00"
+        "raw_text": "Terreno 2ª Vara Federal de Joinville - Lote 001 (ID 3061) 📍 Joinville, SC R$ 1.573.880,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1067948-2a-vara-federal-de-joinville-lote-001-id-3061"
+        ]
       },
       "source_listing_price_brl": 1573880.0,
-      "newly_discovered_at": "2026-10-17T23:16:22-03:00"
+      "newly_discovered_at": "2026-10-17T23:16:22-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1067948-2a-vara-federal-de-joinville-lote-001-id-3061"
+      ]
     },
     {
       "id": "7f5aba9095ff73a4a4f3",
@@ -8490,7 +8923,7 @@
         "https://hasta.com.br/foto/2092417/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:29-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -8517,10 +8950,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2092417-comprei-pgfn-imoveis-em-santa-catarina-lote-076-id-4294",
         "is_aggregator": true,
-        "raw_text": "Apartamento COMPREI/PGFN - IMÓVEIS EM SANTA CATARINA - Lote 076 (ID 4294) 📍 Joinville, SC R$ 610.000,00"
+        "raw_text": "Apartamento COMPREI/PGFN - IMÓVEIS EM SANTA CATARINA - Lote 076 (ID 4294) 📍 Joinville, SC R$ 610.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2092417-comprei-pgfn-imoveis-em-santa-catarina-lote-076-id-4294"
+        ]
       },
       "source_listing_price_brl": 610000.0,
-      "newly_discovered_at": "2026-10-17T23:15:29-03:00"
+      "newly_discovered_at": "2026-10-17T23:15:29-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2092417-comprei-pgfn-imoveis-em-santa-catarina-lote-076-id-4294"
+      ]
     },
     {
       "id": "806b3dcc57bd44aecdfc",
@@ -8597,7 +9036,7 @@
         "https://hasta.com.br/foto/2102540/11.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:25-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -8624,10 +9063,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2102540-lote-03-terreno-em-joinville-com-area-de-1-400m2",
         "is_aggregator": true,
-        "raw_text": "Casa LOTE 03: Terreno em Joinville com àrea de 1.400m² 📍 Joinville, SC R$ 873.890,00"
+        "raw_text": "Casa LOTE 03: Terreno em Joinville com àrea de 1.400m² 📍 Joinville, SC R$ 873.890,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2102540-lote-03-terreno-em-joinville-com-area-de-1-400m2"
+        ]
       },
       "source_listing_price_brl": 873890.0,
-      "newly_discovered_at": "2026-10-17T23:15:25-03:00"
+      "newly_discovered_at": "2026-10-17T23:15:25-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2102540-lote-03-terreno-em-joinville-com-area-de-1-400m2"
+      ]
     },
     {
       "id": "80dc8c82250e1a10d2ef",
@@ -8668,7 +9113,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:53-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8693,10 +9138,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2027070-direitos-aquisitivos-em-face-de-plaza-monet-incorporacao-spe-ltda-a-um-apartamen",
         "is_aggregator": true,
-        "raw_text": "Apartamento Direitos aquisitivos em face de plaza monet incorporação spe ltda- (a) um apartamento de n°1012, 10º pavimento, do residencial plaza monet e suas respectivas vagas de garagem. 📍 Joinville, SC R$ 2.242.212,19"
+        "raw_text": "Apartamento Direitos aquisitivos em face de plaza monet incorporação spe ltda- (a) um apartamento de n°1012, 10º pavimento, do residencial plaza monet e suas respectivas vagas de garagem. 📍 Joinville, SC R$ 2.242.212,19",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2027070-direitos-aquisitivos-em-face-de-plaza-monet-incorporacao-spe-ltda-a-um-apartamen"
+        ]
       },
       "source_listing_price_brl": 2242212.19,
-      "newly_discovered_at": "2026-10-17T23:23:53-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:53-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2027070-direitos-aquisitivos-em-face-de-plaza-monet-incorporacao-spe-ltda-a-um-apartamen"
+      ]
     },
     {
       "id": "81f30b402316acc37ba4",
@@ -8749,7 +9200,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/f4/f444e2260ed07c4a8c8eca9c3eabcce8844e61566984598a5bf74edc105217f6.jpg"
       ],
       "first_seen_at": "2026-10-17T23:13:41-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -8776,10 +9227,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1996455-judicial-leilao-judicial-apartamento-joinville-sc-1a-praca-17-12-2026-lance-mini",
         "is_aggregator": true,
-        "raw_text": "Apartamento Judicial Leilão judicial Apartamento Joinville/SC 1ª praça 17/12/2026 Lance mínimo R$ 103.726 avalia 📍 Joinville, SC R$ 103.725,57"
+        "raw_text": "Apartamento Judicial Leilão judicial Apartamento Joinville/SC 1ª praça 17/12/2026 Lance mínimo R$ 103.726 avalia 📍 Joinville, SC R$ 103.725,57",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1996455-judicial-leilao-judicial-apartamento-joinville-sc-1a-praca-17-12-2026-lance-mini"
+        ]
       },
       "source_listing_price_brl": 103726.0,
-      "newly_discovered_at": "2026-10-17T23:13:41-03:00"
+      "newly_discovered_at": "2026-10-17T23:13:41-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1996455-judicial-leilao-judicial-apartamento-joinville-sc-1a-praca-17-12-2026-lance-mini"
+      ]
     },
     {
       "id": "8254ac4ba8d517c3a39f",
@@ -8839,7 +9296,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/45/459348f6157496d295f416658bccfa75d867547a28ea599e10cfac034b3a03bc.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:54-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -8866,10 +9323,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1908554-imovel-situado-na-rua-leopoldo-beninca-s-n-bairro-vila-nova-joinville-sc-terreno",
         "is_aggregator": true,
-        "raw_text": "Terreno Imóvel situado na Rua Leopoldo Beninca, S/N - Bairro Vila Nova, Joinville /SC - Terreno com área de 511,12m², sem benfeitorias. 📍 Joinville, SC R$ 309.440,00"
+        "raw_text": "Terreno Imóvel situado na Rua Leopoldo Beninca, S/N - Bairro Vila Nova, Joinville /SC - Terreno com área de 511,12m², sem benfeitorias. 📍 Joinville, SC R$ 309.440,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1908554-imovel-situado-na-rua-leopoldo-beninca-s-n-bairro-vila-nova-joinville-sc-terreno"
+        ]
       },
       "source_listing_price_brl": 309440.0,
-      "newly_discovered_at": "2026-10-17T23:15:54-03:00"
+      "newly_discovered_at": "2026-10-17T23:15:54-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1908554-imovel-situado-na-rua-leopoldo-beninca-s-n-bairro-vila-nova-joinville-sc-terreno"
+      ]
     },
     {
       "id": "82c1d0cf0e700a8ba29d",
@@ -9083,7 +9546,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:54-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9108,10 +9571,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1949169-spazio-jardim-de-bari",
         "is_aggregator": true,
-        "raw_text": "Apartamento Spazio jardim de bari 📍 Joinville, SC R$ 190.031,00"
+        "raw_text": "Apartamento Spazio jardim de bari 📍 Joinville, SC R$ 190.031,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1949169-spazio-jardim-de-bari"
+        ]
       },
       "source_listing_price_brl": 190031.0,
-      "newly_discovered_at": "2026-10-17T23:23:54-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:54-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1949169-spazio-jardim-de-bari"
+      ]
     },
     {
       "id": "92e0eca528b25f82fef4",
@@ -9160,7 +9629,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/e3/e36fff1ce18f539f7f0aff5761e442c05aa9eab9910f6ec7e90247cc3acd97cd.jpg"
       ],
       "first_seen_at": "2026-10-20T09:08:58-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9178,15 +9647,22 @@
         "auction_events": "declared",
         "source_listing_price_brl": "declared",
         "official_url": "unverified",
-        "auctioneer": "unverified"
+        "auctioneer": "unverified",
+        "address": "unknown"
       },
       "provenance": {
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1914044-judicial-leilao-judicial-apartamento-joinville-sc-1a-praca-15-12-2026-lance-mini",
         "is_aggregator": true,
-        "raw_text": "Apartamento Judicial Leilão judicial Apartamento Joinville/SC 1ª praça 15/12/2026 Lance mínimo R$ 390.793 avalia 📍 Joinville, SC R$ 390.793,05"
+        "raw_text": "Apartamento Judicial Leilão judicial Apartamento Joinville/SC 1ª praça 15/12/2026 Lance mínimo R$ 390.793 avalia 📍 Joinville, SC R$ 390.793,05",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1914044-judicial-leilao-judicial-apartamento-joinville-sc-1a-praca-15-12-2026-lance-mini"
+        ]
       },
-      "newly_discovered_at": "2026-10-20T09:09:08-03:00"
+      "newly_discovered_at": "2026-10-20T09:09:08-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1914044-judicial-leilao-judicial-apartamento-joinville-sc-1a-praca-15-12-2026-lance-mini"
+      ]
     },
     {
       "id": "939f69693a255d11742d",
@@ -9225,7 +9701,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:53-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9250,10 +9726,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1504279-edif-res-e-comercial-perondi-villa-office",
         "is_aggregator": true,
-        "raw_text": "Apartamento Edif res e comercial perondi villa office 📍 Joinville, SC R$ 1.339.000,00"
+        "raw_text": "Apartamento Edif res e comercial perondi villa office 📍 Joinville, SC R$ 1.339.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1504279-edif-res-e-comercial-perondi-villa-office"
+        ]
       },
       "source_listing_price_brl": 1339000.0,
-      "newly_discovered_at": "2026-10-17T23:23:53-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:53-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1504279-edif-res-e-comercial-perondi-villa-office"
+      ]
     },
     {
       "id": "94dfd11010dbccbc09c7",
@@ -9292,7 +9774,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:54-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9317,10 +9799,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2124512-imoveis-residenciais-a-venda-em-leilao",
         "is_aggregator": true,
-        "raw_text": "Casa Imóveis - residenciais à venda em leilão 📍 Joinville, SC R$ 2.074.088,87"
+        "raw_text": "Casa Imóveis - residenciais à venda em leilão 📍 Joinville, SC R$ 2.074.088,87",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2124512-imoveis-residenciais-a-venda-em-leilao"
+        ]
       },
       "source_listing_price_brl": 2074088.87,
-      "newly_discovered_at": "2026-10-17T23:23:54-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:54-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2124512-imoveis-residenciais-a-venda-em-leilao"
+      ]
     },
     {
       "id": "96f9b57c16f1159141bc",
@@ -9359,7 +9847,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:56-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9384,10 +9872,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1967089-terreno-joinville-joinville-sc",
         "is_aggregator": true,
-        "raw_text": "Terreno Lote 8 📍 Joinville, SC R$ 23.681,60"
+        "raw_text": "Terreno Lote 8 📍 Joinville, SC R$ 23.681,60",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1967089-terreno-joinville-joinville-sc"
+        ]
       },
       "source_listing_price_brl": 23681.6,
-      "newly_discovered_at": "2026-10-17T23:23:56-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:56-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1967089-terreno-joinville-joinville-sc"
+      ]
     },
     {
       "id": "985f2b707643dc9e922e",
@@ -9439,7 +9933,7 @@
       "occupancy": "ocupado",
       "status": "unknown",
       "official_url": null,
-      "source_listing_url": "https://hasta.com.br/imovel/1676221-lote-02-terrno-em-joinville-com-area-de-408-52-m2",
+      "source_listing_url": "https://hasta.com.br/imovel/2102539-lote-02-terrno-em-joinville-com-area-de-408-52-m2",
       "validation_status": "nao_verificado",
       "edital_url": "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/docs/c4/c4a63b7b7f92eba38d51a4d62f09756b233ba5074f4f700831a9321b407ff4cd.pdf",
       "document_urls": [
@@ -9465,7 +9959,7 @@
         "https://hasta.com.br/foto/2102539/11.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:27-03:00",
-      "last_checked_at": "2026-10-19T13:45:41-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -9490,9 +9984,9 @@
       },
       "provenance": {
         "source_id": "hasta",
-        "captured_from": "https://hasta.com.br/imovel/1676221-lote-02-terrno-em-joinville-com-area-de-408-52-m2",
+        "captured_from": "https://hasta.com.br/imovel/2102539-lote-02-terrno-em-joinville-com-area-de-408-52-m2",
         "is_aggregator": true,
-        "raw_text": "Terreno Lote 02: terrno em joinville com área de 408,52 m² 📍 Joinville, SC R$ 194.312,00",
+        "raw_text": "Imóvel LOTE 02: Terrno em Joinville Com área de 408,52 m² 📍 Joinville, SC R$ 194.312,00",
         "source_listing_urls": [
           "https://hasta.com.br/imovel/2102539-lote-02-terrno-em-joinville-com-area-de-408-52-m2",
           "https://hasta.com.br/imovel/1676221-lote-02-terrno-em-joinville-com-area-de-408-52-m2"
@@ -9642,7 +10136,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/98/989e3a96fc3d683f0bc36357e77623c5cc244b1f3ffece861b6b917f7f54a753.webp"
       ],
       "first_seen_at": "2026-10-19T10:18:29-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9667,10 +10161,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2187424-apartamento-em-leilao-em-joinville-sc-3068734",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento em Leilão em Joinville / SC - 3068734 📍 Joinville, SC R$ 224.131,44"
+        "raw_text": "Apartamento Apartamento em Leilão em Joinville / SC - 3068734 📍 Joinville, SC R$ 224.131,44",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2187424-apartamento-em-leilao-em-joinville-sc-3068734"
+        ]
       },
       "newly_discovered_at": "2026-10-19T10:18:38-03:00",
-      "source_listing_price_brl": 224131.44
+      "source_listing_price_brl": 224131.44,
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2187424-apartamento-em-leilao-em-joinville-sc-3068734"
+      ]
     },
     {
       "id": "9dc442788404a27cb8cd",
@@ -9710,7 +10210,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-19T13:45:31-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9735,9 +10235,15 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1676590-terreno-na-zona-industrial-norte-contendo-4-285-50m2",
         "is_aggregator": true,
-        "raw_text": "Terreno Terreno na zona industrial norte contendo 4.285,50m² 📍 Joinville, SC R$ 4.400.000,00"
+        "raw_text": "Terreno Terreno na zona industrial norte contendo 4.285,50m² 📍 Joinville, SC R$ 4.400.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1676590-terreno-na-zona-industrial-norte-contendo-4-285-50m2"
+        ]
       },
-      "newly_discovered_at": "2026-10-19T13:45:41-03:00"
+      "newly_discovered_at": "2026-10-19T13:45:41-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1676590-terreno-na-zona-industrial-norte-contendo-4-285-50m2"
+      ]
     },
     {
       "id": "9e9adf7601901bcd97c8",
@@ -9893,7 +10399,7 @@
         "https://hasta.com.br/foto/819981/4.jpg"
       ],
       "first_seen_at": "2026-10-17T23:13:37-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -9920,10 +10426,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/819981-terreno-com-446-20m2-com-2-casas-de-alvenaria-uma-de-87-00m2-e-outra-com-31-17m2",
         "is_aggregator": true,
-        "raw_text": "Casa Terreno com 446,20m2 com 2 casas de alvenaria uma de 87,00m2 e outra com 31,17m2 em boa localização 📍 Joinville, SC R$ 532.182,74"
+        "raw_text": "Casa Terreno com 446,20m2 com 2 casas de alvenaria uma de 87,00m2 e outra com 31,17m2 em boa localização 📍 Joinville, SC R$ 532.182,74",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/819981-terreno-com-446-20m2-com-2-casas-de-alvenaria-uma-de-87-00m2-e-outra-com-31-17m2"
+        ]
       },
       "source_listing_price_brl": 532182.74,
-      "newly_discovered_at": "2026-10-17T23:13:37-03:00"
+      "newly_discovered_at": "2026-10-17T23:13:37-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/819981-terreno-com-446-20m2-com-2-casas-de-alvenaria-uma-de-87-00m2-e-outra-com-31-17m2"
+      ]
     },
     {
       "id": "a02bbe370b0c3000c241",
@@ -10203,7 +10715,7 @@
         "https://hasta.com.br/foto/2040828/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:43-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -10230,10 +10742,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2040828-rural-vila-nova-joinville-sc",
         "is_aggregator": true,
-        "raw_text": "Imóvel rural Apartamento 📍 Joinville, SC R$ 245.000,00"
+        "raw_text": "Imóvel rural Apartamento 📍 Joinville, SC R$ 245.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2040828-rural-vila-nova-joinville-sc"
+        ]
       },
       "source_listing_price_brl": 245000.0,
-      "newly_discovered_at": "2026-10-17T23:15:43-03:00"
+      "newly_discovered_at": "2026-10-17T23:15:43-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2040828-rural-vila-nova-joinville-sc"
+      ]
     },
     {
       "id": "a9218d3503939d4de8a3",
@@ -10272,7 +10790,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:56-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -10297,10 +10815,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1967090-terreno-joinville-joinville-sc",
         "is_aggregator": true,
-        "raw_text": "Terreno Lote 9 📍 Joinville, SC R$ 11.000,00"
+        "raw_text": "Terreno Lote 9 📍 Joinville, SC R$ 11.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1967090-terreno-joinville-joinville-sc"
+        ]
       },
       "source_listing_price_brl": 11000.0,
-      "newly_discovered_at": "2026-10-17T23:23:56-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:56-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1967090-terreno-joinville-joinville-sc"
+      ]
     },
     {
       "id": "ad2bf2d6c5e30dce8715",
@@ -10339,7 +10863,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:54-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -10364,10 +10888,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/150972-apartamento-itaum-joinville-sc",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento, 63,38 m2 de área privativa, 2 qts, va 📍 Joinville, SC R$ 300.000,00"
+        "raw_text": "Apartamento Apartamento, 63,38 m2 de área privativa, 2 qts, va 📍 Joinville, SC R$ 300.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/150972-apartamento-itaum-joinville-sc"
+        ]
       },
       "source_listing_price_brl": 300000.0,
-      "newly_discovered_at": "2026-10-17T23:23:54-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:54-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/150972-apartamento-itaum-joinville-sc"
+      ]
     },
     {
       "id": "ad3a4824c64d8543f946",
@@ -10508,7 +11038,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/ef/efc11344a54e348c006f18c21075b11825eee130822a3cc777be9d1091c574ad.jpg"
       ],
       "first_seen_at": "2026-10-17T23:23:57-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -10533,10 +11063,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1908556-imovel-situado-na-rua-tuiuti-s-n-bairro-zona-industrial-norte-joinville-sc-terre",
         "is_aggregator": true,
-        "raw_text": "Terreno Imóvel situado na Rua Tuiuti, S/N - Bairro Zona Industrial Norte, Joinville /SC - Terreno com área de 750,34m², sem benfeitorias. 📍 Joinville, SC R$ 355.660,00"
+        "raw_text": "Terreno Imóvel situado na Rua Tuiuti, S/N - Bairro Zona Industrial Norte, Joinville /SC - Terreno com área de 750,34m², sem benfeitorias. 📍 Joinville, SC R$ 355.660,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1908556-imovel-situado-na-rua-tuiuti-s-n-bairro-zona-industrial-norte-joinville-sc-terre"
+        ]
       },
       "source_listing_price_brl": 355660.0,
-      "newly_discovered_at": "2026-10-17T23:23:57-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:57-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1908556-imovel-situado-na-rua-tuiuti-s-n-bairro-zona-industrial-norte-joinville-sc-terre"
+      ]
     },
     {
       "id": "b742ee7238cba76f4544",
@@ -10577,7 +11113,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/c8/c85aa89342ed784e001ee9d3c27584030c4218360aa3e2837beb70fd53bea3d4.webp"
       ],
       "first_seen_at": "2026-10-17T23:23:56-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -10602,10 +11138,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2114365-apartamento-em-joinville-sc-2906674",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento em Joinville / SC - 2906674 📍 Joinville, SC R$ 945.880,00"
+        "raw_text": "Apartamento Apartamento em Joinville / SC - 2906674 📍 Joinville, SC R$ 945.880,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2114365-apartamento-em-joinville-sc-2906674"
+        ]
       },
       "source_listing_price_brl": 945880.0,
-      "newly_discovered_at": "2026-10-17T23:23:56-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:56-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2114365-apartamento-em-joinville-sc-2906674"
+      ]
     },
     {
       "id": "b8a5be2a704498ed207c",
@@ -10670,7 +11212,7 @@
         "https://hasta.com.br/foto/2152361/11.jpg"
       ],
       "first_seen_at": "2026-10-17T23:12:20-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -10697,10 +11239,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2152361-apartamento-residencial-anita-garibaldi-3-dormitorio-s-1-vaga-s-de-garagem",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento, Residencial, Anita Garibaldi, 3 dormitório(s), 1 vaga(s) de garagem 📍 Joinville, SC R$ 198.000,00 10% OFF"
+        "raw_text": "Apartamento Apartamento, Residencial, Anita Garibaldi, 3 dormitório(s), 1 vaga(s) de garagem 📍 Joinville, SC R$ 198.000,00 10% OFF",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2152361-apartamento-residencial-anita-garibaldi-3-dormitorio-s-1-vaga-s-de-garagem"
+        ]
       },
       "source_listing_price_brl": 198000.0,
-      "newly_discovered_at": "2026-10-17T23:12:20-03:00"
+      "newly_discovered_at": "2026-10-17T23:12:20-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2152361-apartamento-residencial-anita-garibaldi-3-dormitorio-s-1-vaga-s-de-garagem"
+      ]
     },
     {
       "id": "bc1078fcfc1296bf5ded",
@@ -10741,7 +11289,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/fb/fb3a05514f468d63a93f85eb36b225aa6cb708293060f2e5c27a56b86bdbd72a.jpg"
       ],
       "first_seen_at": "2026-10-17T23:23:57-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -10766,10 +11314,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1908549-imovel-situado-na-rua-juliano-moreira-s-n-bairro-boa-vista-joinville-sc-terreno",
         "is_aggregator": true,
-        "raw_text": "Terreno Imóvel situado na Rua Juliano Moreira, S/N - Bairro Boa Vista, Joinville /SC - Terreno com área de 280,00m², sem benfeitorias. 📍 Joinville, SC R$ 247.320,00"
+        "raw_text": "Terreno Imóvel situado na Rua Juliano Moreira, S/N - Bairro Boa Vista, Joinville /SC - Terreno com área de 280,00m², sem benfeitorias. 📍 Joinville, SC R$ 247.320,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1908549-imovel-situado-na-rua-juliano-moreira-s-n-bairro-boa-vista-joinville-sc-terreno"
+        ]
       },
       "source_listing_price_brl": 247320.0,
-      "newly_discovered_at": "2026-10-17T23:23:57-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:57-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1908549-imovel-situado-na-rua-juliano-moreira-s-n-bairro-boa-vista-joinville-sc-terreno"
+      ]
     },
     {
       "id": "bc11428240adb22000d2",
@@ -10829,7 +11383,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/1e/1e2e503ebd5aa80e5262e1026016ece3da0e6d26f75fc9d9a2d504391cbe1366.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:57-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -10856,10 +11410,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1908552-imovel-situado-na-rua-baercker-wagner-s-n-bairro-iririu-joinville-sc-terreno-com",
         "is_aggregator": true,
-        "raw_text": "Terreno Imóvel situado na Rua Baercker Wagner, S/N - Bairro Iririu, Joinville / SC -Terreno com área de 319,07m², sem benfeitorias. 📍 Joinville, SC R$ 240.170,00"
+        "raw_text": "Terreno Imóvel situado na Rua Baercker Wagner, S/N - Bairro Iririu, Joinville / SC -Terreno com área de 319,07m², sem benfeitorias. 📍 Joinville, SC R$ 240.170,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1908552-imovel-situado-na-rua-baercker-wagner-s-n-bairro-iririu-joinville-sc-terreno-com"
+        ]
       },
       "source_listing_price_brl": 240170.0,
-      "newly_discovered_at": "2026-10-17T23:15:57-03:00"
+      "newly_discovered_at": "2026-10-17T23:15:57-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1908552-imovel-situado-na-rua-baercker-wagner-s-n-bairro-iririu-joinville-sc-terreno-com"
+      ]
     },
     {
       "id": "bd5a9740c942b827ceff",
@@ -11119,7 +11679,7 @@
         "https://hasta.com.br/foto/1967088/10.jpg"
       ],
       "first_seen_at": "2026-10-17T23:14:33-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -11146,10 +11706,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1967088-terreno-joinville-joinville-sc",
         "is_aggregator": true,
-        "raw_text": "Terreno Lote 7 📍 Joinville, SC R$ 15.022,80"
+        "raw_text": "Terreno Lote 7 📍 Joinville, SC R$ 15.022,80",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1967088-terreno-joinville-joinville-sc"
+        ]
       },
       "source_listing_price_brl": 15022.8,
-      "newly_discovered_at": "2026-10-17T23:14:33-03:00"
+      "newly_discovered_at": "2026-10-17T23:14:33-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1967088-terreno-joinville-joinville-sc"
+      ]
     },
     {
       "id": "c295f3ec9fadf920d8dd",
@@ -11306,7 +11872,7 @@
         "https://imagens.portalzuk.com.br/mini/2026/09/74f1f0fe30d601a2e45e477feacaaad8.jpg"
       ],
       "first_seen_at": "2026-10-17T23:14:15-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -11333,10 +11899,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1720890-casa-joinville-sc-santa-catarina-rua-cidade-de-hiroshima-46",
         "is_aggregator": true,
-        "raw_text": "Casa Casa - Joinville / SC - Santa Catarina Rua Cidade de Hiroshima, 46 📍 Joinville, SC R$ 620.265,00"
+        "raw_text": "Casa Casa - Joinville / SC - Santa Catarina Rua Cidade de Hiroshima, 46 📍 Joinville, SC R$ 620.265,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1720890-casa-joinville-sc-santa-catarina-rua-cidade-de-hiroshima-46"
+        ]
       },
       "source_listing_price_brl": 620265.0,
-      "newly_discovered_at": "2026-10-17T23:14:15-03:00"
+      "newly_discovered_at": "2026-10-17T23:14:15-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1720890-casa-joinville-sc-santa-catarina-rua-cidade-de-hiroshima-46"
+      ]
     },
     {
       "id": "c8088d2985cd807f7bec",
@@ -11401,7 +11973,7 @@
         "https://hasta.com.br/foto/2106474/6.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:15-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -11428,10 +12000,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2106474-imoveis-relacionados",
         "is_aggregator": true,
-        "raw_text": "Apartamento Imóveis relacionados 📍 Joinville, SC R$ 217.666,00"
+        "raw_text": "Apartamento Imóveis relacionados 📍 Joinville, SC R$ 217.666,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2106474-imoveis-relacionados"
+        ]
       },
       "source_listing_price_brl": 217666.0,
-      "newly_discovered_at": "2026-10-17T23:15:15-03:00"
+      "newly_discovered_at": "2026-10-17T23:15:15-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2106474-imoveis-relacionados"
+      ]
     },
     {
       "id": "cae1376b667ec6ef2b2b",
@@ -11694,7 +12272,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/b3/b309d3294ba8088f97cbebf40724e640b6afa5dd5896a649f38124dfb8a24da5.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:59-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -11721,10 +12299,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1908550-imovel-situado-na-rua-otto-boehm-prolongamento-s-n-bairro-gloria-joinville-sc-te",
         "is_aggregator": true,
-        "raw_text": "Terreno Imóvel situado na Rua Otto Boehm (prolongamento), S/N - Bairro Glória,Joinville / SC - Terreno com área de 3.316,60m², sem benfeitorias. 📍 Joinville, SC R$ 1.604.270,00"
+        "raw_text": "Terreno Imóvel situado na Rua Otto Boehm (prolongamento), S/N - Bairro Glória,Joinville / SC - Terreno com área de 3.316,60m², sem benfeitorias. 📍 Joinville, SC R$ 1.604.270,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1908550-imovel-situado-na-rua-otto-boehm-prolongamento-s-n-bairro-gloria-joinville-sc-te"
+        ]
       },
       "source_listing_price_brl": 1604270.0,
-      "newly_discovered_at": "2026-10-17T23:15:59-03:00"
+      "newly_discovered_at": "2026-10-17T23:15:59-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1908550-imovel-situado-na-rua-otto-boehm-prolongamento-s-n-bairro-gloria-joinville-sc-te"
+      ]
     },
     {
       "id": "d19e9babe68a5fa2c479",
@@ -11784,7 +12368,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/ea/eac68aef6c8720aad92333f5bbd17653ee36aafda391c3129feb9688a89f3659.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:50-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -11811,10 +12395,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1908557-imovel-situado-na-rua-sao-paulo-s-n-bairro-floresta-joinville-sc-terreno-com-are",
         "is_aggregator": true,
-        "raw_text": "Terreno Imóvel situado na Rua São Paulo, S/N - Bairro Floresta, Joinville / SC -Terreno com área de 260,15m², sem benfeitorias. 📍 Joinville, SC R$ 235.750,00"
+        "raw_text": "Terreno Imóvel situado na Rua São Paulo, S/N - Bairro Floresta, Joinville / SC -Terreno com área de 260,15m², sem benfeitorias. 📍 Joinville, SC R$ 235.750,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1908557-imovel-situado-na-rua-sao-paulo-s-n-bairro-floresta-joinville-sc-terreno-com-are"
+        ]
       },
       "source_listing_price_brl": 235750.0,
-      "newly_discovered_at": "2026-10-17T23:15:50-03:00"
+      "newly_discovered_at": "2026-10-17T23:15:50-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1908557-imovel-situado-na-rua-sao-paulo-s-n-bairro-floresta-joinville-sc-terreno-com-are"
+      ]
     },
     {
       "id": "d25ba90f13d453aa64fe",
@@ -11880,7 +12470,7 @@
         "https://hasta.com.br/foto/999657/11.jpg"
       ],
       "first_seen_at": "2026-10-17T23:14:18-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -11907,10 +12497,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/999657-casa-residencial-3-dormitorio-s-2-vaga-s-de-garagem",
         "is_aggregator": true,
-        "raw_text": "Casa Casa, Residencial, 3 dormitório(s), 2 vaga(s) de garagem 📍 Joinville, SC R$ 490.000,00"
+        "raw_text": "Casa Casa, Residencial, 3 dormitório(s), 2 vaga(s) de garagem 📍 Joinville, SC R$ 490.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/999657-casa-residencial-3-dormitorio-s-2-vaga-s-de-garagem"
+        ]
       },
       "source_listing_price_brl": 490000.0,
-      "newly_discovered_at": "2026-10-17T23:14:18-03:00"
+      "newly_discovered_at": "2026-10-17T23:14:18-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/999657-casa-residencial-3-dormitorio-s-2-vaga-s-de-garagem"
+      ]
     },
     {
       "id": "d3344a31675898a6feaf",
@@ -11949,7 +12545,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:54-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -11974,10 +12570,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1514940-terreno-central-em-joinville-com-area-de-1-101-67-m2-e-area-construida-de-701m2",
         "is_aggregator": true,
-        "raw_text": "Casa Terreno central em joinville, com area de 1.101,67 m2 e area construida de 701m2, à rua: visconde de taunay, 555, bairro: atiradores. joinville 📍 Joinville, SC R$ 6.120.000,00"
+        "raw_text": "Casa Terreno central em joinville, com area de 1.101,67 m2 e area construida de 701m2, à rua: visconde de taunay, 555, bairro: atiradores. joinville 📍 Joinville, SC R$ 6.120.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1514940-terreno-central-em-joinville-com-area-de-1-101-67-m2-e-area-construida-de-701m2"
+        ]
       },
       "source_listing_price_brl": 6120000.0,
-      "newly_discovered_at": "2026-10-17T23:23:54-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:54-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1514940-terreno-central-em-joinville-com-area-de-1-101-67-m2-e-area-construida-de-701m2"
+      ]
     },
     {
       "id": "db7c5397dfa9ef34812e",
@@ -12087,16 +12689,16 @@
       "discount_on_appraisal_percent": 0.0,
       "auction_events": [
         {
-          "date": "2026-11-10",
-          "time": null,
-          "minimum_bid_brl": null,
-          "stage": "first"
-        },
-        {
           "date": "2024-11-18",
           "time": null,
           "minimum_bid_brl": 280000.0,
           "stage": "second"
+        },
+        {
+          "date": "2026-11-10",
+          "time": null,
+          "minimum_bid_brl": null,
+          "stage": "first"
         },
         {
           "date": "2026-11-10",
@@ -12131,7 +12733,7 @@
         "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grlkbn1ggqso/b/astavero/o/anexos/sampaio/6ab191ab4cf1962c5289c9c8/6ab191e3ab0be795d32c9339/foto_frontal_1-1790079901000.png"
       ],
       "first_seen_at": "2026-10-17T22:56:32-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown"
@@ -12152,13 +12754,19 @@
       "provenance": {
         "source_id": "sampaio",
         "captured_from": "https://sampaioleiloes.com.br/pregao/6ab191ab4cf1962c5289c9c8/6ab191e3ab0be795d32c9339",
-        "raw_text": "Apartamento em Joinville JOINVILLE - SC R$ 280.000,00 10/11/2026 ABERTO 1º LEILÃO home arrow_back Sampaio Leilões João Paulo Sampaio Damiani Leiloeiro Oficial JUCESC AARC-379 search account_circle more_vert ABERTO Oferta Data Valor Licitante Lote: ( 01 ) visibility VISITAS: 2716 APARTAMENTO EM JOINVILLE Valor: R$ 280.000,00 Escolha sua oferta: R$ 280.000,00 R$ 290.000,00 R$ 305.000,00 keyboard_arrow_up keyboard_arrow_down CONFIRMA Programar oferta: R$ 295.000,00 keyboard_arrow_up keyboard_arrow_down PROGRAMAR Vai para lote no pregão first_page keyboard_arrow_left keyboard_arrow_right last_page 1/1 01 Aberto Apartamento em Joinville Início: 10/11 10:00 Encerra a partir: 10/11 14:00 Valor avaliação: R$ 280.000,00 attach_file Edital attach_file Descrição do bem Favoritos star 01 (um) apartamento, matriculado sob o n.º 18.869, no Cartório do 3º Ofício do Registro de Imóveis da Comarca de Joinville (SC), correspondente à unidade n.º 03, 1º pavimento, bloco n.º 10 do Conjunto Residencial Campo Belo, situado na rua Padre Kolb, n.º 99, em Joinville (SC), medindo 97,26 m² de área real total, sendo 73,02 m² de área real privativa e 24,24 m² de área real de uso comum, inclusive uma vaga de garagem. Ônus: R-4 Hipoteca em favor da Caixa Econômica Federal – CEF. R-05 Penhora em favor de Condomínio Conjunto Residencial Campo Belo gravada nos autos nº 038.11.033310-9/001, da 2ª Vara Cível da Comarca de Joinville/SC. R-06 Penhora em favor da Caixa Econômica Federal – CEF gravada nos autos nº 5000054-66.2014.4.04.7201, da 2ª Vara Federal de Joinville/SC. Avaliação: R$ 280.000,00 (duzentos e oitenta mil reais), em 18/11/2024. Pagamento O pagamento do preço se dará no ato do leilão e por depósito bancário, em conta vinculada ao juízo, aberta para esse fim. Dados do leilão Disponibilidade: Aberto 1º Leilão: 10/11/2026 14:00 Local: Datas dos Leilões 1º Leilão: 10/11/2026 14:00 Valor leilão: R$ 280.000,00 2º Leilão: 17/11/2026 14:00 Valor leilão: R$ 252.000,00 placeLocal do leilao placeLocal do bem Dados do Processo Vara da Justiça: 8ª Vara Cível Da Comarca de Joinville Magistrado: DANIEL RADUNZ Processo: 5000538-16.2012.8.24.0038 Tipo de processo: Exequente: Condomínio Conjunto Residencial Campo Belo Executado: José de Fatima Caetano e Debora Cristina Izauro Caetano Depositário: José de Fatima Caetano e Debora Cristina Izauro Caetano Cidade/UF: Joinville/SC Endereço: rua Padre Kolb, n.º 99 - Visitação: Apenas de forma externa Retirada: Não se aplica signal_wifi_statusbar_4_barON mailAvisos de leilões attributionInstitucional arrow_upward",
-        "is_aggregator": false
+        "raw_text": "Apartamento em Joinville JOINVILLE - SC R$ 280.000,00 10/11/2026 ABERTO 1º LEILÃO home arrow_back Sampaio Leilões João Paulo Sampaio Damiani Leiloeiro Oficial JUCESC AARC-379 search account_circle more_vert ABERTO Oferta Data Valor Licitante Lote: ( 01 ) visibility VISITAS: 2725 APARTAMENTO EM JOINVILLE Valor: R$ 280.000,00 Escolha sua oferta: R$ 280.000,00 R$ 290.000,00 R$ 305.000,00 keyboard_arrow_up keyboard_arrow_down CONFIRMA Programar oferta: R$ 295.000,00 keyboard_arrow_up keyboard_arrow_down PROGRAMAR Vai para lote no pregão first_page keyboard_arrow_left keyboard_arrow_right last_page 1/1 01 Aberto Apartamento em Joinville Início: 10/11 10:00 Encerra a partir: 10/11 14:00 Valor avaliação: R$ 280.000,00 attach_file Edital attach_file Descrição do bem Favoritos star 01 (um) apartamento, matriculado sob o n.º 18.869, no Cartório do 3º Ofício do Registro de Imóveis da Comarca de Joinville (SC), correspondente à unidade n.º 03, 1º pavimento, bloco n.º 10 do Conjunto Residencial Campo Belo, situado na rua Padre Kolb, n.º 99, em Joinville (SC), medindo 97,26 m² de área real total, sendo 73,02 m² de área real privativa e 24,24 m² de área real de uso comum, inclusive uma vaga de garagem. Ônus: R-4 Hipoteca em favor da Caixa Econômica Federal – CEF. R-05 Penhora em favor de Condomínio Conjunto Residencial Campo Belo gravada nos autos nº 038.11.033310-9/001, da 2ª Vara Cível da Comarca de Joinville/SC. R-06 Penhora em favor da Caixa Econômica Federal – CEF gravada nos autos nº 5000054-66.2014.4.04.7201, da 2ª Vara Federal de Joinville/SC. Avaliação: R$ 280.000,00 (duzentos e oitenta mil reais), em 18/11/2024. Pagamento O pagamento do preço se dará no ato do leilão e por depósito bancário, em conta vinculada ao juízo, aberta para esse fim. Dados do leilão Disponibilidade: Aberto 1º Leilão: 10/11/2026 14:00 Local: Datas dos Leilões 1º Leilão: 10/11/2026 14:00 Valor leilão: R$ 280.000,00 2º Leilão: 17/11/2026 14:00 Valor leilão: R$ 252.000,00 placeLocal do leilao placeLocal do bem Dados do Processo Vara da Justiça: 8ª Vara Cível Da Comarca de Joinville Magistrado: DANIEL RADUNZ Processo: 5000538-16.2012.8.24.0038 Tipo de processo: Exequente: Condomínio Conjunto Residencial Campo Belo Executado: José de Fatima Caetano e Debora Cristina Izauro Caetano Depositário: José de Fatima Caetano e Debora Cristina Izauro Caetano Cidade/UF: Joinville/SC Endereço: rua Padre Kolb, n.º 99 - Visitação: Apenas de forma externa Retirada: Não se aplica signal_wifi_statusbar_4_barON mailAvisos de leilões attributionInstitucional arrow_upward",
+        "is_aggregator": false,
+        "source_listing_urls": [
+          "https://sampaioleiloes.com.br/pregao/6ab191ab4cf1962c5289c9c8/6ab191e3ab0be795d32c9339"
+        ]
       },
       "source_listing_url": "https://sampaioleiloes.com.br/pregao/6ab191ab4cf1962c5289c9c8/6ab191e3ab0be795d32c9339",
       "validation_status": "verified",
       "source_listing_price_brl": 280000.0,
-      "newly_discovered_at": "2026-10-17T22:56:32-03:00"
+      "newly_discovered_at": "2026-10-17T22:56:32-03:00",
+      "source_listing_urls": [
+        "https://sampaioleiloes.com.br/pregao/6ab191ab4cf1962c5289c9c8/6ab191e3ab0be795d32c9339"
+      ]
     },
     {
       "id": "dce6ecc1a29ec8363d67",
@@ -12221,7 +12829,7 @@
         "https://hasta.com.br/foto/2106473/6.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:16-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -12248,10 +12856,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2106473-imoveis-relacionados",
         "is_aggregator": true,
-        "raw_text": "Casa Imóveis relacionados 📍 Joinville, SC R$ 326.589,00"
+        "raw_text": "Casa Imóveis relacionados 📍 Joinville, SC R$ 326.589,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2106473-imoveis-relacionados"
+        ]
       },
       "source_listing_price_brl": 326589.0,
-      "newly_discovered_at": "2026-10-17T23:15:16-03:00"
+      "newly_discovered_at": "2026-10-17T23:15:16-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2106473-imoveis-relacionados"
+      ]
     },
     {
       "id": "e092c35e685383a8939e",
@@ -12514,7 +13128,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/5b/5b3f431a67529c56eff0308205acb18de8c05611f6162e34f0476cdc24a3a808.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:55-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -12541,10 +13155,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1908553-imovel-situado-na-rua-ouro-verde-s-n-bairro-saguacu-joinville-sc-terreno-com-are",
         "is_aggregator": true,
-        "raw_text": "Terreno Imóvel situado na Rua Ouro Verde, S/N - Bairro Saguaçu, Joinville / SC -Terreno com área de 450,19m², sem benfeitorias. 📍 Joinville, SC R$ 745.330,00"
+        "raw_text": "Terreno Imóvel situado na Rua Ouro Verde, S/N - Bairro Saguaçu, Joinville / SC -Terreno com área de 450,19m², sem benfeitorias. 📍 Joinville, SC R$ 745.330,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1908553-imovel-situado-na-rua-ouro-verde-s-n-bairro-saguacu-joinville-sc-terreno-com-are"
+        ]
       },
       "source_listing_price_brl": 745330.0,
-      "newly_discovered_at": "2026-10-17T23:15:55-03:00"
+      "newly_discovered_at": "2026-10-17T23:15:55-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1908553-imovel-situado-na-rua-ouro-verde-s-n-bairro-saguacu-joinville-sc-terreno-com-are"
+      ]
     },
     {
       "id": "e5871007a5ef1637126b",
@@ -12861,7 +13481,7 @@
         "https://imagens.portalzuk.com.br/detalhe/2026/09/017b1449be561de1eef0a2b11b2849b6.jpg"
       ],
       "first_seen_at": "2026-10-17T23:16:11-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -12888,10 +13508,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1463844-apartamento-joinville-sc-floresta-rua-princesa-mafalda-474",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento - Joinville / SC - Floresta Rua Princesa Mafalda, 474 📍 Joinville, SC R$ 183.906,89"
+        "raw_text": "Apartamento Apartamento - Joinville / SC - Floresta Rua Princesa Mafalda, 474 📍 Joinville, SC R$ 183.906,89",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1463844-apartamento-joinville-sc-floresta-rua-princesa-mafalda-474"
+        ]
       },
       "source_listing_price_brl": 183906.89,
-      "newly_discovered_at": "2026-10-17T23:16:11-03:00"
+      "newly_discovered_at": "2026-10-17T23:16:11-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1463844-apartamento-joinville-sc-floresta-rua-princesa-mafalda-474"
+      ]
     },
     {
       "id": "eaf55559b0be298a4827",
@@ -12959,7 +13585,7 @@
       ],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:16:03-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -12986,10 +13612,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1824929-joinville-sc-apartamento-53-49m2",
         "is_aggregator": true,
-        "raw_text": "🏠 Imóvel Joinville/SC: Apartamento 53,49m2 📍 Joinville, SC R$ 60.000,00"
+        "raw_text": "🏠 Imóvel Joinville/SC: Apartamento 53,49m2 📍 Joinville, SC R$ 60.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1824929-joinville-sc-apartamento-53-49m2"
+        ]
       },
       "source_listing_price_brl": 60000.0,
-      "newly_discovered_at": "2026-10-17T23:16:03-03:00"
+      "newly_discovered_at": "2026-10-17T23:16:03-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1824929-joinville-sc-apartamento-53-49m2"
+      ]
     },
     {
       "id": "eb79c4020ab8161c6a5a",
@@ -13046,7 +13678,7 @@
         "https://d107brv7xtbumz.cloudfront.net/50bd10c9-de4b-4007-853f-1f6aadb72530"
       ],
       "first_seen_at": "2026-10-17T23:05:19-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -13073,10 +13705,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/139143-apartamento-joinville-sc",
         "raw_text": "🏠 Apartamento Apartamento, 49.77 de área total, 43.03 de área privativa, 0.00 de área do terre 📍 Joinville, SC R$ 120.882,70 39% OFF",
-        "is_aggregator": true
+        "is_aggregator": true,
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/139143-apartamento-joinville-sc"
+        ]
       },
       "source_listing_price_brl": 120882.7,
-      "newly_discovered_at": "2026-10-17T23:05:19-03:00"
+      "newly_discovered_at": "2026-10-17T23:05:19-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/139143-apartamento-joinville-sc"
+      ]
     },
     {
       "id": "ebf801bda0ad846887a0",
@@ -13225,7 +13863,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/fb/fb7bb7c4f45bb108125de518af64615deccd75c5b0f975981f1cdeaa1843e9df.jpg"
       ],
       "first_seen_at": "2026-10-17T23:16:02-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -13252,10 +13890,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1908548-imovel-situado-na-rua-juliano-moreira-s-n-bairro-boa-vista-joinville-sc-terreno",
         "is_aggregator": true,
-        "raw_text": "Terreno Imóvel situado na Rua Juliano Moreira, S/N - Bairro Boa Vista, Joinville /SC - Terreno com área de 400,00m², sem benfeitorias. 📍 Joinville, SC R$ 445.630,00"
+        "raw_text": "Terreno Imóvel situado na Rua Juliano Moreira, S/N - Bairro Boa Vista, Joinville /SC - Terreno com área de 400,00m², sem benfeitorias. 📍 Joinville, SC R$ 445.630,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1908548-imovel-situado-na-rua-juliano-moreira-s-n-bairro-boa-vista-joinville-sc-terreno"
+        ]
       },
       "source_listing_price_brl": 445630.0,
-      "newly_discovered_at": "2026-10-17T23:16:02-03:00"
+      "newly_discovered_at": "2026-10-17T23:16:02-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1908548-imovel-situado-na-rua-juliano-moreira-s-n-bairro-boa-vista-joinville-sc-terreno"
+      ]
     },
     {
       "id": "f2a088071fd21ee8f010",
@@ -13334,7 +13978,7 @@
         "https://hasta.com.br/foto/2040925/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:42-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -13361,10 +14005,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2040925-rural-jarivatuba-joinville-sc",
         "is_aggregator": true,
-        "raw_text": "Imóvel rural Apartamento 📍 Joinville, SC R$ 170.000,00"
+        "raw_text": "Imóvel rural Apartamento 📍 Joinville, SC R$ 170.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2040925-rural-jarivatuba-joinville-sc"
+        ]
       },
       "source_listing_price_brl": 170000.0,
-      "newly_discovered_at": "2026-10-17T23:15:42-03:00"
+      "newly_discovered_at": "2026-10-17T23:15:42-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2040925-rural-jarivatuba-joinville-sc"
+      ]
     },
     {
       "id": "f455cfd98d008b452b0e",
@@ -13417,7 +14067,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/46/46ed7a026af136ba32bbcf6b8e9e2dfee55791f10c03f09e0af686216a8b34eb.jpg"
       ],
       "first_seen_at": "2026-10-17T23:13:55-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -13444,10 +14094,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1764631-leilao-apartamento-joinville-sc-1a-praca-23-10-2026-r-217-666-banco-do-brasil-an",
         "is_aggregator": true,
-        "raw_text": "Apartamento Leilão Apartamento Joinville/SC 1ª praça 23/10/2026 R$ 217.666 Banco do Brasil ↗ Anúncio oficial 👁 V 📍 Joinville, SC R$ 217.666,00"
+        "raw_text": "Apartamento Leilão Apartamento Joinville/SC 1ª praça 23/10/2026 R$ 217.666 Banco do Brasil ↗ Anúncio oficial 👁 V 📍 Joinville, SC R$ 217.666,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1764631-leilao-apartamento-joinville-sc-1a-praca-23-10-2026-r-217-666-banco-do-brasil-an"
+        ]
       },
       "source_listing_price_brl": 217666.0,
-      "newly_discovered_at": "2026-10-17T23:13:55-03:00"
+      "newly_discovered_at": "2026-10-17T23:13:55-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1764631-leilao-apartamento-joinville-sc-1a-praca-23-10-2026-r-217-666-banco-do-brasil-an"
+      ]
     },
     {
       "id": "f4e1c13a5ed19c4f3fc5",
@@ -13488,7 +14144,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:23:56-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -13513,10 +14169,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1109607-terreno-joinville-sc",
         "is_aggregator": true,
-        "raw_text": "🏠 Terreno Lote 010 📍 Joinville, SC R$ 850.000,00"
+        "raw_text": "🏠 Terreno Lote 010 📍 Joinville, SC R$ 850.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1109607-terreno-joinville-sc"
+        ]
       },
       "source_listing_price_brl": 850000.0,
-      "newly_discovered_at": "2026-10-17T23:23:56-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:56-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1109607-terreno-joinville-sc"
+      ]
     },
     {
       "id": "f734f7324b37784f6b99",
@@ -13569,7 +14231,7 @@
         "https://hasta.com.br/foto/1785653/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:14:37-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -13596,10 +14258,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1785653-terreno-joinville-joinville-sc",
         "is_aggregator": true,
-        "raw_text": "Terreno Lote 2 📍 Joinville, SC R$ 25.000,00"
+        "raw_text": "Terreno Lote 2 📍 Joinville, SC R$ 25.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1785653-terreno-joinville-joinville-sc"
+        ]
       },
       "source_listing_price_brl": 25000.0,
-      "newly_discovered_at": "2026-10-17T23:14:37-03:00"
+      "newly_discovered_at": "2026-10-17T23:14:37-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1785653-terreno-joinville-joinville-sc"
+      ]
     },
     {
       "id": "f746f542ac6c9f5afeff",
@@ -13640,7 +14308,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/af/af4bd205ad983f3b53105d99714a7c0a4fa2cfc3f1abdcd9f519ce648855a78f.jpg"
       ],
       "first_seen_at": "2026-10-17T23:23:56-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -13665,10 +14333,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2107963-apartamento-no-bairro-itinga-joinville-sc-so-leiloes",
         "is_aggregator": true,
-        "raw_text": "Imóvel rural APARTAMENTO NO BAIRRO ITINGA, JOINVILLE/SC - Só Leilões 📍 Joinville, SC R$ 67.500,00"
+        "raw_text": "Imóvel rural APARTAMENTO NO BAIRRO ITINGA, JOINVILLE/SC - Só Leilões 📍 Joinville, SC R$ 67.500,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2107963-apartamento-no-bairro-itinga-joinville-sc-so-leiloes"
+        ]
       },
       "source_listing_price_brl": 67500.0,
-      "newly_discovered_at": "2026-10-17T23:23:56-03:00"
+      "newly_discovered_at": "2026-10-17T23:23:56-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2107963-apartamento-no-bairro-itinga-joinville-sc-so-leiloes"
+      ]
     },
     {
       "id": "fb92334b71ba59283573",
@@ -13733,7 +14407,7 @@
         "https://hasta.com.br/foto/2106471/6.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:19-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -13760,10 +14434,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2106471-imoveis-relacionados",
         "is_aggregator": true,
-        "raw_text": "Apartamento Imóveis relacionados 📍 Joinville, SC R$ 229.600,00"
+        "raw_text": "Apartamento Imóveis relacionados 📍 Joinville, SC R$ 229.600,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2106471-imoveis-relacionados"
+        ]
       },
       "source_listing_price_brl": 229600.0,
-      "newly_discovered_at": "2026-10-17T23:15:19-03:00"
+      "newly_discovered_at": "2026-10-17T23:15:19-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2106471-imoveis-relacionados"
+      ]
     },
     {
       "id": "fe53f2e2adc1e7ab726a",
@@ -13829,7 +14509,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/70/70c6f12935bc2d26912edf94e38330909264d866f349eba72395ab002f670ccf.webp"
       ],
       "first_seen_at": "2026-10-17T23:15:11-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -13856,10 +14536,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2123226-apartamento-em-leilao-em-joinville-sc-3049029",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento em Leilão em Joinville / SC - 3049029 📍 Joinville, SC R$ 230.000,00"
+        "raw_text": "Apartamento Apartamento em Leilão em Joinville / SC - 3049029 📍 Joinville, SC R$ 230.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2123226-apartamento-em-leilao-em-joinville-sc-3049029"
+        ]
       },
       "source_listing_price_brl": 230000.0,
-      "newly_discovered_at": "2026-10-17T23:15:11-03:00"
+      "newly_discovered_at": "2026-10-17T23:15:11-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2123226-apartamento-em-leilao-em-joinville-sc-3049029"
+      ]
     },
     {
       "id": "fedc1e7a898c7b810295",
@@ -13919,7 +14605,7 @@
         "https://www.santanderimoveis.com.br/wp-content/uploads/2026/09/1788533080897.jpeg"
       ],
       "first_seen_at": "2026-10-17T23:16:16-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -13946,10 +14632,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1250563-lote-a-venda-na-rua-mozart-joinville-sc-codigo-02-27499",
         "is_aggregator": true,
-        "raw_text": "Imóvel Lote à venda na Rua Mozart - Joinville/SC Código: 02.27499 📍 Joinville, SC R$ 260.000,00"
+        "raw_text": "Imóvel Lote à venda na Rua Mozart - Joinville/SC Código: 02.27499 📍 Joinville, SC R$ 260.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1250563-lote-a-venda-na-rua-mozart-joinville-sc-codigo-02-27499"
+        ]
       },
       "source_listing_price_brl": 260000.0,
-      "newly_discovered_at": "2026-10-17T23:16:16-03:00"
+      "newly_discovered_at": "2026-10-17T23:16:16-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1250563-lote-a-venda-na-rua-mozart-joinville-sc-codigo-02-27499"
+      ]
     },
     {
       "id": "ff18263a712448f32f86",
@@ -14100,7 +14792,7 @@
         "https://www.santanderimoveis.com.br/wp-content/uploads/2026/04/1775572276222.jpeg"
       ],
       "first_seen_at": "2026-10-17T23:16:33-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -14127,10 +14819,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/600093-casa-a-venda-na-rua-gustavo-hoepfner-joinville-sc-codigo-02-26232",
         "is_aggregator": true,
-        "raw_text": "Casa Casa à venda na Rua Gustavo Hoepfner - Joinville/SC Código: 02.26232 📍 Joinville, SC R$ 1.238.000,00"
+        "raw_text": "Casa Casa à venda na Rua Gustavo Hoepfner - Joinville/SC Código: 02.26232 📍 Joinville, SC R$ 1.238.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/600093-casa-a-venda-na-rua-gustavo-hoepfner-joinville-sc-codigo-02-26232"
+        ]
       },
       "source_listing_price_brl": 1238000.0,
-      "newly_discovered_at": "2026-10-17T23:16:33-03:00"
+      "newly_discovered_at": "2026-10-17T23:16:33-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/600093-casa-a-venda-na-rua-gustavo-hoepfner-joinville-sc-codigo-02-26232"
+      ]
     },
     {
       "id": "0467a20555cfcec2fe46",
@@ -14196,7 +14894,7 @@
         "https://hasta.com.br/foto/1753653/6.jpg"
       ],
       "first_seen_at": "2026-10-17T23:18:20-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -14223,10 +14921,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1753653-1a-praca-lote-de-equips-escritorio-e-industriais",
         "is_aggregator": true,
-        "raw_text": "Terreno 1ª PRAÇA: LOTE DE EQUIPS ESCRITÓRIO E INDUSTRIAIS 📍 Rio do Sul, SC R$ 20.050,00"
+        "raw_text": "Terreno 1ª PRAÇA: LOTE DE EQUIPS ESCRITÓRIO E INDUSTRIAIS 📍 Rio do Sul, SC R$ 20.050,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1753653-1a-praca-lote-de-equips-escritorio-e-industriais"
+        ]
       },
       "source_listing_price_brl": 20050.0,
-      "newly_discovered_at": "2026-10-17T23:18:20-03:00"
+      "newly_discovered_at": "2026-10-17T23:18:20-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1753653-1a-praca-lote-de-equips-escritorio-e-industriais"
+      ]
     },
     {
       "id": "07e6be5f6dbbfef13cbb",
@@ -14482,7 +15186,7 @@
         "https://hasta.com.br/foto/1577545/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:18:36-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -14509,10 +15213,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1577545-judicial-on-line-comarca-de-rio-do-sul-lote-001-id-10006",
         "is_aggregator": true,
-        "raw_text": "Casa Judicial - On Line - Comarca de Rio do Sul - Lote 001 (ID 10006) 📍 Rio do Sul, SC R$ 220.000,00"
+        "raw_text": "Casa Judicial - On Line - Comarca de Rio do Sul - Lote 001 (ID 10006) 📍 Rio do Sul, SC R$ 220.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1577545-judicial-on-line-comarca-de-rio-do-sul-lote-001-id-10006"
+        ]
       },
       "source_listing_price_brl": 220000.0,
-      "newly_discovered_at": "2026-10-17T23:18:36-03:00"
+      "newly_discovered_at": "2026-10-17T23:18:36-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1577545-judicial-on-line-comarca-de-rio-do-sul-lote-001-id-10006"
+      ]
     },
     {
       "id": "3104bf899276fd7137e1",
@@ -14666,7 +15376,7 @@
         "https://hasta.com.br/foto/1755089/6.jpg"
       ],
       "first_seen_at": "2026-10-17T23:18:06-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -14693,10 +15403,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1755089-2a-praca-lote-de-equips-escritorio-e-industriais",
         "is_aggregator": true,
-        "raw_text": "Terreno 2ª PRAÇA: LOTE DE EQUIPS ESCRITÓRIO E INDUSTRIAIS 📍 Rio do Sul, SC R$ 10.025,00 50% OFF"
+        "raw_text": "Terreno 2ª PRAÇA: LOTE DE EQUIPS ESCRITÓRIO E INDUSTRIAIS 📍 Rio do Sul, SC R$ 10.025,00 50% OFF",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1755089-2a-praca-lote-de-equips-escritorio-e-industriais"
+        ]
       },
       "source_listing_price_brl": 10025.0,
-      "newly_discovered_at": "2026-10-17T23:18:06-03:00"
+      "newly_discovered_at": "2026-10-17T23:18:06-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1755089-2a-praca-lote-de-equips-escritorio-e-industriais"
+      ]
     },
     {
       "id": "4fce775e168123626657",
@@ -14784,7 +15500,7 @@
         "https://hasta.com.br/foto/1311441/0.jpg"
       ],
       "first_seen_at": "2026-10-17T23:18:47-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -14811,10 +15527,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1311441-judicial-on-line-comarca-de-rio-do-sul-lote-002-id-9928",
         "is_aggregator": true,
-        "raw_text": "Apartamento Judicial - On Line - Comarca de Rio do Sul - Lote 002 (ID 9928) 📍 Rio do Sul, SC R$ 50.595,18"
+        "raw_text": "Apartamento Judicial - On Line - Comarca de Rio do Sul - Lote 002 (ID 9928) 📍 Rio do Sul, SC R$ 50.595,18",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1311441-judicial-on-line-comarca-de-rio-do-sul-lote-002-id-9928"
+        ]
       },
       "source_listing_price_brl": 50595.18,
-      "newly_discovered_at": "2026-10-17T23:18:47-03:00"
+      "newly_discovered_at": "2026-10-17T23:18:47-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1311441-judicial-on-line-comarca-de-rio-do-sul-lote-002-id-9928"
+      ]
     },
     {
       "id": "634946a661cc12762b48",
@@ -14855,7 +15577,7 @@
         "https://ms.sbwebservices.net/photos/e7e665fe-7894-46bd-b2da-c582a16b098d.jpg"
       ],
       "first_seen_at": "2026-10-17T23:24:02-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -14880,10 +15602,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1518876-imovel-urbano-com-area-total-de-2-500-000-m2-em-rio-do-sul-sc",
         "is_aggregator": true,
-        "raw_text": "Casa IMÓVEL URBANO COM ÁREA TOTAL DE 2.500,000 m2- Em RIO DO SUL/SC 📍 Rio do Sul, SC R$ 500.000,00"
+        "raw_text": "Casa IMÓVEL URBANO COM ÁREA TOTAL DE 2.500,000 m2- Em RIO DO SUL/SC 📍 Rio do Sul, SC R$ 500.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1518876-imovel-urbano-com-area-total-de-2-500-000-m2-em-rio-do-sul-sc"
+        ]
       },
       "source_listing_price_brl": 500000.0,
-      "newly_discovered_at": "2026-10-17T23:24:02-03:00"
+      "newly_discovered_at": "2026-10-17T23:24:02-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1518876-imovel-urbano-com-area-total-de-2-500-000-m2-em-rio-do-sul-sc"
+      ]
     },
     {
       "id": "85305a6ce36a2edd49ba",
@@ -15037,7 +15765,7 @@
         "https://imagens.portalzuk.com.br/mini/2026/09/7ebe8dc031c06e9810c103f7e481730d.jpg"
       ],
       "first_seen_at": "2026-10-17T23:08:08-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -15064,10 +15792,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1596535-apartamento-rio-do-sul-sc-jardim-america-rua-prefeito-raulino-joao-rosar-356",
         "raw_text": "Apartamento Apartamento - Rio do Sul / SC - Jardim América Rua Prefeito Raulino João Rosar, 356 📍 Rio do Sul, SC R$ 739.818,00",
-        "is_aggregator": true
+        "is_aggregator": true,
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1596535-apartamento-rio-do-sul-sc-jardim-america-rua-prefeito-raulino-joao-rosar-356"
+        ]
       },
       "source_listing_price_brl": 739818.0,
-      "newly_discovered_at": "2026-10-17T23:08:08-03:00"
+      "newly_discovered_at": "2026-10-17T23:08:08-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1596535-apartamento-rio-do-sul-sc-jardim-america-rua-prefeito-raulino-joao-rosar-356"
+      ]
     },
     {
       "id": "97704f8a04c77d4e4cfb",
@@ -15147,7 +15881,7 @@
         "https://hasta.com.br/foto/1352938/11.jpg"
       ],
       "first_seen_at": "2026-10-17T23:08:09-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -15174,10 +15908,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1352938-dois-terrenos-total-330-00-m2",
         "raw_text": "Terreno Dois terrenos total 330,00 m² 📍 Rio do Sul, SC R$ 52.064,00",
-        "is_aggregator": true
+        "is_aggregator": true,
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1352938-dois-terrenos-total-330-00-m2"
+        ]
       },
       "source_listing_price_brl": 52064.0,
-      "newly_discovered_at": "2026-10-17T23:08:09-03:00"
+      "newly_discovered_at": "2026-10-17T23:08:09-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1352938-dois-terrenos-total-330-00-m2"
+      ]
     },
     {
       "id": "a1a57101047715a84ced",
@@ -15535,7 +16275,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/24/24052df3ebd3338b9f5867a5b77d36782d748fa4a10399a4dccdb334d96f2b0b.jpg"
       ],
       "first_seen_at": "2026-10-17T23:18:30-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -15562,10 +16302,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2092507-venda-direta-de-imovel-em-rio-do-sul-sc-1a-vara-civel-de-rio-do-sul-sc-lote-001",
         "is_aggregator": true,
-        "raw_text": "Casa Venda Direta de Imóvel em Rio do Sul/SC - 1ª Vara Cível de Rio do Sul/SC - Lote 001 (ID 15413) 📍 Rio do Sul, SC R$ 390.000,00"
+        "raw_text": "Casa Venda Direta de Imóvel em Rio do Sul/SC - 1ª Vara Cível de Rio do Sul/SC - Lote 001 (ID 15413) 📍 Rio do Sul, SC R$ 390.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2092507-venda-direta-de-imovel-em-rio-do-sul-sc-1a-vara-civel-de-rio-do-sul-sc-lote-001"
+        ]
       },
       "source_listing_price_brl": 390000.0,
-      "newly_discovered_at": "2026-10-17T23:18:30-03:00"
+      "newly_discovered_at": "2026-10-17T23:18:30-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2092507-venda-direta-de-imovel-em-rio-do-sul-sc-1a-vara-civel-de-rio-do-sul-sc-lote-001"
+      ]
     },
     {
       "id": "b880767e91a5af233522",
@@ -15633,7 +16379,7 @@
         "https://hasta.com.br/foto/1597363/1.jpg"
       ],
       "first_seen_at": "2026-10-17T23:18:24-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -15660,10 +16406,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1597363-terreno-rainha-rio-do-sul-sc",
         "is_aggregator": true,
-        "raw_text": "Terreno Terreno 📍 Rio do Sul, SC R$ 3.518.000,00"
+        "raw_text": "Terreno Terreno 📍 Rio do Sul, SC R$ 3.518.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1597363-terreno-rainha-rio-do-sul-sc"
+        ]
       },
       "source_listing_price_brl": 3518000.0,
-      "newly_discovered_at": "2026-10-17T23:18:24-03:00"
+      "newly_discovered_at": "2026-10-17T23:18:24-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1597363-terreno-rainha-rio-do-sul-sc"
+      ]
     },
     {
       "id": "de13120571b88c7b541d",
@@ -15702,7 +16454,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-10-17T23:24:02-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -15727,10 +16479,16 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1676890-apartamento-jardim-america-rio-do-sul-sc",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento à venda em leilão 📍 Rio do Sul, SC R$ 1.157.300,00"
+        "raw_text": "Apartamento Apartamento à venda em leilão 📍 Rio do Sul, SC R$ 1.157.300,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1676890-apartamento-jardim-america-rio-do-sul-sc"
+        ]
       },
       "source_listing_price_brl": 1157300.0,
-      "newly_discovered_at": "2026-10-17T23:24:02-03:00"
+      "newly_discovered_at": "2026-10-17T23:24:02-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1676890-apartamento-jardim-america-rio-do-sul-sc"
+      ]
     },
     {
       "id": "e2e0be6a8b341369956c",
@@ -15793,7 +16551,7 @@
         "https://imagens.portalzuk.com.br/mini/2026/10/5124ff3d92075e9a3badb830bef2340e.jpg"
       ],
       "first_seen_at": "2026-10-17T23:18:15-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-20T09:37:02-03:00",
       "classification": "A",
       "risk_flags": [
         "occupied",
@@ -15858,8 +16616,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.19,
-      "finished_at": "2026-10-20T09:07:34-03:00"
+      "duration_seconds": 1.26,
+      "finished_at": "2026-10-20T09:35:00-03:00"
     },
     {
       "source_id": "caixa",
@@ -15875,8 +16633,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 2.01,
-      "finished_at": "2026-10-20T09:07:36-03:00"
+      "duration_seconds": 1.94,
+      "finished_at": "2026-10-20T09:35:02-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -15892,9 +16650,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 6.19,
-      "finished_at": "2026-10-20T09:07:43-03:00",
-      "last_success_at": "2026-10-20T09:07:43-03:00"
+      "duration_seconds": 14.23,
+      "finished_at": "2026-10-20T09:35:17-03:00",
+      "last_success_at": "2026-10-20T09:35:17-03:00"
     },
     {
       "source_id": "superbid",
@@ -15910,8 +16668,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.06,
-      "finished_at": "2026-10-20T09:07:44-03:00"
+      "duration_seconds": 1.15,
+      "finished_at": "2026-10-20T09:35:18-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -15927,8 +16685,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.17,
-      "finished_at": "2026-10-20T09:07:45-03:00"
+      "duration_seconds": 1.26,
+      "finished_at": "2026-10-20T09:35:19-03:00"
     },
     {
       "source_id": "duarte",
@@ -15944,9 +16702,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 39.3,
-      "finished_at": "2026-10-20T09:08:24-03:00",
-      "last_success_at": "2026-10-20T09:08:24-03:00"
+      "duration_seconds": 46.39,
+      "finished_at": "2026-10-20T09:36:05-03:00",
+      "last_success_at": "2026-10-20T09:36:05-03:00"
     },
     {
       "source_id": "zampieri",
@@ -15962,9 +16720,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 7.05,
-      "finished_at": "2026-10-20T09:08:31-03:00",
-      "last_success_at": "2026-10-20T09:08:31-03:00"
+      "duration_seconds": 7.36,
+      "finished_at": "2026-10-20T09:36:13-03:00",
+      "last_success_at": "2026-10-20T09:36:13-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -15980,8 +16738,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.14,
-      "finished_at": "2026-10-20T09:08:33-03:00"
+      "duration_seconds": 1.31,
+      "finished_at": "2026-10-20T09:36:14-03:00"
     },
     {
       "source_id": "freitas",
@@ -15997,9 +16755,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 14.04,
-      "finished_at": "2026-10-20T09:08:47-03:00",
-      "last_success_at": "2026-10-20T09:08:47-03:00"
+      "duration_seconds": 15.3,
+      "finished_at": "2026-10-20T09:36:30-03:00",
+      "last_success_at": "2026-10-20T09:36:30-03:00"
     },
     {
       "source_id": "comprei",
@@ -16015,8 +16773,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.63,
-      "finished_at": "2026-10-20T09:08:48-03:00"
+      "duration_seconds": 1.81,
+      "finished_at": "2026-10-20T09:36:31-03:00"
     },
     {
       "source_id": "sampaio",
@@ -16032,9 +16790,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 5.17,
-      "finished_at": "2026-10-20T09:08:54-03:00",
-      "last_success_at": "2026-10-20T09:08:54-03:00"
+      "duration_seconds": 5.41,
+      "finished_at": "2026-10-20T09:36:37-03:00",
+      "last_success_at": "2026-10-20T09:36:37-03:00"
     },
     {
       "source_id": "machado",
@@ -16050,8 +16808,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.14,
-      "finished_at": "2026-10-20T09:08:55-03:00"
+      "duration_seconds": 1.23,
+      "finished_at": "2026-10-20T09:36:38-03:00"
     },
     {
       "source_id": "hasta",
@@ -16067,9 +16825,9 @@
         "Barra Velha": 3,
         "Rio do Sul": 11
       },
-      "duration_seconds": 13.19,
-      "finished_at": "2026-10-20T09:09:08-03:00",
-      "last_success_at": "2026-10-20T09:09:08-03:00"
+      "duration_seconds": 23.37,
+      "finished_at": "2026-10-20T09:37:02-03:00",
+      "last_success_at": "2026-10-20T09:37:02-03:00"
     }
   ]
 }
