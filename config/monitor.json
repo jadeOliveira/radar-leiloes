@@ -133,7 +133,8 @@
       "host": "hasta.com.br",
       "path_pattern": "/imovel/",
       "is_aggregator": true,
-      "skip_detail": true
+      "skip_detail": true,
+      "enrich_images": true
     }
   ]
 }

@@ -58,10 +58,11 @@ const isRealEstate = (property: Property) => {
 };
 
 function PropertyPhoto({ property }: { property: Property }) {
-  const [failed, setFailed] = useState(false);
-  const image = property.image_urls?.[0];
-  if (!image || failed) return <div className="property-image-placeholder"><House size={22} /><span>Foto não disponível</span></div>;
-  return <img className="property-image" src={image} alt={`Foto do imóvel em ${property.city}`} loading="lazy" onError={() => setFailed(true)} />;
+  const [attempt, setAttempt] = useState(0);
+  useEffect(() => setAttempt(0), [property.id, property.image_urls]);
+  const image = property.image_urls?.[attempt];
+  if (!image) return <div className="property-image-placeholder"><House size={22} /><span>Foto não disponível na fonte</span></div>;
+  return <img key={image} className="property-image" src={image} alt={`Foto do imóvel em ${property.city}`} loading="lazy" referrerPolicy="no-referrer" onError={() => setAttempt((current) => current + 1)} />;
 }
 
 export default function App() {

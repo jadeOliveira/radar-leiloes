@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T13:00:35-03:00",
+  "updated_at": "2026-10-20T13:43:01-03:00",
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -61,6 +61,7 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/1764623/0.jpg",
         "https://static.suporteleiloes.com.br/donizetteleiloescombr/bens/9082/arquivos/sl-bem-9082-6a2afec57fb46-6a2afec587497.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
@@ -136,6 +137,8 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/1822397/0.jpg",
+        "https://hasta.com.br/foto/1822397/1.jpg",
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/bd/bd91a19f16601c12c3097b1c919fe9e6af3823ae7e33ade7f2f880b771f5da2b.png"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
@@ -210,7 +213,11 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1428238/0.jpg",
+        "https://hasta.com.br/foto/1428238/1.jpg",
+        "https://hasta.com.br/foto/1428238/2.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -283,7 +290,16 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1230780/0.jpg",
+        "https://hasta.com.br/foto/1230780/1.jpg",
+        "https://hasta.com.br/foto/1230780/2.jpg",
+        "https://hasta.com.br/foto/1230780/3.jpg",
+        "https://hasta.com.br/foto/1230780/4.jpg",
+        "https://hasta.com.br/foto/1230780/5.jpg",
+        "https://hasta.com.br/foto/1230780/6.jpg",
+        "https://hasta.com.br/foto/1230780/7.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -356,7 +372,20 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1001679/0.jpg",
+        "https://hasta.com.br/foto/1001679/1.jpg",
+        "https://hasta.com.br/foto/1001679/2.jpg",
+        "https://hasta.com.br/foto/1001679/3.jpg",
+        "https://hasta.com.br/foto/1001679/4.jpg",
+        "https://hasta.com.br/foto/1001679/5.jpg",
+        "https://hasta.com.br/foto/1001679/6.jpg",
+        "https://hasta.com.br/foto/1001679/7.jpg",
+        "https://hasta.com.br/foto/1001679/8.jpg",
+        "https://hasta.com.br/foto/1001679/9.jpg",
+        "https://hasta.com.br/foto/1001679/10.jpg",
+        "https://hasta.com.br/foto/1001679/11.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -429,7 +458,12 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2025919/0.jpg",
+        "https://hasta.com.br/foto/2025919/1.jpg",
+        "https://hasta.com.br/foto/2025919/2.jpg",
+        "https://hasta.com.br/foto/2025919/3.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -505,6 +539,14 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/1083274/0.jpg",
+        "https://hasta.com.br/foto/1083274/1.jpg",
+        "https://hasta.com.br/foto/1083274/2.jpg",
+        "https://hasta.com.br/foto/1083274/3.jpg",
+        "https://hasta.com.br/foto/1083274/4.jpg",
+        "https://hasta.com.br/foto/1083274/5.jpg",
+        "https://hasta.com.br/foto/1083274/6.jpg",
+        "https://hasta.com.br/foto/1083274/7.jpg",
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/c7/c7bc5fc6cc1195f62ca4d36ad3327d1ef8fc332119c5a83708493f33f9dc0400.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
@@ -587,6 +629,12 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/1967354/0.jpg",
+        "https://hasta.com.br/foto/1967354/1.jpg",
+        "https://hasta.com.br/foto/1967354/2.jpg",
+        "https://hasta.com.br/foto/1967354/3.jpg",
+        "https://hasta.com.br/foto/1967354/4.jpg",
+        "https://hasta.com.br/foto/1967354/5.jpg",
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/44/44bcb6723b31d6b0d4106694b9caf04cdaa3fa6a30115128cf374fb85f688a60.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
@@ -661,7 +709,10 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1942348/0.jpg",
+        "https://hasta.com.br/foto/1942348/1.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -734,7 +785,10 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2193840/0.jpg",
+        "https://hasta.com.br/foto/2193840/1.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -809,7 +863,13 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1943341/0.jpg",
+        "https://hasta.com.br/foto/1943341/1.jpg",
+        "https://hasta.com.br/foto/1943341/2.jpg",
+        "https://hasta.com.br/foto/1943341/3.jpg",
+        "https://hasta.com.br/foto/1943341/4.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -884,7 +944,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2092415/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -957,7 +1019,10 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1805694/0.jpg",
+        "https://hasta.com.br/foto/1805694/1.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -1030,7 +1095,10 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1507910/0.jpg",
+        "https://hasta.com.br/foto/1507910/1.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -1103,7 +1171,20 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1001567/0.jpg",
+        "https://hasta.com.br/foto/1001567/1.jpg",
+        "https://hasta.com.br/foto/1001567/2.jpg",
+        "https://hasta.com.br/foto/1001567/3.jpg",
+        "https://hasta.com.br/foto/1001567/4.jpg",
+        "https://hasta.com.br/foto/1001567/5.jpg",
+        "https://hasta.com.br/foto/1001567/6.jpg",
+        "https://hasta.com.br/foto/1001567/7.jpg",
+        "https://hasta.com.br/foto/1001567/8.jpg",
+        "https://hasta.com.br/foto/1001567/9.jpg",
+        "https://hasta.com.br/foto/1001567/10.jpg",
+        "https://hasta.com.br/foto/1001567/11.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -1176,7 +1257,9 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/395336/0.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -1252,6 +1335,7 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
+        "https://hasta.com.br/foto/788478/0.jpg",
         "https://www.santanderimoveis.com.br/wp-content/uploads/2026/08/1785954893959.jpeg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
@@ -1326,7 +1410,20 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/999010/0.jpg",
+        "https://hasta.com.br/foto/999010/1.jpg",
+        "https://hasta.com.br/foto/999010/2.jpg",
+        "https://hasta.com.br/foto/999010/3.jpg",
+        "https://hasta.com.br/foto/999010/4.jpg",
+        "https://hasta.com.br/foto/999010/5.jpg",
+        "https://hasta.com.br/foto/999010/6.jpg",
+        "https://hasta.com.br/foto/999010/7.jpg",
+        "https://hasta.com.br/foto/999010/8.jpg",
+        "https://hasta.com.br/foto/999010/9.jpg",
+        "https://hasta.com.br/foto/999010/10.jpg",
+        "https://hasta.com.br/foto/999010/11.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -1400,7 +1497,11 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1273929/0.jpg",
+        "https://hasta.com.br/foto/1273929/1.jpg",
+        "https://hasta.com.br/foto/1273929/2.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -1474,7 +1575,20 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1001548/0.jpg",
+        "https://hasta.com.br/foto/1001548/1.jpg",
+        "https://hasta.com.br/foto/1001548/2.jpg",
+        "https://hasta.com.br/foto/1001548/3.jpg",
+        "https://hasta.com.br/foto/1001548/4.jpg",
+        "https://hasta.com.br/foto/1001548/5.jpg",
+        "https://hasta.com.br/foto/1001548/6.jpg",
+        "https://hasta.com.br/foto/1001548/7.jpg",
+        "https://hasta.com.br/foto/1001548/8.jpg",
+        "https://hasta.com.br/foto/1001548/9.jpg",
+        "https://hasta.com.br/foto/1001548/10.jpg",
+        "https://hasta.com.br/foto/1001548/11.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
@@ -1547,7 +1661,20 @@
       "validation_status": "nao_verificado",
       "edital_url": null,
       "document_urls": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/905194/0.jpg",
+        "https://hasta.com.br/foto/905194/1.jpg",
+        "https://hasta.com.br/foto/905194/2.jpg",
+        "https://hasta.com.br/foto/905194/3.jpg",
+        "https://hasta.com.br/foto/905194/4.jpg",
+        "https://hasta.com.br/foto/905194/5.jpg",
+        "https://hasta.com.br/foto/905194/6.jpg",
+        "https://hasta.com.br/foto/905194/7.jpg",
+        "https://hasta.com.br/foto/905194/8.jpg",
+        "https://hasta.com.br/foto/905194/9.jpg",
+        "https://hasta.com.br/foto/905194/10.jpg",
+        "https://hasta.com.br/foto/905194/11.jpg"
+      ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
       "last_checked_at": "2026-10-20T13:00:35-03:00",
       "classification": "B",
