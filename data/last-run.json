@@ -1,9 +1,9 @@
 {
-  "run_id": "87dbfa43-ca9d-4d9c-aac4-a3d4ee581c6c",
+  "run_id": "0ddaf3ef-ae78-4342-8662-d997e3522a80",
   "status": "partial",
-  "started_at": "2026-10-20T10:17:13-03:00",
-  "finished_at": "2026-10-20T10:18:55-03:00",
-  "duration_seconds": 102.45,
+  "started_at": "2026-10-20T12:35:33-03:00",
+  "finished_at": "2026-10-20T12:40:44-03:00",
+  "duration_seconds": 310.62,
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -27,8 +27,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.15,
-      "finished_at": "2026-10-20T10:17:14-03:00"
+      "duration_seconds": 1.26,
+      "finished_at": "2026-10-20T12:35:35-03:00"
     },
     {
       "source_id": "caixa",
@@ -44,8 +44,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.81,
-      "finished_at": "2026-10-20T10:17:16-03:00"
+      "duration_seconds": 4.09,
+      "finished_at": "2026-10-20T12:35:39-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -61,9 +61,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 5.45,
-      "finished_at": "2026-10-20T10:17:22-03:00",
-      "last_success_at": "2026-10-20T10:17:22-03:00"
+      "duration_seconds": 6.93,
+      "finished_at": "2026-10-20T12:35:46-03:00",
+      "last_success_at": "2026-10-20T12:35:46-03:00"
     },
     {
       "source_id": "superbid",
@@ -79,8 +79,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.03,
-      "finished_at": "2026-10-20T10:17:23-03:00"
+      "duration_seconds": 1.07,
+      "finished_at": "2026-10-20T12:35:47-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -96,8 +96,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.17,
-      "finished_at": "2026-10-20T10:17:24-03:00"
+      "duration_seconds": 1.25,
+      "finished_at": "2026-10-20T12:35:48-03:00"
     },
     {
       "source_id": "duarte",
@@ -113,9 +113,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 40.34,
-      "finished_at": "2026-10-20T10:18:04-03:00",
-      "last_success_at": "2026-10-20T10:18:04-03:00"
+      "duration_seconds": 49.13,
+      "finished_at": "2026-10-20T12:36:38-03:00",
+      "last_success_at": "2026-10-20T12:36:38-03:00"
     },
     {
       "source_id": "zampieri",
@@ -131,9 +131,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 7.16,
-      "finished_at": "2026-10-20T10:18:12-03:00",
-      "last_success_at": "2026-10-20T10:18:12-03:00"
+      "duration_seconds": 7.44,
+      "finished_at": "2026-10-20T12:36:45-03:00",
+      "last_success_at": "2026-10-20T12:36:45-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -149,8 +149,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.19,
-      "finished_at": "2026-10-20T10:18:13-03:00"
+      "duration_seconds": 1.2,
+      "finished_at": "2026-10-20T12:36:46-03:00"
     },
     {
       "source_id": "freitas",
@@ -166,9 +166,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 15.34,
-      "finished_at": "2026-10-20T10:18:28-03:00",
-      "last_success_at": "2026-10-20T10:18:28-03:00"
+      "duration_seconds": 15.94,
+      "finished_at": "2026-10-20T12:37:02-03:00",
+      "last_success_at": "2026-10-20T12:37:02-03:00"
     },
     {
       "source_id": "comprei",
@@ -184,8 +184,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.64,
-      "finished_at": "2026-10-20T10:18:30-03:00"
+      "duration_seconds": 1.9,
+      "finished_at": "2026-10-20T12:37:04-03:00"
     },
     {
       "source_id": "sampaio",
@@ -201,9 +201,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 5.34,
-      "finished_at": "2026-10-20T10:18:35-03:00",
-      "last_success_at": "2026-10-20T10:18:35-03:00"
+      "duration_seconds": 5.56,
+      "finished_at": "2026-10-20T12:37:10-03:00",
+      "last_success_at": "2026-10-20T12:37:10-03:00"
     },
     {
       "source_id": "machado",
@@ -219,44 +219,40 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.18,
-      "finished_at": "2026-10-20T10:18:37-03:00"
+      "duration_seconds": 1.24,
+      "finished_at": "2026-10-20T12:37:11-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
-      "status": "success",
-      "pages_read": 9,
-      "listings_found": 126,
-      "error": null,
+      "status": "failed",
+      "pages_read": 0,
+      "listings_found": 0,
+      "error": "Joinville: Falha ao abrir a fonte: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://hasta.com.br/leiloes/sc/joinville\", waiting until \"domcontentloaded\"\n; Balneário Camboriú: Falha ao abrir a fonte: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://hasta.com.br/leiloes/sc/balneario-camboriu\", waiting until \"domcontentloaded\"\n; Balneário Piçarras: Falha ao abrir a fonte: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://hasta.com.br/leiloes/sc/balneario-picarras\nCall log:\n  - navigating to \"https://hasta.com.br/leiloes/sc/balneario-picarras\", waiting until \"domcontentloaded\"\n; Barra Velha: Falha ao abrir a fonte: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://hasta.com.br/leiloes/sc/barra-velha\nCall log:\n  - navigating to \"https://hasta.com.br/leiloes/sc/barra-velha\", waiting until \"domcontentloaded\"\n; Rio do Sul: Falha ao abrir a fonte: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://hasta.com.br/leiloes/sc/rio-do-sul\nCall log:\n  - navigating to \"https://hasta.com.br/leiloes/sc/rio-do-sul\", waiting until \"domcontentloaded\"\n",
       "listings_by_city": {
-        "Joinville": 90,
-        "Balneário Camboriú": 22,
-        "Balneário Piçarras": 2,
-        "Barra Velha": 3,
-        "Rio do Sul": 9
+        "Joinville": 0,
+        "Balneário Camboriú": 0,
+        "Balneário Piçarras": 0,
+        "Barra Velha": 0,
+        "Rio do Sul": 0
       },
-      "duration_seconds": 18.33,
-      "finished_at": "2026-10-20T10:18:55-03:00",
-      "last_success_at": "2026-10-20T10:18:55-03:00"
+      "duration_seconds": 212.44,
+      "finished_at": "2026-10-20T12:40:44-03:00"
     }
   ],
-  "data_status": "updated",
+  "data_status": "unchanged",
   "data_updated_at": "2026-10-20T10:18:55-03:00",
   "counts": {
     "new_listings": 0,
-    "changed_listings": 2,
-    "new_or_updated": 2,
+    "changed_listings": 0,
+    "new_or_updated": 0,
     "total_preserved": 128,
-    "sources_succeeded": 6,
+    "sources_succeeded": 5,
     "sources_partial": 0,
-    "sources_failed": 7
+    "sources_failed": 8
   },
   "new_property_ids": [],
-  "changed_property_ids": [
-    "0fc466da0d41eebd3fab",
-    "dc7c2e6eb7314d89133b"
-  ],
+  "changed_property_ids": [],
   "errors": [
     {
       "source_id": "portalzuk",
@@ -285,6 +281,10 @@
     {
       "source_id": "machado",
       "message": "Bloqueio/CAPTCHA detectado; a fonte não foi contornada."
+    },
+    {
+      "source_id": "hasta",
+      "message": "Joinville: Falha ao abrir a fonte: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://hasta.com.br/leiloes/sc/joinville\", waiting until \"domcontentloaded\"\n; Balneário Camboriú: Falha ao abrir a fonte: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://hasta.com.br/leiloes/sc/balneario-camboriu\", waiting until \"domcontentloaded\"\n; Balneário Piçarras: Falha ao abrir a fonte: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://hasta.com.br/leiloes/sc/balneario-picarras\nCall log:\n  - navigating to \"https://hasta.com.br/leiloes/sc/balneario-picarras\", waiting until \"domcontentloaded\"\n; Barra Velha: Falha ao abrir a fonte: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://hasta.com.br/leiloes/sc/barra-velha\nCall log:\n  - navigating to \"https://hasta.com.br/leiloes/sc/barra-velha\", waiting until \"domcontentloaded\"\n; Rio do Sul: Falha ao abrir a fonte: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://hasta.com.br/leiloes/sc/rio-do-sul\nCall log:\n  - navigating to \"https://hasta.com.br/leiloes/sc/rio-do-sul\", waiting until \"domcontentloaded\"\n"
     }
   ]
 }
