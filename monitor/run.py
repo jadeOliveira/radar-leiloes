@@ -183,8 +183,6 @@ def main() -> int:
     cities = config["cities"]
     existing_data = read_json(DATA_DIR / "properties.json", {"properties": []})
     existing = existing_data.get("properties", [])
-    if not existing:
-        existing = migrate_legacy()
     retained_existing = []
     excluded_existing = []
     for item in existing:

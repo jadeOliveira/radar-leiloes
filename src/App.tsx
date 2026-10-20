@@ -74,7 +74,7 @@ export default function App() {
   const [occupancy, setOccupancy] = useState('Todas');
   const [risk, setRisk] = useState('Todos');
   const [dateWindow, setDateWindow] = useState('Todas');
-  const [statusScope, setStatusScope] = useState('today');
+  const [statusScope, setStatusScope] = useState('new');
   const [minPrice, setMinPrice] = useState('');
   const [maxPrice, setMaxPrice] = useState('');
   const [minDiscount, setMinDiscount] = useState('');
@@ -94,16 +94,10 @@ export default function App() {
   const types = [...new Set(properties.map((item) => item.property_type).filter(Boolean))].sort() as string[];
   const filtered = useMemo(() => {
     const today = brazilToday();
-    const yesterday = brazilDateOffset(-1);
     const matchesScope = (item: Property) => {
       const status = displayStatus(item, today);
-      if (statusScope === 'today') return isDiscoveredOn(item, today);
-      if (statusScope === 'yesterday') return isDiscoveredOn(item, yesterday);
-      if (statusScope === 'changed_today') return hasChangesOn(changeLog, item.id, today);
-      if (statusScope === 'changed_yesterday') return hasChangesOn(changeLog, item.id, yesterday);
       if (statusScope === 'new') return isRecentNew(item, today);
       if (statusScope === 'all') return true;
-      if (statusScope === 'opportunities') return status === 'active' || status === 'scheduled_unverified';
       return status === 'active';
     };
     const matches = properties.filter((item) => {
@@ -164,7 +158,7 @@ export default function App() {
     <section className="list-section"><div className="section-heading"><div><div className="eyebrow"><span className="eyebrow-line" /> OPORTUNIDADES</div><h2>Imóveis em <em>destaque</em></h2></div><span className="result-count">{filtered.length} de {properties.length} imóveis</span></div>
       <div className="filters">
         <label className="search"><Search size={17} /><input aria-label="Buscar imóvel" placeholder="Buscar endereço ou bairro" value={query} onChange={(event) => setQuery(event.target.value)} /></label>
-        <label className="select-wrap"><select aria-label="Filtrar status do leilão" value={statusScope} onChange={(event) => setStatusScope(event.target.value)}><option value="today">Novos · hoje</option><option value="yesterday">Novos · ontem</option><option value="changed_today">Alterados · hoje</option><option value="changed_yesterday">Alterados · ontem</option><option value="new">Novos · últimos 7 dias</option><option value="active">Somente ativos</option><option value="opportunities">Ativos e próximos</option><option value="all">Todos os anúncios</option></select></label>
+        <label className="select-wrap"><select aria-label="Filtrar status do leilão" value={statusScope} onChange={(event) => setStatusScope(event.target.value)}><option value="new">Novos</option><option value="active">Ativos</option><option value="all">Todos</option></select></label>
         <label className="select-wrap"><SlidersHorizontal size={15} /><select aria-label="Filtrar cidade" value={city} onChange={(event) => setCity(event.target.value)}><option>Todas as cidades</option>{cities.map((item) => <option key={item}>{item}</option>)}</select></label>
         <label className="select-wrap"><Filter size={15} /><select aria-label="Filtrar tipo" value={type} onChange={(event) => setType(event.target.value)}><option>Todos os tipos</option>{types.map((item) => <option key={item}>{item}</option>)}</select></label>
         <label className="select-wrap"><select aria-label="Filtrar categoria" value={category} onChange={(event) => setCategory(event.target.value)}><option value="Todas">Categorias A/B</option><option value="A">A · Prioritária</option><option value="B">B · Demais</option></select></label>
@@ -178,15 +172,14 @@ export default function App() {
       {filtered.length ? <div className="cards">{filtered.map((item) => {
         const priority = item.classification === 'A';
         const isNew = isRecentNew(item, today);
-        const changeDay = ['yesterday', 'changed_yesterday'].includes(statusScope) ? brazilDateOffset(-1) : today;
-        const isChanged = hasChangesOn(changeLog, item.id, changeDay);
+        const isChanged = hasChangesOn(changeLog, item.id, today);
         const nextEvent = auctionEvent(item, today);
         const currentStatus = displayStatus(item, today);
         const statusLabels: Record<string, string> = { active: item.validation_status === 'verified' ? 'ATIVO · OFICIAL' : 'ATIVO · CONFIRME NO PORTAL', scheduled_unverified: 'PRÓXIMO · CONFIRMAR', ended_unverified: 'DATA PASSADA · CONFIRMAR', closed: 'ENCERRADO', cancelled: 'CANCELADO', sold: 'VENDIDO', suspended: 'SUSPENSO', unknown: 'SITUAÇÃO DESCONHECIDA' };
         const listingUrl = item.official_url || item.source_listing_url;
         const linkLabel = item.official_url ? 'Anúncio oficial' : item.source_listing_url ? 'Ver anúncio · não verificado' : 'URL oficial não confirmada';
         return <article className={`property${isNew ? ' property-new' : ''}`} key={item.id}><div className="property-top"><span className="property-type">{item.property_type || 'Imóvel'} <span>·</span> {item.city}/{item.state}</span><div className="property-badges">{isNew ? <span className="new-badge">NOVO</span> : isChanged ? <span className="new-badge">ALTERADO</span> : null}{priority && <span className="badge"><ArrowDownRight size={13} /> PRIORIDADE</span>}<span className={`status-badge status-${currentStatus}`}>{statusLabels[currentStatus] ?? 'SITUAÇÃO DESCONHECIDA'}</span></div></div><PropertyPhoto property={item} /><h3>{item.address || `${item.property_type || 'Imóvel'} em ${item.city}`}</h3><div className="property-location"><span>BAIRRO</span><strong>{item.neighborhood || 'Não informado pela fonte'}</strong><span className="occupancy">{item.occupancy ? `OCUPAÇÃO · ${item.occupancy}` : 'OCUPAÇÃO · desconhecida'}</span></div><div className="auction-date"><span>DATA DO LEILÃO</span><strong>{nextEvent?.date ? date(nextEvent.date) : 'Não informada'}</strong>{nextEvent?.time && <small>{nextEvent.time}</small>}</div><div className="property-metrics"><div><span>1ª PRAÇA</span><strong>{money(item.first_minimum_bid_brl)}</strong></div><div><span>2ª PRAÇA</span><strong>{money(item.second_minimum_bid_brl)}</strong></div><div><span>{item.current_minimum_bid_brl != null ? 'LANCE ATUAL' : 'PREÇO EXIBIDO NA FONTE'}</span><strong>{money(item.current_minimum_bid_brl ?? item.source_listing_price_brl)}</strong></div><div><span>DESCONTO S/ AVALIAÇÃO</span><strong>{item.discount_on_appraisal_percent != null ? `${item.discount_on_appraisal_percent}%` : 'Não informado pela fonte'} {item.discount_on_appraisal_percent != null && <ArrowDownRight size={14} />}</strong></div><div><span>ÁREA PRIVATIVA</span><strong>{item.area_privative_m2 ? `${item.area_privative_m2} m²` : '—'}</strong></div></div><div className="property-bottom"><span>{item.auctioneer || 'Leiloeiro não informado'} · Categoria {item.classification ?? 'B'}</span>{listingUrl ? <a href={listingUrl} target="_blank" rel="noreferrer">{linkLabel} <ArrowUpRight size={15} /></a> : <span>{linkLabel}</span>}</div></article>;
-      })}</div> : <div className="empty"><div className="empty-icon"><Search size={20} /></div><h3>{loading ? 'Buscando oportunidades…' : statusScope === 'today' ? 'Nenhum imóvel novo hoje.' : statusScope === 'yesterday' ? 'Nenhum imóvel novo ontem.' : statusScope === 'changed_today' ? 'Nenhum imóvel alterado hoje.' : statusScope === 'changed_yesterday' ? 'Nenhum imóvel alterado ontem.' : statusScope === 'new' ? 'Nenhum imóvel novo nos últimos 7 dias.' : properties.length === 0 ? 'Ainda não há anúncios confirmados.' : 'Nenhum imóvel corresponde aos filtros.'}</h3><p>{['today', 'yesterday', 'changed_today', 'changed_yesterday', 'new'].includes(statusScope) && properties.length ? 'Os anúncios anteriores continuam preservados. Selecione “Ontem”, “Últimos 7 dias” ou “Todos os anúncios” para consultar outras descobertas.' : properties.length === 0 ? 'O painel não inclui anúncios fictícios. Fontes bloqueadas ou indisponíveis aparecem no relatório da coleta.' : 'Ajuste os filtros para ver outros resultados.'}</p>{properties.length === 0 && <a href="https://www.portalzuk.com.br/leilao-de-imoveis/u/todos-imoveis/sc" target="_blank" rel="noreferrer">Consultar oportunidades oficiais <ExternalLink size={14} /></a>}</div>}
+      })}</div> : <div className="empty"><div className="empty-icon"><Search size={20} /></div><h3>{loading ? 'Buscando oportunidades…' : statusScope === 'new' ? 'Nenhum imóvel novo nos últimos 7 dias.' : statusScope === 'active' ? 'Nenhum imóvel ativo.' : properties.length === 0 ? 'Ainda não há anúncios confirmados.' : 'Nenhum imóvel corresponde aos filtros.'}</h3><p>{statusScope === 'new' && properties.length ? 'Novos mostra imóveis identificados nos últimos 7 dias. Selecione “Todos” para consultar a base completa.' : properties.length === 0 ? 'O painel não inclui anúncios fictícios. Fontes bloqueadas ou indisponíveis aparecem no relatório da coleta.' : 'Ajuste os filtros para ver outros resultados.'}</p>{properties.length === 0 && <a href="https://www.portalzuk.com.br/leilao-de-imoveis/u/todos-imoveis/sc" target="_blank" rel="noreferrer">Consultar oportunidades oficiais <ExternalLink size={14} /></a>}</div>}
     </section>
     <footer><span>RADAR DE LEILÕES <span className="footer-sep">/</span> MONITOR</span><p>Dados de anúncios públicos. Confirme as informações no anúncio, edital e documentos oficiais antes de qualquer decisão.</p><span>Informação para análise, não parecer jurídico.</span></footer>
   </main>;
