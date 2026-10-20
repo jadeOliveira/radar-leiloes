@@ -1,9 +1,9 @@
 {
-  "run_id": "52d40966-0018-4fb5-bf60-d5af62992cff",
+  "run_id": "4014a6bf-bd5f-4078-836a-7d11e27912eb",
   "status": "partial",
-  "started_at": "2026-10-20T09:34:59-03:00",
-  "finished_at": "2026-10-20T09:37:02-03:00",
-  "duration_seconds": 123.12,
+  "started_at": "2026-10-20T09:44:04-03:00",
+  "finished_at": "2026-10-20T09:45:44-03:00",
+  "duration_seconds": 100.19,
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -27,8 +27,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.26,
-      "finished_at": "2026-10-20T09:35:00-03:00"
+      "duration_seconds": 1.12,
+      "finished_at": "2026-10-20T09:44:07-03:00"
     },
     {
       "source_id": "caixa",
@@ -44,8 +44,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.94,
-      "finished_at": "2026-10-20T09:35:02-03:00"
+      "duration_seconds": 1.74,
+      "finished_at": "2026-10-20T09:44:09-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -61,9 +61,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 14.23,
-      "finished_at": "2026-10-20T09:35:17-03:00",
-      "last_success_at": "2026-10-20T09:35:17-03:00"
+      "duration_seconds": 5.75,
+      "finished_at": "2026-10-20T09:44:14-03:00",
+      "last_success_at": "2026-10-20T09:44:14-03:00"
     },
     {
       "source_id": "superbid",
@@ -79,8 +79,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.15,
-      "finished_at": "2026-10-20T09:35:18-03:00"
+      "duration_seconds": 1.03,
+      "finished_at": "2026-10-20T09:44:15-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -96,8 +96,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.26,
-      "finished_at": "2026-10-20T09:35:19-03:00"
+      "duration_seconds": 1.17,
+      "finished_at": "2026-10-20T09:44:17-03:00"
     },
     {
       "source_id": "duarte",
@@ -113,9 +113,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 46.39,
-      "finished_at": "2026-10-20T09:36:05-03:00",
-      "last_success_at": "2026-10-20T09:36:05-03:00"
+      "duration_seconds": 40.78,
+      "finished_at": "2026-10-20T09:44:57-03:00",
+      "last_success_at": "2026-10-20T09:44:57-03:00"
     },
     {
       "source_id": "zampieri",
@@ -131,9 +131,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 7.36,
-      "finished_at": "2026-10-20T09:36:13-03:00",
-      "last_success_at": "2026-10-20T09:36:13-03:00"
+      "duration_seconds": 7.19,
+      "finished_at": "2026-10-20T09:45:05-03:00",
+      "last_success_at": "2026-10-20T09:45:05-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -149,8 +149,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.31,
-      "finished_at": "2026-10-20T09:36:14-03:00"
+      "duration_seconds": 1.19,
+      "finished_at": "2026-10-20T09:45:06-03:00"
     },
     {
       "source_id": "freitas",
@@ -166,9 +166,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 15.3,
-      "finished_at": "2026-10-20T09:36:30-03:00",
-      "last_success_at": "2026-10-20T09:36:30-03:00"
+      "duration_seconds": 13.92,
+      "finished_at": "2026-10-20T09:45:20-03:00",
+      "last_success_at": "2026-10-20T09:45:20-03:00"
     },
     {
       "source_id": "comprei",
@@ -184,8 +184,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.81,
-      "finished_at": "2026-10-20T09:36:31-03:00"
+      "duration_seconds": 1.63,
+      "finished_at": "2026-10-20T09:45:22-03:00"
     },
     {
       "source_id": "sampaio",
@@ -201,9 +201,9 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 5.41,
-      "finished_at": "2026-10-20T09:36:37-03:00",
-      "last_success_at": "2026-10-20T09:36:37-03:00"
+      "duration_seconds": 5.31,
+      "finished_at": "2026-10-20T09:45:27-03:00",
+      "last_success_at": "2026-10-20T09:45:27-03:00"
     },
     {
       "source_id": "machado",
@@ -219,8 +219,8 @@
         "Barra Velha": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.23,
-      "finished_at": "2026-10-20T09:36:38-03:00"
+      "duration_seconds": 1.2,
+      "finished_at": "2026-10-20T09:45:28-03:00"
     },
     {
       "source_id": "hasta",
@@ -236,17 +236,17 @@
         "Barra Velha": 3,
         "Rio do Sul": 11
       },
-      "duration_seconds": 23.37,
-      "finished_at": "2026-10-20T09:37:02-03:00",
-      "last_success_at": "2026-10-20T09:37:02-03:00"
+      "duration_seconds": 15.59,
+      "finished_at": "2026-10-20T09:45:44-03:00",
+      "last_success_at": "2026-10-20T09:45:44-03:00"
     }
   ],
   "data_status": "updated",
-  "data_updated_at": "2026-10-20T09:37:02-03:00",
+  "data_updated_at": "2026-10-20T09:45:44-03:00",
   "counts": {
     "new_listings": 0,
-    "changed_listings": 6,
-    "new_or_updated": 6,
+    "changed_listings": 2,
+    "new_or_updated": 2,
     "total_preserved": 176,
     "sources_succeeded": 6,
     "sources_partial": 0,
@@ -255,10 +255,6 @@
   "new_property_ids": [],
   "changed_property_ids": [
     "0ad6519068704c438998",
-    "0fc466da0d41eebd3fab",
-    "270a93f7bc136faf7572",
-    "985f2b707643dc9e922e",
-    "dc7c2e6eb7314d89133b",
     "e2e0be6a8b341369956c"
   ],
   "errors": [

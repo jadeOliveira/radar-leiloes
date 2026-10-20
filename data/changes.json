@@ -1,3 +1,72 @@
 {
-  "runs": []
+  "runs": [
+    {
+      "run_id": "4014a6bf-bd5f-4078-836a-7d11e27912eb",
+      "detected_at": "2026-10-20T09:45:44-03:00",
+      "changes": [
+        {
+          "property_id": "0ad6519068704c438998",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "source_listing_price_brl",
+              "before": 1500000.0,
+              "after": 765000.0
+            },
+            {
+              "field": "source_listing_url",
+              "before": "https://hasta.com.br/imovel/1273893-1apraca-apto-edificio-liverpool-balneario-camboriu",
+              "after": "https://hasta.com.br/imovel/1273929-2apraca-apto-edificio-liverpool-balneario-camboriu"
+            }
+          ],
+          "detected_at": "2026-10-20T09:45:44-03:00"
+        },
+        {
+          "property_id": "0ad6519068704c438998",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "source_listing_price_brl",
+              "before": 765000.0,
+              "after": 1500000.0
+            },
+            {
+              "field": "source_listing_url",
+              "before": "https://hasta.com.br/imovel/1273929-2apraca-apto-edificio-liverpool-balneario-camboriu",
+              "after": "https://hasta.com.br/imovel/1273893-1apraca-apto-edificio-liverpool-balneario-camboriu"
+            }
+          ],
+          "detected_at": "2026-10-20T09:45:44-03:00"
+        },
+        {
+          "property_id": "e2e0be6a8b341369956c",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta",
+            "portalzuk"
+          ],
+          "changes": [
+            {
+              "field": "risk_flags",
+              "before": [
+                "occupied",
+                "occupancy_unknown"
+              ],
+              "after": [
+                "occupied",
+                "occupancy_unknown"
+              ]
+            }
+          ],
+          "detected_at": "2026-10-20T09:45:44-03:00"
+        }
+      ]
+    }
+  ]
 }
