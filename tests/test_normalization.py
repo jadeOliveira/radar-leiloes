@@ -97,7 +97,7 @@ class NormalizationTests(unittest.TestCase):
         self.assertEqual(item["registry_number"], "64.044")
 
     def test_computes_discount_only_from_labeled_appraisal(self):
-        text = "Terreno em Rio do Sul/SC. Avaliação: R$ 1.000.000,00. Lance mínimo 2º leilão: R$ 600.000,00. 20/11/2026. Aberto para lances."
+        text = "Terreno em Penha/SC. Avaliação: R$ 1.000.000,00. Lance mínimo 2º leilão: R$ 600.000,00. 20/11/2026. Aberto para lances."
         item = parse_item(SOURCE, "https://leiloes.example.br/imovel/xyz", text, CITIES, "2026-10-17T08:00:00-03:00")
         self.assertEqual(item["appraisal_value_brl"], 1000000.0)
         self.assertEqual(item["current_minimum_bid_brl"], 600000.0)
