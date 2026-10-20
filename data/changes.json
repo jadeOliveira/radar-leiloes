@@ -2112,6 +2112,85 @@
           "detected_at": "2026-10-20T13:00:35-03:00"
         }
       ]
+    },
+    {
+      "run_id": "0816e170-c664-4b7d-8884-5aad2b469b32",
+      "detected_at": "2026-10-20T13:49:54-03:00",
+      "changes": [
+        {
+          "property_id": "53ebef2c2ec3286d25da",
+          "city": "Joinville",
+          "source_ids": [
+            "mega_leiloes"
+          ],
+          "changes": [
+            {
+              "field": "auction_events",
+              "before": [
+                {
+                  "date": "2026-10-20",
+                  "time": "13:05",
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                }
+              ],
+              "after": [
+                {
+                  "date": "2026-10-20",
+                  "time": "13:05",
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                },
+                {
+                  "date": "2026-10-21",
+                  "time": "12:00",
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                }
+              ]
+            }
+          ],
+          "detected_at": "2026-10-20T13:49:54-03:00"
+        },
+        {
+          "property_id": "0fc466da0d41eebd3fab",
+          "city": "Joinville",
+          "source_ids": [
+            "freitas"
+          ],
+          "changes": [
+            {
+              "field": "image_urls",
+              "before": [
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/LT008_01.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00149570.PNG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00149571.PNG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00149572.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00149573.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/Assets/Imagens/bg_mapa_imoveis_site.jpg",
+                "https://cdn3.freitasleiloeiro.com.br/Assets/Imagens/LanceAutomatico.jpg"
+              ],
+              "after": [
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/LT008_01.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00149570.PNG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00149571.PNG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00149572.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00149573.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/Assets/Imagens/bg_mapa_imoveis_site.jpg",
+                "https://cdn3.freitasleiloeiro.com.br/Assets/Imagens/LanceAutomatico.jpg",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154115.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154116.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154117.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154118.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154119.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154121.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154122.JPG"
+              ]
+            }
+          ],
+          "detected_at": "2026-10-20T13:49:54-03:00"
+        }
+      ]
     }
   ]
 }

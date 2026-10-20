@@ -1,9 +1,9 @@
 {
-  "run_id": "2c82cfa4-f27f-4c3a-b36e-b3332f8ae9c6",
+  "run_id": "0816e170-c664-4b7d-8884-5aad2b469b32",
   "status": "partial",
-  "started_at": "2026-10-20T13:13:40-03:00",
-  "finished_at": "2026-10-20T13:15:26-03:00",
-  "duration_seconds": 105.5,
+  "started_at": "2026-10-20T13:43:49-03:00",
+  "finished_at": "2026-10-20T13:49:54-03:00",
+  "duration_seconds": 365.17,
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -29,8 +29,8 @@
         "Penha": 0,
         "Navegantes": 0
       },
-      "duration_seconds": 1.21,
-      "finished_at": "2026-10-20T13:13:42-03:00"
+      "duration_seconds": 1.56,
+      "finished_at": "2026-10-20T13:43:51-03:00"
     },
     {
       "source_id": "caixa",
@@ -47,27 +47,27 @@
         "Penha": 0,
         "Navegantes": 0
       },
-      "duration_seconds": 2.07,
-      "finished_at": "2026-10-20T13:13:44-03:00"
+      "duration_seconds": 2.17,
+      "finished_at": "2026-10-20T13:43:53-03:00"
     },
     {
       "source_id": "mega_leiloes",
       "name": "Mega Leilões",
       "status": "success",
       "pages_read": 1,
-      "listings_found": 0,
+      "listings_found": 1,
       "error": null,
       "listings_by_city": {
-        "Joinville": 0,
+        "Joinville": 1,
         "Balneário Camboriú": 0,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
         "Penha": 0,
         "Navegantes": 0
       },
-      "duration_seconds": 4.02,
-      "finished_at": "2026-10-20T13:13:48-03:00",
-      "last_success_at": "2026-10-20T13:13:48-03:00"
+      "duration_seconds": 5.98,
+      "finished_at": "2026-10-20T13:43:59-03:00",
+      "last_success_at": "2026-10-20T13:43:59-03:00"
     },
     {
       "source_id": "superbid",
@@ -84,8 +84,8 @@
         "Penha": 0,
         "Navegantes": 0
       },
-      "duration_seconds": 1.05,
-      "finished_at": "2026-10-20T13:13:49-03:00"
+      "duration_seconds": 1.07,
+      "finished_at": "2026-10-20T13:44:00-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -102,8 +102,8 @@
         "Penha": 0,
         "Navegantes": 0
       },
-      "duration_seconds": 1.23,
-      "finished_at": "2026-10-20T13:13:51-03:00"
+      "duration_seconds": 1.22,
+      "finished_at": "2026-10-20T13:44:01-03:00"
     },
     {
       "source_id": "duarte",
@@ -120,9 +120,9 @@
         "Penha": 0,
         "Navegantes": 0
       },
-      "duration_seconds": 45.92,
-      "finished_at": "2026-10-20T13:14:36-03:00",
-      "last_success_at": "2026-10-20T13:14:36-03:00"
+      "duration_seconds": 47.54,
+      "finished_at": "2026-10-20T13:44:49-03:00",
+      "last_success_at": "2026-10-20T13:44:49-03:00"
     },
     {
       "source_id": "zampieri",
@@ -139,9 +139,9 @@
         "Penha": 0,
         "Navegantes": 0
       },
-      "duration_seconds": 7.75,
-      "finished_at": "2026-10-20T13:14:44-03:00",
-      "last_success_at": "2026-10-20T13:14:44-03:00"
+      "duration_seconds": 7.69,
+      "finished_at": "2026-10-20T13:44:57-03:00",
+      "last_success_at": "2026-10-20T13:44:57-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -158,8 +158,8 @@
         "Penha": 0,
         "Navegantes": 0
       },
-      "duration_seconds": 1.21,
-      "finished_at": "2026-10-20T13:14:46-03:00"
+      "duration_seconds": 1.2,
+      "finished_at": "2026-10-20T13:44:58-03:00"
     },
     {
       "source_id": "freitas",
@@ -176,9 +176,9 @@
         "Penha": 0,
         "Navegantes": 0
       },
-      "duration_seconds": 15.64,
-      "finished_at": "2026-10-20T13:15:01-03:00",
-      "last_success_at": "2026-10-20T13:15:01-03:00"
+      "duration_seconds": 15.24,
+      "finished_at": "2026-10-20T13:45:13-03:00",
+      "last_success_at": "2026-10-20T13:45:13-03:00"
     },
     {
       "source_id": "comprei",
@@ -195,8 +195,8 @@
         "Penha": 0,
         "Navegantes": 0
       },
-      "duration_seconds": 2.04,
-      "finished_at": "2026-10-20T13:15:03-03:00"
+      "duration_seconds": 2.06,
+      "finished_at": "2026-10-20T13:45:15-03:00"
     },
     {
       "source_id": "sampaio",
@@ -213,9 +213,9 @@
         "Penha": 0,
         "Navegantes": 0
       },
-      "duration_seconds": 5.59,
-      "finished_at": "2026-10-20T13:15:09-03:00",
-      "last_success_at": "2026-10-20T13:15:09-03:00"
+      "duration_seconds": 5.81,
+      "finished_at": "2026-10-20T13:45:21-03:00",
+      "last_success_at": "2026-10-20T13:45:21-03:00"
     },
     {
       "source_id": "machado",
@@ -232,42 +232,44 @@
         "Penha": 0,
         "Navegantes": 0
       },
-      "duration_seconds": 1.19,
-      "finished_at": "2026-10-20T13:15:10-03:00"
+      "duration_seconds": 1.21,
+      "finished_at": "2026-10-20T13:45:22-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
-      "status": "success",
-      "pages_read": 10,
-      "listings_found": 120,
-      "error": null,
+      "status": "failed",
+      "pages_read": 0,
+      "listings_found": 0,
+      "error": "Joinville: Falha ao abrir a fonte: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://hasta.com.br/leiloes/sc/joinville\", waiting until \"domcontentloaded\"\n; Balneário Camboriú: Falha ao abrir a fonte: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://hasta.com.br/leiloes/sc/balneario-camboriu\", waiting until \"domcontentloaded\"\n; Balneário Piçarras: Falha ao abrir a fonte: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://hasta.com.br/leiloes/sc/balneario-picarras\nCall log:\n  - navigating to \"https://hasta.com.br/leiloes/sc/balneario-picarras\", waiting until \"domcontentloaded\"\n; Barra Velha: Falha ao abrir a fonte: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://hasta.com.br/leiloes/sc/barra-velha\nCall log:\n  - navigating to \"https://hasta.com.br/leiloes/sc/barra-velha\", waiting until \"domcontentloaded\"\n; Penha: Falha ao abrir a fonte: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://hasta.com.br/leiloes/sc/penha\nCall log:\n  - navigating to \"https://hasta.com.br/leiloes/sc/penha\", waiting until \"domcontentloaded\"\n; Navegantes: Falha ao abrir a fonte: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://hasta.com.br/leiloes/sc/navegantes\nCall log:\n  - navigating to \"https://hasta.com.br/leiloes/sc/navegantes\", waiting until \"domcontentloaded\"\n",
       "listings_by_city": {
-        "Joinville": 91,
-        "Balneário Camboriú": 22,
-        "Balneário Piçarras": 2,
-        "Barra Velha": 3,
-        "Penha": 1,
-        "Navegantes": 1
+        "Joinville": 0,
+        "Balneário Camboriú": 0,
+        "Balneário Piçarras": 0,
+        "Barra Velha": 0,
+        "Penha": 0,
+        "Navegantes": 0
       },
-      "duration_seconds": 15.58,
-      "finished_at": "2026-10-20T13:15:26-03:00",
-      "last_success_at": "2026-10-20T13:15:26-03:00"
+      "duration_seconds": 271.61,
+      "finished_at": "2026-10-20T13:49:54-03:00"
     }
   ],
-  "data_status": "unchanged",
-  "data_updated_at": "2026-10-20T13:00:35-03:00",
+  "data_status": "updated",
+  "data_updated_at": "2026-10-20T13:49:54-03:00",
   "counts": {
     "new_listings": 0,
-    "changed_listings": 0,
-    "new_or_updated": 0,
+    "changed_listings": 2,
+    "new_or_updated": 2,
     "total_preserved": 131,
-    "sources_succeeded": 6,
+    "sources_succeeded": 5,
     "sources_partial": 0,
-    "sources_failed": 7
+    "sources_failed": 8
   },
   "new_property_ids": [],
-  "changed_property_ids": [],
+  "changed_property_ids": [
+    "0fc466da0d41eebd3fab",
+    "53ebef2c2ec3286d25da"
+  ],
   "errors": [
     {
       "source_id": "portalzuk",
@@ -296,6 +298,10 @@
     {
       "source_id": "machado",
       "message": "Bloqueio/CAPTCHA detectado; a fonte não foi contornada."
+    },
+    {
+      "source_id": "hasta",
+      "message": "Joinville: Falha ao abrir a fonte: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://hasta.com.br/leiloes/sc/joinville\", waiting until \"domcontentloaded\"\n; Balneário Camboriú: Falha ao abrir a fonte: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://hasta.com.br/leiloes/sc/balneario-camboriu\", waiting until \"domcontentloaded\"\n; Balneário Piçarras: Falha ao abrir a fonte: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://hasta.com.br/leiloes/sc/balneario-picarras\nCall log:\n  - navigating to \"https://hasta.com.br/leiloes/sc/balneario-picarras\", waiting until \"domcontentloaded\"\n; Barra Velha: Falha ao abrir a fonte: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://hasta.com.br/leiloes/sc/barra-velha\nCall log:\n  - navigating to \"https://hasta.com.br/leiloes/sc/barra-velha\", waiting until \"domcontentloaded\"\n; Penha: Falha ao abrir a fonte: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://hasta.com.br/leiloes/sc/penha\nCall log:\n  - navigating to \"https://hasta.com.br/leiloes/sc/penha\", waiting until \"domcontentloaded\"\n; Navegantes: Falha ao abrir a fonte: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://hasta.com.br/leiloes/sc/navegantes\nCall log:\n  - navigating to \"https://hasta.com.br/leiloes/sc/navegantes\", waiting until \"domcontentloaded\"\n"
     }
   ]
 }
