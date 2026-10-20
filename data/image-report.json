@@ -1,21 +1,8 @@
 {
-  "checked_at": "2026-10-20T13:51:31-03:00",
+  "checked_at": "2026-10-20T18:12:44-03:00",
   "total_listings": 131,
   "listings_with_images": 131,
+  "recovered_ids": [],
   "missing_image_ids": [],
-  "detail_galleries_checked": 128,
-  "original_source_recoveries": [
-    {
-      "id": "1549c3304caf7da52d2d",
-      "url": "https://www.trileiloes.com.br/eventos/leilao/164/joinville-sc-apartamento-53-49m2/lote?utm_source=hasta&utm_medium=ficha_imovel"
-    },
-    {
-      "id": "f4e1c13a5ed19c4f3fc5",
-      "url": "https://nossoleilao.com.br/item/72614/detalhes?page=1&utm_source=hasta&utm_medium=ficha_imovel"
-    },
-    {
-      "id": "6b3a885a73fc39c8e811",
-      "url": "https://www.agostinholeiloes.com.br/item/15880/detalhes"
-    }
-  ]
+  "errors": []
 }

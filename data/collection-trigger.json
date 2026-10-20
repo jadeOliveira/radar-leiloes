@@ -1,10 +1,11 @@
 {
-  "run_id": "39461244582",
+  "run_id": "39497236659",
   "run_attempt": 1,
   "trigger": "push",
   "scheduled_for": null,
   "collection_outcome": "success",
-  "finished_at": "2026-10-20T14:01:31-03:00",
-  "source_commit": "a0cdb52ce20ba62d9940c271c6f9cca98ee8c5b4",
-  "run_url": "https://github.com/jadeOliveira/radar-leiloes/actions/runs/39461244582"
+  "image_outcome": "success",
+  "finished_at": "2026-10-20T18:12:44-03:00",
+  "source_commit": "df53ad29038d7b5c1571af843e83fe83022344c2",
+  "run_url": "https://github.com/jadeOliveira/radar-leiloes/actions/runs/39497236659"
 }
