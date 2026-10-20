@@ -25,15 +25,6 @@
       "path_pattern": "/imovel/"
     },
     {
-      "id": "portalzuk_zukerman",
-      "name": "Portal Zuk — Zukerman",
-      "enabled": true,
-      "adapter": "portalzuk",
-      "url": "https://www.portalzuk.com.br/leilao-de-imoveis/v/zukerman/710",
-      "host": "www.portalzuk.com.br",
-      "path_pattern": "/imovel/"
-    },
-    {
       "id": "caixa",
       "name": "Caixa Imóveis",
       "enabled": true,

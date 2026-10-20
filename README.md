@@ -5,7 +5,7 @@ Monitor diário de anúncios imobiliários públicos em Santa Catarina, com dash
 ## Escopo do MVP
 
 - Cidades configuradas em `config/monitor.json`: Joinville, Balneário Camboriú, Balneário Piçarras, Barra Velha, Penha, Navegantes e Rio do Sul.
-- Adaptadores isolados para Portal Zuk (busca estadual e página do vendedor Zukerman), Caixa Imóveis, Mega Leilões, Superbid, Diego Leilões, Duarte Leilões Oficiais, Zampieri Leiloeiro, Seu Imóvel BB, Freitas Leiloeiro, PGFN/Comprei, Sampaio Leilões, Machado Leiloeiro e o agregador Hasta.
+- Adaptadores isolados para Portal Zuk (busca estadual), Caixa Imóveis, Mega Leilões, Superbid, Diego Leilões, Duarte Leilões Oficiais, Zampieri Leiloeiro, Seu Imóvel BB, Freitas Leiloeiro, PGFN/Comprei, Sampaio Leilões, Machado Leiloeiro e o agregador Hasta.
 - A descoberta percorre a busca estadual/paginada de cada fonte quando acessível e só depois seleciona as cidades configuradas. O limite de preço e o desconto são aplicados depois da coleta, na classificação.
 - Persistência versionada em `data/properties.json`, `data/history.json`, `data/changes.json` e `data/last-run.json`.
 - Dashboard com filtros por cidade, tipo, faixa de preço, desconto, datas, ocupação, riscos e categoria A/B; cartões mostram valores da 1ª e 2ª praça e o lance mínimo vigente quando disponíveis.
