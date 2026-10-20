@@ -11,4 +11,4 @@
 
 .auction-date{display:flex;align-items:baseline;gap:10px;margin:-7px 0 16px;color:#72776d}.auction-date span{font-size:9px;letter-spacing:.12em;font-weight:700}.auction-date strong{font-size:13px;font-weight:600;color:#354535}.auction-date small{font-size:11px;color:#85877f}
 
-.property-location{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap;margin:0 0 21px;color:#85877f}.property-location>span:first-child{font-size:9px;letter-spacing:.12em;font-weight:700;color:#73786f}.property-location strong{font-size:12px;font-weight:600;color:#51584e}.property-location .occupancy{font-size:10px;color:#85877f}
+.property-location{display:grid;grid-template-columns:72px minmax(0,1fr);align-items:baseline;column-gap:8px;row-gap:6px;margin:0 0 21px;color:#85877f}.property-location>span:not(.occupancy){font-size:9px;letter-spacing:.12em;font-weight:700;color:#73786f}.property-location strong{font-size:12px;font-weight:600;color:#51584e;overflow-wrap:anywhere}.property-location .occupancy{grid-column:1/-1;font-size:10px;color:#85877f}
