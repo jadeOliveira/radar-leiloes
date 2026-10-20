@@ -142,7 +142,7 @@
       "occupancy": "ocupado",
       "status": "unknown",
       "official_url": null,
-      "source_listing_url": "https://hasta.com.br/imovel/1273893-1apraca-apto-edificio-liverpool-balneario-camboriu",
+      "source_listing_url": "https://hasta.com.br/imovel/1273929-2apraca-apto-edificio-liverpool-balneario-camboriu",
       "validation_status": "nao_verificado",
       "edital_url": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grlkbn1ggqso/b/astavero/o/anexos/nelci/6aa433b6e45eb56d96e3d6d8/6aa433b6e45eb56d96e3d6d8/edital_retificado_de_leil_o_1_juizado_especial_civel_balne_rio_cambori__nelcir_catafesta_leil_es_e_dep_sitos_judiciais-1791299928000.pdf",
       "document_urls": [
@@ -188,12 +188,20 @@
       },
       "provenance": {
         "source_id": "hasta",
-        "captured_from": "https://hasta.com.br/imovel/1273893-1apraca-apto-edificio-liverpool-balneario-camboriu",
-        "raw_text": "Apartamento 1ªPRAÇA:APTO EDIFÍCIO LIVERPOOL BALNEARIO CAMBORIÚ 📍 Balneário Camboriú, SC R$ 1.500.000,00",
-        "is_aggregator": true
+        "captured_from": "https://hasta.com.br/imovel/1273929-2apraca-apto-edificio-liverpool-balneario-camboriu",
+        "raw_text": "Apartamento 2ªPRAÇA:APTO EDIFÍCIO LIVERPOOL BALNEÁRIO CAMBORIÚ 📍 Balneário Camboriú, SC R$ 765.000,00 49% OFF",
+        "is_aggregator": true,
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1273893-1apraca-apto-edificio-liverpool-balneario-camboriu",
+          "https://hasta.com.br/imovel/1273929-2apraca-apto-edificio-liverpool-balneario-camboriu"
+        ]
       },
-      "source_listing_price_brl": 1500000.0,
-      "newly_discovered_at": "2026-10-17T23:06:42-03:00"
+      "source_listing_price_brl": 765000.0,
+      "newly_discovered_at": "2026-10-17T23:23:58-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1273929-2apraca-apto-edificio-liverpool-balneario-camboriu",
+        "https://hasta.com.br/imovel/1273893-1apraca-apto-edificio-liverpool-balneario-camboriu"
+      ]
     },
     {
       "id": "150e33a012603589032c",
@@ -285,73 +293,6 @@
       },
       "source_listing_price_brl": 728000.0,
       "newly_discovered_at": "2026-10-17T23:17:42-03:00"
-    },
-    {
-      "id": "1fef50ae419211d44a7e",
-      "source_ids": [
-        "hasta"
-      ],
-      "source_listing_ids": [],
-      "city": "Balneário Camboriú",
-      "state": "SC",
-      "neighborhood": null,
-      "address": null,
-      "property_type": "Apartamento",
-      "area_privative_m2": 441.0,
-      "area_built_m2": null,
-      "area_total_m2": null,
-      "registry_number": null,
-      "registry_office": "o Camboriú",
-      "auction_lot": null,
-      "auctioneer": null,
-      "seller": null,
-      "modality": null,
-      "appraisal_value_brl": null,
-      "first_minimum_bid_brl": null,
-      "second_minimum_bid_brl": null,
-      "current_minimum_bid_brl": null,
-      "source_listing_price_brl": 700000.0,
-      "discount_on_appraisal_percent": null,
-      "auction_events": [],
-      "commission_percent": null,
-      "payment_conditions": null,
-      "occupancy": null,
-      "status": "unknown",
-      "official_url": null,
-      "source_listing_url": "https://hasta.com.br/imovel/2190479-apartamento-n-105-area-total-128-6-441m2-incluida-uma-vaga-de-uso-coletivo-1o-an",
-      "validation_status": "nao_verificado",
-      "edital_url": null,
-      "document_urls": [],
-      "image_urls": [],
-      "first_seen_at": "2026-10-19T13:21:51-03:00",
-      "last_checked_at": "2026-10-19T17:02:14-03:00",
-      "classification": "B",
-      "risk_flags": [
-        "occupancy_unknown",
-        "aggregator_listing_unverified"
-      ],
-      "field_verification": {
-        "city": "declared",
-        "property_type": "declared",
-        "appraisal_value_brl": "unknown",
-        "first_minimum_bid_brl": "unknown",
-        "second_minimum_bid_brl": "unknown",
-        "current_minimum_bid_brl": "unknown",
-        "occupancy": "unknown",
-        "registry_number": "unknown",
-        "auction_events": "unknown",
-        "source_listing_price_brl": "declared",
-        "official_url": "unverified",
-        "auctioneer": "unverified",
-        "address": "unknown"
-      },
-      "provenance": {
-        "source_id": "hasta",
-        "captured_from": "https://hasta.com.br/imovel/2190479-apartamento-n-105-area-total-128-6-441m2-incluida-uma-vaga-de-uso-coletivo-1o-an",
-        "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento n.105, área total: 128,6 441m² (incluída uma vaga de uso coletivo), 1º andar ou 2º pavimento, 📍 Balneário Camboriú, SC R$ 700.000,00"
-      },
-      "newly_discovered_at": "2026-10-19T13:21:56-03:00"
     },
     {
       "id": "20fe234890ec51c87edd",
@@ -497,7 +438,7 @@
       "occupancy": "ocupado",
       "status": "unknown",
       "official_url": null,
-      "source_listing_url": "https://hasta.com.br/imovel/1607907-apartamento-n-105-area-total-128-6-441m2-incluida-uma-vaga-de-uso-coletivo-1o-an",
+      "source_listing_url": "https://hasta.com.br/imovel/2190479-apartamento-n-105-area-total-128-6-441m2-incluida-uma-vaga-de-uso-coletivo-1o-an",
       "validation_status": "nao_verificado",
       "edital_url": "https://s.superbid.net/event/801917/attachment/dc8cd246-c90e-4a3c-a4bf-648da9072490.pdf",
       "document_urls": [
@@ -547,12 +488,22 @@
       },
       "provenance": {
         "source_id": "hasta",
-        "captured_from": "https://hasta.com.br/imovel/1607907-apartamento-n-105-area-total-128-6-441m2-incluida-uma-vaga-de-uso-coletivo-1o-an",
-        "raw_text": "Apartamento Apartamento n.105, área total: 128,6 441m² (incluída uma vaga de uso coletivo), 1º andar ou 2º pavimento, 📍 Balneário Camboriú, SC R$ 1.400.000,00",
-        "is_aggregator": true
+        "captured_from": "https://hasta.com.br/imovel/2190479-apartamento-n-105-area-total-128-6-441m2-incluida-uma-vaga-de-uso-coletivo-1o-an",
+        "raw_text": "Apartamento Apartamento n.105, área total: 128,6 441m² (incluída uma vaga de uso coletivo), 1º andar ou 2º pavimento, 📍 Balneário Camboriú, SC R$ 700.000,00",
+        "is_aggregator": true,
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1607907-apartamento-n-105-area-total-128-6-441m2-incluida-uma-vaga-de-uso-coletivo-1o-an",
+          "https://hasta.com.br/imovel/2193840-apartamento-n-105-area-total-128-6-441m2-incluida-uma-vaga-de-uso-coletivo-1o-an",
+          "https://hasta.com.br/imovel/2190479-apartamento-n-105-area-total-128-6-441m2-incluida-uma-vaga-de-uso-coletivo-1o-an"
+        ]
       },
-      "source_listing_price_brl": 1400000.0,
-      "newly_discovered_at": "2026-10-17T23:07:30-03:00"
+      "source_listing_price_brl": 700000.0,
+      "newly_discovered_at": "2026-10-19T13:21:56-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2193840-apartamento-n-105-area-total-128-6-441m2-incluida-uma-vaga-de-uso-coletivo-1o-an",
+        "https://hasta.com.br/imovel/2190479-apartamento-n-105-area-total-128-6-441m2-incluida-uma-vaga-de-uso-coletivo-1o-an",
+        "https://hasta.com.br/imovel/1607907-apartamento-n-105-area-total-128-6-441m2-incluida-uma-vaga-de-uso-coletivo-1o-an"
+      ]
     },
     {
       "id": "2c49574df3bab9a5ccae",
@@ -1194,72 +1145,6 @@
       },
       "source_listing_price_brl": 620000.0,
       "newly_discovered_at": "2026-10-17T23:17:40-03:00"
-    },
-    {
-      "id": "5851202baa0748c9de7c",
-      "source_ids": [
-        "hasta"
-      ],
-      "source_listing_ids": [],
-      "city": "Balneário Camboriú",
-      "state": "SC",
-      "neighborhood": null,
-      "address": null,
-      "property_type": "Apartamento",
-      "area_privative_m2": 441.0,
-      "area_built_m2": null,
-      "area_total_m2": null,
-      "registry_number": null,
-      "registry_office": "o Camboriú",
-      "auction_lot": null,
-      "auctioneer": null,
-      "seller": null,
-      "modality": null,
-      "appraisal_value_brl": null,
-      "first_minimum_bid_brl": null,
-      "second_minimum_bid_brl": null,
-      "current_minimum_bid_brl": null,
-      "source_listing_price_brl": 1400000.0,
-      "discount_on_appraisal_percent": null,
-      "auction_events": [],
-      "commission_percent": null,
-      "payment_conditions": null,
-      "occupancy": null,
-      "status": "unknown",
-      "official_url": null,
-      "source_listing_url": "https://hasta.com.br/imovel/2193840-apartamento-n-105-area-total-128-6-441m2-incluida-uma-vaga-de-uso-coletivo-1o-an",
-      "validation_status": "nao_verificado",
-      "edital_url": null,
-      "document_urls": [],
-      "image_urls": [],
-      "first_seen_at": "2026-10-20T09:09:04-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
-      "classification": "B",
-      "risk_flags": [
-        "occupancy_unknown",
-        "aggregator_listing_unverified"
-      ],
-      "field_verification": {
-        "city": "declared",
-        "property_type": "declared",
-        "appraisal_value_brl": "unknown",
-        "first_minimum_bid_brl": "unknown",
-        "second_minimum_bid_brl": "unknown",
-        "current_minimum_bid_brl": "unknown",
-        "occupancy": "unknown",
-        "registry_number": "unknown",
-        "auction_events": "unknown",
-        "source_listing_price_brl": "declared",
-        "official_url": "unverified",
-        "auctioneer": "unverified"
-      },
-      "provenance": {
-        "source_id": "hasta",
-        "captured_from": "https://hasta.com.br/imovel/2193840-apartamento-n-105-area-total-128-6-441m2-incluida-uma-vaga-de-uso-coletivo-1o-an",
-        "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento n.105, área total: 128,6 441m² (incluída uma vaga de uso coletivo), 1º andar ou 2º pavimento, 📍 Balneário Camboriú, SC R$ 1.400.000,00"
-      },
-      "newly_discovered_at": "2026-10-20T09:09:08-03:00"
     },
     {
       "id": "62f226bd6935bed8ef35",
@@ -1996,89 +1881,6 @@
       "newly_discovered_at": "2026-10-17T23:23:58-03:00"
     },
     {
-      "id": "993186b93cb7577b097b",
-      "source_ids": [
-        "hasta"
-      ],
-      "source_listing_ids": [
-        "1001"
-      ],
-      "city": "Balneário Camboriú",
-      "state": "SC",
-      "neighborhood": null,
-      "address": null,
-      "property_type": "Apartamento",
-      "area_privative_m2": 161.876,
-      "area_built_m2": null,
-      "area_total_m2": null,
-      "registry_number": "",
-      "registry_office": "o Camboriú/SC 📍 Balneário Camboriú",
-      "auction_lot": null,
-      "auctioneer": "oficial. Confira sempre",
-      "seller": null,
-      "modality": "judicial",
-      "appraisal_value_brl": 1803663.0,
-      "first_minimum_bid_brl": null,
-      "second_minimum_bid_brl": null,
-      "current_minimum_bid_brl": 1803663.0,
-      "discount_on_appraisal_percent": 0.0,
-      "auction_events": [
-        {
-          "date": "2026-11-23",
-          "time": null,
-          "minimum_bid_brl": null,
-          "stage": "first"
-        },
-        {
-          "date": "2026-10-15",
-          "time": null,
-          "minimum_bid_brl": null,
-          "stage": "second"
-        }
-      ],
-      "commission_percent": null,
-      "payment_conditions": null,
-      "occupancy": "ocupado",
-      "status": "active",
-      "official_url": null,
-      "source_listing_url": "https://hasta.com.br/imovel/2092483-apartamento-601-2-vagas-balneario-camboriu-sc",
-      "validation_status": "nao_verificado",
-      "edital_url": "https://hasta.com.br/guias/analise-de-edital-e-matricula",
-      "document_urls": [
-        "https://hasta.com.br/imovel/2092483-apartamento-601-2-vagas-balneario-camboriu-sc#nh-fx-docs",
-        "https://hasta.com.br/guias/analise-de-edital-e-matricula"
-      ],
-      "image_urls": [],
-      "first_seen_at": "2026-10-17T23:17:31-03:00",
-      "last_checked_at": "2026-10-17T23:18:48-03:00",
-      "classification": "B",
-      "risk_flags": [
-        "occupied",
-        "aggregator_listing_unverified"
-      ],
-      "field_verification": {
-        "city": "declared",
-        "property_type": "declared",
-        "appraisal_value_brl": "declared",
-        "first_minimum_bid_brl": "unknown",
-        "second_minimum_bid_brl": "unknown",
-        "current_minimum_bid_brl": "declared",
-        "occupancy": "declared",
-        "registry_number": "declared",
-        "auction_events": "declared",
-        "official_url": "unverified",
-        "edital_url": "verified",
-        "auctioneer": "unverified"
-      },
-      "provenance": {
-        "source_id": "hasta",
-        "captured_from": "https://hasta.com.br/imovel/2092483-apartamento-601-2-vagas-balneario-camboriu-sc",
-        "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento 601 - 2 vagas - Balneário Camboriú/SC 📍 Balneário Camboriú, SC R$ 1.803.663,00 hasta Imóveis Modalidades Estados Ferramentas Conteúdo Analisar imóvel Hasta › Leilões › Balneário Camboriú › Barra Sul › Apartamento 601 - 2 vagas - Balneário Camboriú/SC Apartamento #2092483 Apartamento 601 - 2 vagas - Balneário Camboriú/SC 📍 Barra Sul, Balneário Camboriú, SC Lance mínimo R$ 1.803.663,00 Avaliação R$ 1.803.663,00 Ver no site e dar lance → 🧮 Calcular o lance máximo ← Voltar à lista de imóveis A Hasta não realiza leilões nem recebe lances: o leilão e o pagamento acontecem no site do leiloeiro oficial. Confira sempre o edital antes de dar lance. Termos de uso 1º leilão 23/11/2026 Modalidade Extrajudicial Leiloeiro RAPHAEL PERINI 🔔 Me lembrar no WhatsApp Visão geral Custos Localização Documentos Perguntas Semelhantes Análise Hasta m² típico em Balneário Camboriú R$ 16.359/m² · base de 344 anúncios Anunciado na Hasta 15/10/2026 (há 2 dias) Descrição Aapartamento 601 com área total de 161,876m² (área privativa de 128,750m² e comum de 33.126m³) e duas vagas de garagem n.º 05 e 05A com área privativa de 12,50m² cada, do Ed. Res. Rainha Vitória - Rua 3900, n.º 133, Bal. Camboriú-SC. Matrículas 20762, 23754 e 24853 do 2º Ofício de Registro de Imóveis de Balneário Camboriú/SC. Prédio de uso residencial na região Barra Sul, Praia Central de Balneário Camboriú/SC, a poucos mais de 100 metros da praia. As ruas da região possuem calçamento e iluminação pública. A região contém bons restaurantes, mercados e outras opções de comércio. Da sacada do apartamento, tem-se visão do mar. Maps.: https://maps.app.goo.gl/3MkUPKP5AP22a5Xt5 Localização 📍 Barra Sul, Balneário Camboriú, SC Ver mapa ampliado ↗ Perfil da região Salário médio mensal (trabalho formal): 2.5 salários mínimos (ano de referência: 2021) População (Censo 2022): 139.155 pessoas (ano de referência: 2022) Densidade demográfica: 3.078 hab/km² (ano de referência: 2022) População com rendimento até ½ salário mínimo: 23.4 % (ano de referência: 2010) População ocupada: 57.89 % (ano de referência: 2022) Área da unidade territorial: 45.214 km² (ano de referência: 2025) Taxa de crescimento anual: 2.13 % a.a. (ano de referência: 2022) Taxa de alfabetização (15+): 98.81 % (ano de referência: 2022) Quanto custa arrematar este imóvel Lance mínimo R$ 1.803.663,00 Comissão do leiloeiro (5%) R$ 90.183,15 ITBI (3%) R$ 54.109,89 Escritura e registro (1,5%) R$ 27.054,94 Custo total estimado R$ 1.975.010,98 Percentuais padrão de mercado; o edital do leilão pode fixar valores diferentes (sobretudo a comissão) — confirme no edital. Alíquota de ITBI padrão de 3% — varia por município; confirme na prefeitura ou no laudo completo. Débitos de IPTU e condomínio e o custo de desocupação não entram na conta: quem responde por eles depende do tipo de leilão — veja o bloco \"O que checar antes de arrematar\". Há 88 imóveis em leilão à venda agora em Balneário Camboriú/SC, com desconto médio de 55% sobre a avaliação. P"
-      },
-      "newly_discovered_at": "2026-10-17T23:17:31-03:00"
-    },
-    {
       "id": "a428b14c589e5f206806",
       "source_ids": [
         "hasta"
@@ -2466,6 +2268,18 @@
       "discount_on_appraisal_percent": 0.0,
       "auction_events": [
         {
+          "date": "2026-10-14",
+          "time": null,
+          "minimum_bid_brl": 1803663.0,
+          "stage": "unknown"
+        },
+        {
+          "date": "2026-10-15",
+          "time": null,
+          "minimum_bid_brl": null,
+          "stage": "second"
+        },
+        {
           "date": "2026-11-23",
           "time": null,
           "minimum_bid_brl": null,
@@ -2476,12 +2290,6 @@
           "time": null,
           "minimum_bid_brl": null,
           "stage": "second"
-        },
-        {
-          "date": "2026-10-14",
-          "time": null,
-          "minimum_bid_brl": 1803663.0,
-          "stage": "unknown"
         }
       ],
       "commission_percent": null,
@@ -2489,16 +2297,17 @@
       "occupancy": "ocupado",
       "status": "active",
       "official_url": null,
-      "source_listing_url": "https://hasta.com.br/imovel/2074343-apartamento-601-2-vagas-balneario-camboriu-sc",
+      "source_listing_url": "https://hasta.com.br/imovel/2092483-apartamento-601-2-vagas-balneario-camboriu-sc",
       "validation_status": "nao_verificado",
       "edital_url": "https://hasta.com.br/guias/analise-de-edital-e-matricula",
       "document_urls": [
         "https://hasta.com.br/imovel/2074343-apartamento-601-2-vagas-balneario-camboriu-sc#nh-fx-docs",
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/docs/55/556f0fe9b6137180c89b84077de8661ae130da3c98f4ff6ccb31e1f4d4a9f207.pdf",
-        "https://hasta.com.br/guias/analise-de-edital-e-matricula"
+        "https://hasta.com.br/guias/analise-de-edital-e-matricula",
+        "https://hasta.com.br/imovel/2092483-apartamento-601-2-vagas-balneario-camboriu-sc#nh-fx-docs"
       ],
       "image_urls": [],
-      "first_seen_at": "2026-10-17T23:17:33-03:00",
+      "first_seen_at": "2026-10-17T23:17:31-03:00",
       "last_checked_at": "2026-10-17T23:18:48-03:00",
       "classification": "B",
       "risk_flags": [
@@ -2517,15 +2326,24 @@
         "auction_events": "declared",
         "official_url": "unverified",
         "edital_url": "verified",
-        "auctioneer": "unverified"
+        "auctioneer": "unverified",
+        "address": "unknown"
       },
       "provenance": {
         "source_id": "hasta",
-        "captured_from": "https://hasta.com.br/imovel/2074343-apartamento-601-2-vagas-balneario-camboriu-sc",
+        "captured_from": "https://hasta.com.br/imovel/2092483-apartamento-601-2-vagas-balneario-camboriu-sc",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento 601 - 2 vagas - Balneário Camboriú/SC 📍 Balneário Camboriú, SC R$ 1.803.663,00 hasta Imóveis Modalidades Estados Ferramentas Conteúdo Analisar imóvel Hasta › Leilões › Balneário Camboriú › Barra Sul › Apartamento 601 - 2 vagas - Balneário Camboriú/SC Apartamento #2074343 Apartamento 601 - 2 vagas - Balneário Camboriú/SC 📍 Barra Sul, Balneário Camboriú, SC, 88330188 Lance mínimo R$ 1.803.663,00 Avaliação R$ 1.803.663,00 Lance mínimo (2ª praça) R$ 1.803.663,00 Ver no site e dar lance → 🧮 Calcular o lance máximo ← Voltar à lista de imóveis A Hasta não realiza leilões nem recebe lances: o leilão e o pagamento acontecem no site do leiloeiro oficial. Confira sempre o edital antes de dar lance. Termos de uso 1º leilão 23/11/2026 2º leilão 28/07/2027 Modalidade Extrajudicial Leiloeiro RAPHAEL PERINI 🔔 Me lembrar no WhatsApp Visão geral Custos Localização Documentos Perguntas Semelhantes Análise Hasta m² típico em Balneário Camboriú R$ 16.359/m² · base de 344 anúncios Anunciado na Hasta 14/10/2026 (há 3 dias) Descrição Aapartamento 601 com área total de 161,876m² (área privativa de 128,750m² e comum de 33.126m³) e duas vagas de garagem n.º 05 e 05A com área privativa de 12,50m² cada, do Ed. Res. Rainha Vitória - Rua 3900, n.º 133, Bal. Camboriú-SC. Matrículas 20762, 23754 e 24853 do 2º Ofício de Registro de Imóveis de Balneário Camboriú/SC. Prédio de uso residencial na região Barra Sul, Praia Central de Balneário Camboriú/SC, a poucos mais de 100 metros da praia. As ruas da região possuem calçamento e iluminação pública. A região contém bons restaurantes, mercados e outras opções de comércio. Da sacada do apartamento, tem-se visão do mar. Maps.: https://maps.app.goo.gl/3MkUPKP5AP22a5Xt5 Localização 📍 Barra Sul, Balneário Camboriú, SC Ver mapa ampliado ↗ Perfil da região Salário médio mensal (trabalho formal): 2.5 salários mínimos (ano de referência: 2021) População (Censo 2022): 139.155 pessoas (ano de referência: 2022) Densidade demográfica: 3.078 hab/km² (ano de referência: 2022) População com rendimento até ½ salário mínimo: 23.4 % (ano de referência: 2010) População ocupada: 57.89 % (ano de referência: 2022) Área da unidade territorial: 45.214 km² (ano de referência: 2025) Taxa de crescimento anual: 2.13 % a.a. (ano de referência: 2022) Taxa de alfabetização (15+): 98.81 % (ano de referência: 2022) Quanto custa arrematar este imóvel Lance mínimo R$ 1.803.663,00 Comissão do leiloeiro (5%) R$ 90.183,15 ITBI (3%) R$ 54.109,89 Escritura e registro (1,5%) R$ 27.054,94 Custo total estimado R$ 1.975.010,98 Percentuais padrão de mercado; o edital do leilão pode fixar valores diferentes (sobretudo a comissão) — confirme no edital. Alíquota de ITBI padrão de 3% — varia por município; confirme na prefeitura ou no laudo completo. Débitos de IPTU e condomínio e o custo de desocupação não entram na conta: quem responde por eles depende do tipo de leilão — veja o bloco \"O que checar antes de arrematar\". Há 88 imóveis em leilão à venda agora e"
+        "raw_text": "Apartamento Apartamento 601 - 2 vagas - Balneário Camboriú/SC 📍 Balneário Camboriú, SC R$ 1.803.663,00 hasta Imóveis Modalidades Estados Ferramentas Conteúdo Analisar imóvel Hasta › Leilões › Balneário Camboriú › Barra Sul › Apartamento 601 - 2 vagas - Balneário Camboriú/SC Apartamento #2092483 Apartamento 601 - 2 vagas - Balneário Camboriú/SC 📍 Barra Sul, Balneário Camboriú, SC Lance mínimo R$ 1.803.663,00 Avaliação R$ 1.803.663,00 Ver no site e dar lance → 🧮 Calcular o lance máximo ← Voltar à lista de imóveis A Hasta não realiza leilões nem recebe lances: o leilão e o pagamento acontecem no site do leiloeiro oficial. Confira sempre o edital antes de dar lance. Termos de uso 1º leilão 23/11/2026 Modalidade Extrajudicial Leiloeiro RAPHAEL PERINI 🔔 Me lembrar no WhatsApp Visão geral Custos Localização Documentos Perguntas Semelhantes Análise Hasta m² típico em Balneário Camboriú R$ 16.359/m² · base de 344 anúncios Anunciado na Hasta 15/10/2026 (há 2 dias) Descrição Aapartamento 601 com área total de 161,876m² (área privativa de 128,750m² e comum de 33.126m³) e duas vagas de garagem n.º 05 e 05A com área privativa de 12,50m² cada, do Ed. Res. Rainha Vitória - Rua 3900, n.º 133, Bal. Camboriú-SC. Matrículas 20762, 23754 e 24853 do 2º Ofício de Registro de Imóveis de Balneário Camboriú/SC. Prédio de uso residencial na região Barra Sul, Praia Central de Balneário Camboriú/SC, a poucos mais de 100 metros da praia. As ruas da região possuem calçamento e iluminação pública. A região contém bons restaurantes, mercados e outras opções de comércio. Da sacada do apartamento, tem-se visão do mar. Maps.: https://maps.app.goo.gl/3MkUPKP5AP22a5Xt5 Localização 📍 Barra Sul, Balneário Camboriú, SC Ver mapa ampliado ↗ Perfil da região Salário médio mensal (trabalho formal): 2.5 salários mínimos (ano de referência: 2021) População (Censo 2022): 139.155 pessoas (ano de referência: 2022) Densidade demográfica: 3.078 hab/km² (ano de referência: 2022) População com rendimento até ½ salário mínimo: 23.4 % (ano de referência: 2010) População ocupada: 57.89 % (ano de referência: 2022) Área da unidade territorial: 45.214 km² (ano de referência: 2025) Taxa de crescimento anual: 2.13 % a.a. (ano de referência: 2022) Taxa de alfabetização (15+): 98.81 % (ano de referência: 2022) Quanto custa arrematar este imóvel Lance mínimo R$ 1.803.663,00 Comissão do leiloeiro (5%) R$ 90.183,15 ITBI (3%) R$ 54.109,89 Escritura e registro (1,5%) R$ 27.054,94 Custo total estimado R$ 1.975.010,98 Percentuais padrão de mercado; o edital do leilão pode fixar valores diferentes (sobretudo a comissão) — confirme no edital. Alíquota de ITBI padrão de 3% — varia por município; confirme na prefeitura ou no laudo completo. Débitos de IPTU e condomínio e o custo de desocupação não entram na conta: quem responde por eles depende do tipo de leilão — veja o bloco \"O que checar antes de arrematar\". Há 88 imóveis em leilão à venda agora em Balneário Camboriú/SC, com desconto médio de 55% sobre a avaliação. P",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2074343-apartamento-601-2-vagas-balneario-camboriu-sc",
+          "https://hasta.com.br/imovel/2092483-apartamento-601-2-vagas-balneario-camboriu-sc"
+        ]
       },
-      "newly_discovered_at": "2026-10-17T23:17:33-03:00"
+      "newly_discovered_at": "2026-10-17T23:17:31-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2092483-apartamento-601-2-vagas-balneario-camboriu-sc",
+        "https://hasta.com.br/imovel/2074343-apartamento-601-2-vagas-balneario-camboriu-sc"
+      ]
     },
     {
       "id": "b79898cf34e4838c3449",
@@ -2703,73 +2521,6 @@
         "raw_text": "Apartamento Apartamento Condomínio, Residencial, 2 dormitório(s), 1 vaga(s) de garagem 📍 Balneário Camboriú, SC R$ 1.100.000,00"
       },
       "source_listing_price_brl": 1100000.0,
-      "newly_discovered_at": "2026-10-17T23:23:58-03:00"
-    },
-    {
-      "id": "e98e0977d4e843841950",
-      "source_ids": [
-        "hasta"
-      ],
-      "source_listing_ids": [],
-      "city": "Balneário Camboriú",
-      "state": "SC",
-      "neighborhood": null,
-      "address": null,
-      "property_type": "Apartamento",
-      "area_privative_m2": null,
-      "area_built_m2": null,
-      "area_total_m2": null,
-      "registry_number": null,
-      "registry_office": "O CAMBORIÚ 📍 Balneário Camboriú",
-      "auction_lot": null,
-      "auctioneer": null,
-      "seller": null,
-      "modality": null,
-      "appraisal_value_brl": null,
-      "first_minimum_bid_brl": null,
-      "second_minimum_bid_brl": null,
-      "current_minimum_bid_brl": null,
-      "discount_on_appraisal_percent": null,
-      "auction_events": [],
-      "commission_percent": null,
-      "payment_conditions": null,
-      "occupancy": null,
-      "status": "unknown",
-      "official_url": null,
-      "source_listing_url": "https://hasta.com.br/imovel/1273929-2apraca-apto-edificio-liverpool-balneario-camboriu",
-      "validation_status": "nao_verificado",
-      "edital_url": null,
-      "document_urls": [],
-      "image_urls": [],
-      "first_seen_at": "2026-10-17T23:23:58-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
-      "classification": "B",
-      "risk_flags": [
-        "occupancy_unknown",
-        "aggregator_listing_unverified"
-      ],
-      "field_verification": {
-        "city": "declared",
-        "property_type": "declared",
-        "appraisal_value_brl": "unknown",
-        "first_minimum_bid_brl": "unknown",
-        "second_minimum_bid_brl": "unknown",
-        "current_minimum_bid_brl": "unknown",
-        "occupancy": "unknown",
-        "registry_number": "unknown",
-        "auction_events": "unknown",
-        "official_url": "unverified",
-        "auctioneer": "unverified",
-        "address": "unknown",
-        "source_listing_price_brl": "declared"
-      },
-      "provenance": {
-        "source_id": "hasta",
-        "captured_from": "https://hasta.com.br/imovel/1273929-2apraca-apto-edificio-liverpool-balneario-camboriu",
-        "is_aggregator": true,
-        "raw_text": "Apartamento 2ªPRAÇA:APTO EDIFÍCIO LIVERPOOL BALNEÁRIO CAMBORIÚ 📍 Balneário Camboriú, SC R$ 765.000,00 49% OFF"
-      },
-      "source_listing_price_brl": 765000.0,
       "newly_discovered_at": "2026-10-17T23:23:58-03:00"
     },
     {
@@ -5242,12 +4993,24 @@
       "auctioneer": "oficial. Confira sempre",
       "seller": null,
       "modality": "judicial",
-      "appraisal_value_brl": 330000.0,
+      "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
-      "current_minimum_bid_brl": 264607.48,
+      "current_minimum_bid_brl": 265923.58,
       "discount_on_appraisal_percent": 19.82,
       "auction_events": [
+        {
+          "date": "2026-08-25",
+          "time": null,
+          "minimum_bid_brl": null,
+          "stage": "second"
+        },
+        {
+          "date": "2026-10-16",
+          "time": null,
+          "minimum_bid_brl": null,
+          "stage": "second"
+        },
         {
           "date": "2026-10-22",
           "time": null,
@@ -5255,10 +5018,10 @@
           "stage": "first"
         },
         {
-          "date": "2026-08-25",
+          "date": "2027-01-25",
           "time": null,
           "minimum_bid_brl": null,
-          "stage": "second"
+          "stage": "first"
         }
       ],
       "commission_percent": null,
@@ -5266,21 +5029,25 @@
       "occupancy": "ocupado",
       "status": "unknown",
       "official_url": null,
-      "source_listing_url": "https://hasta.com.br/imovel/959402-apartamento-no-501-bloco-01-no-edificio-spazio-jardim-do-sol-em-joinville-sc",
+      "source_listing_url": "https://hasta.com.br/imovel/2129698-apartamento-no-501-bloco-01-no-edificio-spazio-jardim-do-sol-em-joinville-sc",
       "validation_status": "nao_verificado",
-      "edital_url": "https://csdl-production.s3-sa-east-1.amazonaws.com/uploads/arquivos/editais/12034/4_Vara_C_vel_da_Comarca_de_Joinville_5028987-27.2025.8.24.0038_L_CIO_prwa7dsk.docx",
+      "edital_url": "https://img.centralsuldeleiloes.com.br/uploads/arquivos/editais/12248/4_Vara_C_vel_da_Comarca_de_Joinville_5028987-27.2025.8.24.0038_L_CIO_gastd7kv.docx",
       "document_urls": [
         "https://hasta.com.br/imovel/959402-apartamento-no-501-bloco-01-no-edificio-spazio-jardim-do-sol-em-joinville-sc#nh-fx-docs",
         "https://csdl-production.s3-sa-east-1.amazonaws.com/uploads/arquivos/matriculas_lotes/243740/Matricula_39.849_ATUALIZADA_rlrhf9d7.pdf",
         "https://csdl-production.s3-sa-east-1.amazonaws.com/uploads/arquivos/editais/12034/4_Vara_C_vel_da_Comarca_de_Joinville_5028987-27.2025.8.24.0038_L_CIO_prwa7dsk.docx",
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/anexos/sc/243740/edital.pdf",
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/anexos/sc/243740/matricula-39-849-atualizada-rlrhf9d7.pdf",
-        "https://hasta.com.br/guias/analise-de-edital-e-matricula"
+        "https://hasta.com.br/guias/analise-de-edital-e-matricula",
+        "https://hasta.com.br/imovel/2129698-apartamento-no-501-bloco-01-no-edificio-spazio-jardim-do-sol-em-joinville-sc#nh-fx-docs",
+        "https://img.centralsuldeleiloes.com.br/uploads/arquivos/matriculas_lotes/244008/Matricula_39.849_ATUALIZADA_7njf3ut6.pdf",
+        "https://img.centralsuldeleiloes.com.br/uploads/arquivos/editais/12248/4_Vara_C_vel_da_Comarca_de_Joinville_5028987-27.2025.8.24.0038_L_CIO_gastd7kv.docx"
       ],
       "image_urls": [
-        "https://hasta.com.br/foto/959402/0.jpg"
+        "https://hasta.com.br/foto/2129698/0.jpg",
+        "https://hasta.com.br/foto/2129698/1.jpg"
       ],
-      "first_seen_at": "2026-10-17T23:13:36-03:00",
+      "first_seen_at": "2026-10-17T23:13:02-03:00",
       "last_checked_at": "2026-10-17T23:18:48-03:00",
       "classification": "B",
       "risk_flags": [
@@ -5290,7 +5057,7 @@
       "field_verification": {
         "city": "declared",
         "property_type": "declared",
-        "appraisal_value_brl": "declared",
+        "appraisal_value_brl": "unknown",
         "first_minimum_bid_brl": "unknown",
         "second_minimum_bid_brl": "unknown",
         "current_minimum_bid_brl": "declared",
@@ -5299,15 +5066,24 @@
         "auction_events": "declared",
         "official_url": "unverified",
         "edital_url": "verified",
-        "auctioneer": "unverified"
+        "auctioneer": "unverified",
+        "address": "unknown"
       },
       "provenance": {
         "source_id": "hasta",
-        "captured_from": "https://hasta.com.br/imovel/959402-apartamento-no-501-bloco-01-no-edificio-spazio-jardim-do-sol-em-joinville-sc",
+        "captured_from": "https://hasta.com.br/imovel/2129698-apartamento-no-501-bloco-01-no-edificio-spazio-jardim-do-sol-em-joinville-sc",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento nº 501, bloco 01, no Edifício Spazio Jardim do Sol, em Joinville/SC 📍 Joinville, SC R$ 264.607,48 hasta Imóveis Modalidades Estados Ferramentas Conteúdo Analisar imóvel Hasta › Leilões › Joinville › Itaum › Apartamento nº 501, bloco 01, no Edifício Spazio Jardim do Sol, em Joinville/SC Apartamento #959402 Apartamento nº 501, bloco 01, no Edifício Spazio Jardim do Sol, em Joinville/SC 📍 Itaum, Joinville, SC Lance mínimo R$ 264.607,48 Avaliação R$ 330.000,00 Ver no site e dar lance → 🧮 Calcular o lance máximo ← Voltar à lista de imóveis A Hasta não realiza leilões nem recebe lances: o leilão e o pagamento acontecem no site do leiloeiro oficial. Confira sempre o edital antes de dar lance. Termos de uso 1º leilão 22/10/2026 Modalidade Extrajudicial Leiloeiro Lúcio Ubialli 🔔 Me lembrar no WhatsApp Visão geral Custos Localização Documentos Perguntas Semelhantes Análise Hasta m² típico em Itaum R$ 5.167/m² · base de 9 anúncios Anunciado na Hasta 25/08/2026 (há 53 dias) Score de oportunidade 41/100 Descrição Processo nº 5028987-27.2025.8.24.0038 Exequente(s): Spazio Jardim do Sol Executado(s): Vanessa Caroline Silva Bem(ns): 01 (um) apartamento n° 501, do Bloco 01, localizado no 5° pavimento, 4° tipo, do Edifício Spazio Jardim do Sol, situado na Rua São Paulo, nº 3.712, Petrópolis, Município de Joinville/SC, com a área construída de utilização exclusiva de 47,0400m², área de uso comum coberta de 6,3685m², área total construída de 53,4085m², área comum descoberta de 12,4246m², área correspondente ou global de 77,8331m² e fração ideal de solo e partes comuns de 0,008681490, equivalente a 54,8201m² (com direito de uso da vaga de garagem n° 33 descoberta, localizada no nível térreo); matriculado sob o nº 39.849 do 3º O.R.I. de Joinville/SC. Obs.: Inscrição imobiliária sob o nº 13.10.34.13.0271.000. Possui 2 quartos, 1 banheiro, cozinha e sala integradas. O imóvel está localizado em região plana, rua pavimentada de grande circulação, com boa infraestrutura urbana (água, coleta de lixo, energia elétrica, gás etc), e próximo a diversos serviços, como escolas, posto de saúde, mercado, farmácia e comércio em geral. Ônus: Manutenção Ambiental - APP, conforme Av-5; alienação fiduciária em favor do Banco do Brasil S.A. Avaliado em R$ 330.000,00, em 10/06/2026, corrigido R$ 330.759,36 (trezentos e trinta mil, setecentos e cinquenta e nove reais e trinta e seis centavos) , em julho de 2026. Obs.: débito condominial de natureza propter rem informado pelo credor no valor de R$ 25.646,80, atualizado em 11/08/2026, objeto do cumprimento de sentença nº 5028987-27.2025.8.24.0038. Obs.: a porcentagem mínima para arrematação do bem corresponde a 80% (oitenta por cento) do valor de avaliação, conforme determinação do Evento 100. Localização 📍 Itaum, Joinville, SC Ver mapa ampliado ↗ Perfil da região Salário médio mensal (trabalho formal): 2.9 salários mínimos (ano de referência: 2021) População (Censo 2022): 616.317 pessoas (ano de referência: 2022) Den"
+        "raw_text": "Apartamento Apartamento nº 501, bloco 01, no Edifício Spazio Jardim do Sol, em Joinville/SC 📍 Joinville, SC R$ 265.923,58 hasta Imóveis Modalidades Estados Ferramentas Conteúdo Analisar imóvel Hasta › Leilões › Joinville › Apartamento nº 501, bloco 01, no Edifício Spazio Jardim do Sol, em Joinville/SC Apartamento #2129698 Apartamento nº 501, bloco 01, no Edifício Spazio Jardim do Sol, em Joinville/SC 📍 Joinville, SC Lance mínimo R$ 265.923,58 Ver no site e dar lance → 🧮 Calcular o lance máximo ← Voltar à lista de imóveis A Hasta não realiza leilões nem recebe lances: o leilão e o pagamento acontecem no site do leiloeiro oficial. Confira sempre o edital antes de dar lance. Termos de uso 1º leilão 25/01/2027 Modalidade Extrajudicial Leiloeiro Lúcio Ubialli 🔔 Me lembrar no WhatsApp Visão geral Custos Localização Documentos Perguntas Semelhantes Análise Hasta m² típico em Joinville R$ 6.202/m² · base de 358 anúncios Anunciado na Hasta 16/10/2026 (há 1 dia) Score de oportunidade 41/100 Descrição Processo nº 5028987-27.2025.8.24.0038 Exequente(s): Spazio Jardim do Sol Executado(s): Vanessa Caroline Silva Bem(ns): 01 (um) apartamento n° 501, do Bloco 01, localizado no 5° pavimento, 4° tipo, do Edifício Spazio Jardim do Sol, situado na Rua São Paulo, nº 3.712, Petrópolis, Município de Joinville/SC, com a área construída de utilização exclusiva de 47,0400m², área de uso comum coberta de 6,3685m², área total construída de 53,4085m², área comum descoberta de 12,4246m², área correspondente ou global de 77,8331m² e fração ideal de solo e partes comuns de 0,008681490, equivalente a 54,8201m² (com direito de uso da vaga de garagem n° 33 descoberta, localizada no nível térreo); matriculado sob o nº 39.849 do 3º O.R.I. de Joinville/SC. Obs.: Inscrição imobiliária sob o nº 13.10.34.13.0271.000. Possui 2 quartos, 1 banheiro, cozinha e sala integradas. O imóvel está localizado em região plana, rua pavimentada de grande circulação, com boa infraestrutura urbana (água, coleta de lixo, energia elétrica, gás etc), e próximo a diversos serviços, como escolas, posto de saúde, mercado, farmácia e comércio em geral. Ônus: Manutenção Ambiental - APP, conforme Av-5; alienação fiduciária em favor do Banco do Brasil S.A. Avaliado em R$ 330.000,00, em 10/06/2026, corrigido R$ 332.404,48 (trezentos e trinta e dois mil, quatrocentos e quatro reais e quarenta e oito centavos) , em setembro de 2026. Obs.: débito condominial de natureza propter rem informado pelo credor no valor de R$ 25.646,80, atualizado em 11/08/2026, objeto do cumprimento de sentença nº 5028987-27.2025.8.24.0038. Obs.: a porcentagem mínima para arrematação do bem corresponde a 80% (oitenta por cento) do valor de avaliação, conforme determinação do Evento 100. Localização 📍 Joinville, SC Localização aproximada — o anúncio não informou o endereço exato. Ver mapa ampliado ↗ Perfil da região Salário médio mensal (trabalho formal): 2.9 salários mínimos (ano de referência: 2021) População (Censo 2022): 616.317 pessoas ",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/959402-apartamento-no-501-bloco-01-no-edificio-spazio-jardim-do-sol-em-joinville-sc",
+          "https://hasta.com.br/imovel/2129698-apartamento-no-501-bloco-01-no-edificio-spazio-jardim-do-sol-em-joinville-sc"
+        ]
       },
-      "newly_discovered_at": "2026-10-17T23:13:36-03:00"
+      "newly_discovered_at": "2026-10-17T23:13:02-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2129698-apartamento-no-501-bloco-01-no-edificio-spazio-jardim-do-sol-em-joinville-sc",
+        "https://hasta.com.br/imovel/959402-apartamento-no-501-bloco-01-no-edificio-spazio-jardim-do-sol-em-joinville-sc"
+      ]
     },
     {
       "id": "3714117092feb852b763",
@@ -9663,7 +9439,7 @@
       "occupancy": "ocupado",
       "status": "unknown",
       "official_url": null,
-      "source_listing_url": "https://hasta.com.br/imovel/2102539-lote-02-terrno-em-joinville-com-area-de-408-52-m2",
+      "source_listing_url": "https://hasta.com.br/imovel/1676221-lote-02-terrno-em-joinville-com-area-de-408-52-m2",
       "validation_status": "nao_verificado",
       "edital_url": "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/docs/c4/c4a63b7b7f92eba38d51a4d62f09756b233ba5074f4f700831a9321b407ff4cd.pdf",
       "document_urls": [
@@ -9689,7 +9465,7 @@
         "https://hasta.com.br/foto/2102539/11.jpg"
       ],
       "first_seen_at": "2026-10-17T23:15:27-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
+      "last_checked_at": "2026-10-19T13:45:41-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -9714,12 +9490,20 @@
       },
       "provenance": {
         "source_id": "hasta",
-        "captured_from": "https://hasta.com.br/imovel/2102539-lote-02-terrno-em-joinville-com-area-de-408-52-m2",
+        "captured_from": "https://hasta.com.br/imovel/1676221-lote-02-terrno-em-joinville-com-area-de-408-52-m2",
         "is_aggregator": true,
-        "raw_text": "Imóvel LOTE 02: Terrno em Joinville Com área de 408,52 m² 📍 Joinville, SC R$ 194.312,00"
+        "raw_text": "Terreno Lote 02: terrno em joinville com área de 408,52 m² 📍 Joinville, SC R$ 194.312,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2102539-lote-02-terrno-em-joinville-com-area-de-408-52-m2",
+          "https://hasta.com.br/imovel/1676221-lote-02-terrno-em-joinville-com-area-de-408-52-m2"
+        ]
       },
       "source_listing_price_brl": 194312.0,
-      "newly_discovered_at": "2026-10-17T23:15:27-03:00"
+      "newly_discovered_at": "2026-10-19T13:45:41-03:00",
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1676221-lote-02-terrno-em-joinville-com-area-de-408-52-m2",
+        "https://hasta.com.br/imovel/2102539-lote-02-terrno-em-joinville-com-area-de-408-52-m2"
+      ]
     },
     {
       "id": "99c72df97d5ffdb90390",
@@ -11752,72 +11536,6 @@
       "newly_discovered_at": "2026-10-17T23:15:28-03:00"
     },
     {
-      "id": "ce53bc97541685740e5d",
-      "source_ids": [
-        "hasta"
-      ],
-      "source_listing_ids": [],
-      "city": "Joinville",
-      "state": "SC",
-      "neighborhood": null,
-      "address": null,
-      "property_type": "Terreno",
-      "area_privative_m2": 408.52,
-      "area_built_m2": null,
-      "area_total_m2": null,
-      "registry_number": null,
-      "registry_office": null,
-      "auction_lot": "02",
-      "auctioneer": null,
-      "seller": null,
-      "modality": null,
-      "appraisal_value_brl": null,
-      "first_minimum_bid_brl": null,
-      "second_minimum_bid_brl": null,
-      "current_minimum_bid_brl": null,
-      "source_listing_price_brl": 194312.0,
-      "discount_on_appraisal_percent": null,
-      "auction_events": [],
-      "commission_percent": null,
-      "payment_conditions": null,
-      "occupancy": null,
-      "status": "unknown",
-      "official_url": null,
-      "source_listing_url": "https://hasta.com.br/imovel/1676221-lote-02-terrno-em-joinville-com-area-de-408-52-m2",
-      "validation_status": "nao_verificado",
-      "edital_url": null,
-      "document_urls": [],
-      "image_urls": [],
-      "first_seen_at": "2026-10-19T13:45:31-03:00",
-      "last_checked_at": "2026-10-19T13:45:41-03:00",
-      "classification": "B",
-      "risk_flags": [
-        "occupancy_unknown",
-        "aggregator_listing_unverified"
-      ],
-      "field_verification": {
-        "city": "declared",
-        "property_type": "declared",
-        "appraisal_value_brl": "unknown",
-        "first_minimum_bid_brl": "unknown",
-        "second_minimum_bid_brl": "unknown",
-        "current_minimum_bid_brl": "unknown",
-        "occupancy": "unknown",
-        "registry_number": "unknown",
-        "auction_events": "unknown",
-        "source_listing_price_brl": "declared",
-        "official_url": "unverified",
-        "auctioneer": "unverified"
-      },
-      "provenance": {
-        "source_id": "hasta",
-        "captured_from": "https://hasta.com.br/imovel/1676221-lote-02-terrno-em-joinville-com-area-de-408-52-m2",
-        "is_aggregator": true,
-        "raw_text": "Terreno Lote 02: terrno em joinville com área de 408,52 m² 📍 Joinville, SC R$ 194.312,00"
-      },
-      "newly_discovered_at": "2026-10-19T13:45:41-03:00"
-    },
-    {
       "id": "d10052fd6fcc46714b24",
       "source_ids": [
         "hasta"
@@ -13448,94 +13166,6 @@
         "raw_text": "Apartamento Apartamento nº 401, bloco 24 e vaga de garagem nº 139, no Condomínio Residencial Park Sul, em Joinville/SC 📍 Joinville, SC R$ 103.725,57 hasta Imóveis Modalidades Estados Ferramentas Conteúdo Analisar imóvel Hasta › Leilões › Joinville › Joao Costa › Apartamento nº 401, bloco 24 e vaga de garagem nº 139, no Condomínio Residencial Park Sul, em Joinville/SC Apartamento #1966866 Apartamento nº 401, bloco 24 e vaga de garagem nº 139, no Condomínio Residencial Park Sul, em Joinville/SC 📍 Joao Costa, Joinville, SC Lance mínimo R$ 103.725,57 Ver no site e dar lance → 🧮 Calcular o lance máximo ← Voltar à lista de imóveis A Hasta não realiza leilões nem recebe lances: o leilão e o pagamento acontecem no site do leiloeiro oficial. Confira sempre o edital antes de dar lance. Termos de uso 1º leilão 10/12/2026 Modalidade Extrajudicial Leiloeiro Lúcio Ubialli 🔔 Me lembrar no WhatsApp Visão geral Custos Localização Documentos Perguntas Semelhantes Análise Hasta m² típico em Joinville R$ 6.202/m² · base de 358 anúncios Anunciado na Hasta 10/10/2026 (há 7 dias) Score de oportunidade 41/100 Descrição Processo nº 5005935-07.2022.8.24.0038 Exequente(s): Residencial Park Sul Executado(s): Felipe Pires de Lima e outro Bem(ns): 01 (um) apartamento nº 401, do Bloco 24, tipo J, do Condomínio Residencial Park Sul com a área construída privativa de 54,1400m², área construída comum de 7,37695620m², perfazendo a área correspondente ou global construída de 61,51695620m², e a Vaga de garagem nº 139 (descoberta, com área de 12,00m², localizada no nível térreo). Apartamento este localizado no 3º pavimento tipo ou 4º pavimento, primeiro apartamento à direita de quem acessa o hall do térreo do bloco pela entrada principal, situado com acesso pela Rua Manuel Agostinho de Carvalho e pela Rua Nilson João Raulino, Município e Comarca de Joinville/SC; matriculado sob o nº 38.051 do 3º O.R.I. de Joinville/SC. Obs.: Endereço atual: Rua Manuel Agostinho de Carvalho, 350, Unidade 401, Bloco 24, João Costa, Joinville/SC. Ônus: Penhorado nos autos nº 5045674-50.2023.8.24.0038 que tramita na 5ª Vara Cível da Comarca de Joinville/SC, Manutenção Florestal, conforme Av-5; alienação fiduciária em favor da Caixa Econômica Federal - CEF. Avaliado em R$ 200.000,00, em 30/10/2025, corrigido R$ 207.451,14 (duzentos e sete mil, quatrocentos e cinquenta e um reais e quatorze centavos) , em agosto de 2026. Obs.: Débito condominial de natureza propter rem informado pelo credor no valor de R$ 73.431,84, atualizado em 25/09/2026, objeto do cumprimento de sentença nº 5045674-50.2023.8.24.0038. Obs.: Débito condominial de natureza propter rem informado pelo credor no valor de R$ 42.701,94, atualizado em 08/10/2026, objeto do cumprimento de sentença nº 5005935-07.2022.8.24.0038. Obs.: Eventual dívida condominial remanescente da unidade ficará a encargo do arrematante, conforme determinado no Evento 136. Localização 📍 Joao Costa, Joinville, SC Ver mapa ampliado ↗ Perfil da região Salário médio mens"
       },
       "newly_discovered_at": "2026-10-17T23:13:12-03:00"
-    },
-    {
-      "id": "ee8c64cc30b3438f05eb",
-      "source_ids": [
-        "hasta"
-      ],
-      "source_listing_ids": [
-        "501"
-      ],
-      "city": "Joinville",
-      "state": "SC",
-      "neighborhood": null,
-      "address": null,
-      "property_type": "Apartamento",
-      "area_privative_m2": 47.04,
-      "area_built_m2": null,
-      "area_total_m2": null,
-      "registry_number": "",
-      "registry_office": "ção Processo nº 5028987-27",
-      "auction_lot": "368",
-      "auctioneer": "oficial. Confira sempre",
-      "seller": null,
-      "modality": "judicial",
-      "appraisal_value_brl": null,
-      "first_minimum_bid_brl": null,
-      "second_minimum_bid_brl": null,
-      "current_minimum_bid_brl": 265923.58,
-      "discount_on_appraisal_percent": null,
-      "auction_events": [
-        {
-          "date": "2027-01-25",
-          "time": null,
-          "minimum_bid_brl": null,
-          "stage": "first"
-        },
-        {
-          "date": "2026-10-16",
-          "time": null,
-          "minimum_bid_brl": null,
-          "stage": "second"
-        }
-      ],
-      "commission_percent": null,
-      "payment_conditions": null,
-      "occupancy": "ocupado",
-      "status": "unknown",
-      "official_url": null,
-      "source_listing_url": "https://hasta.com.br/imovel/2129698-apartamento-no-501-bloco-01-no-edificio-spazio-jardim-do-sol-em-joinville-sc",
-      "validation_status": "nao_verificado",
-      "edital_url": "https://img.centralsuldeleiloes.com.br/uploads/arquivos/editais/12248/4_Vara_C_vel_da_Comarca_de_Joinville_5028987-27.2025.8.24.0038_L_CIO_gastd7kv.docx",
-      "document_urls": [
-        "https://hasta.com.br/imovel/2129698-apartamento-no-501-bloco-01-no-edificio-spazio-jardim-do-sol-em-joinville-sc#nh-fx-docs",
-        "https://img.centralsuldeleiloes.com.br/uploads/arquivos/matriculas_lotes/244008/Matricula_39.849_ATUALIZADA_7njf3ut6.pdf",
-        "https://img.centralsuldeleiloes.com.br/uploads/arquivos/editais/12248/4_Vara_C_vel_da_Comarca_de_Joinville_5028987-27.2025.8.24.0038_L_CIO_gastd7kv.docx",
-        "https://hasta.com.br/guias/analise-de-edital-e-matricula"
-      ],
-      "image_urls": [
-        "https://hasta.com.br/foto/2129698/0.jpg",
-        "https://hasta.com.br/foto/2129698/1.jpg"
-      ],
-      "first_seen_at": "2026-10-17T23:13:02-03:00",
-      "last_checked_at": "2026-10-17T23:18:48-03:00",
-      "classification": "B",
-      "risk_flags": [
-        "occupied",
-        "aggregator_listing_unverified"
-      ],
-      "field_verification": {
-        "city": "declared",
-        "property_type": "declared",
-        "appraisal_value_brl": "unknown",
-        "first_minimum_bid_brl": "unknown",
-        "second_minimum_bid_brl": "unknown",
-        "current_minimum_bid_brl": "declared",
-        "occupancy": "declared",
-        "registry_number": "declared",
-        "auction_events": "declared",
-        "official_url": "unverified",
-        "edital_url": "verified",
-        "auctioneer": "unverified"
-      },
-      "provenance": {
-        "source_id": "hasta",
-        "captured_from": "https://hasta.com.br/imovel/2129698-apartamento-no-501-bloco-01-no-edificio-spazio-jardim-do-sol-em-joinville-sc",
-        "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento nº 501, bloco 01, no Edifício Spazio Jardim do Sol, em Joinville/SC 📍 Joinville, SC R$ 265.923,58 hasta Imóveis Modalidades Estados Ferramentas Conteúdo Analisar imóvel Hasta › Leilões › Joinville › Apartamento nº 501, bloco 01, no Edifício Spazio Jardim do Sol, em Joinville/SC Apartamento #2129698 Apartamento nº 501, bloco 01, no Edifício Spazio Jardim do Sol, em Joinville/SC 📍 Joinville, SC Lance mínimo R$ 265.923,58 Ver no site e dar lance → 🧮 Calcular o lance máximo ← Voltar à lista de imóveis A Hasta não realiza leilões nem recebe lances: o leilão e o pagamento acontecem no site do leiloeiro oficial. Confira sempre o edital antes de dar lance. Termos de uso 1º leilão 25/01/2027 Modalidade Extrajudicial Leiloeiro Lúcio Ubialli 🔔 Me lembrar no WhatsApp Visão geral Custos Localização Documentos Perguntas Semelhantes Análise Hasta m² típico em Joinville R$ 6.202/m² · base de 358 anúncios Anunciado na Hasta 16/10/2026 (há 1 dia) Score de oportunidade 41/100 Descrição Processo nº 5028987-27.2025.8.24.0038 Exequente(s): Spazio Jardim do Sol Executado(s): Vanessa Caroline Silva Bem(ns): 01 (um) apartamento n° 501, do Bloco 01, localizado no 5° pavimento, 4° tipo, do Edifício Spazio Jardim do Sol, situado na Rua São Paulo, nº 3.712, Petrópolis, Município de Joinville/SC, com a área construída de utilização exclusiva de 47,0400m², área de uso comum coberta de 6,3685m², área total construída de 53,4085m², área comum descoberta de 12,4246m², área correspondente ou global de 77,8331m² e fração ideal de solo e partes comuns de 0,008681490, equivalente a 54,8201m² (com direito de uso da vaga de garagem n° 33 descoberta, localizada no nível térreo); matriculado sob o nº 39.849 do 3º O.R.I. de Joinville/SC. Obs.: Inscrição imobiliária sob o nº 13.10.34.13.0271.000. Possui 2 quartos, 1 banheiro, cozinha e sala integradas. O imóvel está localizado em região plana, rua pavimentada de grande circulação, com boa infraestrutura urbana (água, coleta de lixo, energia elétrica, gás etc), e próximo a diversos serviços, como escolas, posto de saúde, mercado, farmácia e comércio em geral. Ônus: Manutenção Ambiental - APP, conforme Av-5; alienação fiduciária em favor do Banco do Brasil S.A. Avaliado em R$ 330.000,00, em 10/06/2026, corrigido R$ 332.404,48 (trezentos e trinta e dois mil, quatrocentos e quatro reais e quarenta e oito centavos) , em setembro de 2026. Obs.: débito condominial de natureza propter rem informado pelo credor no valor de R$ 25.646,80, atualizado em 11/08/2026, objeto do cumprimento de sentença nº 5028987-27.2025.8.24.0038. Obs.: a porcentagem mínima para arrematação do bem corresponde a 80% (oitenta por cento) do valor de avaliação, conforme determinação do Evento 100. Localização 📍 Joinville, SC Localização aproximada — o anúncio não informou o endereço exato. Ver mapa ampliado ↗ Perfil da região Salário médio mensal (trabalho formal): 2.9 salários mínimos (ano de referência: 2021) População (Censo 2022): 616.317 pessoas "
-      },
-      "newly_discovered_at": "2026-10-17T23:13:02-03:00"
     },
     {
       "id": "ef38e9ba92625ff77d98",
@@ -15256,75 +14886,6 @@
       "newly_discovered_at": "2026-10-17T23:24:02-03:00"
     },
     {
-      "id": "7df9fb45eb4411760fb1",
-      "source_ids": [
-        "hasta"
-      ],
-      "source_listing_ids": [],
-      "city": "Rio do Sul",
-      "state": "SC",
-      "neighborhood": null,
-      "address": null,
-      "property_type": "Apartamento",
-      "area_privative_m2": null,
-      "area_built_m2": null,
-      "area_total_m2": null,
-      "registry_number": null,
-      "registry_office": "o do Sul / SC - Centro Avenida Oscar Barcelos",
-      "auction_lot": null,
-      "auctioneer": null,
-      "seller": null,
-      "modality": null,
-      "appraisal_value_brl": null,
-      "first_minimum_bid_brl": null,
-      "second_minimum_bid_brl": null,
-      "current_minimum_bid_brl": null,
-      "discount_on_appraisal_percent": null,
-      "auction_events": [],
-      "commission_percent": null,
-      "payment_conditions": null,
-      "occupancy": null,
-      "status": "unknown",
-      "official_url": null,
-      "source_listing_url": "https://hasta.com.br/imovel/1856789-apartamento-rio-do-sul-sc-centro-avenida-oscar-barcelos-1977",
-      "validation_status": "nao_verificado",
-      "edital_url": null,
-      "document_urls": [],
-      "image_urls": [
-        "https://imagens.portalzuk.com.br/mini/2026/10/5124ff3d92075e9a3badb830bef2340e.jpg"
-      ],
-      "first_seen_at": "2026-10-18T20:24:47-03:00",
-      "last_checked_at": "2026-10-20T09:09:08-03:00",
-      "classification": "B",
-      "risk_flags": [
-        "occupancy_unknown",
-        "aggregator_listing_unverified"
-      ],
-      "field_verification": {
-        "city": "declared",
-        "property_type": "declared",
-        "appraisal_value_brl": "unknown",
-        "first_minimum_bid_brl": "unknown",
-        "second_minimum_bid_brl": "unknown",
-        "current_minimum_bid_brl": "unknown",
-        "occupancy": "unknown",
-        "registry_number": "unknown",
-        "auction_events": "unknown",
-        "official_url": "unverified",
-        "auctioneer": "unverified",
-        "address": "unknown",
-        "source_listing_price_brl": "declared"
-      },
-      "provenance": {
-        "source_id": "hasta",
-        "captured_from": "https://hasta.com.br/imovel/1856789-apartamento-rio-do-sul-sc-centro-avenida-oscar-barcelos-1977",
-        "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento - Rio do Sul / SC - Centro Avenida Oscar Barcelos, 1977 📍 Rio do Sul, SC R$ 1.157.300,00"
-      },
-      "source_listing_price_brl": 1157300.0,
-      "newly_discovered_at": "2026-10-18T20:24:47-03:00"
-    },
-    {
       "id": "85305a6ce36a2edd49ba",
       "source_ids": [
         "hasta"
@@ -16190,7 +15751,7 @@
       "area_built_m2": null,
       "area_total_m2": 224.183403,
       "registry_number": "61.440",
-      "registry_office": "1º Ofício de Registro de Imóveis de Rio do Sul/SC",
+      "registry_office": "o do Sul / SC - Centro Avenida Oscar Barcelos",
       "auction_lot": "002",
       "auctioneer": "Dora Plat",
       "seller": "Sicoob Administradora de Consórcios Ltda.",
@@ -16232,10 +15793,11 @@
         "https://imagens.portalzuk.com.br/mini/2026/10/5124ff3d92075e9a3badb830bef2340e.jpg"
       ],
       "first_seen_at": "2026-10-17T23:18:15-03:00",
-      "last_checked_at": "2026-10-18T20:22:02-03:00",
+      "last_checked_at": "2026-10-20T09:09:08-03:00",
       "classification": "A",
       "risk_flags": [
-        "occupied"
+        "occupied",
+        "occupancy_unknown"
       ],
       "field_verification": {
         "city": "verified",
@@ -16259,17 +15821,26 @@
         "seller": "verified",
         "modality": "verified",
         "commission_percent": "verified",
-        "payment_conditions": "verified"
+        "payment_conditions": "verified",
+        "source_listing_price_brl": "declared"
       },
       "provenance": {
-        "source_id": "portalzuk",
-        "captured_from": "https://www.portalzuk.com.br/imovel/sc/rio-do-sul/centro/avenida-oscar-barcelos-1977/37735-236051",
-        "is_aggregator": false,
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/1856789-apartamento-rio-do-sul-sc-centro-avenida-oscar-barcelos-1977",
+        "is_aggregator": true,
         "discovered_via": "hasta",
         "verified_at": "2026-10-18T20:22:02-03:00",
-        "raw_text": "Portal Zuk: apartamento 805, Avenida Oscar Barcelos, 1977, Centro, Rio do Sul/SC. 1ª praça 13/10/2026: R$ 1.157.300,00. 2ª praça 20/10/2026: R$ 578.650,00. Imóvel ocupado. Edital indica leilão extrajudicial e venda somente à vista."
+        "raw_text": "Apartamento Apartamento - Rio do Sul / SC - Centro Avenida Oscar Barcelos, 1977 📍 Rio do Sul, SC R$ 1.157.300,00",
+        "source_listing_urls": [
+          "https://www.portalzuk.com.br/imovel/sc/rio-do-sul/centro/avenida-oscar-barcelos-1977/37735-236051",
+          "https://hasta.com.br/imovel/1856789-apartamento-rio-do-sul-sc-centro-avenida-oscar-barcelos-1977"
+        ]
       },
-      "newly_discovered_at": "2026-10-17T23:18:15-03:00"
+      "newly_discovered_at": "2026-10-18T20:24:47-03:00",
+      "source_listing_price_brl": 1157300.0,
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1856789-apartamento-rio-do-sul-sc-centro-avenida-oscar-barcelos-1977"
+      ]
     }
   ],
   "sources": [

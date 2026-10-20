@@ -72,16 +72,32 @@ def merge_property(old: dict[str, Any] | None, new: dict[str, Any]) -> tuple[dic
             continue
         if aggregator_observation and field not in ("status", "classification") and old_field_is_verified and not incoming_field_is_verified:
             continue
-        if field in ("source_ids", "source_listing_ids", "document_urls", "image_urls"):
+        if field in ("source_ids", "source_listing_ids", "source_listing_urls", "document_urls", "image_urls"):
             merged[field] = list(dict.fromkeys((previous or []) + value))
+        elif field == "auction_events":
+            events = list(previous or [])
+            event_keys = {(event.get("date"), event.get("time"), event.get("stage"), event.get("minimum_bid_brl")) for event in events if isinstance(event, dict)}
+            for event in value:
+                event_key = (event.get("date"), event.get("time"), event.get("stage"), event.get("minimum_bid_brl"))
+                if event_key not in event_keys:
+                    events.append(event)
+                    event_keys.add(event_key)
+            merged[field] = sorted(events, key=lambda event: (event.get("date") or "", event.get("stage") or "", event.get("time") or ""))
+        elif field == "provenance":
+            sources = merged.get(field, {})
+            old_urls = list(sources.get("source_listing_urls", []))
+            if sources.get("captured_from"):
+                old_urls.append(sources["captured_from"])
+            if value.get("captured_from"):
+                old_urls.append(value["captured_from"])
+            old_urls.extend(value.get("source_listing_urls", []))
+            sources.update(value)
+            sources["source_listing_urls"] = list(dict.fromkeys(old_urls))
+            merged[field] = sources
         elif field == "risk_flags":
             merged[field] = list(dict.fromkeys((previous or []) + value))
         elif field == "validation_status":
             merged[field] = "verified" if value == "verified" or previous == "verified" else value
-        elif field == "provenance":
-            sources = merged.get(field, {})
-            sources.update(value)
-            merged[field] = sources
         elif field == "field_verification":
             states = merged.get(field, {})
             for key, state in value.items():
@@ -113,6 +129,9 @@ def merge_property(old: dict[str, Any] | None, new: dict[str, Any]) -> tuple[dic
             "auctioneer": new.get("field_verification", {}).get("auctioneer", "unverified"),
             "address": new.get("field_verification", {}).get("address", "unknown"),
         })
+    urls = list(merged.get("source_listing_urls", []))
+    urls.extend([merged.get("source_listing_url"), new.get("source_listing_url"), new.get("official_url")])
+    merged["source_listing_urls"] = list(dict.fromkeys(url for url in urls if url))
     merged["id"] = old["id"]
     merged["first_seen_at"] = old.get("first_seen_at") or new.get("first_seen_at")
     return merged, changes

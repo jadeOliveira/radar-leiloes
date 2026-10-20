@@ -39,24 +39,63 @@ def canonical_property_type(item: dict[str, Any], listing_text: str = "") -> str
     return None
 
 
+def _listing_identity_keys(item: dict[str, Any]) -> list[str]:
+    """Identify repeated pages for one asset while keeping generic lots separate."""
+    urls = list(item.get("source_listing_urls") or [])
+    urls.extend([item.get("source_listing_url"), item.get("official_url")])
+    urls.extend(item.get("provenance", {}).get("source_listing_urls", []))
+    if item.get("provenance", {}).get("captured_from"):
+        urls.append(item["provenance"]["captured_from"])
+
+    keys: list[str] = []
+    for listing_url in dict.fromkeys(url for url in urls if url):
+        parsed = urlparse(listing_url)
+        host = (parsed.hostname or "").casefold().removeprefix("www.")
+        match = re.search(r"/imovel/(\d+)(?:-([^/?#]+))?", parsed.path)
+        if not match:
+            continue
+        listing_id, slug = match.groups()
+        source = item.get("provenance", {}).get("source_id") or next(iter(item.get("source_ids", [])), "unknown")
+        keys.append(f"source-listing:{source}:{listing_id}")
+        if not slug:
+            continue
+
+        slug = fold(slug).replace("_", "-")
+        # The Hasta site creates separate pages for the two auction rounds.
+        # Their leading stage is not part of the property's identity.
+        phase = re.match(r"^(?:1a|2a|1o|2o)-?(?:praca|leilao)-", slug)
+        phase_page = bool(phase)
+        if phase:
+            slug = slug[0:phase.end()] + slug[phase.end():]
+            slug = re.sub(r"^(?:1a|2a|1o|2o)-?(?:praca|leilao)-", "", slug)
+
+        # Only use a title slug when it carries a distinguishing property
+        # identifier. Generic titles like "apartamento-condominio-residencial"
+        # and "terreno-joinville" can refer to many different assets.
+        has_specific_number = bool(re.search(r"(?:^|-)(?:n|no|lote)?-?\d{1,6}(?:-|$)", slug))
+        has_named_auction_round = (
+            phase_page
+            and len(slug.split("-")) >= 4
+            and re.search(r"(?:^|-)(?:apartamento|apto|casa|terreno|terreno)(?:-|$)", slug)
+        )
+        if len(slug) >= 18 and (has_specific_number or has_named_auction_round):
+            keys.append(f"listing-title:{host}:{fold(item.get('city') or '')}:{fold(item.get('property_type') or '')}:{slug}")
+    return keys
+
+
 def identity_keys(item: dict[str, Any]) -> list[str]:
-    """Return all stable identity aliases so new document data cannot split a record."""
-    keys = []
-    registry = fold(str(item.get("registry_number") or ""))
+    """Return stable identity aliases without grouping generic same-city listings."""
+    keys = _listing_identity_keys(item)
+    registry = re.sub(r"\D", "", str(item.get("registry_number") or ""))
     address = fold(item.get("address") or "")
     if registry:
-        keys.append(f"registry:{registry}")
+        keys.append(f"registry:{fold(item.get('city') or '')}:{registry}")
     if address:
         keys.append(f"address:{fold(item.get('city') or '')}:{address}")
-    if item.get("provenance", {}).get("is_aggregator") or "hasta" in (item.get("source_ids") or []):
-        listing_url = item.get("source_listing_url") or item.get("provenance", {}).get("captured_from") or ""
-        listing_id = re.search(r"/imovel/(\d+)(?:-|/|$)", listing_url)
-        if listing_id:
-            keys.append(f"source-listing:{item.get('provenance', {}).get('source_id')}:{listing_id.group(1)}")
     if not keys and item.get("id"):
         source = (item.get("source_ids") or ["unknown"])[0]
         keys.append(f"source-id:{source}:{item['id']}")
-    return keys
+    return list(dict.fromkeys(keys))
 
 
 def money(value: str | None) -> float | None:
@@ -208,6 +247,7 @@ def parse_item(source: dict[str, Any], href: str, text: str, cities: list[str], 
         "id": stable_id,
         "source_ids": [source["id"]],
         "source_listing_ids": [id_match] if id_match else [],
+        "source_listing_urls": [href],
         "city": city,
         "state": "SC",
         "neighborhood": extract_neighborhood(market_text),
