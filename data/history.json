@@ -1919,6 +1919,136 @@
         }
       ],
       "detected_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "property_id": "0fc466da0d41eebd3fab",
+      "city": "Joinville",
+      "source_ids": [
+        "freitas"
+      ],
+      "changes": [
+        {
+          "field": "auction_events",
+          "before": [
+            {
+              "date": "2026-11-05",
+              "time": "12:00",
+              "minimum_bid_brl": null,
+              "stage": "first"
+            },
+            {
+              "date": "2026-11-05",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "second"
+            },
+            {
+              "date": "2026-10-19",
+              "time": "09:00",
+              "minimum_bid_brl": 699000.0,
+              "stage": "unknown"
+            }
+          ],
+          "after": [
+            {
+              "date": "2026-10-19",
+              "time": "09:00",
+              "minimum_bid_brl": 699000.0,
+              "stage": "unknown"
+            },
+            {
+              "date": "2026-11-05",
+              "time": "12:00",
+              "minimum_bid_brl": null,
+              "stage": "first"
+            },
+            {
+              "date": "2026-11-05",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "second"
+            }
+          ]
+        }
+      ],
+      "detected_at": "2026-10-20T10:18:55-03:00"
+    },
+    {
+      "property_id": "dc7c2e6eb7314d89133b",
+      "city": "Joinville",
+      "source_ids": [
+        "sampaio"
+      ],
+      "changes": [
+        {
+          "field": "auction_events",
+          "before": [
+            {
+              "date": "2026-11-10",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "first"
+            },
+            {
+              "date": "2024-11-18",
+              "time": null,
+              "minimum_bid_brl": 280000.0,
+              "stage": "second"
+            },
+            {
+              "date": "2026-11-10",
+              "time": "14:00",
+              "minimum_bid_brl": null,
+              "stage": "unknown"
+            },
+            {
+              "date": "2026-11-10",
+              "time": "14:00",
+              "minimum_bid_brl": null,
+              "stage": "unknown"
+            },
+            {
+              "date": "2026-11-17",
+              "time": "14:00",
+              "minimum_bid_brl": null,
+              "stage": "unknown"
+            }
+          ],
+          "after": [
+            {
+              "date": "2024-11-18",
+              "time": null,
+              "minimum_bid_brl": 280000.0,
+              "stage": "second"
+            },
+            {
+              "date": "2026-11-10",
+              "time": null,
+              "minimum_bid_brl": null,
+              "stage": "first"
+            },
+            {
+              "date": "2026-11-10",
+              "time": "14:00",
+              "minimum_bid_brl": null,
+              "stage": "unknown"
+            },
+            {
+              "date": "2026-11-10",
+              "time": "14:00",
+              "minimum_bid_brl": null,
+              "stage": "unknown"
+            },
+            {
+              "date": "2026-11-17",
+              "time": "14:00",
+              "minimum_bid_brl": null,
+              "stage": "unknown"
+            }
+          ]
+        }
+      ],
+      "detected_at": "2026-10-20T10:18:55-03:00"
     }
   ]
 }
