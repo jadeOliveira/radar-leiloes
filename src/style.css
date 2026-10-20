@@ -12,3 +12,5 @@
 .auction-date{display:flex;align-items:baseline;gap:10px;margin:-7px 0 16px;color:#72776d}.auction-date span{font-size:9px;letter-spacing:.12em;font-weight:700}.auction-date strong{font-size:13px;font-weight:600;color:#354535}.auction-date small{font-size:11px;color:#85877f}
 
 .property-location{display:grid;grid-template-columns:72px minmax(0,1fr);align-items:baseline;column-gap:8px;row-gap:6px;margin:0 0 21px;color:#85877f}.property-location>span:not(.occupancy){font-size:9px;letter-spacing:.12em;font-weight:700;color:#73786f}.property-location strong{font-size:12px;font-weight:600;color:#51584e;overflow-wrap:anywhere}.property-location .occupancy{grid-column:1/-1;font-size:10px;color:#85877f}
+
+.property-sources{display:flex;align-items:flex-start;gap:10px;margin:0 0 16px}.property-sources>span{flex:0 0 100px;font-size:9px;letter-spacing:.12em;font-weight:700;color:#73786f}.property-source-list{display:flex;flex-wrap:wrap;gap:6px}.source-tag{padding:4px 7px;border:1px solid #deddd5;background:#f3f2ec;color:#51584e;border-radius:2px;font-size:10px}.source-unknown{color:#85877f;font-size:11px}
