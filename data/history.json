@@ -2220,6 +2220,41 @@
         }
       ],
       "detected_at": "2026-10-20T18:12:43-03:00"
+    },
+    {
+      "property_id": "fb1523ecc132569519af",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-21T09:32:47-03:00"
+    },
+    {
+      "property_id": "4e87051665604a054689",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "image_urls",
+          "before": [
+            "https://hasta.com.br/foto/600093/0.jpg"
+          ],
+          "after": [
+            "https://hasta.com.br/foto/600093/0.jpg",
+            "https://www.santanderimoveis.com.br/wp-content/uploads/2026/04/1775572276222.jpeg"
+          ]
+        }
+      ],
+      "detected_at": "2026-10-21T09:32:47-03:00"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "run_id": "ff937dd7-4f4f-4db8-9484-3a37191978be",
+  "run_id": "10089e5a-3abe-480f-99d1-075f8104b908",
   "status": "partial",
-  "started_at": "2026-10-20T18:16:25-03:00",
-  "finished_at": "2026-10-20T18:25:28-03:00",
-  "duration_seconds": 542.78,
+  "started_at": "2026-10-21T09:23:26-03:00",
+  "finished_at": "2026-10-21T09:32:47-03:00",
+  "duration_seconds": 561.06,
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -31,8 +31,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 0.22,
-      "finished_at": "2026-10-20T18:16:26-03:00"
+      "duration_seconds": 0.23,
+      "finished_at": "2026-10-21T09:23:27-03:00"
     },
     {
       "source_id": "caixa",
@@ -50,8 +50,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.69,
-      "finished_at": "2026-10-20T18:16:27-03:00"
+      "duration_seconds": 1.73,
+      "finished_at": "2026-10-21T09:23:29-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -69,9 +69,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 7.11,
-      "finished_at": "2026-10-20T18:16:34-03:00",
-      "last_success_at": "2026-10-20T18:16:34-03:00"
+      "duration_seconds": 6.43,
+      "finished_at": "2026-10-21T09:23:36-03:00",
+      "last_success_at": "2026-10-21T09:23:36-03:00"
     },
     {
       "source_id": "superbid",
@@ -89,8 +89,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 0.12,
-      "finished_at": "2026-10-20T18:16:35-03:00"
+      "duration_seconds": 0.14,
+      "finished_at": "2026-10-21T09:23:36-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -108,8 +108,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 0.54,
-      "finished_at": "2026-10-20T18:16:35-03:00"
+      "duration_seconds": 0.24,
+      "finished_at": "2026-10-21T09:23:36-03:00"
     },
     {
       "source_id": "duarte",
@@ -127,9 +127,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 41.46,
-      "finished_at": "2026-10-20T18:17:17-03:00",
-      "last_success_at": "2026-10-20T18:17:17-03:00"
+      "duration_seconds": 42.37,
+      "finished_at": "2026-10-21T09:24:18-03:00",
+      "last_success_at": "2026-10-21T09:24:18-03:00"
     },
     {
       "source_id": "zampieri",
@@ -147,9 +147,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 7.56,
-      "finished_at": "2026-10-20T18:17:24-03:00",
-      "last_success_at": "2026-10-20T18:17:24-03:00"
+      "duration_seconds": 7.38,
+      "finished_at": "2026-10-21T09:24:26-03:00",
+      "last_success_at": "2026-10-21T09:24:26-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -167,8 +167,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 0.3,
-      "finished_at": "2026-10-20T18:17:25-03:00"
+      "duration_seconds": 0.23,
+      "finished_at": "2026-10-21T09:24:26-03:00"
     },
     {
       "source_id": "freitas",
@@ -186,9 +186,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 18.96,
-      "finished_at": "2026-10-20T18:17:44-03:00",
-      "last_success_at": "2026-10-20T18:17:44-03:00"
+      "duration_seconds": 16.75,
+      "finished_at": "2026-10-21T09:24:43-03:00",
+      "last_success_at": "2026-10-21T09:24:43-03:00"
     },
     {
       "source_id": "comprei",
@@ -206,8 +206,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.91,
-      "finished_at": "2026-10-20T18:17:46-03:00"
+      "duration_seconds": 1.83,
+      "finished_at": "2026-10-21T09:24:45-03:00"
     },
     {
       "source_id": "sampaio",
@@ -225,9 +225,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 5.49,
-      "finished_at": "2026-10-20T18:17:51-03:00",
-      "last_success_at": "2026-10-20T18:17:51-03:00"
+      "duration_seconds": 10.21,
+      "finished_at": "2026-10-21T09:24:55-03:00",
+      "last_success_at": "2026-10-21T09:24:55-03:00"
     },
     {
       "source_id": "machado",
@@ -245,18 +245,18 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 0.33,
-      "finished_at": "2026-10-20T18:17:52-03:00"
+      "duration_seconds": 0.26,
+      "finished_at": "2026-10-21T09:24:55-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
       "status": "success",
       "pages_read": 11,
-      "listings_found": 126,
+      "listings_found": 127,
       "error": null,
       "listings_by_city": {
-        "Joinville": 91,
+        "Joinville": 92,
         "Balneário Camboriú": 20,
         "Balneário Piçarras": 2,
         "Barra Velha": 3,
@@ -264,24 +264,28 @@
         "Navegantes": 1,
         "Rio do Sul": 8
       },
-      "duration_seconds": 456.05,
-      "finished_at": "2026-10-20T18:25:28-03:00",
-      "last_success_at": "2026-10-20T18:25:28-03:00"
+      "duration_seconds": 471.91,
+      "finished_at": "2026-10-21T09:32:47-03:00",
+      "last_success_at": "2026-10-21T09:32:47-03:00"
     }
   ],
-  "data_status": "unchanged",
-  "data_updated_at": "2026-10-20T18:12:43-03:00",
+  "data_status": "updated",
+  "data_updated_at": "2026-10-21T09:32:47-03:00",
   "counts": {
-    "new_listings": 0,
-    "changed_listings": 0,
-    "new_or_updated": 0,
-    "total_preserved": 131,
+    "new_listings": 1,
+    "changed_listings": 1,
+    "new_or_updated": 2,
+    "total_preserved": 132,
     "sources_succeeded": 6,
     "sources_partial": 0,
     "sources_failed": 7
   },
-  "new_property_ids": [],
-  "changed_property_ids": [],
+  "new_property_ids": [
+    "fb1523ecc132569519af"
+  ],
+  "changed_property_ids": [
+    "4e87051665604a054689"
+  ],
   "errors": [
     {
       "source_id": "portalzuk",
