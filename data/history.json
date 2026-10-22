@@ -2538,6 +2538,251 @@
         }
       ],
       "detected_at": "2026-10-22T09:59:31-03:00"
+    },
+    {
+      "property_id": "ab26f2057047fa3b3a48",
+      "city": "Joinville",
+      "source_ids": [
+        "seu_imovel_bb"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-22T11:36:11-03:00"
+    },
+    {
+      "property_id": "80d0e5b207315b6d1e5d",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "image_urls",
+          "before": [
+            "https://hasta.com.br/foto/1250563/0.jpg"
+          ],
+          "after": [
+            "https://hasta.com.br/foto/1250563/0.jpg",
+            "https://www.santanderimoveis.com.br/wp-content/uploads/2026/09/1788533080897.jpeg"
+          ]
+        }
+      ],
+      "detected_at": "2026-10-22T11:36:11-03:00"
+    },
+    {
+      "property_id": "36913ba2a684762ca887",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "image_urls",
+          "before": [
+            "https://hasta.com.br/foto/746520/0.jpg"
+          ],
+          "after": [
+            "https://hasta.com.br/foto/746520/0.jpg",
+            "https://www.santanderimoveis.com.br/wp-content/uploads/2026/07/1785440605006.jpeg"
+          ]
+        }
+      ],
+      "detected_at": "2026-10-22T11:36:11-03:00"
+    },
+    {
+      "property_id": "4e87051665604a054689",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "image_urls",
+          "before": [
+            "https://hasta.com.br/foto/600093/0.jpg"
+          ],
+          "after": [
+            "https://hasta.com.br/foto/600093/0.jpg",
+            "https://www.santanderimoveis.com.br/wp-content/uploads/2026/04/1775572276222.jpeg"
+          ]
+        }
+      ],
+      "detected_at": "2026-10-22T11:36:11-03:00"
+    },
+    {
+      "property_id": "c7c851cf14061ca175e9",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "image_urls",
+          "before": [
+            "https://hasta.com.br/foto/788478/0.jpg"
+          ],
+          "after": [
+            "https://hasta.com.br/foto/788478/0.jpg",
+            "https://www.santanderimoveis.com.br/wp-content/uploads/2026/08/1785954893959.jpeg"
+          ]
+        }
+      ],
+      "detected_at": "2026-10-22T11:36:11-03:00"
+    },
+    {
+      "property_id": "63e5b3e46d4806848457",
+      "city": "Barra Velha",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-22T11:36:11-03:00"
+    },
+    {
+      "property_id": "2dfba96f2e1ef67424ef",
+      "city": "Barra Velha",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-22T11:36:11-03:00"
+    },
+    {
+      "property_id": "c9bb3bb1f325a39780fb",
+      "city": "Barra Velha",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-22T11:36:11-03:00"
+    },
+    {
+      "property_id": "00b2a09433b01deabb29",
+      "city": "Barra Velha",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-22T11:36:11-03:00"
+    },
+    {
+      "property_id": "8c976a933bd3e52a902b",
+      "city": "Barra Velha",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-22T11:36:11-03:00"
+    },
+    {
+      "property_id": "20fd0b9b6356ec174d81",
+      "city": "Barra Velha",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "auction_lot",
+          "before": "18",
+          "after": "001"
+        }
+      ],
+      "detected_at": "2026-10-22T11:36:11-03:00"
+    },
+    {
+      "property_id": "943ed6fce20df0bd8fe2",
+      "city": "Navegantes",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-22T11:36:11-03:00"
+    },
+    {
+      "property_id": "90282a93cdba3cc45c98",
+      "city": "Navegantes",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-22T11:36:11-03:00"
+    },
+    {
+      "property_id": "98338ceb9563b22b3ed9",
+      "city": "Navegantes",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-22T11:36:11-03:00"
+    },
+    {
+      "property_id": "943ed6fce20df0bd8fe2",
+      "city": "Navegantes",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "property_type",
+          "before": "Terreno",
+          "after": "Casa"
+        }
+      ],
+      "detected_at": "2026-10-22T11:36:11-03:00"
     }
   ]
 }

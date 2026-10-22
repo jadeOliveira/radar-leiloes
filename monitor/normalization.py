@@ -97,9 +97,8 @@ def identity_keys(item: dict[str, Any]) -> list[str]:
         keys.append(f"registry:{fold(item.get('city') or '')}:{registry}")
     if address:
         keys.append(f"address:{fold(item.get('city') or '')}:{address}")
-    if not keys and item.get("id"):
-        source = (item.get("source_ids") or ["unknown"])[0]
-        keys.append(f"source-id:{source}:{item['id']}")
+    if item.get("id"):
+        keys.append(f"property-id:{item['id']}")
     return list(dict.fromkeys(keys))
 
 

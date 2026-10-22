@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T09:59:31-03:00",
+  "updated_at": "2026-10-22T11:36:28-03:00",
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -65,7 +65,7 @@
         "https://hasta.com.br/foto/1764623/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -142,7 +142,7 @@
         "https://hasta.com.br/foto/1822397/1.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -220,7 +220,7 @@
         "https://hasta.com.br/foto/1428238/2.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -303,7 +303,7 @@
         "https://hasta.com.br/foto/1230780/7.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -390,7 +390,7 @@
         "https://hasta.com.br/foto/1001679/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -469,7 +469,7 @@
         "https://hasta.com.br/foto/2025919/3.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -554,7 +554,7 @@
         "https://hasta.com.br/foto/1083274/7.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -633,7 +633,7 @@
         "https://hasta.com.br/foto/1451500/1.jpg"
       ],
       "first_seen_at": "2026-10-22T09:57:54-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -651,13 +651,17 @@
         "auction_events": "unknown",
         "source_listing_price_brl": "declared",
         "official_url": "unverified",
-        "auctioneer": "unverified"
+        "auctioneer": "unverified",
+        "address": "unknown"
       },
       "provenance": {
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1451500-terreno-balneario-camboriu-sc",
         "is_aggregator": true,
-        "raw_text": "Terreno Lote 001 📍 Balneário Camboriú, SC R$ 261.575,00"
+        "raw_text": "Terreno Lote 001 📍 Balneário Camboriú, SC R$ 261.575,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1451500-terreno-balneario-camboriu-sc"
+        ]
       },
       "newly_discovered_at": "2026-10-22T09:59:31-03:00"
     },
@@ -716,7 +720,7 @@
         "https://hasta.com.br/foto/1967354/5.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -793,7 +797,7 @@
         "https://hasta.com.br/foto/1942348/1.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -870,7 +874,7 @@
         "https://hasta.com.br/foto/2193840/1.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -952,7 +956,7 @@
         "https://hasta.com.br/foto/1943341/4.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1030,7 +1034,7 @@
         "https://hasta.com.br/foto/2092415/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1107,7 +1111,7 @@
         "https://hasta.com.br/foto/1805694/1.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1183,7 +1187,7 @@
         "https://hasta.com.br/foto/2203954/0.jpg"
       ],
       "first_seen_at": "2026-10-22T09:57:42-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1201,13 +1205,17 @@
         "auction_events": "unknown",
         "source_listing_price_brl": "declared",
         "official_url": "unverified",
-        "auctioneer": "unverified"
+        "auctioneer": "unverified",
+        "address": "unknown"
       },
       "provenance": {
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2203954-apartamento-balneario-camboriu-sc-centro-rua-1141-321",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento - Balneário Camboriú / SC - Centro Rua 1141, 321 📍 Balneário Camboriú, SC R$ 1.644.243,36"
+        "raw_text": "Apartamento Apartamento - Balneário Camboriú / SC - Centro Rua 1141, 321 📍 Balneário Camboriú, SC R$ 1.644.243,36",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2203954-apartamento-balneario-camboriu-sc-centro-rua-1141-321"
+        ]
       },
       "newly_discovered_at": "2026-10-22T09:59:31-03:00"
     },
@@ -1340,7 +1348,7 @@
         "https://hasta.com.br/foto/1507910/1.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1427,7 +1435,7 @@
         "https://hasta.com.br/foto/1001567/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1503,7 +1511,7 @@
         "https://hasta.com.br/foto/395336/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1590,7 +1598,7 @@
         "https://hasta.com.br/foto/2218297/11.jpg"
       ],
       "first_seen_at": "2026-10-22T09:57:35-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1608,13 +1616,17 @@
         "auction_events": "unknown",
         "source_listing_price_brl": "declared",
         "official_url": "unverified",
-        "auctioneer": "unverified"
+        "auctioneer": "unverified",
+        "address": "unknown"
       },
       "provenance": {
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2218297-apartamento-com-garagens-em-bal-camboriu-sc",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento com Garagens em Bal. Camboriú (SC) 📍 Balneário Camboriú, SC R$ 2.020.074,80"
+        "raw_text": "Apartamento Apartamento com Garagens em Bal. Camboriú (SC) 📍 Balneário Camboriú, SC R$ 2.020.074,80",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2218297-apartamento-com-garagens-em-bal-camboriu-sc"
+        ]
       },
       "newly_discovered_at": "2026-10-22T09:59:31-03:00"
     },
@@ -1660,10 +1672,10 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
-        "https://hasta.com.br/foto/788478/0.jpg"
+        "https://www.santanderimoveis.com.br/wp-content/uploads/2026/08/1785954893959.jpeg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1750,7 +1762,7 @@
         "https://hasta.com.br/foto/999010/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1917,7 +1929,7 @@
         "https://hasta.com.br/foto/1001548/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2005,7 +2017,7 @@
         "https://hasta.com.br/foto/2221730/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2084,7 +2096,7 @@
         "https://hasta.com.br/foto/1114198/2.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:09-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2205,12 +2217,95 @@
       "image_source_url": "https://hasta.com.br/imovel/999222-chacara-sitio-rural"
     },
     {
+      "id": "00b2a09433b01deabb29",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/999555-imovel-resale"
+      ],
+      "city": "Barra Velha",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Casa",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 480000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/999555-imovel-resale",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/999555/0.jpg",
+        "https://hasta.com.br/foto/999555/1.jpg",
+        "https://hasta.com.br/foto/999555/2.jpg",
+        "https://hasta.com.br/foto/999555/3.jpg",
+        "https://hasta.com.br/foto/999555/4.jpg",
+        "https://hasta.com.br/foto/999555/5.jpg",
+        "https://hasta.com.br/foto/999555/6.jpg",
+        "https://hasta.com.br/foto/999555/7.jpg",
+        "https://hasta.com.br/foto/999555/8.jpg",
+        "https://hasta.com.br/foto/999555/9.jpg",
+        "https://hasta.com.br/foto/999555/10.jpg",
+        "https://hasta.com.br/foto/999555/11.jpg"
+      ],
+      "first_seen_at": "2026-10-22T11:35:04-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/999555-imovel-resale",
+        "is_aggregator": true,
+        "raw_text": "Casa Casa, Residencial, 1 vaga(s) de garagem 📍 Barra Velha, SC R$ 480.000,00"
+      },
+      "newly_discovered_at": "2026-10-22T11:36:11-03:00"
+    },
+    {
       "id": "20fd0b9b6356ec174d81",
       "source_ids": [
         "hasta"
       ],
       "source_listing_ids": [
-        "amento"
+        "amento",
+        "001"
       ],
       "source_listing_urls": [
         "https://hasta.com.br/imovel/1577602-terreno-urbano-barra-velha-lote-001-id-1497"
@@ -2225,7 +2320,7 @@
       "area_total_m2": null,
       "registry_number": "31.352",
       "registry_office": "vativa",
-      "auction_lot": "18",
+      "auction_lot": "001",
       "auctioneer": null,
       "seller": null,
       "modality": null,
@@ -2256,7 +2351,7 @@
         "https://hasta.com.br/foto/1577602/7.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:10-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2281,13 +2376,84 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1577602-terreno-urbano-barra-velha-lote-001-id-1497",
         "is_aggregator": true,
-        "raw_text": "Terreno Terreno Urbano 300m² - Itajuba 📍 Barra Velha, SC R$ 68.100,00 50% OFF Terreno Terreno Urbano 300m² - Itajuba 📍 Barra Velha, SC R$ 68.100,00 50% OFF Casa Casa - 44,88m² de área privativa, 59,28m² de área do terreno, com vaga de garagem - barra velha/sc 📍 Barra Velha, SC R$ 238.000,00 Casa Con res natalia v 📍 Barra Velha, SC R$ 238.000,00 Casa Casa à venda em leilão 📍 Barra Velha, SC R$ 285.015,73 Casa Casa - Barra Velha / SC - Quinta dos Açorianos Rua dos Borgonhas, s/n 📍 Barra Velha, SC R$ 285.015,73 Terreno Terreno no Lote 18 QD N com área de 306,00m², no Loteamento Parque Residencial Mônica, em Barra Velha/SC 📍 Barra Velha, SC R$ 84.967,08 Imóvel matrícula n° 31.352 📍 Barra Velha, SC R$ 164.054,40 Imóvel matrícula n° 31.352 📍 Barra Velha, SC R$ 164.054,40 Casa Casa, Residencial, 1 vaga(s) de garagem 📍 Barra Velha, SC R$ 480.000,00 Terreno 2 Áreas 1 com 35.951,47m2 e outra com 17.178,53m2 📍 Barra Velha, SC R$ 15.886.326,00 Terreno Terreno Urbano Barra Velha - Lote 001 (ID 1497) 📍 Barra Velha, SC R$ 125.974,39",
+        "raw_text": "Terreno Terreno Urbano Barra Velha - Lote 001 (ID 1497) 📍 Barra Velha, SC R$ 125.974,39",
         "source_listing_urls": [
           "https://hasta.com.br/imovel/1577602-terreno-urbano-barra-velha-lote-001-id-1497"
         ]
       },
       "newly_discovered_at": "2026-10-20T10:11:11-03:00",
       "image_source_url": "https://hasta.com.br/imovel/1577602-terreno-urbano-barra-velha-lote-001-id-1497"
+    },
+    {
+      "id": "2dfba96f2e1ef67424ef",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1948251-con-res-natalia-v"
+      ],
+      "city": "Barra Velha",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Casa",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 238000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/1948251-con-res-natalia-v",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1948251/0.jpg"
+      ],
+      "first_seen_at": "2026-10-22T11:34:57-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/1948251-con-res-natalia-v",
+        "is_aggregator": true,
+        "raw_text": "Casa Con res natalia v 📍 Barra Velha, SC R$ 238.000,00"
+      },
+      "newly_discovered_at": "2026-10-22T11:36:11-03:00"
     },
     {
       "id": "3bbb3eb174367f3e9270",
@@ -2339,7 +2505,7 @@
         "https://hasta.com.br/foto/847525/5.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:10-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2371,6 +2537,78 @@
       },
       "newly_discovered_at": "2026-10-20T10:11:11-03:00",
       "image_source_url": "https://hasta.com.br/imovel/847525-terreno-no-lote-18-qd-n-com-area-de-306-00m2-no-loteamento-parque-residencial-mo"
+    },
+    {
+      "id": "63e5b3e46d4806848457",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1734979-terreno-urbano-300m2-itajuba"
+      ],
+      "city": "Barra Velha",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Terreno",
+      "area_privative_m2": 300.0,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 68100.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/1734979-terreno-urbano-300m2-itajuba",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1734979/0.jpg",
+        "https://hasta.com.br/foto/1734979/1.jpg"
+      ],
+      "first_seen_at": "2026-10-22T11:34:54-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/1734979-terreno-urbano-300m2-itajuba",
+        "is_aggregator": true,
+        "raw_text": "Terreno Terreno Urbano 300m² - Itajuba 📍 Barra Velha, SC R$ 68.100,00 50% OFF"
+      },
+      "newly_discovered_at": "2026-10-22T11:36:11-03:00"
     },
     {
       "source_ids": [
@@ -2467,6 +2705,77 @@
       "newly_discovered_at": "2026-10-22T08:00:00-03:00"
     },
     {
+      "id": "8c976a933bd3e52a902b",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/283431-2-areas-1-com-35-951-47m2-e-outra-com-17-178-53m2"
+      ],
+      "city": "Barra Velha",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Terreno",
+      "area_privative_m2": 35951.47,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 15886326.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/283431-2-areas-1-com-35-951-47m2-e-outra-com-17-178-53m2",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/283431/0.jpg"
+      ],
+      "first_seen_at": "2026-10-22T11:35:06-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/283431-2-areas-1-com-35-951-47m2-e-outra-com-17-178-53m2",
+        "is_aggregator": true,
+        "raw_text": "Terreno 2 Áreas 1 com 35.951,47m2 e outra com 17.178,53m2 📍 Barra Velha, SC R$ 15.886.326,00"
+      },
+      "newly_discovered_at": "2026-10-22T11:36:11-03:00"
+    },
+    {
       "id": "b5fd1f1525a636aed343",
       "source_ids": [
         "hasta"
@@ -2509,7 +2818,7 @@
         "https://hasta.com.br/foto/1720889/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:10-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2541,6 +2850,80 @@
       },
       "newly_discovered_at": "2026-10-20T10:11:11-03:00",
       "image_source_url": "https://hasta.com.br/imovel/1720889-casa-barra-velha-sc-quinta-dos-acorianos-rua-dos-borgonhas-s-n"
+    },
+    {
+      "id": "c9bb3bb1f325a39780fb",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1767328-casa-quinta-dos-acorianos-barra-velha-sc"
+      ],
+      "city": "Barra Velha",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Casa",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 285015.73,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/1767328-casa-quinta-dos-acorianos-barra-velha-sc",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1767328/0.jpg",
+        "https://hasta.com.br/foto/1767328/1.jpg",
+        "https://hasta.com.br/foto/1767328/2.jpg",
+        "https://hasta.com.br/foto/1767328/3.jpg"
+      ],
+      "first_seen_at": "2026-10-22T11:34:58-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/1767328-casa-quinta-dos-acorianos-barra-velha-sc",
+        "is_aggregator": true,
+        "raw_text": "Casa Casa à venda em leilão 📍 Barra Velha, SC R$ 285.015,73"
+      },
+      "newly_discovered_at": "2026-10-22T11:36:11-03:00"
     },
     {
       "id": "00b260917e138c3b0b80",
@@ -2596,7 +2979,7 @@
         "https://hasta.com.br/foto/1676223/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2686,7 +3069,7 @@
         "https://hasta.com.br/foto/1854621/1.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2765,7 +3148,7 @@
         "https://hasta.com.br/foto/1769820/3.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2841,7 +3224,7 @@
         "https://hasta.com.br/foto/2122588/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2923,7 +3306,7 @@
         "https://hasta.com.br/foto/2106471/6.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3010,7 +3393,7 @@
         "https://hasta.com.br/foto/1785653/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3097,7 +3480,7 @@
         "https://hasta.com.br/foto/1908557/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3214,7 +3597,7 @@
         "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154122.JPG"
       ],
       "first_seen_at": "2026-10-20T10:10:42-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied"
@@ -3237,7 +3620,7 @@
         "source_id": "freitas",
         "captured_from": "https://www.freitasleiloeiro.com.br/Leiloes/LoteDetalhes?leilaoId=8127&loteNumero=8",
         "is_aggregator": false,
-        "raw_text": "008 05/11/2026 12:00 JOINVILLE/SC - Apartamento nº 601 do Residencial Rio Danúbio, Rua Pernambuco, nº... R$ 699.000,00 Lance Inicial JOINVILLE/SC ABERTO PARA LANCES Início Agenda Organização Cadastre-se Contato Serviços Login LEILÃO \"ON-LINE\" - 29 IMÓVEIS - BANCO DAYCOVAL S/A Apartamento | JOINVILLE/SC Favoritar Ver Favoritos Previous Next Lote 008 Data do Leilão 05/11/2026 Horário 12:00 Anterior Lotes Próximo Navegar Visitas 236 Curtidas 0 ABERTO Condições de venda Edital / Anúncio Catálogo do leilão Como participar Endereço: Rua Pernambuco, nº 200, Anita Garibaldi - JOINVILLE/SC Descrição completa: JOINVILLE/SC - Apartamento nº 601 do Residencial Rio Danúbio, Rua Pernambuco, nº 200, Anita Garibaldi. Área privativa: 122,86m²; área de garagem: 21,60m²; área comum: 49,27m²; área total: 193,73m². Matrícula nº 34.530 do 2º RI local. Obs.: Consta Ação de Procedimento Comum, processo nº 4000182-85.2026.8.26.0654 em trâmite na Vara Única da Comarca de Vargem Grande Paulista/SP. O Vendedor responde pelo resultado da ação, de acordo com os critérios e limites estabelecidos nas “Condições de Venda dos Imóveis” constantes do edital. Consta Ação de Reintegração/Manutenção de Posse, processo nº 4002552-88.2026.8.26.0152 em trâmite na Vara Única da Comarca de Vargem Grande Paulista/SP. O Arrematante, por possuir conhecimento, declara a sua anuência quanto à transferência do patrocínio, aos eventuais resultados e aos efeitos da ação informada, responsabilizando-se pela regularização processual, no prazo máximo de 5 dias. O Banco permanecerá atuando no processo até comunicação da venda nos autos. Imóvel ocupado, desocupação por conta do arrematante. Informações importantes: Fotos Meramente Ilustrativas; 5% referente à comissão do leiloeiro acrescido ao valor da arrematação; Abertura p/ lances: 19/10/2026 09:00 Leiloeiro: Sérgio Villa Nova de Freitas Modalidade: SOMENTE ONLINE Local do leilão: INTERNET (São Paulo/SP) Arquivos: Matrícula Edital Leia atentamente as condições antes de participar do leilão: Condições de Pagamento – Imóveis Ocupados Sobre o valor do arremate, incorrerá a comissão de 5% ao leiloeiro a ser pago pelo arrematante. Formas de Pagamento - À vista: Pagamento integral em até 48 horas úteis após a comunicação da homologação da arrematação. - Parcelamento Direto com o Banco Daycoval • Entrada mínima de 40%; • Saldo em até 60 meses; • Sujeito à análise e aprovação de crédito; • Parcelas corrigidas por 1,35% ao mês + IPCA. Importante: Não há opção de financiamento imobiliário para imóveis ocupados. R$ 699.000,00 Lance Inicial R$ 20.000,00 Incremento Mínimo Maior lance: Aguardando lances Encerramento prev.: 05/11/2026 12:16:00 Restando: 14 dia(s) e 02h 22m 51s ABERTO PARA LANCES Área de lances Efetuar Login Praça da Liberdade, 130 - 15º andar - Liberdade - São Paulo/SP - CEP: 01503-010 - Fone: (11) 3117-1000 Atendimento presencial de segunda a sexta das 09:00 às 16:30. Atendimento Cadastro Telefone: (11) 3117-1000 - Ramais: 132, 133 e 134 online@f",
+        "raw_text": "008 05/11/2026 12:00 JOINVILLE/SC - Apartamento nº 601 do Residencial Rio Danúbio, Rua Pernambuco, nº... R$ 699.000,00 Lance Inicial JOINVILLE/SC ABERTO PARA LANCES Início Agenda Organização Cadastre-se Contato Serviços Login LEILÃO \"ON-LINE\" - 29 IMÓVEIS - BANCO DAYCOVAL S/A Apartamento | JOINVILLE/SC Favoritar Ver Favoritos Previous Next Lote 008 Data do Leilão 05/11/2026 Horário 12:00 Anterior Lotes Próximo Navegar Visitas 241 Curtidas 0 ABERTO Condições de venda Edital / Anúncio Catálogo do leilão Como participar Endereço: Rua Pernambuco, nº 200, Anita Garibaldi - JOINVILLE/SC Descrição completa: JOINVILLE/SC - Apartamento nº 601 do Residencial Rio Danúbio, Rua Pernambuco, nº 200, Anita Garibaldi. Área privativa: 122,86m²; área de garagem: 21,60m²; área comum: 49,27m²; área total: 193,73m². Matrícula nº 34.530 do 2º RI local. Obs.: Consta Ação de Procedimento Comum, processo nº 4000182-85.2026.8.26.0654 em trâmite na Vara Única da Comarca de Vargem Grande Paulista/SP. O Vendedor responde pelo resultado da ação, de acordo com os critérios e limites estabelecidos nas “Condições de Venda dos Imóveis” constantes do edital. Consta Ação de Reintegração/Manutenção de Posse, processo nº 4002552-88.2026.8.26.0152 em trâmite na Vara Única da Comarca de Vargem Grande Paulista/SP. O Arrematante, por possuir conhecimento, declara a sua anuência quanto à transferência do patrocínio, aos eventuais resultados e aos efeitos da ação informada, responsabilizando-se pela regularização processual, no prazo máximo de 5 dias. O Banco permanecerá atuando no processo até comunicação da venda nos autos. Imóvel ocupado, desocupação por conta do arrematante. Informações importantes: Fotos Meramente Ilustrativas; 5% referente à comissão do leiloeiro acrescido ao valor da arrematação; Abertura p/ lances: 19/10/2026 09:00 Leiloeiro: Sérgio Villa Nova de Freitas Modalidade: SOMENTE ONLINE Local do leilão: INTERNET (São Paulo/SP) Arquivos: Matrícula Edital Leia atentamente as condições antes de participar do leilão: Condições de Pagamento – Imóveis Ocupados Sobre o valor do arremate, incorrerá a comissão de 5% ao leiloeiro a ser pago pelo arrematante. Formas de Pagamento - À vista: Pagamento integral em até 48 horas úteis após a comunicação da homologação da arrematação. - Parcelamento Direto com o Banco Daycoval • Entrada mínima de 40%; • Saldo em até 60 meses; • Sujeito à análise e aprovação de crédito; • Parcelas corrigidas por 1,35% ao mês + IPCA. Importante: Não há opção de financiamento imobiliário para imóveis ocupados. R$ 699.000,00 Lance Inicial R$ 20.000,00 Incremento Mínimo Maior lance: Aguardando lances Encerramento prev.: 05/11/2026 12:16:00 Restando: 14 dia(s) e 00h 47m 17s ABERTO PARA LANCES Área de lances Efetuar Login Praça da Liberdade, 130 - 15º andar - Liberdade - São Paulo/SP - CEP: 01503-010 - Fone: (11) 3117-1000 Atendimento presencial de segunda a sexta das 09:00 às 16:30. Atendimento Cadastro Telefone: (11) 3117-1000 - Ramais: 132, 133 e 134 online@f",
         "source_listing_urls": [
           "https://www.freitasleiloeiro.com.br/Leiloes/LoteDetalhes?leilaoId=8127&loteNumero=8"
         ]
@@ -3291,7 +3674,7 @@
         "https://static.suporteleiloes.com.br/trileiloescombr/bens/12432/arquivos/sl-bem-12432-6ac2fc6dd9af0-6ac2fc6ddbd70.png"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3367,7 +3750,7 @@
         "https://hasta.com.br/foto/2187509/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3445,7 +3828,7 @@
         "https://hasta.com.br/foto/2090284/2.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3527,7 +3910,7 @@
         "https://hasta.com.br/foto/2106474/6.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3609,7 +3992,7 @@
         "https://hasta.com.br/foto/1942356/6.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3696,7 +4079,7 @@
         "https://hasta.com.br/foto/999607/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3774,7 +4157,7 @@
         "https://hasta.com.br/foto/1067948/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -3945,7 +4328,7 @@
         "https://hasta.com.br/foto/2123069/1.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4021,7 +4404,7 @@
         "https://hasta.com.br/foto/968506/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:06-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4097,7 +4480,7 @@
         "https://hasta.com.br/foto/2187787/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4172,10 +4555,10 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
-        "https://hasta.com.br/foto/746520/0.jpg"
+        "https://www.santanderimoveis.com.br/wp-content/uploads/2026/07/1785440605006.jpeg"
       ],
       "first_seen_at": "2026-10-20T10:11:06-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4257,7 +4640,7 @@
         "https://hasta.com.br/foto/2027072/4.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4339,7 +4722,7 @@
         "https://hasta.com.br/foto/2106473/6.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4415,7 +4798,7 @@
         "https://hasta.com.br/foto/1647135/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4491,7 +4874,7 @@
         "https://hasta.com.br/foto/1785654/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4578,7 +4961,7 @@
         "https://hasta.com.br/foto/998960/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4667,7 +5050,7 @@
         "https://hasta.com.br/foto/1785698/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4750,7 +5133,20 @@
       "document_urls": [
         "https://venda-imoveis.caixa.gov.br/editais/matricula/SC/8555537176660.pdf"
       ],
-      "image_urls": [],
+      "image_urls": [
+        "https://cdn.nucleoleiloes.com.br/imagens/large/1568009_13_639278879665719140.jpg",
+        "https://dropbox.com/scl/fi/0bfxbcop0rqrm9v1zcbhi/imovel_inativos.jpg?rlkey=xf5xz9md7wklssk612jv8vtih&st=g8iz6x3k&raw=1",
+        "https://cdn.nucleoleiloes.com.br/imagens/large/1505360_66_639246843350866406.jpg",
+        "https://cdn.nucleoleiloes.com.br/imagens/large/1505367_96_639233300058366740.jpg",
+        "https://cdn.nucleoleiloes.com.br/imagens/large/1505369_426_639233300814944554.jpg",
+        "https://cdn.nucleoleiloes.com.br/imagens/large/1522443_643_639244675217319690.jpg",
+        "https://cdn.nucleoleiloes.com.br/imagens/large/1522446_643_639244675717457583.jpg",
+        "https://cdn.nucleoleiloes.com.br/imagens/large/1522453_643_639244678685560664.jpg",
+        "https://cdn.nucleoleiloes.com.br/imagens/large/1472566_13_639209006962794945.jpg",
+        "https://cdn.nucleoleiloes.com.br/imagens/large/1472567_13_639209007413179066.jpg",
+        "https://cdn.nucleoleiloes.com.br/imagens/large/1472568_13_639209007865095233.jpg",
+        "https://cdn.nucleoleiloes.com.br/imagens/large/1505347_306_639233293293952827.jpg"
+      ],
       "image_source_url": "https://nucleoleiloes.com.br/imoveis/publica/1568009",
       "first_seen_at": "2026-10-22T08:00:00-03:00",
       "last_checked_at": "2026-10-22T09:37:35-03:00",
@@ -4832,7 +5228,7 @@
         "https://hasta.com.br/foto/1588250/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4918,7 +5314,7 @@
         "https://hasta.com.br/foto/1996455/3.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5002,7 +5398,7 @@
         "https://hasta.com.br/foto/1764631/1.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5078,7 +5474,7 @@
         "https://hasta.com.br/foto/556980/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5154,7 +5550,7 @@
         "https://hasta.com.br/foto/2040828/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5237,7 +5633,7 @@
         "https://hasta.com.br/foto/1908551/7.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5313,7 +5709,7 @@
         "https://hasta.com.br/foto/1514941/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5388,10 +5784,10 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
-        "https://hasta.com.br/foto/600093/0.jpg"
+        "https://www.santanderimoveis.com.br/wp-content/uploads/2026/04/1775572276222.jpeg"
       ],
       "first_seen_at": "2026-10-20T10:11:06-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5467,7 +5863,7 @@
         "https://hasta.com.br/foto/1946983/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5641,7 +6037,7 @@
         "https://hasta.com.br/foto/2040827/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5717,7 +6113,7 @@
         "https://hasta.com.br/foto/1506788/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5804,7 +6200,7 @@
         "https://hasta.com.br/foto/1908555/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5886,7 +6282,7 @@
         "https://hasta.com.br/foto/2027069/4.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5962,7 +6358,7 @@
         "https://hasta.com.br/foto/1946982/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6038,7 +6434,7 @@
         "https://hasta.com.br/foto/1948256/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6117,7 +6513,7 @@
         "https://hasta.com.br/foto/1083652/3.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6193,7 +6589,7 @@
         "https://hasta.com.br/foto/2067943/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6269,7 +6665,7 @@
         "https://3b666ae36f8a71be.cdn.gocache.net/bens/0000013459/img-13459-6a05f4d80feec.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6356,7 +6752,7 @@
         "https://hasta.com.br/foto/2120762/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6432,7 +6828,7 @@
         "https://hasta.com.br/foto/1463844/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6598,7 +6994,7 @@
         "https://hasta.com.br/foto/1508159/6.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6685,7 +7081,7 @@
         "https://hasta.com.br/foto/2152361/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6766,7 +7162,7 @@
         "https://hasta.com.br/foto/1824383/3.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6841,10 +7237,10 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
-        "https://hasta.com.br/foto/1250563/0.jpg"
+        "https://www.santanderimoveis.com.br/wp-content/uploads/2026/09/1788533080897.jpeg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6926,7 +7322,7 @@
         "https://hasta.com.br/foto/2027070/4.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7007,7 +7403,7 @@
         "https://hasta.com.br/foto/962700/5.jpg"
       ],
       "first_seen_at": "2026-10-22T09:54:09-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7025,13 +7421,17 @@
         "auction_events": "unknown",
         "source_listing_price_brl": "declared",
         "official_url": "unverified",
-        "auctioneer": "unverified"
+        "auctioneer": "unverified",
+        "address": "unknown"
       },
       "provenance": {
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/962700-apartamento-res-spazio-jardim-de-viena",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento - Res. SPAZIO JARDIM DE VIENA 📍 Joinville, SC R$ 220.000,00"
+        "raw_text": "Apartamento Apartamento - Res. SPAZIO JARDIM DE VIENA 📍 Joinville, SC R$ 220.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/962700-apartamento-res-spazio-jardim-de-viena"
+        ]
       },
       "newly_discovered_at": "2026-10-22T09:59:31-03:00"
     },
@@ -7084,7 +7484,7 @@
         "https://hasta.com.br/foto/2106472/6.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7167,7 +7567,7 @@
         "https://hasta.com.br/foto/2091959/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7243,7 +7643,7 @@
         "https://hasta.com.br/foto/1949169/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7319,7 +7719,7 @@
         "https://hasta.com.br/foto/2083843/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7407,7 +7807,7 @@
         "https://hasta.com.br/foto/1914044/5.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7483,7 +7883,7 @@
         "https://hasta.com.br/foto/1504279/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7570,7 +7970,7 @@
         "https://hasta.com.br/foto/2124512/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7646,7 +8046,7 @@
         "https://hasta.com.br/foto/1967089/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7722,7 +8122,7 @@
         "https://hasta.com.br/foto/819981/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7798,7 +8198,7 @@
         "https://hasta.com.br/foto/2187424/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7877,7 +8277,7 @@
         "https://hasta.com.br/foto/1676590/3.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7953,7 +8353,7 @@
         "https://hasta.com.br/foto/2123226/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8035,7 +8435,7 @@
         "https://hasta.com.br/foto/1216324/4.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8122,7 +8522,7 @@
         "https://hasta.com.br/foto/1908553/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8198,7 +8598,7 @@
         "https://hasta.com.br/foto/1967090/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8285,7 +8685,7 @@
         "https://hasta.com.br/foto/1718758/4.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8317,6 +8717,87 @@
       },
       "newly_discovered_at": "2026-10-20T10:11:11-03:00",
       "image_source_url": "https://hasta.com.br/imovel/1718758-leilao-casa-santa-catarina-rua-cidade-de-hiroshima-46-joinville-sc-177-74-m2-1a"
+    },
+    {
+      "id": "ab26f2057047fa3b3a48",
+      "source_ids": [
+        "seu_imovel_bb"
+      ],
+      "source_listing_ids": [
+        "480"
+      ],
+      "source_listing_urls": [
+        "https://www.seuimovelbb.com.br/imovel/id/10533"
+      ],
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": "América",
+      "address": "Venda direta - ID 791 Parceiro: Escritório de Leilões Venda com Locação Imóveis Urbanos Imóveis Rurais Sobre Nós Voltar Previous Next 1 2 3 4 SC Joinville Compartilhar",
+      "property_type": "Casa",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": "89783",
+      "registry_office": "tório de Leilões Venda com Locação Imóveis Urbanos Imóveis Rurais Sobre Nós Voltar Previou",
+      "auction_lot": "4",
+      "auctioneer": "Seu Imóvel BB",
+      "seller": "; 2",
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 1576701.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": "ocupado",
+      "status": "unknown",
+      "official_url": "https://www.seuimovelbb.com.br/imovel/id/10533",
+      "source_listing_url": "https://www.seuimovelbb.com.br/imovel/id/10533",
+      "validation_status": "verified",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://www.seuimovelbb.com.br/imagem/conteudo/lg-padrao.png?1",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10533_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10533_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10533_4.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10533_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/7295_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/7296_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/7297_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10611_1.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/7134_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/7181_1.jpg"
+      ],
+      "first_seen_at": "2026-10-22T11:28:37-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupied"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "declared",
+        "registry_number": "declared",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "verified"
+      },
+      "provenance": {
+        "source_id": "seu_imovel_bb",
+        "captured_from": "https://www.seuimovelbb.com.br/imovel/id/10533",
+        "is_aggregator": false,
+        "raw_text": "Novidade Casa R$ 1.576.701,00 Valor para proposta Joinville, SC Venda direta - ID 791 Parceiro: Escritório de Leilões Venda com Locação Imóveis Urbanos Imóveis Rurais Sobre Nós Voltar Previous Next 1 2 3 4 SC Joinville Compartilhar R$ 1.576.701,00 Valor para proposta Tire suas dúvidas Aqui Saiba mais Descrição ID0791 JOINVILLE (SC) Descrição legal: Imóvel Urbano Residencial, Terreno situado na Rua Presidente Costa e Silva, nº 480, Bairro América, Município de JOINVILLE - SC. Melhor descrito na matrícula 89783 do 1º Registro de Imóveis de Joinville - SC. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) Existe AÇÃO DE USUCAPIÃO n° 00410518220108240038 no TJ-SC e o arrematante declara-se informado do fato e ciente de que a responsabilidade do BANCO por evicção está disciplinada neste Edital, conforme item 4.11 e seus subitens. Observações 1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor; 2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel. Imóveis relacionados Ver todos Previous Novidade Casa R$ 170.000,00 Valor para proposta Chapadinha, MA Venda direta - ID Parceiro: Escritório de Leilões Novidade Casa R$ 56.000,00 Valor para proposta Santa Luzia do Paruá, MA Venda direta - ID Parceiro: Escritório de Leilões Novidade Casa R$ 59.200,00 Valor para proposta Santa Luzia do Paruá, MA Venda direta - ID Parceiro: Escritório de Leilões Novidade Casa R$ 1.083.700,00 Valor para proposta Limeira, SP Venda direta - ID Parceiro: Escritório de Leilões Novidade Casa R$ 80.000,00 Valor para proposta Nossa Senhora do Socorro, SE Venda direta - ID Parceiro: Escritório de Leilões Novidade Casa R$ 66.100,00 Valor para proposta Assú, RN Venda direta - ID Parceiro: Escritório de Leilões Novidade Casa R$ 170.000,00 Valor para proposta Chapadinha, MA Venda direta - ID Parceiro: Escritório de Leilões Novidade Casa R$ 56.000,00 Valor para proposta Santa Luzia do Paruá, MA Venda direta - ID Parceiro: Escritório de Leilões Novidade Casa R$ 59.200,00 Valor para proposta Santa Luzia do Paruá, MA Venda direta - ID Parceiro: Escritório de Leilões Novidade Casa R$ 1.083.700,00 Valor para proposta Limeira, SP Venda direta - ID Parceiro: Escritório de Leilões Novidade Casa R$ 80.000,00 Valor para proposta Nossa Senhora do Socorro, SE Venda direta - ID Parceiro: Escritório de Leilões Novidade Casa R$ 66.100,00 Valor para proposta Assú, RN Venda direta - ID Parceiro: Escritório de Leilões Novidade Casa R$ 170.000,00 Valor para proposta Chapadinha, MA Venda direta - ID Parceiro: Escritório de Leilões Novidade Casa R$ 56.000,00 Valor para proposta Santa Luzia do Paruá, MA Venda direta - ID Parceiro: Escritório de Leilões Novidade Casa R$ 59.200,00 Valor para proposta Santa Luzia do Paruá, MA Venda direta - ID Parceiro: Escritór"
+      },
+      "newly_discovered_at": "2026-10-22T11:36:11-03:00"
     },
     {
       "id": "ad2bf2d6c5e30dce8715",
@@ -8361,7 +8842,7 @@
         "https://hasta.com.br/foto/150972/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8439,7 +8920,7 @@
         "https://hasta.com.br/foto/1067824/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8526,7 +9007,7 @@
         "https://hasta.com.br/foto/1908556/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8602,7 +9083,7 @@
         "https://hasta.com.br/foto/2041112/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8678,7 +9159,7 @@
         "https://hasta.com.br/foto/2114365/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8765,7 +9246,7 @@
         "https://hasta.com.br/foto/1967088/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8844,7 +9325,7 @@
         "https://hasta.com.br/foto/1505309/3.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8931,7 +9412,7 @@
         "https://hasta.com.br/foto/1908549/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9018,7 +9499,7 @@
         "https://hasta.com.br/foto/1908554/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9094,7 +9575,7 @@
         "https://hasta.com.br/foto/2040925/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9172,7 +9653,7 @@
         "https://hasta.com.br/foto/2092417/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9259,7 +9740,7 @@
         "https://hasta.com.br/foto/1676221/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9337,7 +9818,7 @@
         "https://hasta.com.br/foto/1514940/2.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9423,7 +9904,7 @@
         "https://hasta.com.br/foto/1908550/10.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9510,7 +9991,7 @@
         "https://hasta.com.br/foto/999657/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9586,7 +10067,7 @@
         "https://hasta.com.br/foto/2040725/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9698,7 +10179,7 @@
         "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grlkbn1ggqso/b/astavero/o/anexos/sampaio/6ab191ab4cf1962c5289c9c8/6ab191e3ab0be795d32c9339/foto_frontal_1-1790079901000.png"
       ],
       "first_seen_at": "2026-10-20T10:10:55-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown"
@@ -9720,7 +10201,7 @@
         "source_id": "sampaio",
         "captured_from": "https://sampaioleiloes.com.br/pregao/6ab191ab4cf1962c5289c9c8/6ab191e3ab0be795d32c9339",
         "is_aggregator": false,
-        "raw_text": "Apartamento em Joinville JOINVILLE - SC R$ 280.000,00 10/11/2026 ABERTO 1º LEILÃO home arrow_back Sampaio Leilões João Paulo Sampaio Damiani Leiloeiro Oficial JUCESC AARC-379 search account_circle more_vert ABERTO Oferta Data Valor Licitante Lote: ( 01 ) visibility VISITAS: 3010 APARTAMENTO EM JOINVILLE Valor: R$ 280.000,00 Escolha sua oferta: R$ 280.000,00 R$ 290.000,00 R$ 305.000,00 keyboard_arrow_up keyboard_arrow_down CONFIRMA Programar oferta: R$ 295.000,00 keyboard_arrow_up keyboard_arrow_down PROGRAMAR Vai para lote no pregão first_page keyboard_arrow_left keyboard_arrow_right last_page 1/1 01 Aberto Apartamento em Joinville Início: 10/11 10:00 Encerra a partir: 10/11 14:00 Valor avaliação: R$ 280.000,00 attach_file Edital attach_file Descrição do bem Favoritos star 01 (um) apartamento, matriculado sob o n.º 18.869, no Cartório do 3º Ofício do Registro de Imóveis da Comarca de Joinville (SC), correspondente à unidade n.º 03, 1º pavimento, bloco n.º 10 do Conjunto Residencial Campo Belo, situado na rua Padre Kolb, n.º 99, em Joinville (SC), medindo 97,26 m² de área real total, sendo 73,02 m² de área real privativa e 24,24 m² de área real de uso comum, inclusive uma vaga de garagem. Ônus: R-4 Hipoteca em favor da Caixa Econômica Federal – CEF. R-05 Penhora em favor de Condomínio Conjunto Residencial Campo Belo gravada nos autos nº 038.11.033310-9/001, da 2ª Vara Cível da Comarca de Joinville/SC. R-06 Penhora em favor da Caixa Econômica Federal – CEF gravada nos autos nº 5000054-66.2014.4.04.7201, da 2ª Vara Federal de Joinville/SC. Avaliação: R$ 280.000,00 (duzentos e oitenta mil reais), em 18/11/2024. Pagamento O pagamento do preço se dará no ato do leilão e por depósito bancário, em conta vinculada ao juízo, aberta para esse fim. Dados do leilão Disponibilidade: Aberto 1º Leilão: 10/11/2026 14:00 Local: Datas dos Leilões 1º Leilão: 10/11/2026 14:00 Valor leilão: R$ 280.000,00 2º Leilão: 17/11/2026 14:00 Valor leilão: R$ 252.000,00 placeLocal do leilao placeLocal do bem Dados do Processo Vara da Justiça: 8ª Vara Cível Da Comarca de Joinville Magistrado: DANIEL RADUNZ Processo: 5000538-16.2012.8.24.0038 Tipo de processo: Exequente: Condomínio Conjunto Residencial Campo Belo Executado: José de Fatima Caetano e Debora Cristina Izauro Caetano Depositário: José de Fatima Caetano e Debora Cristina Izauro Caetano Cidade/UF: Joinville/SC Endereço: rua Padre Kolb, n.º 99 - Visitação: Apenas de forma externa Retirada: Não se aplica signal_wifi_statusbar_4_barON mailAvisos de leilões attributionInstitucional arrow_upward",
+        "raw_text": "Apartamento em Joinville JOINVILLE - SC R$ 280.000,00 10/11/2026 ABERTO 1º LEILÃO home arrow_back Sampaio Leilões João Paulo Sampaio Damiani Leiloeiro Oficial JUCESC AARC-379 search account_circle more_vert ABERTO Oferta Data Valor Licitante Lote: ( 01 ) visibility VISITAS: 3019 APARTAMENTO EM JOINVILLE Valor: R$ 280.000,00 Escolha sua oferta: R$ 280.000,00 R$ 290.000,00 R$ 305.000,00 keyboard_arrow_up keyboard_arrow_down CONFIRMA Programar oferta: R$ 295.000,00 keyboard_arrow_up keyboard_arrow_down PROGRAMAR Vai para lote no pregão first_page keyboard_arrow_left keyboard_arrow_right last_page 1/1 01 Aberto Apartamento em Joinville Início: 10/11 10:00 Encerra a partir: 10/11 14:00 Valor avaliação: R$ 280.000,00 attach_file Edital attach_file Descrição do bem Favoritos star 01 (um) apartamento, matriculado sob o n.º 18.869, no Cartório do 3º Ofício do Registro de Imóveis da Comarca de Joinville (SC), correspondente à unidade n.º 03, 1º pavimento, bloco n.º 10 do Conjunto Residencial Campo Belo, situado na rua Padre Kolb, n.º 99, em Joinville (SC), medindo 97,26 m² de área real total, sendo 73,02 m² de área real privativa e 24,24 m² de área real de uso comum, inclusive uma vaga de garagem. Ônus: R-4 Hipoteca em favor da Caixa Econômica Federal – CEF. R-05 Penhora em favor de Condomínio Conjunto Residencial Campo Belo gravada nos autos nº 038.11.033310-9/001, da 2ª Vara Cível da Comarca de Joinville/SC. R-06 Penhora em favor da Caixa Econômica Federal – CEF gravada nos autos nº 5000054-66.2014.4.04.7201, da 2ª Vara Federal de Joinville/SC. Avaliação: R$ 280.000,00 (duzentos e oitenta mil reais), em 18/11/2024. Pagamento O pagamento do preço se dará no ato do leilão e por depósito bancário, em conta vinculada ao juízo, aberta para esse fim. Dados do leilão Disponibilidade: Aberto 1º Leilão: 10/11/2026 14:00 Local: Datas dos Leilões 1º Leilão: 10/11/2026 14:00 Valor leilão: R$ 280.000,00 2º Leilão: 17/11/2026 14:00 Valor leilão: R$ 252.000,00 placeLocal do leilao placeLocal do bem Dados do Processo Vara da Justiça: 8ª Vara Cível Da Comarca de Joinville Magistrado: DANIEL RADUNZ Processo: 5000538-16.2012.8.24.0038 Tipo de processo: Exequente: Condomínio Conjunto Residencial Campo Belo Executado: José de Fatima Caetano e Debora Cristina Izauro Caetano Depositário: José de Fatima Caetano e Debora Cristina Izauro Caetano Cidade/UF: Joinville/SC Endereço: rua Padre Kolb, n.º 99 - Visitação: Apenas de forma externa Retirada: Não se aplica signal_wifi_statusbar_4_barON mailAvisos de leilões attributionInstitucional arrow_upward",
         "source_listing_urls": [
           "https://sampaioleiloes.com.br/pregao/6ab191ab4cf1962c5289c9c8/6ab191e3ab0be795d32c9339"
         ]
@@ -9770,7 +10251,7 @@
         "https://hasta.com.br/foto/1948254/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9857,7 +10338,7 @@
         "https://hasta.com.br/foto/1908548/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9935,7 +10416,7 @@
         "https://hasta.com.br/foto/1110780/0.jpg"
       ],
       "first_seen_at": "2026-10-20T13:00:24-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -10013,7 +10494,7 @@
         "https://6b5a04d21a38ad1e.cdn.gocache.net/bens/0000065331/img-65331-6a75f201d8387.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -10094,7 +10575,7 @@
         "https://hasta.com.br/foto/2107963/5.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -10170,7 +10651,7 @@
         "https://hasta.com.br/foto/1720890/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -10248,7 +10729,7 @@
         "https://hasta.com.br/foto/2217310/0.jpg"
       ],
       "first_seen_at": "2026-10-21T09:28:18-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -10331,7 +10812,7 @@
         "https://hasta.com.br/foto/1908552/8.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -10409,7 +10890,7 @@
         "https://hasta.com.br/foto/599926/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:06-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -10443,6 +10924,77 @@
       "image_source_url": "https://hasta.com.br/imovel/599926-casa-a-venda-na-rua-alfredo-max-frederico-volmann-joinville-sc-codigo-02-26822"
     },
     {
+      "id": "90282a93cdba3cc45c98",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1273894-terreno-com-252-00m2-com-casa-de-60-00m2"
+      ],
+      "city": "Navegantes",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Casa",
+      "area_privative_m2": 252.0,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 500000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/1273894-terreno-com-252-00m2-com-casa-de-60-00m2",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1273894/0.jpg"
+      ],
+      "first_seen_at": "2026-10-22T11:35:21-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/1273894-terreno-com-252-00m2-com-casa-de-60-00m2",
+        "is_aggregator": true,
+        "raw_text": "Casa Terreno com 252,00m² com casa de 60,00m² 📍 Navegantes, SC R$ 500.000,00"
+      },
+      "newly_discovered_at": "2026-10-22T11:36:11-03:00"
+    },
+    {
       "id": "943ed6fce20df0bd8fe2",
       "source_ids": [
         "hasta"
@@ -10457,7 +11009,7 @@
       "state": "SC",
       "neighborhood": null,
       "address": null,
-      "property_type": "Terreno",
+      "property_type": "Casa",
       "area_privative_m2": 252.0,
       "area_built_m2": null,
       "area_total_m2": null,
@@ -10498,7 +11050,7 @@
         "https://hasta.com.br/foto/1001533/11.jpg"
       ],
       "first_seen_at": "2026-10-20T18:12:02-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -10523,12 +11075,94 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1001533-casa-residencial-meia-praia-3-dormitorio-s-2-vaga-s-de-garagem",
         "is_aggregator": true,
-        "raw_text": "Terreno Terreno - SAO DOMINGOS - NAVEGANTES/SC 📍 Navegantes, SC R$ 270.000,00 40% OFF Casa Terreno com 252,00m² com casa de 60,00m² 📍 Navegantes, SC R$ 500.000,00 Apartamento Apartamento Condomínio, Residencial, 2 dormitório(s), 1 vaga(s) de garagem 📍 Navegantes, SC R$ 900.000,00 Imóvel Imóvel com área de 273,00m², com Edificações, no Jardim Ana Néri, em Navegantes/SC 📍 Navegantes, SC R$ 440.414,51 Terreno Terreno com área de 3.980,30m², Loteamento Costa Gravatá, no Município de Navegantes/SC 📍 Navegantes, SC R$ 720.000,00 Casa Casa, Residencial, Meia Praia, 3 dormitório(s), 2 vaga(s) de garagem 📍 Navegantes, SC R$ 765.000,00 Terreno Terreno urbano com área de 684,05m² em navegantes/sc. 📍 Navegantes, SC R$ 626.665,31 Imóvel Leilão Online da 1ª Vara Cível de Navegantes/SC. 📍 Navegantes, SC R$ 3.518.000,00",
+        "raw_text": "Casa Casa, Residencial, Meia Praia, 3 dormitório(s), 2 vaga(s) de garagem 📍 Navegantes, SC R$ 765.000,00",
         "source_listing_urls": [
           "https://hasta.com.br/imovel/1001533-casa-residencial-meia-praia-3-dormitorio-s-2-vaga-s-de-garagem"
         ]
       },
       "newly_discovered_at": "2026-10-20T18:12:43-03:00"
+    },
+    {
+      "id": "98338ceb9563b22b3ed9",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/995677-apartamento-condominio-residencial-2-dormitorio-s-1-vaga-s-de-garagem"
+      ],
+      "city": "Navegantes",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Apartamento",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": "o(s)",
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 900000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/995677-apartamento-condominio-residencial-2-dormitorio-s-1-vaga-s-de-garagem",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/995677/0.jpg",
+        "https://hasta.com.br/foto/995677/1.jpg",
+        "https://hasta.com.br/foto/995677/2.jpg",
+        "https://hasta.com.br/foto/995677/3.jpg",
+        "https://hasta.com.br/foto/995677/4.jpg",
+        "https://hasta.com.br/foto/995677/5.jpg",
+        "https://hasta.com.br/foto/995677/6.jpg",
+        "https://hasta.com.br/foto/995677/7.jpg",
+        "https://hasta.com.br/foto/995677/8.jpg",
+        "https://hasta.com.br/foto/995677/9.jpg",
+        "https://hasta.com.br/foto/995677/10.jpg",
+        "https://hasta.com.br/foto/995677/11.jpg"
+      ],
+      "first_seen_at": "2026-10-22T11:35:22-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/995677-apartamento-condominio-residencial-2-dormitorio-s-1-vaga-s-de-garagem",
+        "is_aggregator": true,
+        "raw_text": "Apartamento Apartamento Condomínio, Residencial, 2 dormitório(s), 1 vaga(s) de garagem 📍 Navegantes, SC R$ 900.000,00"
+      },
+      "newly_discovered_at": "2026-10-22T11:36:11-03:00"
     },
     {
       "id": "08f4d528c584a645188b",
@@ -10575,7 +11209,7 @@
         "https://hasta.com.br/foto/585659/2.jpg"
       ],
       "first_seen_at": "2026-10-20T13:00:33-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -10600,7 +11234,7 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/585659-terreno-c-79-910-54-m2-rod-sc-414-penha-sc",
         "is_aggregator": true,
-        "raw_text": "Terreno Terreno c/ 79.910,54 m2 - Rod SC 414 - Penha SC 📍 Penha, SC R$ 9.000.000,00 Apartamento Fração de tempo apartamento 404 em penha/sc 📍 Penha, SC R$ 63.307,01 Apartamento Fração de tempo apartamento 404 em penha/sc 📍 Penha, SC R$ 63.307,01 Terreno Rua nereu de assis, s/nº, qd i, lt 2, 3, 4, 5 e 6, praia de armação do itapocory, complemento jardim bulcão, penha/sc. - terreno em santa catarina - 1740m² - 10min do beto carrero - penha/sc 📍 Penha, SC R$ 2.000.000,00 Terreno Rua nereu de assis, s/nº, qd i, lt 2, 3, 4, 5 e 6, praia de armação do itapocory, complemento jardim bulcão, penha/sc. - santa catarina - terreno bem próx ao beto carrero 📍 Penha, SC R$ 2.000.000,00 Terreno Rua nereu de assis, s/nº, qd i, lt 2, 3, 4, 5 e 6, praia de armação do itapocory, complemento jardim bulcão, penha/sc. - santa catarina - terreno bem próx ao beto carrero 📍 Penha, SC R$ 2.000.000,00",
+        "raw_text": "Terreno Terreno c/ 79.910,54 m2 - Rod SC 414 - Penha SC 📍 Penha, SC R$ 9.000.000,00",
         "source_listing_urls": [
           "https://hasta.com.br/imovel/585659-terreno-c-79-910-54-m2-rod-sc-414-penha-sc"
         ]
@@ -10653,7 +11287,7 @@
         "https://hasta.com.br/foto/1311441/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:11-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -10740,7 +11374,7 @@
         "https://hasta.com.br/foto/1518876/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:11-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -10827,7 +11461,7 @@
         "https://hasta.com.br/foto/1352938/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:11-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -10984,7 +11618,7 @@
         "https://hasta.com.br/foto/2092507/2.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:11-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -11060,7 +11694,7 @@
         "https://hasta.com.br/foto/1596535/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:11-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -11137,7 +11771,7 @@
         "https://hasta.com.br/foto/1597363/1.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:11-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -11215,7 +11849,7 @@
         "https://hasta.com.br/foto/1577545/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:11-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -11297,7 +11931,7 @@
         "https://hasta.com.br/foto/1676890/6.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:11-03:00",
-      "last_checked_at": "2026-10-22T09:59:31-03:00",
+      "last_checked_at": "2026-10-22T11:36:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -11348,8 +11982,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 0.28,
-      "finished_at": "2026-10-22T09:51:56-03:00"
+      "duration_seconds": 0.62,
+      "finished_at": "2026-10-22T11:27:06-03:00"
     },
     {
       "source_id": "caixa",
@@ -11367,8 +12001,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 2.06,
-      "finished_at": "2026-10-22T09:51:58-03:00"
+      "duration_seconds": 2.45,
+      "finished_at": "2026-10-22T11:27:08-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -11386,9 +12020,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 3.55,
-      "finished_at": "2026-10-22T09:52:02-03:00",
-      "last_success_at": "2026-10-22T09:52:02-03:00"
+      "duration_seconds": 33.17,
+      "finished_at": "2026-10-22T11:27:42-03:00",
+      "last_success_at": "2026-10-22T11:27:42-03:00"
     },
     {
       "source_id": "superbid",
@@ -11406,8 +12040,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 0.12,
-      "finished_at": "2026-10-22T09:52:02-03:00"
+      "duration_seconds": 0.61,
+      "finished_at": "2026-10-22T11:27:42-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -11415,7 +12049,7 @@
       "status": "failed",
       "pages_read": 0,
       "listings_found": 0,
-      "error": "Fonte limitada (HTTP 403); acesso não contornado.",
+      "error": "Página carregada, mas o formato dos resultados ainda não foi reconhecido.",
       "listings_by_city": {
         "Joinville": 0,
         "Balneário Camboriú": 0,
@@ -11425,8 +12059,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 0.3,
-      "finished_at": "2026-10-22T09:52:02-03:00"
+      "duration_seconds": 3.42,
+      "finished_at": "2026-10-22T11:27:46-03:00"
     },
     {
       "source_id": "duarte",
@@ -11444,9 +12078,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 48.11,
-      "finished_at": "2026-10-22T09:52:50-03:00",
-      "last_success_at": "2026-10-22T09:52:50-03:00"
+      "duration_seconds": 41.48,
+      "finished_at": "2026-10-22T11:28:27-03:00",
+      "last_success_at": "2026-10-22T11:28:27-03:00"
     },
     {
       "source_id": "zampieri",
@@ -11464,19 +12098,19 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 7.56,
-      "finished_at": "2026-10-22T09:52:58-03:00",
-      "last_success_at": "2026-10-22T09:52:58-03:00"
+      "duration_seconds": 6.0,
+      "finished_at": "2026-10-22T11:28:33-03:00",
+      "last_success_at": "2026-10-22T11:28:33-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
       "name": "Seu Imóvel BB",
-      "status": "failed",
-      "pages_read": 0,
-      "listings_found": 0,
-      "error": "Fonte limitada (HTTP 403); acesso não contornado.",
+      "status": "success",
+      "pages_read": 1,
+      "listings_found": 1,
+      "error": null,
       "listings_by_city": {
-        "Joinville": 0,
+        "Joinville": 1,
         "Balneário Camboriú": 0,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
@@ -11484,8 +12118,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 0.24,
-      "finished_at": "2026-10-22T09:52:58-03:00"
+      "duration_seconds": 4.7,
+      "finished_at": "2026-10-22T11:28:38-03:00",
+      "last_success_at": "2026-10-22T11:28:38-03:00"
     },
     {
       "source_id": "freitas",
@@ -11503,9 +12138,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 17.8,
-      "finished_at": "2026-10-22T09:53:16-03:00",
-      "last_success_at": "2026-10-22T09:53:16-03:00"
+      "duration_seconds": 6.4,
+      "finished_at": "2026-10-22T11:28:45-03:00",
+      "last_success_at": "2026-10-22T11:28:45-03:00"
     },
     {
       "source_id": "comprei",
@@ -11523,8 +12158,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 2.02,
-      "finished_at": "2026-10-22T09:53:18-03:00"
+      "duration_seconds": 1.29,
+      "finished_at": "2026-10-22T11:28:46-03:00"
     },
     {
       "source_id": "sampaio",
@@ -11542,17 +12177,17 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 10.31,
-      "finished_at": "2026-10-22T09:53:28-03:00",
-      "last_success_at": "2026-10-22T09:53:28-03:00"
+      "duration_seconds": 18.67,
+      "finished_at": "2026-10-22T11:29:05-03:00",
+      "last_success_at": "2026-10-22T11:29:05-03:00"
     },
     {
       "source_id": "machado",
       "name": "Machado Leiloeiro",
-      "status": "failed",
-      "pages_read": 0,
+      "status": "success",
+      "pages_read": 1,
       "listings_found": 0,
-      "error": "Fonte limitada (HTTP 403); acesso não contornado.",
+      "error": null,
       "listings_by_city": {
         "Joinville": 0,
         "Balneário Camboriú": 0,
@@ -11562,28 +12197,29 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 0.28,
-      "finished_at": "2026-10-22T09:53:29-03:00"
+      "duration_seconds": 3.5,
+      "finished_at": "2026-10-22T11:29:08-03:00",
+      "last_success_at": "2026-10-22T11:29:08-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
       "status": "success",
       "pages_read": 11,
-      "listings_found": 129,
+      "listings_found": 136,
       "error": null,
       "listings_by_city": {
         "Joinville": 91,
         "Balneário Camboriú": 23,
-        "Balneário Piçarras": 2,
-        "Barra Velha": 3,
+        "Balneário Piçarras": 1,
+        "Barra Velha": 8,
         "Penha": 1,
-        "Navegantes": 1,
+        "Navegantes": 4,
         "Rio do Sul": 8
       },
-      "duration_seconds": 362.28,
-      "finished_at": "2026-10-22T09:59:31-03:00",
-      "last_success_at": "2026-10-22T09:59:31-03:00"
+      "duration_seconds": 422.63,
+      "finished_at": "2026-10-22T11:36:11-03:00",
+      "last_success_at": "2026-10-22T11:36:11-03:00"
     }
   ]
 }

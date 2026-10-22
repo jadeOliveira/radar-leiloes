@@ -1,9 +1,9 @@
 {
-  "run_id": "154b0c77-9930-41d4-956e-cf6eac0cff85",
+  "run_id": "e8d128f3-c450-440a-9255-8aedafd63cb1",
   "status": "partial",
-  "started_at": "2026-10-22T09:51:55-03:00",
-  "finished_at": "2026-10-22T09:59:31-03:00",
-  "duration_seconds": 455.79,
+  "started_at": "2026-10-22T11:27:05-03:00",
+  "finished_at": "2026-10-22T11:36:11-03:00",
+  "duration_seconds": 546.06,
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -31,8 +31,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 0.28,
-      "finished_at": "2026-10-22T09:51:56-03:00"
+      "duration_seconds": 0.62,
+      "finished_at": "2026-10-22T11:27:06-03:00"
     },
     {
       "source_id": "caixa",
@@ -50,8 +50,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 2.06,
-      "finished_at": "2026-10-22T09:51:58-03:00"
+      "duration_seconds": 2.45,
+      "finished_at": "2026-10-22T11:27:08-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -69,9 +69,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 3.55,
-      "finished_at": "2026-10-22T09:52:02-03:00",
-      "last_success_at": "2026-10-22T09:52:02-03:00"
+      "duration_seconds": 33.17,
+      "finished_at": "2026-10-22T11:27:42-03:00",
+      "last_success_at": "2026-10-22T11:27:42-03:00"
     },
     {
       "source_id": "superbid",
@@ -89,8 +89,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 0.12,
-      "finished_at": "2026-10-22T09:52:02-03:00"
+      "duration_seconds": 0.61,
+      "finished_at": "2026-10-22T11:27:42-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -98,7 +98,7 @@
       "status": "failed",
       "pages_read": 0,
       "listings_found": 0,
-      "error": "Fonte limitada (HTTP 403); acesso não contornado.",
+      "error": "Página carregada, mas o formato dos resultados ainda não foi reconhecido.",
       "listings_by_city": {
         "Joinville": 0,
         "Balneário Camboriú": 0,
@@ -108,8 +108,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 0.3,
-      "finished_at": "2026-10-22T09:52:02-03:00"
+      "duration_seconds": 3.42,
+      "finished_at": "2026-10-22T11:27:46-03:00"
     },
     {
       "source_id": "duarte",
@@ -127,9 +127,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 48.11,
-      "finished_at": "2026-10-22T09:52:50-03:00",
-      "last_success_at": "2026-10-22T09:52:50-03:00"
+      "duration_seconds": 41.48,
+      "finished_at": "2026-10-22T11:28:27-03:00",
+      "last_success_at": "2026-10-22T11:28:27-03:00"
     },
     {
       "source_id": "zampieri",
@@ -147,19 +147,19 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 7.56,
-      "finished_at": "2026-10-22T09:52:58-03:00",
-      "last_success_at": "2026-10-22T09:52:58-03:00"
+      "duration_seconds": 6.0,
+      "finished_at": "2026-10-22T11:28:33-03:00",
+      "last_success_at": "2026-10-22T11:28:33-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
       "name": "Seu Imóvel BB",
-      "status": "failed",
-      "pages_read": 0,
-      "listings_found": 0,
-      "error": "Fonte limitada (HTTP 403); acesso não contornado.",
+      "status": "success",
+      "pages_read": 1,
+      "listings_found": 1,
+      "error": null,
       "listings_by_city": {
-        "Joinville": 0,
+        "Joinville": 1,
         "Balneário Camboriú": 0,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
@@ -167,8 +167,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 0.24,
-      "finished_at": "2026-10-22T09:52:58-03:00"
+      "duration_seconds": 4.7,
+      "finished_at": "2026-10-22T11:28:38-03:00",
+      "last_success_at": "2026-10-22T11:28:38-03:00"
     },
     {
       "source_id": "freitas",
@@ -186,9 +187,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 17.8,
-      "finished_at": "2026-10-22T09:53:16-03:00",
-      "last_success_at": "2026-10-22T09:53:16-03:00"
+      "duration_seconds": 6.4,
+      "finished_at": "2026-10-22T11:28:45-03:00",
+      "last_success_at": "2026-10-22T11:28:45-03:00"
     },
     {
       "source_id": "comprei",
@@ -206,8 +207,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 2.02,
-      "finished_at": "2026-10-22T09:53:18-03:00"
+      "duration_seconds": 1.29,
+      "finished_at": "2026-10-22T11:28:46-03:00"
     },
     {
       "source_id": "sampaio",
@@ -225,17 +226,17 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 10.31,
-      "finished_at": "2026-10-22T09:53:28-03:00",
-      "last_success_at": "2026-10-22T09:53:28-03:00"
+      "duration_seconds": 18.67,
+      "finished_at": "2026-10-22T11:29:05-03:00",
+      "last_success_at": "2026-10-22T11:29:05-03:00"
     },
     {
       "source_id": "machado",
       "name": "Machado Leiloeiro",
-      "status": "failed",
-      "pages_read": 0,
+      "status": "success",
+      "pages_read": 1,
       "listings_found": 0,
-      "error": "Fonte limitada (HTTP 403); acesso não contornado.",
+      "error": null,
       "listings_by_city": {
         "Joinville": 0,
         "Balneário Camboriú": 0,
@@ -245,49 +246,59 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 0.28,
-      "finished_at": "2026-10-22T09:53:29-03:00"
+      "duration_seconds": 3.5,
+      "finished_at": "2026-10-22T11:29:08-03:00",
+      "last_success_at": "2026-10-22T11:29:08-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
       "status": "success",
       "pages_read": 11,
-      "listings_found": 129,
+      "listings_found": 136,
       "error": null,
       "listings_by_city": {
         "Joinville": 91,
         "Balneário Camboriú": 23,
-        "Balneário Piçarras": 2,
-        "Barra Velha": 3,
+        "Balneário Piçarras": 1,
+        "Barra Velha": 8,
         "Penha": 1,
-        "Navegantes": 1,
+        "Navegantes": 4,
         "Rio do Sul": 8
       },
-      "duration_seconds": 362.28,
-      "finished_at": "2026-10-22T09:59:31-03:00",
-      "last_success_at": "2026-10-22T09:59:31-03:00"
+      "duration_seconds": 422.63,
+      "finished_at": "2026-10-22T11:36:11-03:00",
+      "last_success_at": "2026-10-22T11:36:11-03:00"
     }
   ],
   "data_status": "updated",
-  "data_updated_at": "2026-10-22T09:59:31-03:00",
+  "data_updated_at": "2026-10-22T11:36:11-03:00",
   "counts": {
-    "new_listings": 4,
-    "changed_listings": 1,
-    "new_or_updated": 5,
-    "total_preserved": 139,
-    "sources_succeeded": 6,
+    "new_listings": 8,
+    "changed_listings": 6,
+    "new_or_updated": 14,
+    "total_preserved": 147,
+    "sources_succeeded": 8,
     "sources_partial": 0,
-    "sources_failed": 7
+    "sources_failed": 5
   },
   "new_property_ids": [
-    "35b30aac192a4fe40fdf",
-    "830d20a29f778cb562ae",
-    "87a6ce2c0a8803fcafaf",
-    "b26196fe064d82c93cb4"
+    "00b2a09433b01deabb29",
+    "2dfba96f2e1ef67424ef",
+    "63e5b3e46d4806848457",
+    "8c976a933bd3e52a902b",
+    "90282a93cdba3cc45c98",
+    "98338ceb9563b22b3ed9",
+    "ab26f2057047fa3b3a48",
+    "c9bb3bb1f325a39780fb"
   ],
   "changed_property_ids": [
-    "febfaa1addb4e42fd266"
+    "20fd0b9b6356ec174d81",
+    "36913ba2a684762ca887",
+    "4e87051665604a054689",
+    "80d0e5b207315b6d1e5d",
+    "943ed6fce20df0bd8fe2",
+    "c7c851cf14061ca175e9"
   ],
   "errors": [
     {
@@ -304,19 +315,11 @@
     },
     {
       "source_id": "diego_leiloes",
-      "message": "Fonte limitada (HTTP 403); acesso não contornado."
-    },
-    {
-      "source_id": "seu_imovel_bb",
-      "message": "Fonte limitada (HTTP 403); acesso não contornado."
+      "message": "Página carregada, mas o formato dos resultados ainda não foi reconhecido."
     },
     {
       "source_id": "comprei",
       "message": "Página carregada, mas o formato dos resultados ainda não foi reconhecido."
-    },
-    {
-      "source_id": "machado",
-      "message": "Fonte limitada (HTTP 403); acesso não contornado."
     }
   ]
 }

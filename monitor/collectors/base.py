@@ -22,8 +22,6 @@ class SiteAdapter:
     """Independent adapter base. A source failure never aborts other adapters."""
 
     pagination_parameter = "page"
-    max_pages = 100
-    max_load_more = 30
     timeout_ms = 25000
 
     def __init__(self, config: dict[str, Any], cities: list[str], timezone: str) -> None:
@@ -70,17 +68,15 @@ class SiteAdapter:
 
     def _read_cards(self, page) -> list[dict[str, str]]:
         pattern = self.config["path_pattern"]
-        cities = self.cities
-        cards = page.evaluate("""({pattern, cities}) => {
+        cards = page.evaluate("""({pattern}) => {
           const matcher = new RegExp(pattern, 'i');
-          const locality = new RegExp('(?:' + cities.join('|') + ')\\\\s*(?:/|-)\\\\s*SC\\\\b', 'i');
           const result = [];
           for (const a of document.querySelectorAll('a[href]')) {
             if (!matcher.test(new URL(a.href).pathname)) continue;
             let node = a, text = '', image = null;
             for (let i = 0; i < 9 && node; i++, node = node.parentElement) {
               const candidate = (node.innerText || '').replace(/\\s+/g, ' ').trim();
-              if (candidate.length > 40 && candidate.length < 2500 && locality.test(candidate) && /R\\$|lance|proposta|venda/i.test(candidate)) {
+              if (candidate.length > 40 && candidate.length < 2500) {
                 text = candidate;
               const picture = [...node.querySelectorAll('img')].map(img => {
                 const srcset = img.getAttribute('srcset') || img.dataset.srcset || '';
@@ -97,7 +93,7 @@ class SiteAdapter:
             result.push({href:a.href, text:text || (a.innerText || a.textContent || '').trim(), image});
           }
           return result;
-        }""", {"pattern": pattern, "cities": cities})
+        }""", {"pattern": pattern})
         unique: dict[str, dict[str, str]] = {}
         for card in cards:
             if self.link_matches(card["href"]) and self.host_matches(card["href"]):
@@ -105,13 +101,20 @@ class SiteAdapter:
         return list(unique.values())
 
     def _load_more(self, page) -> None:
-        for _ in range(self.max_load_more):
+        previous_count = -1
+        while True:
             button = page.get_by_role("button", name=re.compile(r"carregar mais|ver mais|mostrar mais", re.I))
             if not button.count() or not button.first.is_visible():
                 return
             try:
+                current_count = page.locator("a[href]").count()
+                if current_count <= previous_count:
+                    return
+                previous_count = current_count
                 button.first.click(timeout=2000)
                 page.wait_for_timeout(500)
+                if page.locator("a[href]").count() <= current_count:
+                    return
             except PlaywrightError:
                 return
 
@@ -140,31 +143,56 @@ class SiteAdapter:
         detail_error = None
         discarded_empty_cards = 0
         dynamic_next_url = None
-        for page_number in range(1, self.max_pages + 1):
-            url = self.page_url(page_number) if "{page}" in self.config["url"] or page_number == 1 else dynamic_next_url
-            if not url:
+        page_number = 0
+        visited_pages: set[str] = set()
+        paginated_template = "{page}" in self.config["url"]
+        last_page_signature: tuple[str, ...] | None = None
+        consecutive_duplicate_pages = 0
+        while True:
+            page_number += 1
+            url = self.page_url(page_number) if paginated_template else (dynamic_next_url or self.page_url(1))
+            if not url or url in visited_pages:
                 break
+            visited_pages.add(url)
             try:
                 self._open(page, url)
                 self._load_more(page)
                 cards = self._read_cards(page)
                 next_url = self._next_page_url(page)
+                dynamic_next_url = next_url
                 body = page.locator("body").inner_text(timeout=5000)
                 if not cards:
                     if re.search(r"nenhum(?:a)?\s+(?:im[oó]vel|resultado|an[uú]ncio)|n[aã]o encontramos|sem oportunidades", body, re.I):
                         pages_ok += 1
                         break
+                    if next_url and next_url not in visited_pages:
+                        pages_ok += 1
+                        error = error or "Página de resultados sem cartões reconhecidos; a paginação continuou."
+                        continue
                     if page_number == 1:
                         raise SourceUnavailable("Página carregada, mas o formato dos resultados ainda não foi reconhecido.")
                     break
                 new_urls = [item for item in cards if item["href"] not in seen_urls]
+                page_signature = tuple(sorted(item["href"] for item in cards))
                 if not new_urls and page_number > 1:
-                    break
+                    consecutive_duplicate_pages = consecutive_duplicate_pages + 1 if page_signature == last_page_signature else 1
+                    if consecutive_duplicate_pages >= 2:
+                        error = error or "A paginação repetiu a mesma página; a fonte não avançou para novos resultados."
+                        break
+                else:
+                    consecutive_duplicate_pages = 0
+                last_page_signature = page_signature
                 seen_urls.update(item["href"] for item in new_urls)
                 pages_ok += 1
                 for card in new_urls:
                     combined = card["text"]
-                    if not any(fold(city) in fold(combined) for city in self.cities):
+                    # Search pagination already captured every card on this page.
+                    # Avoid expensive detail requests for cards that explicitly
+                    # identify a different city; cards with unknown city still
+                    # get a detail lookup in case it supplies the location.
+                    has_explicit_state = bool(re.search(r"(?:/|,|-)\s*(?:AC|AL|AP|AM|BA|CE|DF|ES|GO|MA|MT|MS|MG|PA|PB|PR|PE|PI|RJ|RN|RS|RO|RR|SC|SP|SE|TO)\b", combined, re.I))
+                    matches_city = any(fold(city) in fold(combined) for city in self.cities)
+                    if has_explicit_state and not matches_city:
                         continue
                     captured_at = datetime.now(ZoneInfo(self.timezone)).isoformat(timespec="seconds")
                     detail_links = []
@@ -218,13 +246,12 @@ class SiteAdapter:
             except (PlaywrightError, ValueError) as exception:
                 error = str(exception)
                 break
-            if "{page}" not in self.config["url"]:
-                if not dynamic_next_url or dynamic_next_url == url:
-                    break
+            if not paginated_template and not dynamic_next_url:
+                break
+            if not paginated_template and dynamic_next_url in visited_pages:
+                break
         if pages_ok == 0 and not error:
             error = "Nenhuma página de resultados acessível."
-        if page_number == self.max_pages and pages_ok == self.max_pages and not error:
-            error = f"Limite de {self.max_pages} páginas alcançado; a fonte pode ter mais resultados."
         if detail_error and not error:
             error = f"Alguns anúncios não puderam ser abertos: {detail_error}"
         if discarded_empty_cards:

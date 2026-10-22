@@ -11,27 +11,22 @@ from .base import SiteAdapter
 class SampaioAdapter(SiteAdapter):
     """Public property listings rendered as clickable cards in Sampaio's Angular app."""
 
-    max_pages = 30
-
     def _read_cards(self, page) -> list[dict[str, str]]:
-        candidates = page.evaluate(r"""({cities}) => {
-          const cityPattern = new RegExp('(?:' + cities.join('|') + ')\\s*(?:/|-|,)\\s*SC\\b', 'i');
-          const propertyPattern = /\b(casa|apartamento|terreno|lote)\b/i;
+        candidates = page.evaluate(r"""() => {
           const found = [];
           for (const heading of document.querySelectorAll('h1,h2,h3,h4,h5,h6')) {
             const title = (heading.innerText || '').replace(/\s+/g, ' ').trim();
-            if (!propertyPattern.test(title)) continue;
             let node = heading;
             for (let depth = 0; depth < 8 && node; depth++, node = node.parentElement) {
               const text = (node.innerText || '').replace(/\s+/g, ' ').trim();
-              if (text.length > 30 && text.length < 2500 && cityPattern.test(text) && /R\$/.test(text)) {
+              if (text.length > 30 && text.length < 2500) {
                 found.push({title, text});
                 break;
               }
             }
           }
           return found;
-        }""", {"cities": self.cities})
+        }""")
         list_url = page.url
         cards: dict[str, dict[str, str]] = {}
         for candidate in candidates:

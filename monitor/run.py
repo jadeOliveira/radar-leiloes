@@ -184,14 +184,11 @@ def main() -> int:
     existing_data = read_json(DATA_DIR / "properties.json", {"properties": []})
     existing = existing_data.get("properties", [])
     retained_existing = []
-    excluded_existing = []
     for item in existing:
         normalized_type = canonical_property_type(item)
         if normalized_type:
             item["property_type"] = normalized_type
-            retained_existing.append(item)
-        else:
-            excluded_existing.append(item)
+        retained_existing.append(item)
     existing = retained_existing
     by_identity: dict[str, dict[str, Any]] = {}
     id_remap: dict[str, str] = {}
@@ -243,12 +240,7 @@ def main() -> int:
         browser.close()
 
     checked_at = now(timezone).isoformat(timespec="seconds")
-    changes = [{
-        "property_id": item["id"],
-        "city": item.get("city"),
-        "source_ids": item.get("source_ids", []),
-        "changes": [{"field": "feed_visibility", "before": "included", "after": "excluded_non_real_estate_or_unconfirmed_type"}],
-    } for item in excluded_existing if item.get("id")]
+    changes: list[dict[str, Any]] = []
     for item in collected:
         validate(item, cities)
         keys = identity_keys(item)

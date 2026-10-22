@@ -65,6 +65,12 @@ class NormalizationTests(unittest.TestCase):
         with_registry = {**without_registry, "id": "new", "registry_number": "64.044"}
         self.assertTrue(set(identity_keys(without_registry)) & set(identity_keys(with_registry)))
 
+    def test_stable_property_id_keeps_identity_when_source_aliases_change(self):
+        previous = {"id": "asset", "city": "Navegantes", "source_ids": ["hasta"], "source_listing_url": "https://hasta.com.br/imovel/old"}
+        refreshed = {**previous, "source_listing_url": "https://hasta.com.br/imovel/new"}
+        self.assertIn("property-id:asset", identity_keys(previous))
+        self.assertTrue(set(identity_keys(previous)) & set(identity_keys(refreshed)))
+
     def test_aggregator_listing_is_not_labeled_as_an_official_url(self):
         aggregator = {**SOURCE, "id": "hasta", "name": "Hasta", "host": "hasta.com.br", "is_aggregator": True}
         item = parse_item(aggregator, "https://hasta.com.br/imovel/12345-apartamento", "Apartamento em Joinville/SC. Lance mínimo R$ 200.000,00.", CITIES, "2026-10-17T08:00:00-03:00")

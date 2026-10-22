@@ -37,10 +37,13 @@ python -m monitor.run
 
 ## Automação e publicação
 
-- `.github/workflows/collect.yml` roda diariamente às 08:17 com fuso `America/Sao_Paulo` (fora do início da hora, quando o GitHub pode atrasar ou descartar agendas) e também permite execução manual. O job grava duração, estado, fontes, contagens de imóveis novos/alterados, data da base exibida e erros; além disso, sempre atualiza `data/collection-trigger.json` e envia o registro para `main`, mesmo quando não há novos anúncios.
-- `.github/workflows/pages.yml` compila e publica após pushes de código, execução manual e conclusão da coleta. Ao receber a conclusão, baixa `main`, lê o registro de execução e publica os arquivos de dados atuais no GitHub Pages.
+- A automação local do Codex deve executar a coleta diária no checkout do repositório, às 08:00 em `America/Sao_Paulo`. Ela consulta todas as fontes e páginas públicas acessíveis antes de classificar os anúncios, preserva a base e o histórico, registra o relatório em `data/last-run.json` e só cria commit/push para `main` quando há alterações.
+- `.github/workflows/collect.yml` mantém apenas `workflow_dispatch` para uma coleta manual. Não há `push` nem `schedule`, evitando uma segunda coleta automática no GitHub Actions.
+- `.github/workflows/pages.yml` compila e publica após cada push para `main`, além de permitir publicação manual. O GitHub Actions publica os dados versionados; não executa uma coleta automática.
 - O filtro **Novos** exibe somente imóveis com `newly_discovered_at` no dia corrente em `America/Sao_Paulo`. No dia seguinte, eles continuam em **Todos** e deixam de aparecer em **Novos**. Os cards novos exibem endereço, bairro, título, origem e links de validação quando conhecidos.
 - O workflow tenta habilitar o GitHub Pages automaticamente. Se a política da conta impedir isso, habilite em **Settings → Pages → Build and deployment → Source: GitHub Actions** e execute o workflow novamente.
+
+Para configurar a automação local, abra `/Users/jade/dev/workspace/radar-leiloes` como projeto local no Codex e crie uma automação diária às 08:00 (`America/Sao_Paulo`) com estas instruções: pesquise todos os anúncios nas fontes e cidades de `config/monitor.json`, percorrendo todas as páginas acessíveis antes de aplicar filtros; respeite bloqueios, CAPTCHA e autenticação; não invente dados e mantenha desconhecidos como `null`; preserve identidade e histórico; só marque como novos os imóveis encontrados pela primeira vez hoje e registre mudanças em imóveis conhecidos; atualize os arquivos de dados existentes, registre estado e erros por fonte e continue as demais fontes quando uma falhar; valide JSON, duplicidades e fotos sem apagar dados válidos; revise o diff e faça commit/push para `main` somente se houver alterações, com mensagem `data: atualização diária dos leilões`.
 
 O painel está publicado em `https://jadeoliveira.github.io/radar-leiloes/`.
 

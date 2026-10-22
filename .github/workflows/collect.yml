@@ -1,11 +1,6 @@
 name: Coleta diária de leilões
 
 on:
-  push:
-    branches: [main]
-  schedule:
-    - cron: '17 8 * * *'
-      timezone: America/Sao_Paulo
   workflow_dispatch:
 
 permissions:

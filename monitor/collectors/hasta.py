@@ -10,8 +10,6 @@ from .base import SiteAdapter
 class HastaAdapter(SiteAdapter):
     """Public results from Hasta, an aggregator that links to auctioneer pages."""
 
-    max_pages = 100
-
     @staticmethod
     def city_slug(city: str) -> str:
         slug = unicodedata.normalize("NFKD", city).encode("ascii", "ignore").decode().lower()

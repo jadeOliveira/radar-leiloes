@@ -6,7 +6,6 @@ from .base import SiteAdapter, SourceUnavailable
 
 
 class CaixaAdapter(SiteAdapter):
-    max_pages = 1
 
     def prepare(self, page) -> None:
         # CAIXA exposes a public state-by-state download wizard. Select SC through

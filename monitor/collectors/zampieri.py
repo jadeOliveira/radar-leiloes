@@ -11,8 +11,6 @@ from .base import SiteAdapter
 class ZampieriAdapter(SiteAdapter):
     """Public auction lot pages published by Zampieri Leiloeiro."""
 
-    max_pages = 30
-
     def prepare(self, page) -> None:
         # Use the site's public category filter so vehicles and other movable
         # goods are not mixed into the property search.
@@ -33,7 +31,7 @@ class ZampieriAdapter(SiteAdapter):
             let node = heading;
             for (let depth = 0; depth < 7 && node; depth++, node = node.parentElement) {
               const text = (node.innerText || '').replace(/\s+/g, ' ').trim();
-              if (text.length > 30 && text.length < 2500 && locality.test(text) && /R\$/.test(text)) {
+              if (text.length > 30 && text.length < 2500 && locality.test(text)) {
                 found.push({title, text, index});
                 break;
               }
