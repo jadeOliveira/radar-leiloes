@@ -1,9 +1,9 @@
 {
-  "run_id": "7e79085a-d284-4bc2-9b04-18528dcd24c0",
+  "run_id": "154b0c77-9930-41d4-956e-cf6eac0cff85",
   "status": "partial",
-  "started_at": "2026-10-21T09:35:08-03:00",
-  "finished_at": "2026-10-21T09:44:36-03:00",
-  "duration_seconds": 567.48,
+  "started_at": "2026-10-22T09:51:55-03:00",
+  "finished_at": "2026-10-22T09:59:31-03:00",
+  "duration_seconds": 455.79,
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -31,8 +31,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 0.35,
-      "finished_at": "2026-10-21T09:35:09-03:00"
+      "duration_seconds": 0.28,
+      "finished_at": "2026-10-22T09:51:56-03:00"
     },
     {
       "source_id": "caixa",
@@ -50,18 +50,18 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.63,
-      "finished_at": "2026-10-21T09:35:11-03:00"
+      "duration_seconds": 2.06,
+      "finished_at": "2026-10-22T09:51:58-03:00"
     },
     {
       "source_id": "mega_leiloes",
       "name": "Mega Leilões",
       "status": "success",
       "pages_read": 1,
-      "listings_found": 1,
+      "listings_found": 0,
       "error": null,
       "listings_by_city": {
-        "Joinville": 1,
+        "Joinville": 0,
         "Balneário Camboriú": 0,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
@@ -69,9 +69,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 8.25,
-      "finished_at": "2026-10-21T09:35:19-03:00",
-      "last_success_at": "2026-10-21T09:35:19-03:00"
+      "duration_seconds": 3.55,
+      "finished_at": "2026-10-22T09:52:02-03:00",
+      "last_success_at": "2026-10-22T09:52:02-03:00"
     },
     {
       "source_id": "superbid",
@@ -89,8 +89,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 0.22,
-      "finished_at": "2026-10-21T09:35:19-03:00"
+      "duration_seconds": 0.12,
+      "finished_at": "2026-10-22T09:52:02-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -108,8 +108,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 0.33,
-      "finished_at": "2026-10-21T09:35:19-03:00"
+      "duration_seconds": 0.3,
+      "finished_at": "2026-10-22T09:52:02-03:00"
     },
     {
       "source_id": "duarte",
@@ -127,9 +127,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 39.56,
-      "finished_at": "2026-10-21T09:35:59-03:00",
-      "last_success_at": "2026-10-21T09:35:59-03:00"
+      "duration_seconds": 48.11,
+      "finished_at": "2026-10-22T09:52:50-03:00",
+      "last_success_at": "2026-10-22T09:52:50-03:00"
     },
     {
       "source_id": "zampieri",
@@ -147,9 +147,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 7.11,
-      "finished_at": "2026-10-21T09:36:06-03:00",
-      "last_success_at": "2026-10-21T09:36:06-03:00"
+      "duration_seconds": 7.56,
+      "finished_at": "2026-10-22T09:52:58-03:00",
+      "last_success_at": "2026-10-22T09:52:58-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -167,8 +167,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 0.35,
-      "finished_at": "2026-10-21T09:36:07-03:00"
+      "duration_seconds": 0.24,
+      "finished_at": "2026-10-22T09:52:58-03:00"
     },
     {
       "source_id": "freitas",
@@ -186,9 +186,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 17.44,
-      "finished_at": "2026-10-21T09:36:24-03:00",
-      "last_success_at": "2026-10-21T09:36:24-03:00"
+      "duration_seconds": 17.8,
+      "finished_at": "2026-10-22T09:53:16-03:00",
+      "last_success_at": "2026-10-22T09:53:16-03:00"
     },
     {
       "source_id": "comprei",
@@ -206,8 +206,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.83,
-      "finished_at": "2026-10-21T09:36:26-03:00"
+      "duration_seconds": 2.02,
+      "finished_at": "2026-10-22T09:53:18-03:00"
     },
     {
       "source_id": "sampaio",
@@ -225,9 +225,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 9.61,
-      "finished_at": "2026-10-21T09:36:36-03:00",
-      "last_success_at": "2026-10-21T09:36:36-03:00"
+      "duration_seconds": 10.31,
+      "finished_at": "2026-10-22T09:53:28-03:00",
+      "last_success_at": "2026-10-22T09:53:28-03:00"
     },
     {
       "source_id": "machado",
@@ -245,44 +245,49 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 0.35,
-      "finished_at": "2026-10-21T09:36:36-03:00"
+      "duration_seconds": 0.28,
+      "finished_at": "2026-10-22T09:53:29-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
       "status": "success",
       "pages_read": 11,
-      "listings_found": 127,
+      "listings_found": 129,
       "error": null,
       "listings_by_city": {
-        "Joinville": 92,
-        "Balneário Camboriú": 20,
+        "Joinville": 91,
+        "Balneário Camboriú": 23,
         "Balneário Piçarras": 2,
         "Barra Velha": 3,
         "Penha": 1,
         "Navegantes": 1,
         "Rio do Sul": 8
       },
-      "duration_seconds": 479.69,
-      "finished_at": "2026-10-21T09:44:36-03:00",
-      "last_success_at": "2026-10-21T09:44:36-03:00"
+      "duration_seconds": 362.28,
+      "finished_at": "2026-10-22T09:59:31-03:00",
+      "last_success_at": "2026-10-22T09:59:31-03:00"
     }
   ],
   "data_status": "updated",
-  "data_updated_at": "2026-10-21T09:44:36-03:00",
+  "data_updated_at": "2026-10-22T09:59:31-03:00",
   "counts": {
-    "new_listings": 0,
+    "new_listings": 4,
     "changed_listings": 1,
-    "new_or_updated": 1,
-    "total_preserved": 132,
+    "new_or_updated": 5,
+    "total_preserved": 139,
     "sources_succeeded": 6,
     "sources_partial": 0,
     "sources_failed": 7
   },
-  "new_property_ids": [],
+  "new_property_ids": [
+    "35b30aac192a4fe40fdf",
+    "830d20a29f778cb562ae",
+    "87a6ce2c0a8803fcafaf",
+    "b26196fe064d82c93cb4"
+  ],
   "changed_property_ids": [
-    "4e87051665604a054689"
+    "febfaa1addb4e42fd266"
   ],
   "errors": [
     {

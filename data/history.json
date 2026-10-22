@@ -2425,6 +2425,119 @@
         }
       ],
       "detected_at": "2026-10-22T08:00:00-03:00"
+    },
+    {
+      "property_id": "830d20a29f778cb562ae",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-22T09:59:31-03:00"
+    },
+    {
+      "property_id": "febfaa1addb4e42fd266",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "image_urls",
+          "before": [
+            "https://hasta.com.br/foto/905194/0.jpg",
+            "https://hasta.com.br/foto/905194/1.jpg",
+            "https://hasta.com.br/foto/905194/2.jpg",
+            "https://hasta.com.br/foto/905194/3.jpg",
+            "https://hasta.com.br/foto/905194/4.jpg",
+            "https://hasta.com.br/foto/905194/5.jpg",
+            "https://hasta.com.br/foto/905194/6.jpg",
+            "https://hasta.com.br/foto/905194/7.jpg",
+            "https://hasta.com.br/foto/905194/8.jpg",
+            "https://hasta.com.br/foto/905194/9.jpg",
+            "https://hasta.com.br/foto/905194/10.jpg",
+            "https://hasta.com.br/foto/905194/11.jpg"
+          ],
+          "after": [
+            "https://hasta.com.br/foto/905194/0.jpg",
+            "https://hasta.com.br/foto/905194/1.jpg",
+            "https://hasta.com.br/foto/905194/2.jpg",
+            "https://hasta.com.br/foto/905194/3.jpg",
+            "https://hasta.com.br/foto/905194/4.jpg",
+            "https://hasta.com.br/foto/905194/5.jpg",
+            "https://hasta.com.br/foto/905194/6.jpg",
+            "https://hasta.com.br/foto/905194/7.jpg",
+            "https://hasta.com.br/foto/905194/8.jpg",
+            "https://hasta.com.br/foto/905194/9.jpg",
+            "https://hasta.com.br/foto/905194/10.jpg",
+            "https://hasta.com.br/foto/905194/11.jpg",
+            "https://hasta.com.br/foto/2221730/0.jpg",
+            "https://hasta.com.br/foto/2221730/1.jpg",
+            "https://hasta.com.br/foto/2221730/2.jpg",
+            "https://hasta.com.br/foto/2221730/3.jpg",
+            "https://hasta.com.br/foto/2221730/4.jpg",
+            "https://hasta.com.br/foto/2221730/5.jpg",
+            "https://hasta.com.br/foto/2221730/6.jpg",
+            "https://hasta.com.br/foto/2221730/7.jpg",
+            "https://hasta.com.br/foto/2221730/8.jpg",
+            "https://hasta.com.br/foto/2221730/9.jpg",
+            "https://hasta.com.br/foto/2221730/10.jpg",
+            "https://hasta.com.br/foto/2221730/11.jpg"
+          ]
+        }
+      ],
+      "detected_at": "2026-10-22T09:59:31-03:00"
+    },
+    {
+      "property_id": "b26196fe064d82c93cb4",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-22T09:59:31-03:00"
+    },
+    {
+      "property_id": "87a6ce2c0a8803fcafaf",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-22T09:59:31-03:00"
+    },
+    {
+      "property_id": "35b30aac192a4fe40fdf",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-22T09:59:31-03:00"
     }
   ]
 }

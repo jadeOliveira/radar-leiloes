@@ -1,8 +1,28 @@
 {
-  "checked_at": "2026-10-21T09:44:36-03:00",
-  "total_listings": 132,
-  "listings_with_images": 132,
+  "checked_at": "2026-10-22T09:59:33-03:00",
+  "total_listings": 139,
+  "listings_with_images": 136,
   "recovered_ids": [],
-  "missing_image_ids": [],
-  "errors": []
+  "missing_image_ids": [
+    "90d48537555d97f4526c",
+    "208e5cb631fadc27dcaa",
+    "3fd400549f51ad71f5fb"
+  ],
+  "errors": [
+    {
+      "id": "90d48537555d97f4526c",
+      "source_url": "https://www.leilaoimovel.com.br/imovel/sc/balneario-camboriu/residencial-apartamento-n-105-do-bloco-c-do-condominio-rubem-bento-residencial-situado-na-rua-jose-francisco-imovel-3044677?utm_source=chatgpt.com",
+      "error": "Fonte limitada (HTTP 403); acesso não contornado."
+    },
+    {
+      "id": "208e5cb631fadc27dcaa",
+      "source_url": "https://mullerleiloes.com.br/index.php/item/8412/detalhes?page=3",
+      "error": "Fonte limitada (HTTP 403); acesso não contornado."
+    },
+    {
+      "id": "3fd400549f51ad71f5fb",
+      "source_url": "https://nucleoleiloes.com.br/imoveis/publica/1568009",
+      "error": "Fonte limitada (HTTP 403); acesso não contornado."
+    }
+  ]
 }
