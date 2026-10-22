@@ -2,7 +2,7 @@ import copy
 import unittest
 
 from monitor.ensure_images import recover
-from monitor.photo_policy import missing_photos
+from monitor.photo_policy import invalid_photo_ids, missing_photos
 
 
 class ScheduledPhotoTests(unittest.TestCase):
@@ -42,6 +42,15 @@ class ScheduledPhotoTests(unittest.TestCase):
         self.assertEqual(recovered, [])
         self.assertEqual(len(errors), 1)
         self.assertEqual(missing_photos([item]), ['blocked'])
+
+    def test_missing_photo_is_a_placeholder_warning_not_a_publication_blocker(self):
+        item = {'id': 'no-photo', 'image_urls': []}
+        self.assertEqual(missing_photos([item]), ['no-photo'])
+        self.assertEqual(invalid_photo_ids([item]), [])
+
+    def test_invalid_photo_url_blocks_publication(self):
+        item = {'id': 'bad-photo', 'image_urls': ['http://images.example/a.jpg']}
+        self.assertEqual(invalid_photo_ids([item]), ['bad-photo'])
 
     def test_rejects_non_https_and_empty_photo_values(self):
         self.assertEqual(missing_photos([{'id': 'bad', 'image_urls': ['', 'data:image/png;base64,x', 'http://images.example/a.jpg']}]), ['bad'])

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T09:44:36-03:00",
+  "updated_at": "2026-10-22T09:37:35-03:00",
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -6373,83 +6373,99 @@
     {
       "id": "830d20a29f778cb562ae",
       "source_ids": [
-        "hasta"
+        "mazzolli"
       ],
-      "source_listing_ids": [],
+      "source_listing_ids": [
+        "6a8e18d14c1848bbc49b43f4"
+      ],
       "source_listing_urls": [
-        "https://hasta.com.br/imovel/962700-apartamento-res-spazio-jardim-de-viena"
+        "https://hasta.com.br/imovel/962700-apartamento-res-spazio-jardim-de-viena",
+        "https://mazzollileiloes.com.br/pregao/6a8e188cc9f163fc33503e78/6a8e18d14c1848bbc49b43f4"
       ],
       "city": "Joinville",
       "state": "SC",
-      "neighborhood": null,
-      "address": null,
+      "neighborhood": "Vila Nova",
+      "address": "Rua São Firmino, 602 — Apto 401, bloco 08",
       "property_type": "Apartamento",
-      "area_privative_m2": null,
-      "area_built_m2": null,
-      "area_total_m2": null,
-      "registry_number": null,
-      "registry_office": null,
-      "auction_lot": null,
-      "auctioneer": null,
+      "area_privative_m2": 41.85,
+      "area_built_m2": 48.7734,
+      "area_total_m2": 69.452,
+      "registry_number": "43.026",
+      "registry_office": "2º Ofício de Registro de Imóveis de Joinville/SC",
+      "auction_lot": "01",
+      "auctioneer": "Mazzolli Leilões",
       "seller": null,
-      "modality": null,
-      "appraisal_value_brl": null,
-      "first_minimum_bid_brl": null,
-      "second_minimum_bid_brl": null,
-      "current_minimum_bid_brl": null,
+      "modality": "judicial",
+      "appraisal_value_brl": 220000.0,
+      "first_minimum_bid_brl": 220000.0,
+      "second_minimum_bid_brl": 110000.0,
+      "current_minimum_bid_brl": 110000.0,
       "source_listing_price_brl": 220000.0,
-      "discount_on_appraisal_percent": null,
-      "auction_events": [],
+      "discount_on_appraisal_percent": 50.0,
+      "auction_events": [
+        {
+          "date": "2026-10-22",
+          "time": "17:00",
+          "minimum_bid_brl": 220000.0,
+          "stage": "first"
+        },
+        {
+          "date": "2026-10-30",
+          "time": "17:00",
+          "minimum_bid_brl": 110000.0,
+          "stage": "second"
+        }
+      ],
       "commission_percent": null,
       "payment_conditions": null,
-      "occupancy": null,
-      "status": "unknown",
-      "official_url": null,
+      "occupancy": "ocupado",
+      "status": "scheduled_unverified",
+      "official_url": "https://mazzollileiloes.com.br/pregao/6a8e188cc9f163fc33503e78/6a8e18d14c1848bbc49b43f4",
       "source_listing_url": "https://hasta.com.br/imovel/962700-apartamento-res-spazio-jardim-de-viena",
-      "validation_status": "nao_verificado",
+      "validation_status": "verified",
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
-        "https://hasta.com.br/foto/962700/0.jpg",
-        "https://hasta.com.br/foto/962700/1.jpg",
-        "https://hasta.com.br/foto/962700/2.jpg",
-        "https://hasta.com.br/foto/962700/3.jpg",
-        "https://hasta.com.br/foto/962700/4.jpg",
-        "https://hasta.com.br/foto/962700/5.jpg"
+        "https://hasta.com.br/foto/962700/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-21T09:44:36-03:00",
-      "classification": "B",
+      "last_checked_at": "2026-10-22T09:37:35-03:00",
+      "classification": "A",
       "risk_flags": [
-        "occupancy_unknown",
-        "aggregator_listing_unverified"
+        "occupancy_declared",
+        "fiduciary_lien_declared",
+        "judicial_lien_declared",
+        "condominium_debt_unknown",
+        "auction_time_conflict_with_aggregator",
+        "legal_review_required"
       ],
       "field_verification": {
-        "city": "declared",
-        "property_type": "declared",
-        "appraisal_value_brl": "unknown",
-        "first_minimum_bid_brl": "unknown",
-        "second_minimum_bid_brl": "unknown",
-        "current_minimum_bid_brl": "unknown",
-        "occupancy": "unknown",
-        "registry_number": "unknown",
-        "auction_events": "unknown",
-        "source_listing_price_brl": "declared",
-        "official_url": "unverified",
-        "auctioneer": "unverified",
-        "address": "unknown"
+        "city": "verified",
+        "property_type": "verified",
+        "address": "verified",
+        "neighborhood": "verified",
+        "area_privative_m2": "verified",
+        "registry_number": "verified",
+        "appraisal_value_brl": "verified",
+        "first_minimum_bid_brl": "verified",
+        "second_minimum_bid_brl": "verified",
+        "current_minimum_bid_brl": "verified",
+        "discount_on_appraisal_percent": "verified",
+        "auction_events": "declared",
+        "occupancy": "declared",
+        "status": "unverified",
+        "official_url": "verified",
+        "auctioneer": "verified"
       },
       "provenance": {
-        "source_id": "hasta",
-        "captured_from": "https://hasta.com.br/imovel/962700-apartamento-res-spazio-jardim-de-viena",
-        "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento - Res. SPAZIO JARDIM DE VIENA 📍 Joinville, SC R$ 220.000,00",
-        "source_listing_urls": [
-          "https://hasta.com.br/imovel/962700-apartamento-res-spazio-jardim-de-viena"
-        ]
+        "source_id": "mazzolli",
+        "captured_from": "https://mazzollileiloes.com.br/pregao/6a8e188cc9f163fc33503e78/6a8e18d14c1848bbc49b43f4",
+        "is_aggregator": false,
+        "raw_text": "A fonte oficial indexada informa horários às 17h; agregadores divergem e exibem 14h. Confirmar horário diretamente com o leiloeiro."
       },
-      "newly_discovered_at": "2026-10-20T10:11:11-03:00",
-      "image_source_url": "https://hasta.com.br/imovel/962700-apartamento-res-spazio-jardim-de-viena"
+      "newly_discovered_at": "2026-10-22T08:00:00-03:00",
+      "image_source_url": "https://hasta.com.br/imovel/962700-apartamento-res-spazio-jardim-de-viena",
+      "title": "Apto 401 — Residencial Spazio Jardim de Viena"
     },
     {
       "id": "835051baca5a80c1695d",
@@ -10745,6 +10761,366 @@
       },
       "newly_discovered_at": "2026-10-20T10:11:11-03:00",
       "image_source_url": "https://hasta.com.br/imovel/1676890-apartamento-jardim-america-rio-do-sul-sc"
+    },
+    {
+      "source_ids": [
+        "muller_leiloes"
+      ],
+      "source_listing_ids": [
+        "8412"
+      ],
+      "source_listing_urls": [
+        "https://mullerleiloes.com.br/index.php/item/8412/detalhes?page=3"
+      ],
+      "title": "Apto 33 — Residencial Rúbia Kaiser",
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": "Jardim Paraíso",
+      "address": "Rua Callisto, 642 — Apto 33, bloco 13",
+      "property_type": "Apartamento",
+      "area_privative_m2": 46.96,
+      "area_built_m2": 53.49,
+      "area_total_m2": 53.49,
+      "registry_number": "149.198",
+      "registry_office": "Registro de Imóveis de Joinville/SC",
+      "auction_lot": "001",
+      "auctioneer": "Diego Costa Müller",
+      "seller": "Müller Leilões",
+      "modality": "judicial",
+      "appraisal_value_brl": 90000.0,
+      "first_minimum_bid_brl": 90000.0,
+      "second_minimum_bid_brl": 45000.0,
+      "current_minimum_bid_brl": 45000.0,
+      "source_listing_price_brl": 45000.0,
+      "discount_on_appraisal_percent": 50.0,
+      "auction_events": [
+        {
+          "date": "2026-12-02",
+          "time": "14:30",
+          "minimum_bid_brl": 90000.0,
+          "stage": "first"
+        },
+        {
+          "date": "2026-12-09",
+          "time": "14:30",
+          "minimum_bid_brl": 45000.0,
+          "stage": "second"
+        }
+      ],
+      "commission_percent": 5.0,
+      "occupancy": "ocupado",
+      "status": "active",
+      "official_url": "https://mullerleiloes.com.br/index.php/item/8412/detalhes?page=3",
+      "validation_status": "verified",
+      "edital_url": "https://49150d03d11fa9b9.cdn.gocache.net/bens/0000014364/edital-de-leilao-6ac1006cd212c.pdf",
+      "document_urls": [
+        "https://49150d03d11fa9b9.cdn.gocache.net/bens/0000014364/matricula-149198-6ac1013b298a1.pdf"
+      ],
+      "image_urls": [],
+      "image_source_url": "https://mullerleiloes.com.br/index.php/item/8412/detalhes?page=3",
+      "first_seen_at": "2026-10-22T08:00:00-03:00",
+      "last_checked_at": "2026-10-22T09:37:35-03:00",
+      "classification": "A",
+      "risk_flags": [
+        "occupancy_declared",
+        "fiduciary_liquidation_reported_not_independently_confirmed",
+        "registry_document_issued_2025",
+        "legal_review_required"
+      ],
+      "field_verification": {
+        "city": "verified",
+        "property_type": "verified",
+        "address": "verified",
+        "neighborhood": "verified",
+        "area_privative_m2": "verified",
+        "registry_number": "verified",
+        "appraisal_value_brl": "verified",
+        "first_minimum_bid_brl": "verified",
+        "second_minimum_bid_brl": "verified",
+        "current_minimum_bid_brl": "verified",
+        "discount_on_appraisal_percent": "verified",
+        "auction_events": "verified",
+        "occupancy": "declared",
+        "status": "verified",
+        "official_url": "verified",
+        "auctioneer": "verified"
+      },
+      "provenance": {
+        "source_id": "muller_leiloes",
+        "captured_from": "https://mullerleiloes.com.br/index.php/item/8412/detalhes?page=3",
+        "is_aggregator": false,
+        "raw_text": "Lote 001, apartamento Rúbia Kaiser, aberto para lances; galeria identificada como fotos meramente ilustrativas."
+      },
+      "id": "208e5cb631fadc27dcaa",
+      "newly_discovered_at": "2026-10-22T08:00:00-03:00"
+    },
+    {
+      "source_ids": [
+        "caixa",
+        "nucleo"
+      ],
+      "source_listing_ids": [
+        "1568009",
+        "8555537176660"
+      ],
+      "source_listing_urls": [
+        "https://nucleoleiloes.com.br/imoveis/publica/1568009"
+      ],
+      "title": "Apto 201 — Residencial Spazio Jardim de Viena",
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": "Vila Nova",
+      "address": "Rua São Firmino, 602 — Apto 201",
+      "property_type": "Apartamento",
+      "area_privative_m2": 41.85,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": "43.058",
+      "registry_office": "2º Ofício de Registro de Imóveis de Joinville/SC",
+      "auction_lot": null,
+      "auctioneer": "Leiloeiro não confirmado",
+      "seller": "Caixa Econômica Federal",
+      "modality": "extrajudicial",
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": 134478.86,
+      "source_listing_price_brl": 134478.86,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [
+        {
+          "date": "2026-12-11",
+          "time": null,
+          "minimum_bid_brl": 134478.86,
+          "stage": "unknown"
+        }
+      ],
+      "commission_percent": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [
+        "https://venda-imoveis.caixa.gov.br/editais/matricula/SC/8555537176660.pdf"
+      ],
+      "image_urls": [],
+      "image_source_url": "https://nucleoleiloes.com.br/imoveis/publica/1568009",
+      "first_seen_at": "2026-10-22T08:00:00-03:00",
+      "last_checked_at": "2026-10-22T09:37:35-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "aggregator_listing_unverified",
+        "auction_status_conflict",
+        "official_listing_not_confirmed",
+        "legal_review_required"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "address": "declared",
+        "neighborhood": "declared",
+        "area_privative_m2": "declared",
+        "registry_number": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "declared",
+        "discount_on_appraisal_percent": "unknown",
+        "auction_events": "declared",
+        "occupancy": "unknown",
+        "status": "conflicting",
+        "official_url": "unknown",
+        "auctioneer": "unknown"
+      },
+      "provenance": {
+        "source_id": "nucleo",
+        "captured_from": "https://nucleoleiloes.com.br/imoveis/publica/1568009",
+        "is_aggregator": true,
+        "raw_text": "Agregador informa praça única em 11/12/2026 por R$ 134.478,86, mas também exibe o estado \"Leilão encerrado\"; confirmar diretamente com a Caixa."
+      },
+      "id": "3fd400549f51ad71f5fb",
+      "newly_discovered_at": "2026-10-22T08:00:00-03:00",
+      "source_listing_url": "https://nucleoleiloes.com.br/imoveis/publica/1568009"
+    },
+    {
+      "source_ids": [
+        "caixa",
+        "imoveisfaixa"
+      ],
+      "source_listing_ids": [
+        "8444414367040",
+        "397"
+      ],
+      "source_listing_urls": [
+        "https://www.imoveisfaixa.com.br/leilao/sc/barra-velha/casa-2-quartos-barra-velha-ocupado-36038"
+      ],
+      "title": "Casa — São Cristóvão",
+      "city": "Barra Velha",
+      "state": "SC",
+      "neighborhood": "São Cristóvão",
+      "address": "Rua José Ceará da Costa, 1817 — Casa 02",
+      "property_type": "Casa",
+      "area_privative_m2": 44.88,
+      "area_built_m2": 44.88,
+      "area_total_m2": 59.28,
+      "registry_number": "31.639",
+      "registry_office": "1º Ofício de Registro de Imóveis de Barra Velha/SC",
+      "auction_lot": "397",
+      "auctioneer": "Tatiana Paula Zani de Sousa",
+      "seller": "Caixa Econômica Federal",
+      "modality": "extrajudicial",
+      "appraisal_value_brl": 238000.0,
+      "first_minimum_bid_brl": 238000.0,
+      "second_minimum_bid_brl": 142800.0,
+      "current_minimum_bid_brl": 142800.0,
+      "source_listing_price_brl": 142800.0,
+      "discount_on_appraisal_percent": 40.0,
+      "auction_events": [
+        {
+          "date": "2026-11-24",
+          "time": "10:00",
+          "minimum_bid_brl": 238000.0,
+          "stage": "first"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "10:00",
+          "minimum_bid_brl": 142800.0,
+          "stage": "second"
+        }
+      ],
+      "commission_percent": null,
+      "occupancy": "ocupado",
+      "status": "scheduled_unverified",
+      "official_url": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=08444414367040",
+      "validation_status": "verified",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://imoveis-faixa-bucket.s3.us-east-2.amazonaws.com/imoveis_fotos/imovel_caixa_36038_8fdb34d8-2d87-4b0f-9004-2ed598cd2bc9.webp"
+      ],
+      "image_source_url": "https://www.imoveisfaixa.com.br/leilao/sc/barra-velha/casa-2-quartos-barra-velha-ocupado-36038",
+      "first_seen_at": "2026-10-22T08:00:00-03:00",
+      "last_checked_at": "2026-10-22T09:37:35-03:00",
+      "classification": "A",
+      "risk_flags": [
+        "occupancy_declared",
+        "condominium_responsibility_buyer_declared",
+        "tax_responsibility_buyer_declared",
+        "payment_requires_own_resources"
+      ],
+      "field_verification": {
+        "city": "verified",
+        "property_type": "verified",
+        "address": "verified",
+        "neighborhood": "verified",
+        "area_privative_m2": "verified",
+        "registry_number": "verified",
+        "appraisal_value_brl": "verified",
+        "first_minimum_bid_brl": "verified",
+        "second_minimum_bid_brl": "verified",
+        "current_minimum_bid_brl": "verified",
+        "discount_on_appraisal_percent": "verified",
+        "auction_events": "verified",
+        "occupancy": "declared",
+        "status": "declared",
+        "official_url": "verified",
+        "auctioneer": "verified"
+      },
+      "provenance": {
+        "source_id": "caixa",
+        "captured_from": "https://venda-imoveis.caixa.gov.br/sistema/detalhe-imovel.asp?hdnOrigem=index&hdnimovel=08444414367040",
+        "is_aggregator": false,
+        "raw_text": "Dados da Caixa confirmados na ficha oficial; ocupação e fotografia obtidas no agregador ImóveisFaixa."
+      },
+      "id": "6ce02446e057263cb775",
+      "newly_discovered_at": "2026-10-22T08:00:00-03:00"
+    },
+    {
+      "source_ids": [
+        "leilaoimovel"
+      ],
+      "source_listing_ids": [
+        "3044677"
+      ],
+      "source_listing_urls": [
+        "https://www.leilaoimovel.com.br/imovel/sc/balneario-camboriu/residencial-apartamento-n-105-do-bloco-c-do-condominio-rubem-bento-residencial-situado-na-rua-jose-francisco-imovel-3044677?utm_source=chatgpt.com"
+      ],
+      "title": "Apto 105 — Residencial Rubem Bento",
+      "city": "Balneário Camboriú",
+      "state": "SC",
+      "neighborhood": "Nova Esperança",
+      "address": null,
+      "property_type": "Apartamento",
+      "area_privative_m2": 55.87,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": "53.105",
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": "judicial",
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": 155040.0,
+      "source_listing_price_brl": 155040.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [
+        {
+          "date": "2026-11-24",
+          "time": null,
+          "minimum_bid_brl": 155040.0,
+          "stage": "unknown"
+        }
+      ],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": "alugado",
+      "status": "scheduled_unverified",
+      "official_url": null,
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [],
+      "image_source_url": "https://www.leilaoimovel.com.br/imovel/sc/balneario-camboriu/residencial-apartamento-n-105-do-bloco-c-do-condominio-rubem-bento-residencial-situado-na-rua-jose-francisco-imovel-3044677?utm_source=chatgpt.com",
+      "first_seen_at": "2026-10-20T10:11:00-03:00",
+      "last_checked_at": "2026-10-22T09:37:35-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "aggregator_listing_unverified",
+        "tenant_occupancy_declared",
+        "registry_lien_references_unconfirmed",
+        "legal_review_required"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "address": "unknown",
+        "neighborhood": "declared",
+        "area_privative_m2": "declared",
+        "registry_number": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "declared",
+        "discount_on_appraisal_percent": "unknown",
+        "auction_events": "declared",
+        "occupancy": "declared",
+        "status": "unverified",
+        "official_url": "unverified",
+        "auctioneer": "unknown"
+      },
+      "provenance": {
+        "source_id": "leilaoimovel",
+        "captured_from": "https://www.leilaoimovel.com.br/imovel/sc/balneario-camboriu/residencial-apartamento-n-105-do-bloco-c-do-condominio-rubem-bento-residencial-situado-na-rua-jose-francisco-imovel-3044677?utm_source=chatgpt.com",
+        "is_aggregator": true,
+        "raw_text": "Registro da pesquisa anterior de 20/10; no relatório de 22/10 foram acrescentadas referências a locação e gravames, sem consulta independente a autos ou matrícula atualizada."
+      },
+      "id": "90d48537555d97f4526c",
+      "source_listing_url": "https://www.leilaoimovel.com.br/imovel/sc/balneario-camboriu/residencial-apartamento-n-105-do-bloco-c-do-condominio-rubem-bento-residencial-situado-na-rua-jose-francisco-imovel-3044677?utm_source=chatgpt.com"
     }
   ],
   "sources": [
