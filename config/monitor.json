@@ -136,6 +136,24 @@
       "is_aggregator": true,
       "skip_detail": true,
       "enrich_images": true
+    },
+    {
+      "id": "hasta_publica",
+      "name": "Hasta Pública Leilões",
+      "enabled": true,
+      "adapter": "hasta_publica",
+      "url": "https://www.hastapublica.lel.br/leilao/lotes/imoveis",
+      "host": "www.hastapublica.lel.br",
+      "path_pattern": "/leilao/.+/lote_id/\\d+"
+    },
+    {
+      "id": "leiloeiro_publico",
+      "name": "Leiloeiro Público",
+      "enabled": true,
+      "adapter": "leiloeiro_publico",
+      "url": "https://www.leiloeiropublico.com.br/calendario.aspx",
+      "host": "www.leiloeiropublico.com.br",
+      "path_pattern": "/DetalheLote\\.aspx$"
     }
   ]
 }

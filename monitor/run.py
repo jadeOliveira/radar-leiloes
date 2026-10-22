@@ -63,6 +63,15 @@ def merge_property(old: dict[str, Any] | None, new: dict[str, Any]) -> tuple[dic
         incoming_field_is_verified = new.get("field_verification", {}).get(field) == "verified"
         if value is None or value == [] or value == {}:
             incoming_state = new.get("field_verification", {}).get(field)
+            source_ids = set(new.get("source_ids", []))
+            if (field in ("address", "registry_office", "source_listing_price_brl")
+                    and source_ids.intersection({"hasta_publica", "leiloeiro_publico"})
+                    and incoming_state == "unknown" and not old_field_is_verified):
+                merged[field] = None
+                merged.setdefault("field_verification", {})[field] = "unknown"
+                if field in tracked and previous is not None:
+                    changes.append({"field": field, "before": previous, "after": None})
+                continue
             if (field == "appraisal_value_brl" and aggregator_only and value is None
                     and incoming_state == "unknown" and not old_field_is_verified):
                 merged[field] = None

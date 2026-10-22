@@ -6,6 +6,8 @@ from .duarte import DuarteAdapter
 from .freitas import FreitasAdapter
 from .machado import MachadoAdapter
 from .hasta import HastaAdapter
+from .hasta_publica import HastaPublicaAdapter
+from .leiloeiro_publico import LeiloeiroPublicoAdapter
 from .mega_leiloes import MegaLeiloesAdapter
 from .portalzuk import PortalZukAdapter
 from .seu_imovel_bb import SeuImovelBBAdapter
@@ -27,4 +29,6 @@ ADAPTERS = {
     "sampaio": SampaioAdapter,
     "comprei": CompreiAdapter,
     "hasta": HastaAdapter,
+    "hasta_publica": HastaPublicaAdapter,
+    "leiloeiro_publico": LeiloeiroPublicoAdapter,
 }

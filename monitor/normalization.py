@@ -5,7 +5,7 @@ import re
 import unicodedata
 from datetime import datetime
 from typing import Any
-from urllib.parse import urlparse
+from urllib.parse import parse_qs, urlparse
 
 
 def fold(value: str) -> str:
@@ -56,6 +56,19 @@ def _listing_identity_keys(item: dict[str, Any]) -> list[str]:
     for listing_url in dict.fromkeys(url for url in urls if url):
         parsed = urlparse(listing_url)
         host = (parsed.hostname or "").casefold().removeprefix("www.")
+        if host == "leiloeiropublico.com.br" and parsed.path.casefold().endswith("/detalhelote.aspx"):
+            query = parse_qs(parsed.query)
+            auction = (query.get("Leilao") or [None])[0]
+            lot = (query.get("Lote") or [None])[0]
+            sublot = (query.get("Sublote") or ["1"])[0]
+            if auction and lot:
+                source = item.get("provenance", {}).get("source_id") or "leiloeiro_publico"
+                keys.append(f"source-listing:{source}:lot:{auction}:{lot}:{sublot}")
+        if host == "hastapublica.lel.br":
+            lot = re.search(r"/lote_id/(\d+)(?:/|$)", parsed.path, re.I)
+            if lot:
+                source = item.get("provenance", {}).get("source_id") or "hasta_publica"
+                keys.append(f"source-listing:{source}:lot:{lot.group(1)}")
         match = re.search(r"/imovel/(\d+)(?:-([^/?#]+))?", parsed.path)
         if not match:
             continue

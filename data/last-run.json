@@ -1,9 +1,9 @@
 {
-  "run_id": "476b3d24-fc5a-42bc-bfac-ff9806fd854e",
+  "run_id": "113b6708-c01d-4b9e-90d2-7cd33ddc7367",
   "status": "partial",
-  "started_at": "2026-10-22T12:04:28-03:00",
-  "finished_at": "2026-10-22T12:13:16-03:00",
-  "duration_seconds": 528.47,
+  "started_at": "2026-10-22T15:25:32-03:00",
+  "finished_at": "2026-10-22T15:39:02-03:00",
+  "duration_seconds": 810.41,
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -31,8 +31,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 0.66,
-      "finished_at": "2026-10-22T12:04:29-03:00"
+      "duration_seconds": 0.71,
+      "finished_at": "2026-10-22T15:25:33-03:00"
     },
     {
       "source_id": "caixa",
@@ -50,8 +50,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 2.53,
-      "finished_at": "2026-10-22T12:04:32-03:00"
+      "duration_seconds": 2.61,
+      "finished_at": "2026-10-22T15:25:36-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -69,9 +69,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 35.3,
-      "finished_at": "2026-10-22T12:05:07-03:00",
-      "last_success_at": "2026-10-22T12:05:07-03:00"
+      "duration_seconds": 36.54,
+      "finished_at": "2026-10-22T15:26:12-03:00",
+      "last_success_at": "2026-10-22T15:26:12-03:00"
     },
     {
       "source_id": "superbid",
@@ -89,8 +89,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 0.63,
-      "finished_at": "2026-10-22T12:05:08-03:00"
+      "duration_seconds": 0.94,
+      "finished_at": "2026-10-22T15:26:13-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -108,8 +108,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 3.19,
-      "finished_at": "2026-10-22T12:05:11-03:00"
+      "duration_seconds": 3.42,
+      "finished_at": "2026-10-22T15:26:17-03:00"
     },
     {
       "source_id": "duarte",
@@ -127,9 +127,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 25.28,
-      "finished_at": "2026-10-22T12:05:36-03:00",
-      "last_success_at": "2026-10-22T12:05:36-03:00"
+      "duration_seconds": 48.9,
+      "finished_at": "2026-10-22T15:27:06-03:00",
+      "last_success_at": "2026-10-22T15:27:06-03:00"
     },
     {
       "source_id": "zampieri",
@@ -147,9 +147,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 5.97,
-      "finished_at": "2026-10-22T12:05:42-03:00",
-      "last_success_at": "2026-10-22T12:05:42-03:00"
+      "duration_seconds": 6.4,
+      "finished_at": "2026-10-22T15:27:12-03:00",
+      "last_success_at": "2026-10-22T15:27:12-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -167,9 +167,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 3.58,
-      "finished_at": "2026-10-22T12:05:46-03:00",
-      "last_success_at": "2026-10-22T12:05:46-03:00"
+      "duration_seconds": 6.52,
+      "finished_at": "2026-10-22T15:27:19-03:00",
+      "last_success_at": "2026-10-22T15:27:19-03:00"
     },
     {
       "source_id": "freitas",
@@ -187,9 +187,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 10.82,
-      "finished_at": "2026-10-22T12:05:57-03:00",
-      "last_success_at": "2026-10-22T12:05:57-03:00"
+      "duration_seconds": 9.05,
+      "finished_at": "2026-10-22T15:27:28-03:00",
+      "last_success_at": "2026-10-22T15:27:28-03:00"
     },
     {
       "source_id": "comprei",
@@ -207,8 +207,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.31,
-      "finished_at": "2026-10-22T12:05:58-03:00"
+      "duration_seconds": 1.36,
+      "finished_at": "2026-10-22T15:27:30-03:00"
     },
     {
       "source_id": "sampaio",
@@ -226,9 +226,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 18.8,
-      "finished_at": "2026-10-22T12:06:17-03:00",
-      "last_success_at": "2026-10-22T12:06:17-03:00"
+      "duration_seconds": 18.99,
+      "finished_at": "2026-10-22T15:27:49-03:00",
+      "last_success_at": "2026-10-22T15:27:49-03:00"
     },
     {
       "source_id": "machado",
@@ -246,9 +246,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 3.48,
-      "finished_at": "2026-10-22T12:06:21-03:00",
-      "last_success_at": "2026-10-22T12:06:21-03:00"
+      "duration_seconds": 4.19,
+      "finished_at": "2026-10-22T15:27:53-03:00",
+      "last_success_at": "2026-10-22T15:27:53-03:00"
     },
     {
       "source_id": "hasta",
@@ -266,30 +266,70 @@
         "Navegantes": 4,
         "Rio do Sul": 8
       },
-      "duration_seconds": 415.49,
-      "finished_at": "2026-10-22T12:13:16-03:00",
-      "last_success_at": "2026-10-22T12:13:16-03:00"
+      "duration_seconds": 423.67,
+      "finished_at": "2026-10-22T15:34:57-03:00",
+      "last_success_at": "2026-10-22T15:34:57-03:00"
+    },
+    {
+      "source_id": "hasta_publica",
+      "name": "Hasta Pública Leilões",
+      "status": "success",
+      "pages_read": 2,
+      "listings_found": 1,
+      "error": null,
+      "listings_by_city": {
+        "Joinville": 0,
+        "Balneário Camboriú": 1,
+        "Balneário Piçarras": 0,
+        "Barra Velha": 0,
+        "Penha": 0,
+        "Navegantes": 0,
+        "Rio do Sul": 0
+      },
+      "duration_seconds": 75.82,
+      "finished_at": "2026-10-22T15:36:12-03:00",
+      "last_success_at": "2026-10-22T15:36:12-03:00"
+    },
+    {
+      "source_id": "leiloeiro_publico",
+      "name": "Leiloeiro Público",
+      "status": "partial",
+      "pages_read": 81,
+      "listings_found": 5,
+      "error": "Leilão https://www.leiloeiropublico.com.br/ListagemLote.aspx?Leilao=25.046: Bloqueio/CAPTCHA detectado; a fonte não foi contornada.; 6 páginas de leilão não expuseram links de lotes reconhecíveis.",
+      "listings_by_city": {
+        "Joinville": 3,
+        "Balneário Camboriú": 2,
+        "Balneário Piçarras": 0,
+        "Barra Velha": 0,
+        "Penha": 0,
+        "Navegantes": 0,
+        "Rio do Sul": 0
+      },
+      "duration_seconds": 169.42,
+      "finished_at": "2026-10-22T15:39:02-03:00",
+      "last_success_at": "2026-10-22T15:39:02-03:00"
     }
   ],
   "data_status": "updated",
-  "data_updated_at": "2026-10-22T12:13:16-03:00",
+  "data_updated_at": "2026-10-22T15:39:02-03:00",
   "counts": {
-    "new_listings": 1,
-    "changed_listings": 4,
-    "new_or_updated": 5,
-    "total_preserved": 148,
-    "sources_succeeded": 6,
-    "sources_partial": 2,
+    "new_listings": 0,
+    "changed_listings": 6,
+    "new_or_updated": 6,
+    "total_preserved": 154,
+    "sources_succeeded": 7,
+    "sources_partial": 3,
     "sources_failed": 5
   },
-  "new_property_ids": [
-    "7d2dca3e740850c7cbdc"
-  ],
+  "new_property_ids": [],
   "changed_property_ids": [
-    "36913ba2a684762ca887",
-    "4e87051665604a054689",
-    "80d0e5b207315b6d1e5d",
-    "c7c851cf14061ca175e9"
+    "4f6854930f5a871d64a9",
+    "4f81296e46bfc59eb508",
+    "ad1afe3d443449b947e9",
+    "cda2006ba0eb5524068e",
+    "eafa0683790f71d94030",
+    "f7026bd4b7199e62bb04"
   ],
   "errors": [
     {
@@ -319,6 +359,10 @@
     {
       "source_id": "comprei",
       "message": "Página carregada, mas o formato dos resultados ainda não foi reconhecido."
+    },
+    {
+      "source_id": "leiloeiro_publico",
+      "message": "Leilão https://www.leiloeiropublico.com.br/ListagemLote.aspx?Leilao=25.046: Bloqueio/CAPTCHA detectado; a fonte não foi contornada.; 6 páginas de leilão não expuseram links de lotes reconhecíveis."
     }
   ]
 }

@@ -2878,6 +2878,430 @@
         }
       ],
       "detected_at": "2026-10-22T12:13:16-03:00"
+    },
+    {
+      "property_id": "830d20a29f778cb562ae",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "image_urls",
+          "before": [
+            "https://hasta.com.br/foto/962700/0.jpg",
+            "https://hasta.com.br/foto/962700/1.jpg",
+            "https://hasta.com.br/foto/962700/2.jpg",
+            "https://hasta.com.br/foto/962700/3.jpg",
+            "https://hasta.com.br/foto/962700/4.jpg",
+            "https://hasta.com.br/foto/962700/5.jpg"
+          ],
+          "after": [
+            "https://hasta.com.br/foto/962700/0.jpg",
+            "https://hasta.com.br/foto/962700/1.jpg",
+            "https://hasta.com.br/foto/962700/2.jpg",
+            "https://hasta.com.br/foto/962700/3.jpg",
+            "https://hasta.com.br/foto/962700/4.jpg",
+            "https://hasta.com.br/foto/962700/5.jpg",
+            "https://hasta.com.br/foto/2237276/0.jpg",
+            "https://hasta.com.br/foto/2237276/1.jpg",
+            "https://hasta.com.br/foto/2237276/2.jpg",
+            "https://hasta.com.br/foto/2237276/3.jpg",
+            "https://hasta.com.br/foto/2237276/4.jpg",
+            "https://hasta.com.br/foto/2237276/5.jpg"
+          ]
+        }
+      ],
+      "detected_at": "2026-10-22T15:21:39-03:00"
+    },
+    {
+      "property_id": "7d2dca3e740850c7cbdc",
+      "city": "Navegantes",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "source_listing_price_brl",
+          "before": null,
+          "after": 720000.0
+        }
+      ],
+      "detected_at": "2026-10-22T15:21:39-03:00"
+    },
+    {
+      "property_id": "634946a661cc12762b48",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "property_type",
+          "before": "Casa",
+          "after": "Apartamento"
+        },
+        {
+          "field": "registry_office",
+          "before": "O DO SUL/SC 📍 Rio do Sul",
+          "after": "o do Sul/SC 📍 Rio do Sul"
+        },
+        {
+          "field": "source_listing_price_brl",
+          "before": 500000.0,
+          "after": 40303.92
+        },
+        {
+          "field": "image_urls",
+          "before": [
+            "https://hasta.com.br/foto/1518876/0.jpg",
+            "https://hasta.com.br/foto/1518876/1.jpg",
+            "https://hasta.com.br/foto/1518876/2.jpg",
+            "https://hasta.com.br/foto/1518876/3.jpg",
+            "https://hasta.com.br/foto/1518876/4.jpg",
+            "https://hasta.com.br/foto/1518876/5.jpg",
+            "https://hasta.com.br/foto/1518876/6.jpg",
+            "https://hasta.com.br/foto/1518876/7.jpg",
+            "https://hasta.com.br/foto/1518876/8.jpg",
+            "https://hasta.com.br/foto/1518876/9.jpg",
+            "https://hasta.com.br/foto/1518876/10.jpg",
+            "https://hasta.com.br/foto/1518876/11.jpg"
+          ],
+          "after": [
+            "https://hasta.com.br/foto/1518876/0.jpg",
+            "https://hasta.com.br/foto/1518876/1.jpg",
+            "https://hasta.com.br/foto/1518876/2.jpg",
+            "https://hasta.com.br/foto/1518876/3.jpg",
+            "https://hasta.com.br/foto/1518876/4.jpg",
+            "https://hasta.com.br/foto/1518876/5.jpg",
+            "https://hasta.com.br/foto/1518876/6.jpg",
+            "https://hasta.com.br/foto/1518876/7.jpg",
+            "https://hasta.com.br/foto/1518876/8.jpg",
+            "https://hasta.com.br/foto/1518876/9.jpg",
+            "https://hasta.com.br/foto/1518876/10.jpg",
+            "https://hasta.com.br/foto/1518876/11.jpg",
+            "https://hasta.com.br/foto/1269483/0.jpg",
+            "https://hasta.com.br/foto/1269483/1.jpg",
+            "https://hasta.com.br/foto/1269483/2.jpg"
+          ]
+        }
+      ],
+      "detected_at": "2026-10-22T15:21:39-03:00"
+    },
+    {
+      "property_id": "f7026bd4b7199e62bb04",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta_publica"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-22T15:21:39-03:00"
+    },
+    {
+      "property_id": "4f81296e46bfc59eb508",
+      "city": "Joinville",
+      "source_ids": [
+        "leiloeiro_publico"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-22T15:21:39-03:00"
+    },
+    {
+      "property_id": "4f6854930f5a871d64a9",
+      "city": "Joinville",
+      "source_ids": [
+        "leiloeiro_publico"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-22T15:21:39-03:00"
+    },
+    {
+      "property_id": "eafa0683790f71d94030",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "leiloeiro_publico"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-22T15:21:39-03:00"
+    },
+    {
+      "property_id": "cda2006ba0eb5524068e",
+      "city": "Joinville",
+      "source_ids": [
+        "leiloeiro_publico"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-22T15:21:39-03:00"
+    },
+    {
+      "property_id": "ad1afe3d443449b947e9",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "leiloeiro_publico"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-22T15:21:39-03:00"
+    },
+    {
+      "property_id": "f7026bd4b7199e62bb04",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta_publica"
+      ],
+      "changes": [
+        {
+          "field": "address",
+          "before": "/ INFORMAÇÕES DO IMÓVEL keyboard_arrow_down",
+          "after": null
+        },
+        {
+          "field": "registry_office",
+          "before": "te_border APARTAMENTO 121M²",
+          "after": null
+        }
+      ],
+      "detected_at": "2026-10-22T15:39:02-03:00"
+    },
+    {
+      "property_id": "4f81296e46bfc59eb508",
+      "city": "Joinville",
+      "source_ids": [
+        "leiloeiro_publico"
+      ],
+      "changes": [
+        {
+          "field": "address",
+          "before": "23 Imóveis (Plataforma Comprei PGFN) (22.190) Venda Direta Judicial: Imóveis (Plataforma Comprei Registre e Arremate Agora 3784 JOINVILLE (SC): TERRENO 33.220,00 M²",
+          "after": null
+        },
+        {
+          "field": "auction_lot",
+          "before": null,
+          "after": "3784"
+        },
+        {
+          "field": "appraisal_value_brl",
+          "before": null,
+          "after": 11710382.2
+        },
+        {
+          "field": "current_minimum_bid_brl",
+          "before": null,
+          "after": 5855191.1
+        },
+        {
+          "field": "discount_on_appraisal_percent",
+          "before": null,
+          "after": 50.0
+        },
+        {
+          "field": "source_listing_price_brl",
+          "before": 11710382.2,
+          "after": null
+        }
+      ],
+      "detected_at": "2026-10-22T15:39:02-03:00"
+    },
+    {
+      "property_id": "4f6854930f5a871d64a9",
+      "city": "Joinville",
+      "source_ids": [
+        "leiloeiro_publico"
+      ],
+      "changes": [
+        {
+          "field": "address",
+          "before": "23 Imóveis (Plataforma Comprei PGFN) (22.190) Venda Direta Judicial: Imóveis (Plataforma Comprei Registre e Arremate Agora 4102 JOINVILLE (SC): TERRENO 13.271,00 M²",
+          "after": null
+        },
+        {
+          "field": "auction_lot",
+          "before": null,
+          "after": "4102"
+        },
+        {
+          "field": "appraisal_value_brl",
+          "before": null,
+          "after": 769718.0
+        },
+        {
+          "field": "current_minimum_bid_brl",
+          "before": null,
+          "after": 384859.0
+        },
+        {
+          "field": "discount_on_appraisal_percent",
+          "before": null,
+          "after": 50.0
+        },
+        {
+          "field": "source_listing_price_brl",
+          "before": 769718.0,
+          "after": null
+        }
+      ],
+      "detected_at": "2026-10-22T15:39:02-03:00"
+    },
+    {
+      "property_id": "eafa0683790f71d94030",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "leiloeiro_publico"
+      ],
+      "changes": [
+        {
+          "field": "address",
+          "before": "23 Imóveis (Plataforma Comprei PGFN) (22.190) Venda Direta Judicial: Imóveis (Plataforma Comprei Registre e Arremate Agora 4105 BALNEÁRIO CAMBORIÚ (SC): APARTAMENTO",
+          "after": null
+        },
+        {
+          "field": "registry_office",
+          "before": "o Camboriú/SC 23 Imóveis (Plataforma Comprei PGFN) (22",
+          "after": null
+        },
+        {
+          "field": "auction_lot",
+          "before": null,
+          "after": "4105"
+        },
+        {
+          "field": "appraisal_value_brl",
+          "before": null,
+          "after": 1803663.0
+        },
+        {
+          "field": "current_minimum_bid_brl",
+          "before": null,
+          "after": 1352747.25
+        },
+        {
+          "field": "discount_on_appraisal_percent",
+          "before": null,
+          "after": 25.0
+        },
+        {
+          "field": "source_listing_price_brl",
+          "before": 1803663.0,
+          "after": null
+        }
+      ],
+      "detected_at": "2026-10-22T15:39:02-03:00"
+    },
+    {
+      "property_id": "cda2006ba0eb5524068e",
+      "city": "Joinville",
+      "source_ids": [
+        "leiloeiro_publico"
+      ],
+      "changes": [
+        {
+          "field": "address",
+          "before": "23 Imóveis (Plataforma Comprei PGFN) (22.190) Venda Direta Judicial: Imóveis (Plataforma Comprei Registre e Arremate Agora 4147 JOINVILLE (SC): APARTAMENTO 123,61 M²",
+          "after": null
+        },
+        {
+          "field": "auction_lot",
+          "before": null,
+          "after": "4147"
+        },
+        {
+          "field": "appraisal_value_brl",
+          "before": null,
+          "after": 610000.0
+        },
+        {
+          "field": "current_minimum_bid_brl",
+          "before": null,
+          "after": 610000.0
+        },
+        {
+          "field": "discount_on_appraisal_percent",
+          "before": null,
+          "after": 0.0
+        },
+        {
+          "field": "source_listing_price_brl",
+          "before": 610000.0,
+          "after": null
+        }
+      ],
+      "detected_at": "2026-10-22T15:39:02-03:00"
+    },
+    {
+      "property_id": "ad1afe3d443449b947e9",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "leiloeiro_publico"
+      ],
+      "changes": [
+        {
+          "field": "address",
+          "before": "03 Terreno: Balneário Camboriú (SC) (26.144) Terreno 20.364,40 m² em Balneário Camboriú (SC)",
+          "after": null
+        },
+        {
+          "field": "registry_office",
+          "before": "o Camboriú/SC 03 Terreno: Balneário Camboriú (SC) (26",
+          "after": null
+        },
+        {
+          "field": "auction_lot",
+          "before": null,
+          "after": "1"
+        },
+        {
+          "field": "appraisal_value_brl",
+          "before": null,
+          "after": 1845784.74
+        },
+        {
+          "field": "current_minimum_bid_brl",
+          "before": null,
+          "after": 922892.37
+        },
+        {
+          "field": "discount_on_appraisal_percent",
+          "before": null,
+          "after": 50.0
+        }
+      ],
+      "detected_at": "2026-10-22T15:39:02-03:00"
     }
   ]
 }
