@@ -229,7 +229,7 @@ def parse_item(source: dict[str, Any], href: str, text: str, cities: list[str], 
     else:
         status = "unknown"
     modality = "judicial" if "judicial" in normalized else "extrajudicial" if "extrajudicial" in normalized or "fiduciaria" in normalized else None
-    id_match = first(r"(?:c[oó]d(?:igo)?\.?\s*(?:do im[oó]vel)?|lote|item|n[º°])\s*[:#]?\s*([a-z0-9-]{3,})", text)
+    id_match = first(r"(?:\b(?:c[oó]d(?:igo)?\.?\s*(?:do im[oó]vel)?|lote|item)\b|\bn[º°])\s*[:#]?\s*([a-z0-9-]{3,})", text)
     normalized_address = fold(street or "")
     identity_basis = f"matricula:{registry}" if registry else f"address:{fold(city)}:{normalized_address}" if normalized_address else f"source:{source['id']}:{id_match or href}"
     stable_id = hashlib.sha256(identity_basis.encode()).hexdigest()[:20]
