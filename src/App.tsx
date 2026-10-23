@@ -1,5 +1,5 @@
-import { useEffect, useMemo, useState } from 'react';
-import { ArrowDownRight, ArrowUpRight, ExternalLink, Filter, House, Search, SlidersHorizontal } from 'lucide-react';
+import { useEffect, useMemo, useRef, useState } from 'react';
+import { ArrowDownRight, ArrowUpRight, ExternalLink, Filter, House, Search, SlidersHorizontal, X } from 'lucide-react';
 import monitorConfig from '../config/monitor.json';
 
 type AuctionEvent = { date?: string; time?: string | null; minimum_bid_brl?: number | null; stage?: string };
@@ -83,6 +83,8 @@ export default function App() {
   const [maxPrice, setMaxPrice] = useState('');
   const [minDiscount, setMinDiscount] = useState('');
   const [loading, setLoading] = useState(true);
+  const [sourceDetailsOpen, setSourceDetailsOpen] = useState(false);
+  const sourceDetailsDialog = useRef<HTMLDialogElement>(null);
 
   useEffect(() => {
     const load = (name: string) => fetch(`${import.meta.env.BASE_URL}data/${name}`, { cache: 'no-store' }).then((response) => response.ok ? response.json() : {});
@@ -91,6 +93,17 @@ export default function App() {
       .catch(() => setData({ properties: [] }))
       .finally(() => setLoading(false));
   }, []);
+
+  useEffect(() => {
+    const dialog = sourceDetailsDialog.current;
+    if (!dialog) return;
+    if (sourceDetailsOpen && !dialog.open) dialog.showModal();
+    if (!sourceDetailsOpen && dialog.open) dialog.close();
+    if (!sourceDetailsOpen) return;
+    const previousOverflow = document.body.style.overflow;
+    document.body.style.overflow = 'hidden';
+    return () => { document.body.style.overflow = previousOverflow; };
+  }, [sourceDetailsOpen]);
 
   // Hide legacy vehicle/movable-goods records without deleting stored history.
   const properties = (data.properties ?? []).filter(isRealEstate);
@@ -139,6 +152,7 @@ export default function App() {
   const lastDataUpdate = data.updated_at ? new Date(data.updated_at).toLocaleString('pt-BR', { dateStyle: 'short', timeStyle: 'short', timeZone: 'America/Sao_Paulo' }) : 'Sem anúncios';
   const operationalSources = (data.sources ?? []).filter((source) => source.status === 'success' || source.status === 'partial').length;
   const sourceStatusById = new Map((data.sources ?? []).map((source) => [source.source_id, source] as const));
+  const incompleteSources = (data.sources ?? []).filter((source) => source.status === 'failed' || source.status === 'partial');
   const newTodayCount = properties.filter((item) => isDiscoveredOn(item, today)).length;
   const newYesterdayCount = properties.filter((item) => isDiscoveredOn(item, brazilDateOffset(-1))).length;
   const changedTodayCount = properties.filter((item) => !isNewToday(item, today) && hasChangesOn(changeLog, item.id, today)).length;
@@ -155,15 +169,28 @@ export default function App() {
           : 'Aguardando o próximo relatório da coleta.';
 
   return <main className="page">
-    <header className="topbar"><a className="brand" href="#top"><span className="brand-mark"><House size={19} /></span><span>RADAR<span className="brand-light"> DE LEILÕES</span></span></a><div className="topbar-right"><a className="sources-nav" href="#sources">Fontes monitoradas</a><span className="top-note">SANTA CATARINA <i /> MONITORAMENTO DIÁRIO</span></div></header>
+    <header className="topbar"><a className="brand" href="#top"><span className="brand-mark"><House size={19} /></span><span>RADAR<span className="brand-light"> DE LEILÕES</span></span></a><div className="topbar-right"><button className="sources-nav" type="button" aria-haspopup="dialog" aria-controls="sources-dialog" onClick={() => setSourceDetailsOpen(true)}>Fontes monitoradas</button><span className="top-note">SANTA CATARINA <i /> MONITORAMENTO DIÁRIO</span></div></header>
     <section className="hero" id="top">
       <div className="hero-copy"><div className="eyebrow"><span className="eyebrow-line" /> MONITORAMENTO IMOBILIÁRIO</div><h1>Encontre o próximo<br /><em>bom negócio.</em></h1><p>Oportunidades em leilões e vendas públicas nas cidades monitoradas de Santa Catarina.</p></div>
-      <div className="hero-side"><div className="hero-index">{String(operationalSources).padStart(2, '0')} <span>/ {(data.sources ?? []).length.toString().padStart(2, '0')} fontes acessíveis</span></div><div className="hero-rule" /><p>Cidades<br /><strong>{cities.length} em Santa Catarina</strong></p><a href="#sources">Ver fontes monitoradas <ArrowUpRight size={13} /></a></div>
+      <div className="hero-side"><div className="hero-index">{String(operationalSources).padStart(2, '0')} <span>/ {(data.sources ?? []).length.toString().padStart(2, '0')} fontes acessíveis</span></div><div className="hero-rule" /><p>Cidades<br /><strong>{cities.length} em Santa Catarina</strong></p><button className="sources-link" type="button" aria-haspopup="dialog" aria-controls="sources-dialog" onClick={() => setSourceDetailsOpen(true)}>Ver fontes monitoradas <ArrowUpRight size={13} /></button></div>
     </section>
     <section className="stats" aria-label="Resumo"><div className="stat"><span>ATIVOS · SINAL DA FONTE</span><strong>{activeCount.toString().padStart(2, '0')}</strong></div><div className="stat"><span>PRÓXIMOS · A CONFIRMAR</span><strong>{upcomingCount.toString().padStart(2, '0')}</strong></div><div className="stat"><span>OPORTUNIDADES PRIORITÁRIAS</span><strong>{properties.filter((item) => item.classification === 'A').length.toString().padStart(2, '0')}</strong></div><div className="stat update-stat"><span>ÚLTIMO RELATÓRIO DA COLETA</span><strong>{lastRunTime}</strong><small>America/Sao_Paulo</small></div></section>
     <section className={`freshness-banner freshness-${lastRun.data_status ?? 'unknown'}`} aria-live="polite"><strong>{dataStatusText}</strong><span>Relatório da coleta: {lastRunTime} · Dados dos anúncios: {lastDataUpdate} · Hoje: {newTodayCount} novo(s), {changedTodayCount} alterado(s) · Ontem: {newYesterdayCount} novo(s), {changedYesterdayCount} alterado(s) · Novidades mostram apenas os imóveis identificados hoje; selecione Todos para consultar os anteriores</span></section>
-    {(data.sources ?? []).some((source) => source.status === 'failed' || source.status === 'partial') && <section className="source-status" aria-label="Estado das fontes"><strong>Fontes com acesso incompleto</strong><ul>{data.sources?.filter((source) => source.status === 'failed' || source.status === 'partial').map((source) => <li key={source.source_id}><span>{source.name}: {source.status === 'failed' ? 'indisponível' : 'parcial'}</span>{source.error && <small>{source.error}</small>}</li>)}</ul></section>}
-    <section className="sources-section" id="sources"><div className="section-heading"><div><div className="eyebrow"><span className="eyebrow-line" /> TRANSPARÊNCIA</div><h2>Fontes <em>monitoradas</em></h2></div><span className="result-count">{configuredSources.filter((source) => source.enabled !== false).length} fontes configuradas</span></div><p className="sources-intro">A lista mostra os portais consultados pelo monitor e o resultado do relatório mais recente. Acesso parcial ou indisponível não significa que o site esteja permanentemente fora do ar.</p><div className="sources-grid">{configuredSources.map((source) => { const latest = sourceStatusById.get(source.id); const status = !source.enabled ? 'disabled' : latest?.status ?? 'unknown'; const statusLabel = status === 'success' ? 'Consultada' : status === 'partial' ? 'Parcial' : status === 'failed' ? 'Indisponível nesta coleta' : status === 'disabled' ? 'Desativada' : 'Sem relatório'; return <article className="source-card" key={source.id}><div className="source-card-top"><h3>{source.name}</h3><span className={`source-state source-state-${status}`}>{statusLabel}</span></div>{latest?.error && <p className="source-card-error">{latest.error}</p>}<a href={sourceUrl(source.url)} target="_blank" rel="noreferrer">Abrir site <ExternalLink size={13} /></a></article>; })}</div><p className="sources-note">Anúncios de agregadores, como a Hasta, permanecem identificados como não verificados até a conferência na página original do leiloeiro.</p></section>
+    <dialog className="source-details-dialog" id="sources-dialog" ref={sourceDetailsDialog} aria-labelledby="source-details-title" aria-describedby="source-details-intro" onClose={() => setSourceDetailsOpen(false)}>
+      <div className="source-dialog-header">
+        <div><div className="eyebrow"><span className="eyebrow-line" /> TRANSPARÊNCIA</div><h2 id="source-details-title">Fontes <em>monitoradas</em></h2></div>
+        <button className="source-dialog-close" type="button" aria-label="Fechar fontes monitoradas" autoFocus onClick={() => setSourceDetailsOpen(false)}><X size={18} /></button>
+      </div>
+      <p id="source-details-intro" className="sources-intro">Os portais consultados pelo monitor e o resultado do relatório mais recente. Acesso parcial ou indisponível não significa que o site esteja permanentemente fora do ar.</p>
+      <div className="sources-summary"><span>{configuredSources.filter((source) => source.enabled !== false).length} fontes configuradas</span><span>Relatório: {lastRunTime}</span>{incompleteSources.length > 0 && <strong>{incompleteSources.length} fontes com acesso incompleto</strong>}</div>
+      <div className="sources-grid">{configuredSources.map((source) => {
+        const latest = sourceStatusById.get(source.id);
+        const status = source.enabled === false ? 'disabled' : latest?.status ?? 'unknown';
+        const statusLabel = status === 'success' ? 'Consultada' : status === 'partial' ? 'Parcial' : status === 'failed' ? 'Indisponível nesta coleta' : status === 'disabled' ? 'Desativada' : 'Sem relatório';
+        return <article className="source-card" key={source.id}><div className="source-card-top"><h3>{source.name}</h3><span className={`source-state source-state-${status}`}>{statusLabel}</span></div>{latest?.error && <p className="source-card-error">{latest.error}</p>}<a href={sourceUrl(source.url)} target="_blank" rel="noreferrer">Abrir site <ExternalLink size={13} /></a></article>;
+      })}</div>
+      <p className="sources-note">Anúncios de agregadores, como a Hasta, permanecem identificados como não verificados até a conferência na página original do leiloeiro.</p>
+    </dialog>
     <section className="list-section"><div className="section-heading"><div><div className="eyebrow"><span className="eyebrow-line" /> OPORTUNIDADES</div><h2>Imóveis em <em>destaque</em></h2></div><span className="result-count">{filtered.length} de {properties.length} imóveis</span></div>
       <div className="filters">
         <label className="search"><Search size={17} /><input aria-label="Buscar imóvel" placeholder="Buscar endereço ou bairro" value={query} onChange={(event) => setQuery(event.target.value)} /></label>
