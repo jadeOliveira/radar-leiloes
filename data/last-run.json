@@ -1,9 +1,9 @@
 {
-  "run_id": "113b6708-c01d-4b9e-90d2-7cd33ddc7367",
+  "run_id": "b49ae0d4-f9a3-4987-82c1-89066af43faf",
   "status": "partial",
-  "started_at": "2026-10-22T15:25:32-03:00",
-  "finished_at": "2026-10-22T15:39:02-03:00",
-  "duration_seconds": 810.41,
+  "started_at": "2026-10-23T07:58:09-03:00",
+  "finished_at": "2026-10-23T08:10:18-03:00",
+  "duration_seconds": 728.46,
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -31,8 +31,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 0.71,
-      "finished_at": "2026-10-22T15:25:33-03:00"
+      "duration_seconds": 0.64,
+      "finished_at": "2026-10-23T07:58:11-03:00"
     },
     {
       "source_id": "caixa",
@@ -50,8 +50,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 2.61,
-      "finished_at": "2026-10-22T15:25:36-03:00"
+      "duration_seconds": 2.04,
+      "finished_at": "2026-10-23T07:58:13-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -69,9 +69,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 36.54,
-      "finished_at": "2026-10-22T15:26:12-03:00",
-      "last_success_at": "2026-10-22T15:26:12-03:00"
+      "duration_seconds": 36.2,
+      "finished_at": "2026-10-23T07:58:49-03:00",
+      "last_success_at": "2026-10-23T07:58:49-03:00"
     },
     {
       "source_id": "superbid",
@@ -89,8 +89,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 0.94,
-      "finished_at": "2026-10-22T15:26:13-03:00"
+      "duration_seconds": 0.58,
+      "finished_at": "2026-10-23T07:58:50-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -108,8 +108,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 3.42,
-      "finished_at": "2026-10-22T15:26:17-03:00"
+      "duration_seconds": 3.4,
+      "finished_at": "2026-10-23T07:58:53-03:00"
     },
     {
       "source_id": "duarte",
@@ -127,9 +127,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 48.9,
-      "finished_at": "2026-10-22T15:27:06-03:00",
-      "last_success_at": "2026-10-22T15:27:06-03:00"
+      "duration_seconds": 42.7,
+      "finished_at": "2026-10-23T07:59:36-03:00",
+      "last_success_at": "2026-10-23T07:59:36-03:00"
     },
     {
       "source_id": "zampieri",
@@ -147,9 +147,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 6.4,
-      "finished_at": "2026-10-22T15:27:12-03:00",
-      "last_success_at": "2026-10-22T15:27:12-03:00"
+      "duration_seconds": 6.1,
+      "finished_at": "2026-10-23T07:59:42-03:00",
+      "last_success_at": "2026-10-23T07:59:42-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -167,9 +167,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 6.52,
-      "finished_at": "2026-10-22T15:27:19-03:00",
-      "last_success_at": "2026-10-22T15:27:19-03:00"
+      "duration_seconds": 4.87,
+      "finished_at": "2026-10-23T07:59:47-03:00",
+      "last_success_at": "2026-10-23T07:59:47-03:00"
     },
     {
       "source_id": "freitas",
@@ -187,9 +187,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 9.05,
-      "finished_at": "2026-10-22T15:27:28-03:00",
-      "last_success_at": "2026-10-22T15:27:28-03:00"
+      "duration_seconds": 10.22,
+      "finished_at": "2026-10-23T07:59:57-03:00",
+      "last_success_at": "2026-10-23T07:59:57-03:00"
     },
     {
       "source_id": "comprei",
@@ -207,8 +207,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.36,
-      "finished_at": "2026-10-22T15:27:30-03:00"
+      "duration_seconds": 1.41,
+      "finished_at": "2026-10-23T07:59:59-03:00"
     },
     {
       "source_id": "sampaio",
@@ -226,9 +226,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 18.99,
-      "finished_at": "2026-10-22T15:27:49-03:00",
-      "last_success_at": "2026-10-22T15:27:49-03:00"
+      "duration_seconds": 18.73,
+      "finished_at": "2026-10-23T08:00:18-03:00",
+      "last_success_at": "2026-10-23T08:00:18-03:00"
     },
     {
       "source_id": "machado",
@@ -246,9 +246,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 4.19,
-      "finished_at": "2026-10-22T15:27:53-03:00",
-      "last_success_at": "2026-10-22T15:27:53-03:00"
+      "duration_seconds": 3.86,
+      "finished_at": "2026-10-23T08:00:22-03:00",
+      "last_success_at": "2026-10-23T08:00:22-03:00"
     },
     {
       "source_id": "hasta",
@@ -266,9 +266,9 @@
         "Navegantes": 4,
         "Rio do Sul": 8
       },
-      "duration_seconds": 423.67,
-      "finished_at": "2026-10-22T15:34:57-03:00",
-      "last_success_at": "2026-10-22T15:34:57-03:00"
+      "duration_seconds": 391.21,
+      "finished_at": "2026-10-23T08:06:53-03:00",
+      "last_success_at": "2026-10-23T08:06:53-03:00"
     },
     {
       "source_id": "hasta_publica",
@@ -286,17 +286,17 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 75.82,
-      "finished_at": "2026-10-22T15:36:12-03:00",
-      "last_success_at": "2026-10-22T15:36:12-03:00"
+      "duration_seconds": 72.69,
+      "finished_at": "2026-10-23T08:08:06-03:00",
+      "last_success_at": "2026-10-23T08:08:06-03:00"
     },
     {
       "source_id": "leiloeiro_publico",
       "name": "Leiloeiro Público",
-      "status": "partial",
-      "pages_read": 81,
+      "status": "success",
+      "pages_read": 82,
       "listings_found": 5,
-      "error": "Leilão https://www.leiloeiropublico.com.br/ListagemLote.aspx?Leilao=25.046: Bloqueio/CAPTCHA detectado; a fonte não foi contornada.; 6 páginas de leilão não expuseram links de lotes reconhecíveis.",
+      "error": null,
       "listings_by_city": {
         "Joinville": 3,
         "Balneário Camboriú": 2,
@@ -306,31 +306,27 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 169.42,
-      "finished_at": "2026-10-22T15:39:02-03:00",
-      "last_success_at": "2026-10-22T15:39:02-03:00"
+      "duration_seconds": 132.17,
+      "finished_at": "2026-10-23T08:10:18-03:00",
+      "last_success_at": "2026-10-23T08:10:18-03:00"
     }
   ],
   "data_status": "updated",
-  "data_updated_at": "2026-10-22T15:39:02-03:00",
+  "data_updated_at": "2026-10-23T08:10:18-03:00",
   "counts": {
-    "new_listings": 0,
-    "changed_listings": 6,
-    "new_or_updated": 6,
-    "total_preserved": 154,
-    "sources_succeeded": 7,
-    "sources_partial": 3,
+    "new_listings": 2,
+    "changed_listings": 0,
+    "new_or_updated": 2,
+    "total_preserved": 156,
+    "sources_succeeded": 8,
+    "sources_partial": 2,
     "sources_failed": 5
   },
-  "new_property_ids": [],
-  "changed_property_ids": [
-    "4f6854930f5a871d64a9",
-    "4f81296e46bfc59eb508",
-    "ad1afe3d443449b947e9",
-    "cda2006ba0eb5524068e",
-    "eafa0683790f71d94030",
-    "f7026bd4b7199e62bb04"
+  "new_property_ids": [
+    "89e27b7fb5476fee9c81",
+    "cf07830e311b7a0c3eba"
   ],
+  "changed_property_ids": [],
   "errors": [
     {
       "source_id": "portalzuk",
@@ -361,8 +357,96 @@
       "message": "Página carregada, mas o formato dos resultados ainda não foi reconhecido."
     },
     {
-      "source_id": "leiloeiro_publico",
-      "message": "Leilão https://www.leiloeiropublico.com.br/ListagemLote.aspx?Leilao=25.046: Bloqueio/CAPTCHA detectado; a fonte não foi contornada.; 6 páginas de leilão não expuseram links de lotes reconhecíveis."
+      "source_id": "hasta",
+      "message": "Colisão de identidade no ID 30a95faa59307c10f75b; registro anterior preservado e observação conflitante retida em identity_conflicts para revisão."
+    }
+  ],
+  "validation_status": "needs_review",
+  "identity_conflicts": [
+    {
+      "property_id": "30a95faa59307c10f75b",
+      "reason": "Mesmo ID associado a apartamentos com condomínios e bairros diferentes; identidade não confirmada. Registro anterior restaurado, inclusive fotos; observação conflitante não incorporada à base nem ao histórico de mudanças confirmadas.",
+      "preserved_source_url": "https://hasta.com.br/imovel/968506-apartamento-residencial-vila-germanica-a-t-62-12m2-a-p-51-14m2-vila-nova-joinvil",
+      "conflicting_observation": {
+        "id": "30a95faa59307c10f75b",
+        "source_ids": [
+          "hasta"
+        ],
+        "source_listing_ids": [],
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/968506-apartamento-residencial-vila-germanica-a-t-62-12m2-a-p-51-14m2-vila-nova-joinvil",
+          "https://hasta.com.br/imovel/1057396-apartamento-conjunto-residencial-katia-maria-bloco-iii-a-p-64-64m2-bairro-saguac"
+        ],
+        "city": "Joinville",
+        "state": "SC",
+        "neighborhood": "Saguaçu",
+        "address": null,
+        "property_type": "Apartamento",
+        "area_privative_m2": 64.64,
+        "area_built_m2": null,
+        "area_total_m2": null,
+        "registry_number": null,
+        "registry_office": null,
+        "auction_lot": null,
+        "auctioneer": null,
+        "seller": null,
+        "modality": null,
+        "appraisal_value_brl": null,
+        "first_minimum_bid_brl": null,
+        "second_minimum_bid_brl": null,
+        "current_minimum_bid_brl": null,
+        "source_listing_price_brl": 200000.0,
+        "discount_on_appraisal_percent": null,
+        "auction_events": [],
+        "commission_percent": null,
+        "payment_conditions": null,
+        "occupancy": null,
+        "status": "unknown",
+        "official_url": null,
+        "source_listing_url": "https://hasta.com.br/imovel/968506-apartamento-residencial-vila-germanica-a-t-62-12m2-a-p-51-14m2-vila-nova-joinvil",
+        "validation_status": "nao_verificado",
+        "edital_url": null,
+        "document_urls": [],
+        "image_urls": [
+          "https://hasta.com.br/foto/1057396/0.jpg",
+          "https://hasta.com.br/foto/1057396/1.jpg",
+          "https://hasta.com.br/foto/1057396/2.jpg"
+        ],
+        "first_seen_at": "2026-10-20T10:11:06-03:00",
+        "last_checked_at": "2026-10-23T08:10:18-03:00",
+        "classification": "B",
+        "risk_flags": [
+          "occupancy_unknown",
+          "aggregator_listing_unverified"
+        ],
+        "field_verification": {
+          "city": "declared",
+          "property_type": "declared",
+          "appraisal_value_brl": "unknown",
+          "first_minimum_bid_brl": "unknown",
+          "second_minimum_bid_brl": "unknown",
+          "current_minimum_bid_brl": "unknown",
+          "occupancy": "unknown",
+          "registry_number": "unknown",
+          "auction_events": "unknown",
+          "source_listing_price_brl": "declared",
+          "official_url": "unverified",
+          "auctioneer": "unverified",
+          "address": "unknown"
+        },
+        "provenance": {
+          "source_id": "hasta",
+          "captured_from": "https://hasta.com.br/imovel/1057396-apartamento-conjunto-residencial-katia-maria-bloco-iii-a-p-64-64m2-bairro-saguac",
+          "is_aggregator": true,
+          "raw_text": "Apartamento Apartamento Conjunto Residencial Katia Maria, Bloco III, A.P. 64,64m², Bairro Saguaçu, Joinville/SC 📍 Joinville, SC R$ 300.000,00",
+          "source_listing_urls": [
+            "https://hasta.com.br/imovel/968506-apartamento-residencial-vila-germanica-a-t-62-12m2-a-p-51-14m2-vila-nova-joinvil",
+            "https://hasta.com.br/imovel/1057396-apartamento-conjunto-residencial-katia-maria-bloco-iii-a-p-64-64m2-bairro-saguac"
+          ]
+        },
+        "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+        "image_source_url": "https://hasta.com.br/imovel/968506-apartamento-residencial-vila-germanica-a-t-62-12m2-a-p-51-14m2-vila-nova-joinvil"
+      }
     }
   ]
 }
