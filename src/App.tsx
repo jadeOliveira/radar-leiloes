@@ -42,10 +42,6 @@ const brazilToday = () => new Intl.DateTimeFormat('en-CA', { timeZone: 'America/
 const configuredSources = monitorConfig.sources as ConfiguredSource[];
 const sourceCitySlug = (city: string) => city.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLocaleLowerCase('pt-BR').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const sourceUrl = (url: string) => url.replaceAll('{page}', '1').replaceAll('{city_slug}', sourceCitySlug(monitorConfig.cities[0] ?? ''));
-const brazilDateOffset = (offsetDays: number) => {
-  const [year, month, day] = brazilToday().split('-').map(Number);
-  return new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Sao_Paulo' }).format(new Date(Date.UTC(year, month - 1, day + offsetDays, 12)));
-};
 const saoPauloDate = (timestamp?: string | null) => timestamp ? new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Sao_Paulo' }).format(new Date(timestamp)) : null;
 const discoveryDate = (property: Property) => saoPauloDate(property.newly_discovered_at ?? property.first_seen_at);
 const isDiscoveredOn = (property: Property, day: string) => discoveryDate(property) === day;
@@ -88,6 +84,7 @@ export default function App() {
   const [risk, setRisk] = useState('Todos');
   const [dateWindow, setDateWindow] = useState('Todas');
   const [statusScope, setStatusScope] = useState('new');
+  const [moreFiltersOpen, setMoreFiltersOpen] = useState(false);
   const [favoriteIds, setFavoriteIds] = useState<string[]>(readFavorites);
   const [favoritesStorageError, setFavoritesStorageError] = useState(false);
   const toggleFavorite = (id: string) => {
@@ -170,41 +167,33 @@ export default function App() {
   }, [properties, changeLog, query, city, type, category, occupancy, risk, dateWindow, minPrice, maxPrice, minDiscount, statusScope, favoriteIds]);
   const today = brazilToday();
   const activeCount = properties.filter((item) => displayStatus(item, today) === 'active').length;
-  const upcomingCount = properties.filter((item) => displayStatus(item, today) === 'scheduled_unverified').length;
   const lastDataUpdate = data.updated_at ? new Date(data.updated_at).toLocaleString('pt-BR', { dateStyle: 'short', timeStyle: 'short', timeZone: 'America/Sao_Paulo' }) : 'Sem anúncios';
-  const operationalSources = (data.sources ?? []).filter((source) => source.status === 'success' || source.status === 'partial').length;
   const sourceStatusById = new Map((data.sources ?? []).map((source) => [source.source_id, source] as const));
   const incompleteSources = (data.sources ?? []).filter((source) => source.status === 'failed' || source.status === 'partial');
   const newTodayCount = properties.filter((item) => isDiscoveredOn(item, today)).length;
-  const newYesterdayCount = properties.filter((item) => isDiscoveredOn(item, brazilDateOffset(-1))).length;
   const changedTodayCount = properties.filter((item) => !isNewToday(item, today) && hasChangesOn(changeLog, item.id, today)).length;
-  const changedYesterdayCount = properties.filter((item) => hasChangesOn(changeLog, item.id, brazilDateOffset(-1))).length;
   const lastRunTime = lastRun.finished_at ? new Date(lastRun.finished_at).toLocaleString('pt-BR', { dateStyle: 'short', timeStyle: 'short', timeZone: 'America/Sao_Paulo' }) : 'indisponível';
-  const dataStatusText = newTodayCount > 0 || changedTodayCount > 0
-    ? `${newTodayCount} novo(s) e ${changedTodayCount} alterado(s) identificado(s) hoje no painel.`
-    : lastRun.data_status === 'unchanged'
-      ? 'Nenhum imóvel novo ou alteração relevante nesta coleta.'
-      : lastRun.data_status === 'unavailable'
-        ? 'Nenhuma fonte respondeu; os anúncios anteriores foram preservados.'
-        : lastRun.data_status === 'updated'
-          ? `${lastRun.counts?.new_listings ?? 0} novo(s) e ${lastRun.counts?.changed_listings ?? 0} alterado(s) nesta coleta.`
-          : 'Aguardando o próximo relatório da coleta.';
+  const favoriteCount = properties.filter((item) => favoriteIds.includes(item.id)).length;
+  const extraFilterCount = [category !== 'Todas', occupancy !== 'Todas', risk !== 'Todos', dateWindow !== 'Todas', minPrice !== '', maxPrice !== '', minDiscount !== ''].filter(Boolean).length;
+  const dataStatusText = loading ? 'Carregando anúncios…'
+    : lastRun.data_status === 'unavailable' ? 'Coleta indisponível; anúncios anteriores preservados'
+    : !lastRun.finished_at ? 'Aguardando o relatório da coleta'
+    : `${newTodayCount} ${newTodayCount === 1 ? 'novo imóvel' : 'novos imóveis'} hoje`;
 
   return <main className="page">
     <header className="topbar"><a className="brand" href="#top"><span className="brand-mark"><House size={19} /></span><span>RADAR<span className="brand-light"> DE LEILÕES</span></span></a><div className="topbar-right"><button className="sources-nav" type="button" aria-haspopup="dialog" aria-controls="sources-dialog" onClick={() => setSourceDetailsOpen(true)}>Fontes monitoradas</button><span className="top-note">SANTA CATARINA <i /> MONITORAMENTO DIÁRIO</span></div></header>
-    <section className="hero" id="top">
-      <div className="hero-copy"><div className="eyebrow"><span className="eyebrow-line" /> MONITORAMENTO IMOBILIÁRIO</div><h1>Encontre o próximo<br /><em>bom negócio.</em></h1><p>Oportunidades em leilões e vendas públicas nas cidades monitoradas de Santa Catarina.</p></div>
-      <div className="hero-side"><div className="hero-index">{String(operationalSources).padStart(2, '0')} <span>/ {(data.sources ?? []).length.toString().padStart(2, '0')} fontes acessíveis</span></div><div className="hero-rule" /><p>Cidades<br /><strong>{cities.length} em Santa Catarina</strong></p><button className="sources-link" type="button" aria-haspopup="dialog" aria-controls="sources-dialog" onClick={() => setSourceDetailsOpen(true)}>Ver fontes monitoradas <ArrowUpRight size={13} /></button></div>
+    <section className="compact-header" id="top">
+      <div><h1>Imóveis em <em>leilão</em></h1><p>{cities.length} cidades em Santa Catarina · anúncios públicos</p></div>
+      <div className="collection-time"><span>Última coleta</span><strong>{lastRunTime}</strong></div>
     </section>
-    <section className="stats" aria-label="Resumo"><div className="stat"><span>ATIVOS · SINAL DA FONTE</span><strong>{activeCount.toString().padStart(2, '0')}</strong></div><div className="stat"><span>PRÓXIMOS · A CONFIRMAR</span><strong>{upcomingCount.toString().padStart(2, '0')}</strong></div><div className="stat"><span>OPORTUNIDADES PRIORITÁRIAS</span><strong>{properties.filter((item) => item.classification === 'A').length.toString().padStart(2, '0')}</strong></div><div className="stat update-stat"><span>ÚLTIMO RELATÓRIO DA COLETA</span><strong>{lastRunTime}</strong><small>America/Sao_Paulo</small></div></section>
-    <section className={`freshness-banner freshness-${lastRun.data_status ?? 'unknown'}`} aria-live="polite"><strong>{dataStatusText}</strong><span>Relatório da coleta: {lastRunTime} · Dados dos anúncios: {lastDataUpdate} · Hoje: {newTodayCount} novo(s), {changedTodayCount} alterado(s) · Ontem: {newYesterdayCount} novo(s), {changedYesterdayCount} alterado(s) · Novidades mostram apenas os imóveis identificados hoje; selecione Todos para consultar os anteriores</span></section>
+    <section className={`freshness-banner compact-update freshness-${lastRun.data_status ?? 'unknown'}`} aria-live="polite"><strong>{dataStatusText}</strong><span>{changedTodayCount > 0 ? `${changedTodayCount} ${changedTodayCount === 1 ? 'anúncio conhecido alterado' : 'anúncios conhecidos alterados'}` : 'Nenhuma alteração em anúncios conhecidos'}</span></section>
     <dialog className="source-details-dialog" id="sources-dialog" ref={sourceDetailsDialog} aria-labelledby="source-details-title" aria-describedby="source-details-intro" onClose={() => setSourceDetailsOpen(false)}>
       <div className="source-dialog-header">
         <div><div className="eyebrow"><span className="eyebrow-line" /> TRANSPARÊNCIA</div><h2 id="source-details-title">Fontes <em>monitoradas</em></h2></div>
         <button className="source-dialog-close" type="button" aria-label="Fechar fontes monitoradas" autoFocus onClick={() => setSourceDetailsOpen(false)}><X size={18} /></button>
       </div>
       <p id="source-details-intro" className="sources-intro">Os portais consultados pelo monitor e o resultado do relatório mais recente. Acesso parcial ou indisponível não significa que o site esteja permanentemente fora do ar.</p>
-      <div className="sources-summary"><span>{configuredSources.filter((source) => source.enabled !== false).length} fontes configuradas</span><span>Relatório: {lastRunTime}</span>{incompleteSources.length > 0 && <strong>{incompleteSources.length} fontes com acesso incompleto</strong>}</div>
+      <div className="sources-summary"><span>{configuredSources.filter((source) => source.enabled !== false).length} fontes configuradas</span><span>Relatório: {lastRunTime}</span><span>Dados dos anúncios: {lastDataUpdate}</span>{incompleteSources.length > 0 && <strong>{incompleteSources.length} fontes com acesso incompleto</strong>}</div>
       <div className="sources-grid">{configuredSources.map((source) => {
         const latest = sourceStatusById.get(source.id);
         const status = source.enabled === false ? 'disabled' : latest?.status ?? 'unknown';
@@ -213,12 +202,21 @@ export default function App() {
       })}</div>
       <p className="sources-note">Anúncios de agregadores, como a Hasta, permanecem identificados como não verificados até a conferência na página original do leiloeiro.</p>
     </dialog>
-    <section className="list-section"><div className="section-heading"><div><div className="eyebrow"><span className="eyebrow-line" /> OPORTUNIDADES</div><h2>Imóveis em <em>destaque</em></h2></div><span className="result-count">{filtered.length} de {properties.length} imóveis</span></div>
+    <section className="list-section compact-list" aria-label="Anúncios de imóveis">
+      <nav className="listing-scopes" aria-label="Filtrar anúncios">
+        <button type="button" aria-pressed={statusScope === 'new'} onClick={() => setStatusScope('new')}>Novos <small>{newTodayCount}</small></button>
+        <button type="button" aria-pressed={statusScope === 'active'} onClick={() => setStatusScope('active')}>Ativos <small>{activeCount}</small></button>
+        <button type="button" aria-pressed={statusScope === 'all'} onClick={() => setStatusScope('all')}>Todos <small>{properties.length}</small></button>
+        <button type="button" aria-pressed={statusScope === 'favorites'} onClick={() => setStatusScope('favorites')}><Star size={14} /> Favoritos <small>{favoriteCount}</small></button>
+        <span className="scope-result-count" aria-live="polite">{filtered.length} de {properties.length} imóveis</span>
+      </nav>
       <div className="filters">
         <label className="search"><Search size={17} /><input aria-label="Buscar imóvel" placeholder="Buscar endereço ou bairro" value={query} onChange={(event) => setQuery(event.target.value)} /></label>
-        <label className="select-wrap"><select aria-label="Filtrar status do leilão" value={statusScope} onChange={(event) => setStatusScope(event.target.value)}><option value="new">Novos</option><option value="active">Ativos</option><option value="all">Todos</option><option value="favorites">Favoritos</option></select></label>
         <label className="select-wrap"><SlidersHorizontal size={15} /><select aria-label="Filtrar cidade" value={city} onChange={(event) => setCity(event.target.value)}><option>Todas as cidades</option>{cities.map((item) => <option key={item}>{item}</option>)}</select></label>
         <label className="select-wrap"><Filter size={15} /><select aria-label="Filtrar tipo" value={type} onChange={(event) => setType(event.target.value)}><option>Todos os tipos</option>{types.map((item) => <option key={item}>{item}</option>)}</select></label>
+        <button className="more-filters-button" type="button" aria-expanded={moreFiltersOpen} aria-controls="advanced-filters" onClick={() => setMoreFiltersOpen(!moreFiltersOpen)}><SlidersHorizontal size={15} /> Mais filtros{extraFilterCount > 0 ? ` (${extraFilterCount})` : ''}</button>
+      </div>
+      <div className="filters advanced-filters" id="advanced-filters" hidden={!moreFiltersOpen}>
         <label className="select-wrap"><select aria-label="Filtrar categoria" value={category} onChange={(event) => setCategory(event.target.value)}><option value="Todas">Categorias A/B</option><option value="A">A · Prioritária</option><option value="B">B · Demais</option></select></label>
         <label className="select-wrap"><select aria-label="Filtrar ocupação" value={occupancy} onChange={(event) => setOccupancy(event.target.value)}><option value="Todas">Todas ocupações</option><option value="ocupad">Ocupado</option><option value="desocupado">Desocupado</option><option value="Desconhecida">Desconhecida</option></select></label>
         <label className="select-wrap"><select aria-label="Filtrar riscos" value={risk} onChange={(event) => setRisk(event.target.value)}><option value="Todos">Todos os riscos</option><option value="Com alertas">Com alertas</option><option value="Sem alertas">Sem alertas</option></select></label>
