@@ -171,14 +171,10 @@ export default function App() {
   const sourceStatusById = new Map((data.sources ?? []).map((source) => [source.source_id, source] as const));
   const incompleteSources = (data.sources ?? []).filter((source) => source.status === 'failed' || source.status === 'partial');
   const newTodayCount = properties.filter((item) => isDiscoveredOn(item, today)).length;
-  const changedTodayCount = properties.filter((item) => !isNewToday(item, today) && hasChangesOn(changeLog, item.id, today)).length;
   const lastRunTime = lastRun.finished_at ? new Date(lastRun.finished_at).toLocaleString('pt-BR', { dateStyle: 'short', timeStyle: 'short', timeZone: 'America/Sao_Paulo' }) : 'indisponível';
   const favoriteCount = properties.filter((item) => favoriteIds.includes(item.id)).length;
   const extraFilterCount = [category !== 'Todas', occupancy !== 'Todas', risk !== 'Todos', dateWindow !== 'Todas', minPrice !== '', maxPrice !== '', minDiscount !== ''].filter(Boolean).length;
-  const dataStatusText = loading ? 'Carregando anúncios…'
-    : lastRun.data_status === 'unavailable' ? 'Coleta indisponível; anúncios anteriores preservados'
-    : !lastRun.finished_at ? 'Aguardando o relatório da coleta'
-    : `${newTodayCount} ${newTodayCount === 1 ? 'novo imóvel' : 'novos imóveis'} hoje`;
+
 
   return <main className="page">
     <header className="topbar"><a className="brand" href="#top"><span className="brand-mark"><House size={19} /></span><span>RADAR<span className="brand-light"> DE LEILÕES</span></span></a><div className="topbar-right"><button className="sources-nav" type="button" aria-haspopup="dialog" aria-controls="sources-dialog" onClick={() => setSourceDetailsOpen(true)}>Fontes monitoradas</button><span className="top-note">SANTA CATARINA <i /> MONITORAMENTO DIÁRIO</span></div></header>
@@ -186,7 +182,6 @@ export default function App() {
       <div><h1>Imóveis em <em>leilão</em></h1><p>{cities.length} cidades em Santa Catarina · anúncios públicos</p></div>
       <div className="collection-time"><span>Última coleta</span><strong>{lastRunTime}</strong></div>
     </section>
-    <section className={`freshness-banner compact-update freshness-${lastRun.data_status ?? 'unknown'}`} aria-live="polite"><strong>{dataStatusText}</strong><span>{changedTodayCount > 0 ? `${changedTodayCount} ${changedTodayCount === 1 ? 'anúncio conhecido alterado' : 'anúncios conhecidos alterados'}` : 'Nenhuma alteração em anúncios conhecidos'}</span></section>
     <dialog className="source-details-dialog" id="sources-dialog" ref={sourceDetailsDialog} aria-labelledby="source-details-title" aria-describedby="source-details-intro" onClose={() => setSourceDetailsOpen(false)}>
       <div className="source-dialog-header">
         <div><div className="eyebrow"><span className="eyebrow-line" /> TRANSPARÊNCIA</div><h2 id="source-details-title">Fontes <em>monitoradas</em></h2></div>
