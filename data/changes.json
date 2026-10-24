@@ -3422,6 +3422,369 @@
           "detected_at": "2026-10-23T08:10:18-03:00"
         }
       ]
+    },
+    {
+      "run_id": "ceab4837-485b-4135-97a0-944fc32d174e",
+      "detected_at": "2026-10-24T08:08:01-03:00",
+      "changes": [
+        {
+          "property_id": "3743d46db92caec2e2a1",
+          "city": "Joinville",
+          "source_ids": [
+            "mega_leiloes"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-24T08:08:01-03:00"
+        },
+        {
+          "property_id": "76872ff95863dd2e0332",
+          "city": "Joinville",
+          "source_ids": [
+            "mega_leiloes"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-24T08:08:01-03:00"
+        },
+        {
+          "property_id": "cbe9429e4d51c45c7f5e",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "mega_leiloes"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-24T08:08:01-03:00"
+        },
+        {
+          "property_id": "4869eb031114b1d0ba59",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "source_listing_price_brl",
+              "before": 5243826.79,
+              "after": 3939028.71
+            }
+          ],
+          "detected_at": "2026-10-24T08:08:01-03:00"
+        },
+        {
+          "property_id": "315bb27dcef7a0c09d95",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-24T08:08:01-03:00"
+        },
+        {
+          "property_id": "4c0803b810390023acd9",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-24T08:08:01-03:00"
+        },
+        {
+          "property_id": "cf07830e311b7a0c3eba",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "image_urls",
+              "before": [
+                "https://hasta.com.br/foto/2249464/0.jpg"
+              ],
+              "after": [
+                "https://hasta.com.br/foto/2249464/0.jpg",
+                "https://hasta.com.br/foto/2249464/1.jpg",
+                "https://hasta.com.br/foto/2249464/2.jpg",
+                "https://hasta.com.br/foto/2249464/3.jpg"
+              ]
+            }
+          ],
+          "detected_at": "2026-10-24T08:08:01-03:00"
+        },
+        {
+          "property_id": "476eddc9e3271118f542",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "scheduled_unverified",
+              "after": "ended_unverified"
+            }
+          ],
+          "detected_at": "2026-10-24T08:08:01-03:00"
+        },
+        {
+          "property_id": "3000999e5d4b8f79828b",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-24T08:08:01-03:00"
+        },
+        {
+          "property_id": "be1508c8019df091dbbc",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-24T08:08:01-03:00"
+        },
+        {
+          "property_id": "6c6ab2c8d00135269ccf",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-24T08:08:01-03:00"
+        },
+        {
+          "property_id": "059fd85cd2dca00530a6",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "source_listing_price_brl",
+              "before": 1803663.0,
+              "after": 170000.0
+            }
+          ],
+          "detected_at": "2026-10-24T08:08:01-03:00"
+        },
+        {
+          "property_id": "1325716fc2c25e3ed88d",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-24T08:08:01-03:00"
+        },
+        {
+          "property_id": "62f226bd6935bed8ef35",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "source_listing_price_brl",
+              "before": 1803663.0,
+              "after": 170000.0
+            }
+          ],
+          "detected_at": "2026-10-24T08:08:01-03:00"
+        },
+        {
+          "property_id": "3f862121f487cca878fd",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "image_urls",
+              "before": [
+                "https://hasta.com.br/foto/1942348/0.jpg",
+                "https://hasta.com.br/foto/1942348/1.jpg"
+              ],
+              "after": [
+                "https://hasta.com.br/foto/1942348/0.jpg",
+                "https://hasta.com.br/foto/1942348/1.jpg",
+                "https://hasta.com.br/foto/1942348/2.jpg",
+                "https://hasta.com.br/foto/1942348/3.jpg",
+                "https://hasta.com.br/foto/1942348/4.jpg"
+              ]
+            }
+          ],
+          "detected_at": "2026-10-24T08:08:01-03:00"
+        },
+        {
+          "property_id": "edcdb81e525e12d4d098",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-24T08:08:01-03:00"
+        },
+        {
+          "property_id": "de13120571b88c7b541d",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "source_listing_price_brl",
+              "before": 1157300.0,
+              "after": 739818.0
+            }
+          ],
+          "detected_at": "2026-10-24T08:08:01-03:00"
+        },
+        {
+          "property_id": "634946a661cc12762b48",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "detected_at": "2026-10-24T08:08:01-03:00",
+          "event_type": "identity_restored",
+          "restored_from": "git:001c58d:data/properties.json",
+          "changes": [
+            {
+              "field": "source_listing_urls",
+              "before": [
+                "https://hasta.com.br/imovel/1518876-imovel-urbano-com-area-total-de-2-500-000-m2-em-rio-do-sul-sc",
+                "https://hasta.com.br/imovel/1269483-apartamento-no-15-bloco-13-no-residencial-marcolino-martinho-felippe-em-rio-do-s"
+              ],
+              "after": [
+                "https://hasta.com.br/imovel/1518876-imovel-urbano-com-area-total-de-2-500-000-m2-em-rio-do-sul-sc"
+              ]
+            },
+            {
+              "field": "property_type",
+              "before": "Apartamento",
+              "after": "Casa"
+            },
+            {
+              "field": "registry_office",
+              "before": "o do Sul/SC 📍 Rio do Sul",
+              "after": "O DO SUL/SC 📍 Rio do Sul"
+            },
+            {
+              "field": "source_listing_price_brl",
+              "before": 40303.92,
+              "after": 500000.0
+            },
+            {
+              "field": "image_urls",
+              "before": [
+                "https://hasta.com.br/foto/1269483/0.jpg",
+                "https://hasta.com.br/foto/1269483/1.jpg",
+                "https://hasta.com.br/foto/1269483/2.jpg"
+              ],
+              "after": [
+                "https://hasta.com.br/foto/1518876/0.jpg",
+                "https://hasta.com.br/foto/1518876/1.jpg",
+                "https://hasta.com.br/foto/1518876/2.jpg",
+                "https://hasta.com.br/foto/1518876/3.jpg",
+                "https://hasta.com.br/foto/1518876/4.jpg",
+                "https://hasta.com.br/foto/1518876/5.jpg",
+                "https://hasta.com.br/foto/1518876/6.jpg",
+                "https://hasta.com.br/foto/1518876/7.jpg",
+                "https://hasta.com.br/foto/1518876/8.jpg",
+                "https://hasta.com.br/foto/1518876/9.jpg",
+                "https://hasta.com.br/foto/1518876/10.jpg",
+                "https://hasta.com.br/foto/1518876/11.jpg"
+              ]
+            },
+            {
+              "field": "last_checked_at",
+              "before": "2026-10-23T08:10:18-03:00",
+              "after": "2026-10-22T12:13:16-03:00"
+            },
+            {
+              "field": "provenance",
+              "before": {
+                "source_id": "hasta",
+                "captured_from": "https://hasta.com.br/imovel/1269483-apartamento-no-15-bloco-13-no-residencial-marcolino-martinho-felippe-em-rio-do-s",
+                "is_aggregator": true,
+                "raw_text": "Apartamento Apartamento nº 15, bloco 13, no Residencial Marcolino Martinho Felippe, em Rio do Sul/SC 📍 Rio do Sul, SC R$ 40.303,92",
+                "source_listing_urls": [
+                  "https://hasta.com.br/imovel/1518876-imovel-urbano-com-area-total-de-2-500-000-m2-em-rio-do-sul-sc",
+                  "https://hasta.com.br/imovel/1269483-apartamento-no-15-bloco-13-no-residencial-marcolino-martinho-felippe-em-rio-do-s"
+                ]
+              },
+              "after": {
+                "source_id": "hasta",
+                "captured_from": "https://hasta.com.br/imovel/1518876-imovel-urbano-com-area-total-de-2-500-000-m2-em-rio-do-sul-sc",
+                "is_aggregator": true,
+                "raw_text": "Casa IMÓVEL URBANO COM ÁREA TOTAL DE 2.500,000 m2- Em RIO DO SUL/SC 📍 Rio do Sul, SC R$ 500.000,00",
+                "source_listing_urls": [
+                  "https://hasta.com.br/imovel/1518876-imovel-urbano-com-area-total-de-2-500-000-m2-em-rio-do-sul-sc"
+                ]
+              }
+            }
+          ]
+        }
+      ]
     }
   ]
 }
