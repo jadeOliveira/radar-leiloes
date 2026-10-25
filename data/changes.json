@@ -3785,6 +3785,112 @@
           ]
         }
       ]
+    },
+    {
+      "run_id": "b7fb2bb4-35c1-481a-8ed9-b83e9e4d7381",
+      "detected_at": "2026-10-25T08:10:14-03:00",
+      "changes": [
+        {
+          "property_id": "c7c851cf14061ca175e9",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "image_urls",
+              "before": [
+                "https://hasta.com.br/foto/788478/0.jpg"
+              ],
+              "after": [
+                "https://hasta.com.br/foto/788478/0.jpg",
+                "https://www.santanderimoveis.com.br/wp-content/uploads/2026/08/1785954893959.jpeg"
+              ]
+            }
+          ],
+          "detected_at": "2026-10-25T08:10:14-03:00"
+        },
+        {
+          "property_id": "36913ba2a684762ca887",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "image_urls",
+              "before": [
+                "https://hasta.com.br/foto/746520/0.jpg"
+              ],
+              "after": [
+                "https://hasta.com.br/foto/746520/0.jpg",
+                "https://www.santanderimoveis.com.br/wp-content/uploads/2026/07/1785440605006.jpeg"
+              ]
+            }
+          ],
+          "detected_at": "2026-10-25T08:10:14-03:00"
+        },
+        {
+          "property_id": "4e87051665604a054689",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "image_urls",
+              "before": [
+                "https://hasta.com.br/foto/600093/0.jpg"
+              ],
+              "after": [
+                "https://hasta.com.br/foto/600093/0.jpg",
+                "https://www.santanderimoveis.com.br/wp-content/uploads/2026/04/1775572276222.jpeg"
+              ]
+            }
+          ],
+          "detected_at": "2026-10-25T08:10:14-03:00"
+        },
+        {
+          "property_id": "80d0e5b207315b6d1e5d",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "image_urls",
+              "before": [
+                "https://hasta.com.br/foto/1250563/0.jpg"
+              ],
+              "after": [
+                "https://hasta.com.br/foto/1250563/0.jpg",
+                "https://www.santanderimoveis.com.br/wp-content/uploads/2026/09/1788533080897.jpeg"
+              ]
+            }
+          ],
+          "detected_at": "2026-10-25T08:10:14-03:00"
+        },
+        {
+          "property_id": "fa3ee5ea39779c25e788",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "image_urls",
+              "before": [
+                "https://hasta.com.br/foto/1720890/0.jpg"
+              ],
+              "after": [
+                "https://hasta.com.br/foto/1720890/0.jpg",
+                "https://imagens.portalzuk.com.br/mini/2026/09/74f1f0fe30d601a2e45e477feacaaad8.jpg"
+              ]
+            }
+          ],
+          "detected_at": "2026-10-25T08:10:14-03:00"
+        }
+      ]
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "run_id": "ceab4837-485b-4135-97a0-944fc32d174e",
+  "run_id": "b7fb2bb4-35c1-481a-8ed9-b83e9e4d7381",
   "status": "partial",
-  "started_at": "2026-10-24T07:56:15-03:00",
-  "finished_at": "2026-10-24T08:11:00-03:00",
-  "duration_seconds": 885.0,
+  "started_at": "2026-10-25T07:56:54-03:00",
+  "finished_at": "2026-10-25T08:11:50-03:00",
+  "duration_seconds": 896.14,
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -31,8 +31,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 0.22,
-      "finished_at": "2026-10-24T07:56:18-03:00"
+      "duration_seconds": 0.13,
+      "finished_at": "2026-10-25T07:56:55-03:00"
     },
     {
       "source_id": "caixa",
@@ -50,8 +50,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 2.93,
-      "finished_at": "2026-10-24T07:56:21-03:00"
+      "duration_seconds": 2.7,
+      "finished_at": "2026-10-25T07:56:58-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -69,9 +69,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 29.79,
-      "finished_at": "2026-10-24T07:56:50-03:00",
-      "last_success_at": "2026-10-24T07:56:50-03:00"
+      "duration_seconds": 31.68,
+      "finished_at": "2026-10-25T07:57:30-03:00",
+      "last_success_at": "2026-10-25T07:57:30-03:00"
     },
     {
       "source_id": "superbid",
@@ -90,7 +90,7 @@
         "Rio do Sul": 0
       },
       "duration_seconds": 0.12,
-      "finished_at": "2026-10-24T07:56:51-03:00"
+      "finished_at": "2026-10-25T07:57:30-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -108,8 +108,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 2.99,
-      "finished_at": "2026-10-24T07:56:54-03:00"
+      "duration_seconds": 3.09,
+      "finished_at": "2026-10-25T07:57:33-03:00"
     },
     {
       "source_id": "duarte",
@@ -127,9 +127,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 25.95,
-      "finished_at": "2026-10-24T07:57:20-03:00",
-      "last_success_at": "2026-10-24T07:57:20-03:00"
+      "duration_seconds": 47.46,
+      "finished_at": "2026-10-25T07:58:21-03:00",
+      "last_success_at": "2026-10-25T07:58:21-03:00"
     },
     {
       "source_id": "zampieri",
@@ -147,9 +147,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 6.1,
-      "finished_at": "2026-10-24T07:57:26-03:00",
-      "last_success_at": "2026-10-24T07:57:26-03:00"
+      "duration_seconds": 6.04,
+      "finished_at": "2026-10-25T07:58:27-03:00",
+      "last_success_at": "2026-10-25T07:58:27-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -167,9 +167,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 2.93,
-      "finished_at": "2026-10-24T07:57:29-03:00",
-      "last_success_at": "2026-10-24T07:57:29-03:00"
+      "duration_seconds": 3.13,
+      "finished_at": "2026-10-25T07:58:30-03:00",
+      "last_success_at": "2026-10-25T07:58:30-03:00"
     },
     {
       "source_id": "freitas",
@@ -187,9 +187,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 8.53,
-      "finished_at": "2026-10-24T07:57:37-03:00",
-      "last_success_at": "2026-10-24T07:57:37-03:00"
+      "duration_seconds": 8.3,
+      "finished_at": "2026-10-25T07:58:38-03:00",
+      "last_success_at": "2026-10-25T07:58:38-03:00"
     },
     {
       "source_id": "comprei",
@@ -207,8 +207,8 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 1.31,
-      "finished_at": "2026-10-24T07:57:39-03:00"
+      "duration_seconds": 1.3,
+      "finished_at": "2026-10-25T07:58:40-03:00"
     },
     {
       "source_id": "sampaio",
@@ -227,8 +227,8 @@
         "Rio do Sul": 0
       },
       "duration_seconds": 19.84,
-      "finished_at": "2026-10-24T07:57:59-03:00",
-      "last_success_at": "2026-10-24T07:57:59-03:00"
+      "finished_at": "2026-10-25T07:59:00-03:00",
+      "last_success_at": "2026-10-25T07:59:00-03:00"
     },
     {
       "source_id": "machado",
@@ -246,29 +246,29 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 3.49,
-      "finished_at": "2026-10-24T07:58:02-03:00",
-      "last_success_at": "2026-10-24T07:58:02-03:00"
+      "duration_seconds": 3.29,
+      "finished_at": "2026-10-25T07:59:03-03:00",
+      "last_success_at": "2026-10-25T07:59:03-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
       "status": "success",
       "pages_read": 11,
-      "listings_found": 142,
+      "listings_found": 141,
       "error": null,
       "listings_by_city": {
         "Joinville": 96,
-        "Balneário Camboriú": 25,
+        "Balneário Camboriú": 24,
         "Balneário Piçarras": 1,
         "Barra Velha": 7,
         "Penha": 1,
         "Navegantes": 4,
         "Rio do Sul": 8
       },
-      "duration_seconds": 425.2,
-      "finished_at": "2026-10-24T08:05:07-03:00",
-      "last_success_at": "2026-10-24T08:05:07-03:00"
+      "duration_seconds": 499.46,
+      "finished_at": "2026-10-25T08:07:22-03:00",
+      "last_success_at": "2026-10-25T08:07:22-03:00"
     },
     {
       "source_id": "hasta_publica",
@@ -286,9 +286,9 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 50.7,
-      "finished_at": "2026-10-24T08:05:58-03:00",
-      "last_success_at": "2026-10-24T08:05:58-03:00"
+      "duration_seconds": 51.63,
+      "finished_at": "2026-10-25T08:08:14-03:00",
+      "last_success_at": "2026-10-25T08:08:14-03:00"
     },
     {
       "source_id": "leiloeiro_publico",
@@ -306,45 +306,32 @@
         "Navegantes": 0,
         "Rio do Sul": 0
       },
-      "duration_seconds": 122.86,
-      "finished_at": "2026-10-24T08:08:01-03:00",
-      "last_success_at": "2026-10-24T08:08:01-03:00"
+      "duration_seconds": 120.06,
+      "finished_at": "2026-10-25T08:10:14-03:00",
+      "last_success_at": "2026-10-25T08:10:14-03:00"
     }
   ],
   "data_status": "updated",
-  "data_updated_at": "2026-10-24T08:08:01-03:00",
+  "data_updated_at": "2026-10-25T08:10:14-03:00",
   "counts": {
-    "new_listings": 10,
-    "changed_listings": 8,
-    "new_or_updated": 18,
+    "new_listings": 0,
+    "changed_listings": 5,
+    "new_or_updated": 5,
     "total_preserved": 166,
     "sources_succeeded": 8,
     "sources_partial": 2,
     "sources_failed": 5,
     "isolated_identity_conflicts": 2,
-    "restored_records": 1
+    "isolated_inconsistent_observations": 5,
+    "restored_records": 7
   },
-  "new_property_ids": [
-    "1325716fc2c25e3ed88d",
-    "3000999e5d4b8f79828b",
-    "315bb27dcef7a0c09d95",
-    "3743d46db92caec2e2a1",
-    "4c0803b810390023acd9",
-    "6c6ab2c8d00135269ccf",
-    "76872ff95863dd2e0332",
-    "be1508c8019df091dbbc",
-    "cbe9429e4d51c45c7f5e",
-    "edcdb81e525e12d4d098"
-  ],
+  "new_property_ids": [],
   "changed_property_ids": [
-    "059fd85cd2dca00530a6",
-    "3f862121f487cca878fd",
-    "476eddc9e3271118f542",
-    "4869eb031114b1d0ba59",
-    "62f226bd6935bed8ef35",
-    "634946a661cc12762b48",
-    "cf07830e311b7a0c3eba",
-    "de13120571b88c7b541d"
+    "36913ba2a684762ca887",
+    "4e87051665604a054689",
+    "80d0e5b207315b6d1e5d",
+    "c7c851cf14061ca175e9",
+    "fa3ee5ea39779c25e788"
   ],
   "errors": [
     {
@@ -377,17 +364,1397 @@
     },
     {
       "source_id": "hasta",
-      "property_id": "30a95faa59307c10f75b",
-      "message": "Observação associa imóveis distintos ao mesmo ID; versão válida restaurada integralmente, incluindo fotos. Histórico anterior preservado."
+      "property_id": "1325716fc2c25e3ed88d",
+      "message": "Texto da cidade capturado como cartório sem evidência; versão anterior válida mantém o campo desconhecido. Registro anterior restaurado integralmente, incluindo fotos."
+    },
+    {
+      "source_id": "mega_leiloes",
+      "property_id": "cbe9429e4d51c45c7f5e",
+      "message": "Regressão de campos já conferidos: descrição literal contradiz área/tipo de leilão e extração captura navegação/privacidade como dados do imóvel. Registro anterior restaurado integralmente, incluindo fotos."
     },
     {
       "source_id": "hasta",
-      "property_id": "634946a661cc12762b48",
-      "message": "Observação associa imóveis distintos ao mesmo ID; versão válida restaurada integralmente, incluindo fotos. Histórico anterior preservado."
+      "property_id": "edcdb81e525e12d4d098",
+      "message": "Texto da cidade capturado como cartório sem evidência; versão anterior válida mantém o campo desconhecido. Registro anterior restaurado integralmente, incluindo fotos."
+    },
+    {
+      "source_id": "hasta",
+      "property_id": "2c1a34723877e103d57a",
+      "message": "Piçarras: imóvel 1114198 (240 m²) associado ao imóvel 1110101 (288 m²). Registro anterior restaurado integralmente, incluindo fotos."
+    },
+    {
+      "source_id": "hasta",
+      "property_id": "30a95faa59307c10f75b",
+      "message": "Joinville: apartamento Vila Germânica 968506 associado à casa Espinheiros 1113762. Registro anterior restaurado integralmente, incluindo fotos."
+    },
+    {
+      "source_id": "mega_leiloes",
+      "property_id": "3743d46db92caec2e2a1",
+      "message": "Regressão de campos já conferidos: descrição literal contradiz área/tipo de leilão e extração captura navegação/privacidade como dados do imóvel. Registro anterior restaurado integralmente, incluindo fotos."
+    },
+    {
+      "source_id": "mega_leiloes",
+      "property_id": "76872ff95863dd2e0332",
+      "message": "Regressão de campos já conferidos: descrição literal contradiz área/tipo de leilão e extração captura navegação/privacidade como dados do imóvel. Registro anterior restaurado integralmente, incluindo fotos."
     }
   ],
   "identity_conflicts": [
     {
+      "property_id": "2c1a34723877e103d57a",
+      "reason": "Piçarras: imóvel 1114198 (240 m²) associado ao imóvel 1110101 (288 m²).",
+      "restored_from": "pre_run_snapshot",
+      "preserved_source_url": "https://hasta.com.br/imovel/1114198-terreno-com-area-de-240m2-contendo-uma-casa-com-area-de-96-75m2-balneario-picarr",
+      "conflicting_observation": {
+        "id": "2c1a34723877e103d57a",
+        "source_ids": [
+          "hasta"
+        ],
+        "source_listing_ids": [],
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1114198-terreno-com-area-de-240m2-contendo-uma-casa-com-area-de-96-75m2-balneario-picarr",
+          "https://hasta.com.br/imovel/1110101-imovel-urbano-terreno-288m2-com-edificacao-bairro-nossa-senhora-da-paz-em-balnea"
+        ],
+        "city": "Balneário Piçarras",
+        "state": "SC",
+        "neighborhood": null,
+        "address": null,
+        "property_type": "Terreno",
+        "area_privative_m2": 288.0,
+        "area_built_m2": null,
+        "area_total_m2": null,
+        "registry_number": null,
+        "registry_office": "O PIÇARRAS/SC 📍 Balneário Piçarras",
+        "auction_lot": null,
+        "auctioneer": null,
+        "seller": null,
+        "modality": null,
+        "appraisal_value_brl": null,
+        "first_minimum_bid_brl": null,
+        "second_minimum_bid_brl": null,
+        "current_minimum_bid_brl": null,
+        "source_listing_price_brl": 616045.17,
+        "discount_on_appraisal_percent": null,
+        "auction_events": [],
+        "commission_percent": null,
+        "payment_conditions": null,
+        "occupancy": null,
+        "status": "unknown",
+        "official_url": null,
+        "source_listing_url": "https://hasta.com.br/imovel/1114198-terreno-com-area-de-240m2-contendo-uma-casa-com-area-de-96-75m2-balneario-picarr",
+        "validation_status": "nao_verificado",
+        "edital_url": null,
+        "document_urls": [],
+        "image_urls": [
+          "https://hasta.com.br/foto/1110101/0.jpg"
+        ],
+        "first_seen_at": "2026-10-20T10:11:09-03:00",
+        "last_checked_at": "2026-10-25T08:10:14-03:00",
+        "classification": "B",
+        "risk_flags": [
+          "occupancy_unknown",
+          "aggregator_listing_unverified"
+        ],
+        "field_verification": {
+          "city": "declared",
+          "property_type": "declared",
+          "appraisal_value_brl": "unknown",
+          "first_minimum_bid_brl": "unknown",
+          "second_minimum_bid_brl": "unknown",
+          "current_minimum_bid_brl": "unknown",
+          "occupancy": "unknown",
+          "registry_number": "unknown",
+          "auction_events": "unknown",
+          "source_listing_price_brl": "declared",
+          "official_url": "unverified",
+          "auctioneer": "unverified",
+          "address": "unknown"
+        },
+        "provenance": {
+          "source_id": "hasta",
+          "captured_from": "https://hasta.com.br/imovel/1110101-imovel-urbano-terreno-288m2-com-edificacao-bairro-nossa-senhora-da-paz-em-balnea",
+          "is_aggregator": true,
+          "raw_text": "Imóvel comercial IMOVEL URBANO TERRENO 288M² COM EDIFICAÇÃO BAIRRO NOSSA SENHORA DA PAZ EM BALNEÁRIO PIÇARRAS/SC 📍 Balneário Piçarras, SC R$ 616.045,17",
+          "source_listing_urls": [
+            "https://hasta.com.br/imovel/1114198-terreno-com-area-de-240m2-contendo-uma-casa-com-area-de-96-75m2-balneario-picarr",
+            "https://hasta.com.br/imovel/1110101-imovel-urbano-terreno-288m2-com-edificacao-bairro-nossa-senhora-da-paz-em-balnea"
+          ]
+        },
+        "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+        "image_source_url": "https://hasta.com.br/imovel/1114198-terreno-com-area-de-240m2-contendo-uma-casa-com-area-de-96-75m2-balneario-picarr"
+      },
+      "preserved_record": {
+        "id": "2c1a34723877e103d57a",
+        "source_ids": [
+          "hasta"
+        ],
+        "source_listing_ids": [],
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/1114198-terreno-com-area-de-240m2-contendo-uma-casa-com-area-de-96-75m2-balneario-picarr"
+        ],
+        "city": "Balneário Piçarras",
+        "state": "SC",
+        "neighborhood": null,
+        "address": null,
+        "property_type": "Casa",
+        "area_privative_m2": 240.0,
+        "area_built_m2": null,
+        "area_total_m2": null,
+        "registry_number": null,
+        "registry_office": "o Piçarras/SC 📍 Balneário Piçarras",
+        "auction_lot": null,
+        "auctioneer": null,
+        "seller": null,
+        "modality": null,
+        "appraisal_value_brl": null,
+        "first_minimum_bid_brl": null,
+        "second_minimum_bid_brl": null,
+        "current_minimum_bid_brl": null,
+        "source_listing_price_brl": 1500000.0,
+        "discount_on_appraisal_percent": null,
+        "auction_events": [],
+        "commission_percent": null,
+        "payment_conditions": null,
+        "occupancy": null,
+        "status": "unknown",
+        "official_url": null,
+        "source_listing_url": "https://hasta.com.br/imovel/1114198-terreno-com-area-de-240m2-contendo-uma-casa-com-area-de-96-75m2-balneario-picarr",
+        "validation_status": "nao_verificado",
+        "edital_url": null,
+        "document_urls": [],
+        "image_urls": [
+          "https://hasta.com.br/foto/1114198/0.jpg",
+          "https://hasta.com.br/foto/1114198/1.jpg",
+          "https://hasta.com.br/foto/1114198/2.jpg"
+        ],
+        "first_seen_at": "2026-10-20T10:11:09-03:00",
+        "last_checked_at": "2026-10-24T08:08:01-03:00",
+        "classification": "B",
+        "risk_flags": [
+          "occupancy_unknown",
+          "aggregator_listing_unverified"
+        ],
+        "field_verification": {
+          "city": "declared",
+          "property_type": "declared",
+          "appraisal_value_brl": "unknown",
+          "first_minimum_bid_brl": "unknown",
+          "second_minimum_bid_brl": "unknown",
+          "current_minimum_bid_brl": "unknown",
+          "occupancy": "unknown",
+          "registry_number": "unknown",
+          "auction_events": "unknown",
+          "source_listing_price_brl": "declared",
+          "official_url": "unverified",
+          "auctioneer": "unverified",
+          "address": "unknown"
+        },
+        "provenance": {
+          "source_id": "hasta",
+          "captured_from": "https://hasta.com.br/imovel/1114198-terreno-com-area-de-240m2-contendo-uma-casa-com-area-de-96-75m2-balneario-picarr",
+          "is_aggregator": true,
+          "raw_text": "Casa Terreno com área de 240m², contendo uma casa com área de 96,75m², Balneário Piçarras/SC 📍 Balneário Piçarras, SC R$ 1.500.000,00",
+          "source_listing_urls": [
+            "https://hasta.com.br/imovel/1114198-terreno-com-area-de-240m2-contendo-uma-casa-com-area-de-96-75m2-balneario-picarr"
+          ]
+        },
+        "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+        "image_source_url": "https://hasta.com.br/imovel/1114198-terreno-com-area-de-240m2-contendo-uma-casa-com-area-de-96-75m2-balneario-picarr"
+      },
+      "resolution": "Registro anterior restaurado integralmente, incluindo fotos; observação isolada para revisão."
+    },
+    {
+      "property_id": "30a95faa59307c10f75b",
+      "reason": "Joinville: apartamento Vila Germânica 968506 associado à casa Espinheiros 1113762.",
+      "restored_from": "pre_run_snapshot",
+      "preserved_source_url": "https://hasta.com.br/imovel/968506-apartamento-residencial-vila-germanica-a-t-62-12m2-a-p-51-14m2-vila-nova-joinvil",
+      "conflicting_observation": {
+        "id": "30a95faa59307c10f75b",
+        "source_ids": [
+          "hasta"
+        ],
+        "source_listing_ids": [],
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/968506-apartamento-residencial-vila-germanica-a-t-62-12m2-a-p-51-14m2-vila-nova-joinvil",
+          "https://hasta.com.br/imovel/1113762-imovel-com-a-t-360m2-a-c-240m2-bairro-espinheiros-joinville-sc"
+        ],
+        "city": "Joinville",
+        "state": "SC",
+        "neighborhood": "Espinheiros",
+        "address": null,
+        "property_type": "Casa",
+        "area_privative_m2": 360.0,
+        "area_built_m2": null,
+        "area_total_m2": null,
+        "registry_number": null,
+        "registry_office": null,
+        "auction_lot": null,
+        "auctioneer": null,
+        "seller": null,
+        "modality": null,
+        "appraisal_value_brl": null,
+        "first_minimum_bid_brl": null,
+        "second_minimum_bid_brl": null,
+        "current_minimum_bid_brl": null,
+        "source_listing_price_brl": 200000.0,
+        "discount_on_appraisal_percent": null,
+        "auction_events": [],
+        "commission_percent": null,
+        "payment_conditions": null,
+        "occupancy": null,
+        "status": "unknown",
+        "official_url": null,
+        "source_listing_url": "https://hasta.com.br/imovel/968506-apartamento-residencial-vila-germanica-a-t-62-12m2-a-p-51-14m2-vila-nova-joinvil",
+        "validation_status": "nao_verificado",
+        "edital_url": null,
+        "document_urls": [],
+        "image_urls": [
+          "https://hasta.com.br/foto/1113762/0.jpg",
+          "https://hasta.com.br/foto/1113762/1.jpg",
+          "https://hasta.com.br/foto/1113762/2.jpg"
+        ],
+        "first_seen_at": "2026-10-20T10:11:06-03:00",
+        "last_checked_at": "2026-10-25T08:10:14-03:00",
+        "classification": "B",
+        "risk_flags": [
+          "occupancy_unknown",
+          "aggregator_listing_unverified"
+        ],
+        "field_verification": {
+          "city": "declared",
+          "property_type": "declared",
+          "appraisal_value_brl": "unknown",
+          "first_minimum_bid_brl": "unknown",
+          "second_minimum_bid_brl": "unknown",
+          "current_minimum_bid_brl": "unknown",
+          "occupancy": "unknown",
+          "registry_number": "unknown",
+          "auction_events": "unknown",
+          "source_listing_price_brl": "declared",
+          "official_url": "unverified",
+          "auctioneer": "unverified",
+          "address": "unknown"
+        },
+        "provenance": {
+          "source_id": "hasta",
+          "captured_from": "https://hasta.com.br/imovel/1113762-imovel-com-a-t-360m2-a-c-240m2-bairro-espinheiros-joinville-sc",
+          "is_aggregator": true,
+          "raw_text": "Casa Imóvel com A.T. 360m², A.C. 240m², bairro Espinheiros, Joinville/SC 📍 Joinville, SC R$ 500.000,00",
+          "source_listing_urls": [
+            "https://hasta.com.br/imovel/968506-apartamento-residencial-vila-germanica-a-t-62-12m2-a-p-51-14m2-vila-nova-joinvil",
+            "https://hasta.com.br/imovel/1113762-imovel-com-a-t-360m2-a-c-240m2-bairro-espinheiros-joinville-sc"
+          ]
+        },
+        "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+        "image_source_url": "https://hasta.com.br/imovel/968506-apartamento-residencial-vila-germanica-a-t-62-12m2-a-p-51-14m2-vila-nova-joinvil"
+      },
+      "preserved_record": {
+        "id": "30a95faa59307c10f75b",
+        "source_ids": [
+          "hasta"
+        ],
+        "source_listing_ids": [],
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/968506-apartamento-residencial-vila-germanica-a-t-62-12m2-a-p-51-14m2-vila-nova-joinvil"
+        ],
+        "city": "Joinville",
+        "state": "SC",
+        "neighborhood": null,
+        "address": null,
+        "property_type": "Apartamento",
+        "area_privative_m2": 62.12,
+        "area_built_m2": null,
+        "area_total_m2": null,
+        "registry_number": null,
+        "registry_office": null,
+        "auction_lot": null,
+        "auctioneer": null,
+        "seller": null,
+        "modality": null,
+        "appraisal_value_brl": null,
+        "first_minimum_bid_brl": null,
+        "second_minimum_bid_brl": null,
+        "current_minimum_bid_brl": null,
+        "source_listing_price_brl": 200000.0,
+        "discount_on_appraisal_percent": null,
+        "auction_events": [],
+        "commission_percent": null,
+        "payment_conditions": null,
+        "occupancy": null,
+        "status": "unknown",
+        "official_url": null,
+        "source_listing_url": "https://hasta.com.br/imovel/968506-apartamento-residencial-vila-germanica-a-t-62-12m2-a-p-51-14m2-vila-nova-joinvil",
+        "validation_status": "nao_verificado",
+        "edital_url": null,
+        "document_urls": [],
+        "image_urls": [
+          "https://hasta.com.br/foto/968506/0.jpg"
+        ],
+        "first_seen_at": "2026-10-20T10:11:06-03:00",
+        "last_checked_at": "2026-10-22T15:39:02-03:00",
+        "classification": "B",
+        "risk_flags": [
+          "occupancy_unknown",
+          "aggregator_listing_unverified"
+        ],
+        "field_verification": {
+          "city": "declared",
+          "property_type": "declared",
+          "appraisal_value_brl": "unknown",
+          "first_minimum_bid_brl": "unknown",
+          "second_minimum_bid_brl": "unknown",
+          "current_minimum_bid_brl": "unknown",
+          "occupancy": "unknown",
+          "registry_number": "unknown",
+          "auction_events": "unknown",
+          "source_listing_price_brl": "declared",
+          "official_url": "unverified",
+          "auctioneer": "unverified",
+          "address": "unknown"
+        },
+        "provenance": {
+          "source_id": "hasta",
+          "captured_from": "https://hasta.com.br/imovel/968506-apartamento-residencial-vila-germanica-a-t-62-12m2-a-p-51-14m2-vila-nova-joinvil",
+          "is_aggregator": true,
+          "raw_text": "Apartamento Apartamento Residencial Vila Germânica, A.T. 62,12m², A.P. 51,14m² Vila Nova, Joinville/SC 📍 Joinville, SC R$ 200.000,00",
+          "source_listing_urls": [
+            "https://hasta.com.br/imovel/968506-apartamento-residencial-vila-germanica-a-t-62-12m2-a-p-51-14m2-vila-nova-joinvil"
+          ]
+        },
+        "newly_discovered_at": "2026-10-20T10:11:11-03:00",
+        "image_source_url": "https://hasta.com.br/imovel/968506-apartamento-residencial-vila-germanica-a-t-62-12m2-a-p-51-14m2-vila-nova-joinvil"
+      },
+      "resolution": "Registro anterior restaurado integralmente, incluindo fotos; observação isolada para revisão."
+    }
+  ],
+  "inconsistent_observations": [
+    {
+      "property_id": "1325716fc2c25e3ed88d",
+      "reason": "Texto da cidade capturado como cartório sem evidência; versão anterior válida mantém o campo desconhecido.",
+      "restored_from": "pre_run_snapshot",
+      "preserved_source_url": "https://hasta.com.br/imovel/2257959-apartamento-balneario-camboriu",
+      "conflicting_observation": {
+        "id": "1325716fc2c25e3ed88d",
+        "source_ids": [
+          "hasta"
+        ],
+        "source_listing_ids": [],
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2257959-apartamento-balneario-camboriu"
+        ],
+        "city": "Balneário Camboriú",
+        "state": "SC",
+        "neighborhood": null,
+        "address": null,
+        "property_type": "Apartamento",
+        "area_privative_m2": null,
+        "area_built_m2": null,
+        "area_total_m2": null,
+        "registry_number": null,
+        "registry_office": "O CAMBORIU 📍 Balneário Camboriú",
+        "auction_lot": null,
+        "auctioneer": null,
+        "seller": null,
+        "modality": null,
+        "appraisal_value_brl": null,
+        "first_minimum_bid_brl": null,
+        "second_minimum_bid_brl": null,
+        "current_minimum_bid_brl": null,
+        "source_listing_price_brl": 1200000.0,
+        "discount_on_appraisal_percent": null,
+        "auction_events": [],
+        "commission_percent": null,
+        "payment_conditions": null,
+        "occupancy": null,
+        "status": "unknown",
+        "official_url": null,
+        "source_listing_url": "https://hasta.com.br/imovel/2257959-apartamento-balneario-camboriu",
+        "validation_status": "nao_verificado",
+        "edital_url": null,
+        "document_urls": [],
+        "image_urls": [
+          "https://hasta.com.br/foto/2257959/0.jpg",
+          "https://hasta.com.br/foto/2257959/1.jpg",
+          "https://hasta.com.br/foto/2257959/2.jpg"
+        ],
+        "first_seen_at": "2026-10-24T08:02:54-03:00",
+        "last_checked_at": "2026-10-25T08:10:14-03:00",
+        "classification": "B",
+        "risk_flags": [
+          "occupancy_unknown",
+          "aggregator_listing_unverified"
+        ],
+        "field_verification": {
+          "city": "declared",
+          "property_type": "declared",
+          "appraisal_value_brl": "unknown",
+          "first_minimum_bid_brl": "unknown",
+          "second_minimum_bid_brl": "unknown",
+          "current_minimum_bid_brl": "unknown",
+          "occupancy": "unknown",
+          "registry_number": "unknown",
+          "auction_events": "unknown",
+          "source_listing_price_brl": "declared",
+          "official_url": "unverified",
+          "auctioneer": "unverified",
+          "registry_office": "unknown",
+          "address": "unknown"
+        },
+        "provenance": {
+          "source_id": "hasta",
+          "captured_from": "https://hasta.com.br/imovel/2257959-apartamento-balneario-camboriu",
+          "is_aggregator": true,
+          "raw_text": "Apartamento APARTAMENTO BALNEARIO CAMBORIU 📍 Balneário Camboriú, SC R$ 1.200.000,00",
+          "source_listing_urls": [
+            "https://hasta.com.br/imovel/2257959-apartamento-balneario-camboriu"
+          ]
+        },
+        "newly_discovered_at": "2026-10-24T08:08:01-03:00"
+      },
+      "preserved_record": {
+        "id": "1325716fc2c25e3ed88d",
+        "source_ids": [
+          "hasta"
+        ],
+        "source_listing_ids": [],
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2257959-apartamento-balneario-camboriu"
+        ],
+        "city": "Balneário Camboriú",
+        "state": "SC",
+        "neighborhood": null,
+        "address": null,
+        "property_type": "Apartamento",
+        "area_privative_m2": null,
+        "area_built_m2": null,
+        "area_total_m2": null,
+        "registry_number": null,
+        "registry_office": null,
+        "auction_lot": null,
+        "auctioneer": null,
+        "seller": null,
+        "modality": null,
+        "appraisal_value_brl": null,
+        "first_minimum_bid_brl": null,
+        "second_minimum_bid_brl": null,
+        "current_minimum_bid_brl": null,
+        "source_listing_price_brl": 1200000.0,
+        "discount_on_appraisal_percent": null,
+        "auction_events": [],
+        "commission_percent": null,
+        "payment_conditions": null,
+        "occupancy": null,
+        "status": "unknown",
+        "official_url": null,
+        "source_listing_url": "https://hasta.com.br/imovel/2257959-apartamento-balneario-camboriu",
+        "validation_status": "nao_verificado",
+        "edital_url": null,
+        "document_urls": [],
+        "image_urls": [
+          "https://hasta.com.br/foto/2257959/0.jpg",
+          "https://hasta.com.br/foto/2257959/1.jpg",
+          "https://hasta.com.br/foto/2257959/2.jpg"
+        ],
+        "first_seen_at": "2026-10-24T08:02:54-03:00",
+        "last_checked_at": "2026-10-24T08:08:01-03:00",
+        "classification": "B",
+        "risk_flags": [
+          "occupancy_unknown",
+          "aggregator_listing_unverified"
+        ],
+        "field_verification": {
+          "city": "declared",
+          "property_type": "declared",
+          "appraisal_value_brl": "unknown",
+          "first_minimum_bid_brl": "unknown",
+          "second_minimum_bid_brl": "unknown",
+          "current_minimum_bid_brl": "unknown",
+          "occupancy": "unknown",
+          "registry_number": "unknown",
+          "auction_events": "unknown",
+          "source_listing_price_brl": "declared",
+          "official_url": "unverified",
+          "auctioneer": "unverified",
+          "registry_office": "unknown"
+        },
+        "provenance": {
+          "source_id": "hasta",
+          "captured_from": "https://hasta.com.br/imovel/2257959-apartamento-balneario-camboriu",
+          "is_aggregator": true,
+          "raw_text": "Apartamento APARTAMENTO BALNEARIO CAMBORIU 📍 Balneário Camboriú, SC R$ 1.200.000,00"
+        },
+        "newly_discovered_at": "2026-10-24T08:08:01-03:00"
+      },
+      "resolution": "Registro anterior restaurado integralmente, incluindo fotos; observação isolada para revisão."
+    },
+    {
+      "property_id": "cbe9429e4d51c45c7f5e",
+      "reason": "Regressão de campos já conferidos: descrição literal contradiz área/tipo de leilão e extração captura navegação/privacidade como dados do imóvel.",
+      "restored_from": "pre_run_snapshot",
+      "preserved_source_url": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/balneario-camboriu/apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839&utm_term=X130839&utm_content=link",
+      "conflicting_observation": {
+        "id": "cbe9429e4d51c45c7f5e",
+        "source_ids": [
+          "mega_leiloes"
+        ],
+        "source_listing_ids": [
+          "X130839",
+          "Lote"
+        ],
+        "source_listing_urls": [
+          "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/balneario-camboriu/apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839&utm_term=X130839&utm_content=link"
+        ],
+        "city": "Balneário Camboriú",
+        "state": "SC",
+        "neighborhood": null,
+        "address": "Rua Vaticano, 57, Nações, Balneário Camboriú, SC",
+        "property_type": "Apartamento",
+        "area_privative_m2": 95.0,
+        "area_built_m2": 95.97,
+        "area_total_m2": null,
+        "registry_number": "128.021",
+        "registry_office": "o Camboriú - SC X130839 Balneário Camboriú",
+        "auction_lot": "171",
+        "auctioneer": "Mega Leilões",
+        "seller": "BANCO SANTANDER S",
+        "modality": "judicial",
+        "appraisal_value_brl": 910000.0,
+        "first_minimum_bid_brl": null,
+        "second_minimum_bid_brl": null,
+        "current_minimum_bid_brl": 655200.0,
+        "source_listing_price_brl": 655200.0,
+        "discount_on_appraisal_percent": 28.0,
+        "auction_events": [
+          {
+            "date": "2026-11-03",
+            "time": "12:50",
+            "minimum_bid_brl": null,
+            "stage": "first"
+          },
+          {
+            "date": "2026-11-03",
+            "time": "12:51",
+            "minimum_bid_brl": null,
+            "stage": "first"
+          }
+        ],
+        "commission_percent": null,
+        "payment_conditions": "Contrato de compra e venda Lances Apartamento, Padrão, Ocupado, 1 vaga(s) de garagem. Área(s): 95,97 m² de área construída, 95,97 m² de área privativa, 36,16 m² de área comum.",
+        "occupancy": "ocupado",
+        "status": "active",
+        "official_url": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/balneario-camboriu/apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839&utm_term=X130839&utm_content=link",
+        "source_listing_url": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/balneario-camboriu/apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839&utm_term=X130839&utm_content=link",
+        "validation_status": "verified",
+        "edital_url": "https://cdn1.megaleiloes.com.br/auctions/35058/megaleiloes_edital__261023-082159.pdf",
+        "document_urls": [
+          "https://cdn1.megaleiloes.com.br/auctions/35058/megaleiloes_edital__261023-082159.pdf",
+          "https://cdn1.megaleiloes.com.br/batches/130839/megaleiloes_matricula_X130839.pdf",
+          "https://cdn1.megaleiloes.com.br/Politica_de_Privacidade_Mega_Leiloes_Rev_Janeiro_2023.pdf",
+          "https://adoptprodstorage.blob.core.windows.net/adopt-prod/organization/e88ba239-a73f-4a78-8f0f-581fb4061046/disclaimer/536f00c5-c7cf-47f9-8a04-bfa2671ddebf/policy/01GPK5M2RNCQQTEPR6VHQWG0GA.pdf"
+        ],
+        "image_urls": [
+          "https://cdn1.megaleiloes.com.br/batches/130839/885d757d840c7e520f8b682e641e272c_670x380.jpg",
+          "https://cdn1.megaleiloes.com.br/batches/130839/f5e09b60ba233ea3da2acf3d30f39c3e_670x380.jpg",
+          "https://cdn1.megaleiloes.com.br/batches/130839/3edb065544ddbf08d89a8e8d080a3a2a_670x380.jpg",
+          "https://cdn1.megaleiloes.com.br/batches/130839/41c14ae7903a9cae92027dc1c0cf4ad8_670x380.jpg"
+        ],
+        "first_seen_at": "2026-10-24T07:56:45-03:00",
+        "last_checked_at": "2026-10-25T08:10:14-03:00",
+        "classification": "B",
+        "risk_flags": [
+          "occupied"
+        ],
+        "field_verification": {
+          "city": "declared",
+          "property_type": "declared",
+          "appraisal_value_brl": "declared",
+          "first_minimum_bid_brl": "unknown",
+          "second_minimum_bid_brl": "unknown",
+          "current_minimum_bid_brl": "declared",
+          "occupancy": "declared",
+          "registry_number": "declared",
+          "auction_events": "declared",
+          "source_listing_price_brl": "declared",
+          "official_url": "verified",
+          "edital_url": "verified",
+          "registry_office": "unknown",
+          "payment_conditions": "unknown",
+          "modality": "declared",
+          "seller": "declared",
+          "auctioneer": "declared",
+          "area_privative_m2": "declared",
+          "area_built_m2": "declared",
+          "area_total_m2": "unknown"
+        },
+        "provenance": {
+          "source_id": "mega_leiloes",
+          "captured_from": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/balneario-camboriu/apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839&utm_term=X130839&utm_content=link",
+          "is_aggregator": false,
+          "raw_text": "R$ 655.200,00 1076 0 Apartamento 95 m² - Nações - Balneário Camboriú - SC X130839 Balneário Camboriú, SC ABERTO PARA LANCES Data: 03/11/2026 às 12:50 R$ 655.200,00 IR Explore por Categorias Pesquisa Avançada FAQ Entrar ou Criar conta Valor inicial R$ 655.200,00 Extrajudicial Leilão ML35058 Código Lote X130839 Número Lote LOTE 171 Visitas 1.077 Habilitados 15 Lances 0 Mega Leilões Imóveis Apartamentos Santa Catarina Balneário Camboriú Apartamento 95 m² - Nações - Balneário Camboriú - SC Navegue pelos lotes: Lote 1 Lote 2 Lote 3 Lote 4 Lote 5 Lote 6 Lote 7 Lote 8 Lote 9 Lote 10 Lote 11 Lote 12 Lote 13 Lote 14 Lote 15 Lote 16 Lote 17 Lote 18 Lote 19 Lote 20 Lote 21 Lote 22 Lote 23 Lote 24 Lote 25 Lote 26 Lote 27 Lote 28 Lote 29 Lote 30 Lote 31 Lote 32 Lote 33 Lote 34 Lote 35 Lote 36 Lote 37 Lote 38 Lote 39 Lote 40 Lote 41 Lote 42 Lote 43 Lote 44 Lote 45 Lote 46 Lote 47 Lote 48 Lote 49 Lote 50 Lote 51 Lote 52 Lote 53 Lote 54 Lote 55 Lote 56 Lote 57 Lote 58 Lote 59 Lote 60 Lote 61 Lote 62 Lote 63 Lote 64 Lote 65 Lote 66 Lote 67 Lote 68 Lote 69 Lote 70 Lote 71 Lote 72 Lote 73 Lote 74 Lote 75 Lote 76 Lote 77 Lote 78 Lote 79 Lote 80 Lote 81 Lote 82 Lote 83 Lote 84 Lote 85 Lote 86 Lote 87 Lote 88 Lote 89 Lote 90 Lote 91 Lote 92 Lote 93 Lote 94 Lote 95 Lote 96 Lote 97 Lote 98 Lote 99 Lote 100 Lote 101 Lote 102 Lote 103 Lote 104 Lote 105 Lote 106 Lote 107 Lote 108 Lote 109 Lote 110 Lote 111 Lote 112 Lote 113 Lote 114 Lote 115 Lote 116 Lote 117 Lote 118 Lote 119 Lote 120 Lote 121 Lote 122 Lote 123 Lote 124 Lote 125 Lote 126 Lote 127 Lote 128 Lote 129 Lote 130 Lote 131 Lote 132 Lote 133 Lote 134 Lote 135 Lote 136 Lote 137 Lote 138 Lote 139 Lote 140 Lote 141 Lote 142 Lote 143 Lote 144 Lote 145 Lote 146 Lote 147 Lote 148 Lote 149 Lote 150 Lote 151 Lote 152 Lote 153 Lote 154 Lote 155 Lote 156 Lote 157 Lote 158 Lote 159 Lote 160 Lote 161 Lote 162 Lote 163 Lote 164 Lote 165 Lote 166 Lote 167 Lote 168 Lote 169 Lote 170 Lote 171 Lote 172 Lote 173 Lote 174 Lote 175 Lote 176 Lote 177 Lote 178 Lote 179 Lote 180 Lote 181 Lote 182 Lote 183 Lote 184 Lote 185 Lote 186 Lote 187 Lote 188 Lote 189 Lote 190 Lote 191 Lote 192 Lote 193 Lote 194 Lote 195 Lote 196 Lote 197 Lote 198 Lote 199 Lote 200 Lote 201 Lote 202 Lote 203 Área 95 m2 Vagas 1 Localização Rua Vaticano, 57, Nações, Balneário Camboriú, SC Comitente BANCO SANTANDER S.A. Leiloeiro Fernando José Cerello G. Pereira JUCESP Nº 844 - Leiloeiro oficial do Estado de São Paulo JUCEMG Nº 1192 - Leiloeiro oficial do Estado de Minas Gerais JUCEMAT Nº 73 - Leiloeiro oficial do Estado de Mato Grosso Valor de Avaliação R$ 910.000,00 ( Novecentos e dez mil reais) . A descrição dos lotes é uma cópia fiel das informações fornecidas pelos cartórios, comitente ou outro órgão responsável pelo bem. O bem será vendido no estado em que se encontra conforme edital publicado. Reservamo-nos o direito de corrigir possíveis erros de digitação. Cumpre informar, que nos leilões Judiciais e de Falência, o procedimento do pós-arrematação, deve ser ",
+          "source_listing_urls": [
+            "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/balneario-camboriu/apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839&utm_term=X130839&utm_content=link"
+          ]
+        },
+        "newly_discovered_at": "2026-10-24T08:08:01-03:00"
+      },
+      "preserved_record": {
+        "id": "cbe9429e4d51c45c7f5e",
+        "source_ids": [
+          "mega_leiloes"
+        ],
+        "source_listing_ids": [
+          "X130839"
+        ],
+        "source_listing_urls": [
+          "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/balneario-camboriu/apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839&utm_term=X130839&utm_content=link"
+        ],
+        "city": "Balneário Camboriú",
+        "state": "SC",
+        "neighborhood": null,
+        "address": "Rua Vaticano, 57, Nações, Balneário Camboriú, SC",
+        "property_type": "Apartamento",
+        "area_privative_m2": 95.97,
+        "area_built_m2": 95.97,
+        "area_total_m2": null,
+        "registry_number": "128.021",
+        "registry_office": null,
+        "auction_lot": "171",
+        "auctioneer": "Fernando José Cerello G. Pereira",
+        "seller": "BANCO SANTANDER S.A.",
+        "modality": "extrajudicial",
+        "appraisal_value_brl": 910000.0,
+        "first_minimum_bid_brl": null,
+        "second_minimum_bid_brl": null,
+        "current_minimum_bid_brl": 655200.0,
+        "source_listing_price_brl": 655200.0,
+        "discount_on_appraisal_percent": 28.0,
+        "auction_events": [
+          {
+            "date": "2026-11-03",
+            "time": "12:51",
+            "minimum_bid_brl": null,
+            "stage": "first"
+          }
+        ],
+        "commission_percent": null,
+        "payment_conditions": null,
+        "occupancy": "ocupado",
+        "status": "active",
+        "official_url": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/balneario-camboriu/apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839&utm_term=X130839&utm_content=link",
+        "source_listing_url": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/balneario-camboriu/apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839&utm_term=X130839&utm_content=link",
+        "validation_status": "verified",
+        "edital_url": "https://cdn1.megaleiloes.com.br/auctions/35058/megaleiloes_edital__261023-082159.pdf",
+        "document_urls": [
+          "https://cdn1.megaleiloes.com.br/auctions/35058/megaleiloes_edital__261023-082159.pdf",
+          "https://cdn1.megaleiloes.com.br/batches/130839/megaleiloes_matricula_X130839.pdf"
+        ],
+        "image_urls": [
+          "https://cdn1.megaleiloes.com.br/batches/130839/885d757d840c7e520f8b682e641e272c_670x380.jpg",
+          "https://cdn1.megaleiloes.com.br/batches/130839/f5e09b60ba233ea3da2acf3d30f39c3e_670x380.jpg",
+          "https://cdn1.megaleiloes.com.br/batches/130839/3edb065544ddbf08d89a8e8d080a3a2a_670x380.jpg",
+          "https://cdn1.megaleiloes.com.br/batches/130839/41c14ae7903a9cae92027dc1c0cf4ad8_670x380.jpg"
+        ],
+        "first_seen_at": "2026-10-24T07:56:45-03:00",
+        "last_checked_at": "2026-10-24T08:08:01-03:00",
+        "classification": "B",
+        "risk_flags": [
+          "occupied"
+        ],
+        "field_verification": {
+          "city": "declared",
+          "property_type": "declared",
+          "appraisal_value_brl": "declared",
+          "first_minimum_bid_brl": "unknown",
+          "second_minimum_bid_brl": "unknown",
+          "current_minimum_bid_brl": "declared",
+          "occupancy": "declared",
+          "registry_number": "declared",
+          "auction_events": "declared",
+          "source_listing_price_brl": "declared",
+          "official_url": "verified",
+          "edital_url": "verified",
+          "registry_office": "unknown",
+          "payment_conditions": "unknown",
+          "modality": "declared",
+          "seller": "declared",
+          "auctioneer": "declared",
+          "area_privative_m2": "declared",
+          "area_built_m2": "declared",
+          "area_total_m2": "unknown"
+        },
+        "provenance": {
+          "source_id": "mega_leiloes",
+          "captured_from": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/balneario-camboriu/apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839&utm_term=X130839&utm_content=link",
+          "is_aggregator": false,
+          "raw_text": "R$ 655.200,00 455 0 Apartamento 95 m² - Nações - Balneário Camboriú - SC X130839 Balneário Camboriú, SC ABERTO PARA LANCES Data: 03/11/2026 às 12:51 R$ 655.200,00 IR Explore por Categorias Pesquisa Avançada FAQ Entrar ou Criar conta Valor inicial R$ 655.200,00 Extrajudicial Leilão ML35058 Código Lote X130839 Número Lote LOTE 171 Visitas 456 Habilitados 6 Lances 0 Mega Leilões Imóveis Apartamentos Santa Catarina Balneário Camboriú Apartamento 95 m² - Nações - Balneário Camboriú - SC Navegue pelos lotes: Lote 1 Lote 2 Lote 3 Lote 4 Lote 5 Lote 6 Lote 7 Lote 8 Lote 9 Lote 10 Lote 11 Lote 12 Lote 13 Lote 14 Lote 15 Lote 16 Lote 17 Lote 18 Lote 19 Lote 20 Lote 21 Lote 22 Lote 23 Lote 24 Lote 25 Lote 26 Lote 27 Lote 28 Lote 29 Lote 30 Lote 31 Lote 32 Lote 33 Lote 34 Lote 35 Lote 36 Lote 37 Lote 38 Lote 39 Lote 40 Lote 41 Lote 42 Lote 43 Lote 44 Lote 45 Lote 46 Lote 47 Lote 48 Lote 49 Lote 50 Lote 51 Lote 52 Lote 53 Lote 54 Lote 55 Lote 56 Lote 57 Lote 58 Lote 59 Lote 60 Lote 61 Lote 62 Lote 63 Lote 64 Lote 65 Lote 66 Lote 67 Lote 68 Lote 69 Lote 70 Lote 71 Lote 72 Lote 73 Lote 74 Lote 75 Lote 76 Lote 77 Lote 78 Lote 79 Lote 80 Lote 81 Lote 82 Lote 83 Lote 84 Lote 85 Lote 86 Lote 87 Lote 88 Lote 89 Lote 90 Lote 91 Lote 92 Lote 93 Lote 94 Lote 95 Lote 96 Lote 97 Lote 98 Lote 99 Lote 100 Lote 101 Lote 102 Lote 103 Lote 104 Lote 105 Lote 106 Lote 107 Lote 108 Lote 109 Lote 110 Lote 111 Lote 112 Lote 113 Lote 114 Lote 115 Lote 116 Lote 117 Lote 118 Lote 119 Lote 120 Lote 121 Lote 122 Lote 123 Lote 124 Lote 125 Lote 126 Lote 127 Lote 128 Lote 129 Lote 130 Lote 131 Lote 132 Lote 133 Lote 134 Lote 135 Lote 136 Lote 137 Lote 138 Lote 139 Lote 140 Lote 141 Lote 142 Lote 143 Lote 144 Lote 145 Lote 146 Lote 147 Lote 148 Lote 149 Lote 150 Lote 151 Lote 152 Lote 153 Lote 154 Lote 155 Lote 156 Lote 157 Lote 158 Lote 159 Lote 160 Lote 161 Lote 162 Lote 163 Lote 164 Lote 165 Lote 166 Lote 167 Lote 168 Lote 169 Lote 170 Lote 171 Lote 172 Lote 173 Lote 174 Lote 175 Lote 176 Lote 177 Lote 178 Lote 179 Lote 180 Lote 181 Lote 182 Lote 183 Lote 184 Lote 185 Lote 186 Lote 187 Lote 188 Lote 189 Lote 190 Lote 191 Lote 192 Lote 193 Lote 194 Lote 195 Lote 196 Lote 197 Lote 198 Lote 199 Lote 200 Lote 201 Lote 202 Lote 203 Área 95 m2 Vagas 1 Localização Rua Vaticano, 57, Nações, Balneário Camboriú, SC Comitente BANCO SANTANDER S.A. Leiloeiro Fernando José Cerello G. Pereira JUCESP Nº 844 - Leiloeiro oficial do Estado de São Paulo JUCEMG Nº 1192 - Leiloeiro oficial do Estado de Minas Gerais JUCEMAT Nº 73 - Leiloeiro oficial do Estado de Mato Grosso Valor de Avaliação R$ 910.000,00 ( Novecentos e dez mil reais) . A descrição dos lotes é uma cópia fiel das informações fornecidas pelos cartórios, comitente ou outro órgão responsável pelo bem. O bem será vendido no estado em que se encontra conforme edital publicado. Reservamo-nos o direito de corrigir possíveis erros de digitação. Cumpre informar, que nos leilões Judiciais e de Falência, o procedimento do pós-arrematação, deve ser real"
+        },
+        "newly_discovered_at": "2026-10-24T08:08:01-03:00"
+      },
+      "resolution": "Registro anterior restaurado integralmente, incluindo fotos; observação isolada para revisão."
+    },
+    {
+      "property_id": "edcdb81e525e12d4d098",
+      "reason": "Texto da cidade capturado como cartório sem evidência; versão anterior válida mantém o campo desconhecido.",
+      "restored_from": "pre_run_snapshot",
+      "preserved_source_url": "https://hasta.com.br/imovel/2272717-terreno-balneario-camboriu-sc",
+      "conflicting_observation": {
+        "id": "edcdb81e525e12d4d098",
+        "source_ids": [
+          "hasta"
+        ],
+        "source_listing_ids": [],
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2272717-terreno-balneario-camboriu-sc"
+        ],
+        "city": "Balneário Camboriú",
+        "state": "SC",
+        "neighborhood": null,
+        "address": null,
+        "property_type": "Terreno",
+        "area_privative_m2": null,
+        "area_built_m2": null,
+        "area_total_m2": null,
+        "registry_number": null,
+        "registry_office": "o Camboriú",
+        "auction_lot": "1",
+        "auctioneer": null,
+        "seller": null,
+        "modality": null,
+        "appraisal_value_brl": null,
+        "first_minimum_bid_brl": null,
+        "second_minimum_bid_brl": null,
+        "current_minimum_bid_brl": null,
+        "source_listing_price_brl": 1900000.0,
+        "discount_on_appraisal_percent": null,
+        "auction_events": [],
+        "commission_percent": null,
+        "payment_conditions": null,
+        "occupancy": null,
+        "status": "unknown",
+        "official_url": null,
+        "source_listing_url": "https://hasta.com.br/imovel/2272717-terreno-balneario-camboriu-sc",
+        "validation_status": "nao_verificado",
+        "edital_url": null,
+        "document_urls": [],
+        "image_urls": [
+          "https://hasta.com.br/foto/2272717/0.jpg"
+        ],
+        "first_seen_at": "2026-10-24T08:03:29-03:00",
+        "last_checked_at": "2026-10-25T08:10:14-03:00",
+        "classification": "B",
+        "risk_flags": [
+          "occupancy_unknown",
+          "aggregator_listing_unverified"
+        ],
+        "field_verification": {
+          "city": "declared",
+          "property_type": "declared",
+          "appraisal_value_brl": "unknown",
+          "first_minimum_bid_brl": "unknown",
+          "second_minimum_bid_brl": "unknown",
+          "current_minimum_bid_brl": "unknown",
+          "occupancy": "unknown",
+          "registry_number": "unknown",
+          "auction_events": "unknown",
+          "source_listing_price_brl": "declared",
+          "official_url": "unverified",
+          "auctioneer": "unverified",
+          "registry_office": "unknown",
+          "address": "unknown"
+        },
+        "provenance": {
+          "source_id": "hasta",
+          "captured_from": "https://hasta.com.br/imovel/2272717-terreno-balneario-camboriu-sc",
+          "is_aggregator": true,
+          "raw_text": "Terreno Lote 1 📍 Balneário Camboriú, SC R$ 1.900.000,00",
+          "source_listing_urls": [
+            "https://hasta.com.br/imovel/2272717-terreno-balneario-camboriu-sc"
+          ]
+        },
+        "newly_discovered_at": "2026-10-24T08:08:01-03:00"
+      },
+      "preserved_record": {
+        "id": "edcdb81e525e12d4d098",
+        "source_ids": [
+          "hasta"
+        ],
+        "source_listing_ids": [],
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2272717-terreno-balneario-camboriu-sc"
+        ],
+        "city": "Balneário Camboriú",
+        "state": "SC",
+        "neighborhood": null,
+        "address": null,
+        "property_type": "Terreno",
+        "area_privative_m2": null,
+        "area_built_m2": null,
+        "area_total_m2": null,
+        "registry_number": null,
+        "registry_office": null,
+        "auction_lot": "1",
+        "auctioneer": null,
+        "seller": null,
+        "modality": null,
+        "appraisal_value_brl": null,
+        "first_minimum_bid_brl": null,
+        "second_minimum_bid_brl": null,
+        "current_minimum_bid_brl": null,
+        "source_listing_price_brl": 1900000.0,
+        "discount_on_appraisal_percent": null,
+        "auction_events": [],
+        "commission_percent": null,
+        "payment_conditions": null,
+        "occupancy": null,
+        "status": "unknown",
+        "official_url": null,
+        "source_listing_url": "https://hasta.com.br/imovel/2272717-terreno-balneario-camboriu-sc",
+        "validation_status": "nao_verificado",
+        "edital_url": null,
+        "document_urls": [],
+        "image_urls": [
+          "https://hasta.com.br/foto/2272717/0.jpg"
+        ],
+        "first_seen_at": "2026-10-24T08:03:29-03:00",
+        "last_checked_at": "2026-10-24T08:08:01-03:00",
+        "classification": "B",
+        "risk_flags": [
+          "occupancy_unknown",
+          "aggregator_listing_unverified"
+        ],
+        "field_verification": {
+          "city": "declared",
+          "property_type": "declared",
+          "appraisal_value_brl": "unknown",
+          "first_minimum_bid_brl": "unknown",
+          "second_minimum_bid_brl": "unknown",
+          "current_minimum_bid_brl": "unknown",
+          "occupancy": "unknown",
+          "registry_number": "unknown",
+          "auction_events": "unknown",
+          "source_listing_price_brl": "declared",
+          "official_url": "unverified",
+          "auctioneer": "unverified",
+          "registry_office": "unknown"
+        },
+        "provenance": {
+          "source_id": "hasta",
+          "captured_from": "https://hasta.com.br/imovel/2272717-terreno-balneario-camboriu-sc",
+          "is_aggregator": true,
+          "raw_text": "Terreno Lote 1 📍 Balneário Camboriú, SC R$ 1.900.000,00"
+        },
+        "newly_discovered_at": "2026-10-24T08:08:01-03:00"
+      },
+      "resolution": "Registro anterior restaurado integralmente, incluindo fotos; observação isolada para revisão."
+    },
+    {
+      "property_id": "3743d46db92caec2e2a1",
+      "reason": "Regressão de campos já conferidos: descrição literal contradiz área/tipo de leilão e extração captura navegação/privacidade como dados do imóvel.",
+      "restored_from": "pre_run_snapshot",
+      "preserved_source_url": "https://www.megaleiloes.com.br/imoveis/casas/sc/joinville/casa-269-m2-floresta-joinville-sc-x130797?utm_source=megaleiloes&utm_medium=link&utm_campaign=casa-269-m2-floresta-joinville-sc-x130797&utm_term=X130797&utm_content=link",
+      "conflicting_observation": {
+        "id": "3743d46db92caec2e2a1",
+        "source_ids": [
+          "mega_leiloes"
+        ],
+        "source_listing_ids": [
+          "X130797",
+          "Lote"
+        ],
+        "source_listing_urls": [
+          "https://www.megaleiloes.com.br/imoveis/casas/sc/joinville/casa-269-m2-floresta-joinville-sc-x130797?utm_source=megaleiloes&utm_medium=link&utm_campaign=casa-269-m2-floresta-joinville-sc-x130797&utm_term=X130797&utm_content=link"
+        ],
+        "city": "Joinville",
+        "state": "SC",
+        "neighborhood": null,
+        "address": "Rua Gustavo Hoepfner, 118, Floresta, Joinville, SC",
+        "property_type": "Casa",
+        "area_privative_m2": 269.0,
+        "area_built_m2": 269.46,
+        "area_total_m2": 964.03,
+        "registry_number": "9.126",
+        "registry_office": "as Pesquisa Avançada FAQ Entrar ou Criar conta Valor inicial R$ 1",
+        "auction_lot": "130",
+        "auctioneer": "Mega Leilões",
+        "seller": "BANCO SANTANDER S",
+        "modality": "judicial",
+        "appraisal_value_brl": 1769000.0,
+        "first_minimum_bid_brl": null,
+        "second_minimum_bid_brl": null,
+        "current_minimum_bid_brl": 1114200.0,
+        "source_listing_price_brl": 1114200.0,
+        "discount_on_appraisal_percent": 37.02,
+        "auction_events": [
+          {
+            "date": "2026-11-03",
+            "time": "12:09",
+            "minimum_bid_brl": null,
+            "stage": "first"
+          }
+        ],
+        "commission_percent": null,
+        "payment_conditions": "Contrato de compra e venda Lances Casa, Padrão, Ocupado. Área(s): 964,03 m² de área total, 269,46 m² de área construída.",
+        "occupancy": "ocupado",
+        "status": "active",
+        "official_url": "https://www.megaleiloes.com.br/imoveis/casas/sc/joinville/casa-269-m2-floresta-joinville-sc-x130797?utm_source=megaleiloes&utm_medium=link&utm_campaign=casa-269-m2-floresta-joinville-sc-x130797&utm_term=X130797&utm_content=link",
+        "source_listing_url": "https://www.megaleiloes.com.br/imoveis/casas/sc/joinville/casa-269-m2-floresta-joinville-sc-x130797?utm_source=megaleiloes&utm_medium=link&utm_campaign=casa-269-m2-floresta-joinville-sc-x130797&utm_term=X130797&utm_content=link",
+        "validation_status": "verified",
+        "edital_url": "https://cdn1.megaleiloes.com.br/auctions/35058/megaleiloes_edital__261023-082159.pdf",
+        "document_urls": [
+          "https://cdn1.megaleiloes.com.br/auctions/35058/megaleiloes_edital__261023-082159.pdf",
+          "https://cdn1.megaleiloes.com.br/batches/130797/megaleiloes_matricula_X130797.pdf",
+          "https://cdn1.megaleiloes.com.br/Politica_de_Privacidade_Mega_Leiloes_Rev_Janeiro_2023.pdf",
+          "https://adoptprodstorage.blob.core.windows.net/adopt-prod/organization/e88ba239-a73f-4a78-8f0f-581fb4061046/disclaimer/536f00c5-c7cf-47f9-8a04-bfa2671ddebf/policy/01GPK5M2RNCQQTEPR6VHQWG0GA.pdf"
+        ],
+        "image_urls": [
+          "https://cdn1.megaleiloes.com.br/batches/130797/829d186d8f682111e2248d40a7c23f75_670x380.jpg",
+          "https://cdn1.megaleiloes.com.br/batches/130797/ac0a48c75f707c8df5c41e47b51fa953_670x380.jpg",
+          "https://cdn1.megaleiloes.com.br/batches/130797/0acbb2ec7a9e88bea5e010620d479d36_670x380.jpg",
+          "https://cdn1.megaleiloes.com.br/batches/130797/36d11c09f7d05a14adc669fcd4110ebf_670x380.jpg",
+          "https://cdn1.megaleiloes.com.br/batches/130797/721d56959242dd504a341f2acfb50ac2_670x380.jpg",
+          "https://cdn1.megaleiloes.com.br/batches/130797/6d2cfbcd6b4be64bfcb98c151b30e940_670x380.jpg"
+        ],
+        "first_seen_at": "2026-10-24T07:56:42-03:00",
+        "last_checked_at": "2026-10-25T08:10:14-03:00",
+        "classification": "B",
+        "risk_flags": [
+          "occupied"
+        ],
+        "field_verification": {
+          "city": "declared",
+          "property_type": "declared",
+          "appraisal_value_brl": "declared",
+          "first_minimum_bid_brl": "unknown",
+          "second_minimum_bid_brl": "unknown",
+          "current_minimum_bid_brl": "declared",
+          "occupancy": "declared",
+          "registry_number": "declared",
+          "auction_events": "declared",
+          "source_listing_price_brl": "declared",
+          "official_url": "verified",
+          "edital_url": "verified",
+          "registry_office": "unknown",
+          "payment_conditions": "unknown",
+          "modality": "declared",
+          "seller": "declared",
+          "auctioneer": "declared",
+          "area_privative_m2": "unknown",
+          "area_built_m2": "declared",
+          "area_total_m2": "declared"
+        },
+        "provenance": {
+          "source_id": "mega_leiloes",
+          "captured_from": "https://www.megaleiloes.com.br/imoveis/casas/sc/joinville/casa-269-m2-floresta-joinville-sc-x130797?utm_source=megaleiloes&utm_medium=link&utm_campaign=casa-269-m2-floresta-joinville-sc-x130797&utm_term=X130797&utm_content=link",
+          "is_aggregator": false,
+          "raw_text": "R$ 1.114.200,00 1067 0 Casa 269 m² - Floresta - Joinville - SC X130797 Joinville, SC ABERTO PARA LANCES Data: 03/11/2026 às 12:09 R$ 1.114.200,00 IR Explore por Categorias Pesquisa Avançada FAQ Entrar ou Criar conta Valor inicial R$ 1.114.200,00 Extrajudicial Leilão ML35058 Código Lote X130797 Número Lote LOTE 130 Visitas 1.068 Habilitados 15 Lances 0 Mega Leilões Imóveis Casas Santa Catarina Joinville Casa 269 m² - Floresta - Joinville - SC Navegue pelos lotes: Lote 1 Lote 2 Lote 3 Lote 4 Lote 5 Lote 6 Lote 7 Lote 8 Lote 9 Lote 10 Lote 11 Lote 12 Lote 13 Lote 14 Lote 15 Lote 16 Lote 17 Lote 18 Lote 19 Lote 20 Lote 21 Lote 22 Lote 23 Lote 24 Lote 25 Lote 26 Lote 27 Lote 28 Lote 29 Lote 30 Lote 31 Lote 32 Lote 33 Lote 34 Lote 35 Lote 36 Lote 37 Lote 38 Lote 39 Lote 40 Lote 41 Lote 42 Lote 43 Lote 44 Lote 45 Lote 46 Lote 47 Lote 48 Lote 49 Lote 50 Lote 51 Lote 52 Lote 53 Lote 54 Lote 55 Lote 56 Lote 57 Lote 58 Lote 59 Lote 60 Lote 61 Lote 62 Lote 63 Lote 64 Lote 65 Lote 66 Lote 67 Lote 68 Lote 69 Lote 70 Lote 71 Lote 72 Lote 73 Lote 74 Lote 75 Lote 76 Lote 77 Lote 78 Lote 79 Lote 80 Lote 81 Lote 82 Lote 83 Lote 84 Lote 85 Lote 86 Lote 87 Lote 88 Lote 89 Lote 90 Lote 91 Lote 92 Lote 93 Lote 94 Lote 95 Lote 96 Lote 97 Lote 98 Lote 99 Lote 100 Lote 101 Lote 102 Lote 103 Lote 104 Lote 105 Lote 106 Lote 107 Lote 108 Lote 109 Lote 110 Lote 111 Lote 112 Lote 113 Lote 114 Lote 115 Lote 116 Lote 117 Lote 118 Lote 119 Lote 120 Lote 121 Lote 122 Lote 123 Lote 124 Lote 125 Lote 126 Lote 127 Lote 128 Lote 129 Lote 130 Lote 131 Lote 132 Lote 133 Lote 134 Lote 135 Lote 136 Lote 137 Lote 138 Lote 139 Lote 140 Lote 141 Lote 142 Lote 143 Lote 144 Lote 145 Lote 146 Lote 147 Lote 148 Lote 149 Lote 150 Lote 151 Lote 152 Lote 153 Lote 154 Lote 155 Lote 156 Lote 157 Lote 158 Lote 159 Lote 160 Lote 161 Lote 162 Lote 163 Lote 164 Lote 165 Lote 166 Lote 167 Lote 168 Lote 169 Lote 170 Lote 171 Lote 172 Lote 173 Lote 174 Lote 175 Lote 176 Lote 177 Lote 178 Lote 179 Lote 180 Lote 181 Lote 182 Lote 183 Lote 184 Lote 185 Lote 186 Lote 187 Lote 188 Lote 189 Lote 190 Lote 191 Lote 192 Lote 193 Lote 194 Lote 195 Lote 196 Lote 197 Lote 198 Lote 199 Lote 200 Lote 201 Lote 202 Lote 203 Área 269 m2 Localização Rua Gustavo Hoepfner, 118, Floresta, Joinville, SC Comitente BANCO SANTANDER S.A. Leiloeiro Fernando José Cerello G. Pereira JUCESP Nº 844 - Leiloeiro oficial do Estado de São Paulo JUCEMG Nº 1192 - Leiloeiro oficial do Estado de Minas Gerais JUCEMAT Nº 73 - Leiloeiro oficial do Estado de Mato Grosso Valor de Avaliação R$ 1.769.000,00 ( Um milhão, setecentos e sessenta e nove mil reais) . A descrição dos lotes é uma cópia fiel das informações fornecidas pelos cartórios, comitente ou outro órgão responsável pelo bem. O bem será vendido no estado em que se encontra conforme edital publicado. Reservamo-nos o direito de corrigir possíveis erros de digitação. Cumpre informar, que nos leilões Judiciais e de Falência, o procedimento do pós-arrematação, deve ser realizado pelo arrematant",
+          "source_listing_urls": [
+            "https://www.megaleiloes.com.br/imoveis/casas/sc/joinville/casa-269-m2-floresta-joinville-sc-x130797?utm_source=megaleiloes&utm_medium=link&utm_campaign=casa-269-m2-floresta-joinville-sc-x130797&utm_term=X130797&utm_content=link"
+          ]
+        },
+        "newly_discovered_at": "2026-10-24T08:08:01-03:00"
+      },
+      "preserved_record": {
+        "id": "3743d46db92caec2e2a1",
+        "source_ids": [
+          "mega_leiloes"
+        ],
+        "source_listing_ids": [
+          "X130797"
+        ],
+        "source_listing_urls": [
+          "https://www.megaleiloes.com.br/imoveis/casas/sc/joinville/casa-269-m2-floresta-joinville-sc-x130797?utm_source=megaleiloes&utm_medium=link&utm_campaign=casa-269-m2-floresta-joinville-sc-x130797&utm_term=X130797&utm_content=link"
+        ],
+        "city": "Joinville",
+        "state": "SC",
+        "neighborhood": null,
+        "address": "Rua Gustavo Hoepfner, 118, Floresta, Joinville, SC",
+        "property_type": "Casa",
+        "area_privative_m2": null,
+        "area_built_m2": 269.46,
+        "area_total_m2": 964.03,
+        "registry_number": "9.126",
+        "registry_office": null,
+        "auction_lot": "130",
+        "auctioneer": "Fernando José Cerello G. Pereira",
+        "seller": "BANCO SANTANDER S.A.",
+        "modality": "extrajudicial",
+        "appraisal_value_brl": 1769000.0,
+        "first_minimum_bid_brl": null,
+        "second_minimum_bid_brl": null,
+        "current_minimum_bid_brl": 1114200.0,
+        "source_listing_price_brl": 1114200.0,
+        "discount_on_appraisal_percent": 37.02,
+        "auction_events": [
+          {
+            "date": "2026-11-03",
+            "time": "12:09",
+            "minimum_bid_brl": null,
+            "stage": "first"
+          }
+        ],
+        "commission_percent": null,
+        "payment_conditions": null,
+        "occupancy": "ocupado",
+        "status": "active",
+        "official_url": "https://www.megaleiloes.com.br/imoveis/casas/sc/joinville/casa-269-m2-floresta-joinville-sc-x130797?utm_source=megaleiloes&utm_medium=link&utm_campaign=casa-269-m2-floresta-joinville-sc-x130797&utm_term=X130797&utm_content=link",
+        "source_listing_url": "https://www.megaleiloes.com.br/imoveis/casas/sc/joinville/casa-269-m2-floresta-joinville-sc-x130797?utm_source=megaleiloes&utm_medium=link&utm_campaign=casa-269-m2-floresta-joinville-sc-x130797&utm_term=X130797&utm_content=link",
+        "validation_status": "verified",
+        "edital_url": "https://cdn1.megaleiloes.com.br/auctions/35058/megaleiloes_edital__261023-082159.pdf",
+        "document_urls": [
+          "https://cdn1.megaleiloes.com.br/auctions/35058/megaleiloes_edital__261023-082159.pdf",
+          "https://cdn1.megaleiloes.com.br/batches/130797/megaleiloes_matricula_X130797.pdf"
+        ],
+        "image_urls": [
+          "https://cdn1.megaleiloes.com.br/batches/130797/829d186d8f682111e2248d40a7c23f75_670x380.jpg",
+          "https://cdn1.megaleiloes.com.br/batches/130797/ac0a48c75f707c8df5c41e47b51fa953_670x380.jpg",
+          "https://cdn1.megaleiloes.com.br/batches/130797/0acbb2ec7a9e88bea5e010620d479d36_670x380.jpg",
+          "https://cdn1.megaleiloes.com.br/batches/130797/36d11c09f7d05a14adc669fcd4110ebf_670x380.jpg",
+          "https://cdn1.megaleiloes.com.br/batches/130797/721d56959242dd504a341f2acfb50ac2_670x380.jpg",
+          "https://cdn1.megaleiloes.com.br/batches/130797/6d2cfbcd6b4be64bfcb98c151b30e940_670x380.jpg"
+        ],
+        "first_seen_at": "2026-10-24T07:56:42-03:00",
+        "last_checked_at": "2026-10-24T08:08:01-03:00",
+        "classification": "B",
+        "risk_flags": [
+          "occupied"
+        ],
+        "field_verification": {
+          "city": "declared",
+          "property_type": "declared",
+          "appraisal_value_brl": "declared",
+          "first_minimum_bid_brl": "unknown",
+          "second_minimum_bid_brl": "unknown",
+          "current_minimum_bid_brl": "declared",
+          "occupancy": "declared",
+          "registry_number": "declared",
+          "auction_events": "declared",
+          "source_listing_price_brl": "declared",
+          "official_url": "verified",
+          "edital_url": "verified",
+          "registry_office": "unknown",
+          "payment_conditions": "unknown",
+          "modality": "declared",
+          "seller": "declared",
+          "auctioneer": "declared",
+          "area_privative_m2": "unknown",
+          "area_built_m2": "declared",
+          "area_total_m2": "declared"
+        },
+        "provenance": {
+          "source_id": "mega_leiloes",
+          "captured_from": "https://www.megaleiloes.com.br/imoveis/casas/sc/joinville/casa-269-m2-floresta-joinville-sc-x130797?utm_source=megaleiloes&utm_medium=link&utm_campaign=casa-269-m2-floresta-joinville-sc-x130797&utm_term=X130797&utm_content=link",
+          "is_aggregator": false,
+          "raw_text": "R$ 1.114.200,00 566 0 Casa 269 m² - Floresta - Joinville - SC X130797 Joinville, SC ABERTO PARA LANCES Data: 03/11/2026 às 12:09 R$ 1.114.200,00 IR Explore por Categorias Pesquisa Avançada FAQ Entrar ou Criar conta Valor inicial R$ 1.114.200,00 Extrajudicial Leilão ML35058 Código Lote X130797 Número Lote LOTE 130 Visitas 567 Habilitados 6 Lances 0 Mega Leilões Imóveis Casas Santa Catarina Joinville Casa 269 m² - Floresta - Joinville - SC Navegue pelos lotes: Lote 1 Lote 2 Lote 3 Lote 4 Lote 5 Lote 6 Lote 7 Lote 8 Lote 9 Lote 10 Lote 11 Lote 12 Lote 13 Lote 14 Lote 15 Lote 16 Lote 17 Lote 18 Lote 19 Lote 20 Lote 21 Lote 22 Lote 23 Lote 24 Lote 25 Lote 26 Lote 27 Lote 28 Lote 29 Lote 30 Lote 31 Lote 32 Lote 33 Lote 34 Lote 35 Lote 36 Lote 37 Lote 38 Lote 39 Lote 40 Lote 41 Lote 42 Lote 43 Lote 44 Lote 45 Lote 46 Lote 47 Lote 48 Lote 49 Lote 50 Lote 51 Lote 52 Lote 53 Lote 54 Lote 55 Lote 56 Lote 57 Lote 58 Lote 59 Lote 60 Lote 61 Lote 62 Lote 63 Lote 64 Lote 65 Lote 66 Lote 67 Lote 68 Lote 69 Lote 70 Lote 71 Lote 72 Lote 73 Lote 74 Lote 75 Lote 76 Lote 77 Lote 78 Lote 79 Lote 80 Lote 81 Lote 82 Lote 83 Lote 84 Lote 85 Lote 86 Lote 87 Lote 88 Lote 89 Lote 90 Lote 91 Lote 92 Lote 93 Lote 94 Lote 95 Lote 96 Lote 97 Lote 98 Lote 99 Lote 100 Lote 101 Lote 102 Lote 103 Lote 104 Lote 105 Lote 106 Lote 107 Lote 108 Lote 109 Lote 110 Lote 111 Lote 112 Lote 113 Lote 114 Lote 115 Lote 116 Lote 117 Lote 118 Lote 119 Lote 120 Lote 121 Lote 122 Lote 123 Lote 124 Lote 125 Lote 126 Lote 127 Lote 128 Lote 129 Lote 130 Lote 131 Lote 132 Lote 133 Lote 134 Lote 135 Lote 136 Lote 137 Lote 138 Lote 139 Lote 140 Lote 141 Lote 142 Lote 143 Lote 144 Lote 145 Lote 146 Lote 147 Lote 148 Lote 149 Lote 150 Lote 151 Lote 152 Lote 153 Lote 154 Lote 155 Lote 156 Lote 157 Lote 158 Lote 159 Lote 160 Lote 161 Lote 162 Lote 163 Lote 164 Lote 165 Lote 166 Lote 167 Lote 168 Lote 169 Lote 170 Lote 171 Lote 172 Lote 173 Lote 174 Lote 175 Lote 176 Lote 177 Lote 178 Lote 179 Lote 180 Lote 181 Lote 182 Lote 183 Lote 184 Lote 185 Lote 186 Lote 187 Lote 188 Lote 189 Lote 190 Lote 191 Lote 192 Lote 193 Lote 194 Lote 195 Lote 196 Lote 197 Lote 198 Lote 199 Lote 200 Lote 201 Lote 202 Lote 203 Área 269 m2 Localização Rua Gustavo Hoepfner, 118, Floresta, Joinville, SC Comitente BANCO SANTANDER S.A. Leiloeiro Fernando José Cerello G. Pereira JUCESP Nº 844 - Leiloeiro oficial do Estado de São Paulo JUCEMG Nº 1192 - Leiloeiro oficial do Estado de Minas Gerais JUCEMAT Nº 73 - Leiloeiro oficial do Estado de Mato Grosso Valor de Avaliação R$ 1.769.000,00 ( Um milhão, setecentos e sessenta e nove mil reais) . A descrição dos lotes é uma cópia fiel das informações fornecidas pelos cartórios, comitente ou outro órgão responsável pelo bem. O bem será vendido no estado em que se encontra conforme edital publicado. Reservamo-nos o direito de corrigir possíveis erros de digitação. Cumpre informar, que nos leilões Judiciais e de Falência, o procedimento do pós-arrematação, deve ser realizado pelo arrematante ju"
+        },
+        "newly_discovered_at": "2026-10-24T08:08:01-03:00"
+      },
+      "resolution": "Registro anterior restaurado integralmente, incluindo fotos; observação isolada para revisão."
+    },
+    {
+      "property_id": "76872ff95863dd2e0332",
+      "reason": "Regressão de campos já conferidos: descrição literal contradiz área/tipo de leilão e extração captura navegação/privacidade como dados do imóvel.",
+      "restored_from": "pre_run_snapshot",
+      "preserved_source_url": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810&utm_term=X130810&utm_content=link",
+      "conflicting_observation": {
+        "id": "76872ff95863dd2e0332",
+        "source_ids": [
+          "mega_leiloes"
+        ],
+        "source_listing_ids": [
+          "X130810",
+          "Lote"
+        ],
+        "source_listing_urls": [
+          "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810&utm_term=X130810&utm_content=link"
+        ],
+        "city": "Joinville",
+        "state": "SC",
+        "neighborhood": null,
+        "address": "Rua Leopoldo Fischer, 266, Atiradores, Joinville, SC",
+        "property_type": "Apartamento",
+        "area_privative_m2": 133.0,
+        "area_built_m2": 133.65,
+        "area_total_m2": null,
+        "registry_number": "16.150",
+        "registry_office": "as Pesquisa Avançada FAQ Entrar ou Criar conta Valor inicial R$ 761",
+        "auction_lot": "142",
+        "auctioneer": "Mega Leilões",
+        "seller": "BANCO SANTANDER S",
+        "modality": "judicial",
+        "appraisal_value_brl": 890000.0,
+        "first_minimum_bid_brl": null,
+        "second_minimum_bid_brl": null,
+        "current_minimum_bid_brl": 761000.0,
+        "source_listing_price_brl": 761000.0,
+        "discount_on_appraisal_percent": 14.49,
+        "auction_events": [
+          {
+            "date": "2026-11-03",
+            "time": "12:21",
+            "minimum_bid_brl": null,
+            "stage": "first"
+          },
+          {
+            "date": "2026-11-03",
+            "time": "12:22",
+            "minimum_bid_brl": null,
+            "stage": "first"
+          }
+        ],
+        "commission_percent": null,
+        "payment_conditions": "Contrato de compra e venda Lances Apartamento, Padrão, Desocupado, 1 vaga(s) de garagem. Área(s): 133,65 m² de área construída, 133,65 m² de área privativa, 51,62 m² de área comum.",
+        "occupancy": "desocupado",
+        "status": "active",
+        "official_url": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810&utm_term=X130810&utm_content=link",
+        "source_listing_url": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810&utm_term=X130810&utm_content=link",
+        "validation_status": "verified",
+        "edital_url": "https://cdn1.megaleiloes.com.br/auctions/35058/megaleiloes_edital__261023-082159.pdf",
+        "document_urls": [
+          "https://cdn1.megaleiloes.com.br/auctions/35058/megaleiloes_edital__261023-082159.pdf",
+          "https://cdn1.megaleiloes.com.br/batches/130810/megaleiloes_matricula_X130810.pdf",
+          "https://cdn1.megaleiloes.com.br/Politica_de_Privacidade_Mega_Leiloes_Rev_Janeiro_2023.pdf",
+          "https://adoptprodstorage.blob.core.windows.net/adopt-prod/organization/e88ba239-a73f-4a78-8f0f-581fb4061046/disclaimer/536f00c5-c7cf-47f9-8a04-bfa2671ddebf/policy/01GPK5M2RNCQQTEPR6VHQWG0GA.pdf"
+        ],
+        "image_urls": [
+          "https://cdn1.megaleiloes.com.br/batches/130810/ecf65ce89febfb2eab50c1ac39b3ea2d_670x380.jpg",
+          "https://cdn1.megaleiloes.com.br/batches/130810/d3ab0636ce67cc82f361a5463134edc8_670x380.jpg",
+          "https://cdn1.megaleiloes.com.br/batches/130810/68c302a3274edd50565c153dfc9bc40d_670x380.jpg",
+          "https://cdn1.megaleiloes.com.br/batches/130810/7baadb11443947215d223fedd84c0297_670x380.jpg"
+        ],
+        "first_seen_at": "2026-10-24T07:56:44-03:00",
+        "last_checked_at": "2026-10-25T08:10:14-03:00",
+        "classification": "B",
+        "risk_flags": [],
+        "field_verification": {
+          "city": "declared",
+          "property_type": "declared",
+          "appraisal_value_brl": "declared",
+          "first_minimum_bid_brl": "unknown",
+          "second_minimum_bid_brl": "unknown",
+          "current_minimum_bid_brl": "declared",
+          "occupancy": "declared",
+          "registry_number": "declared",
+          "auction_events": "declared",
+          "source_listing_price_brl": "declared",
+          "official_url": "verified",
+          "edital_url": "verified",
+          "registry_office": "unknown",
+          "payment_conditions": "unknown",
+          "modality": "declared",
+          "seller": "declared",
+          "auctioneer": "declared",
+          "area_privative_m2": "declared",
+          "area_built_m2": "declared",
+          "area_total_m2": "unknown"
+        },
+        "provenance": {
+          "source_id": "mega_leiloes",
+          "captured_from": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810&utm_term=X130810&utm_content=link",
+          "is_aggregator": false,
+          "raw_text": "IMÓVEL DESOCUPADO R$ 761.000,00 980 0 Apartamento 133 m² (Unid. 203) - Atiradores - Joinville - SC X130810 Joinville, SC ABERTO PARA LANCES Data: 03/11/2026 às 12:21 R$ 761.000,00 IR Explore por Categorias Pesquisa Avançada FAQ Entrar ou Criar conta Valor inicial R$ 761.000,00 Extrajudicial Leilão ML35058 Código Lote X130810 Número Lote LOTE 142 Visitas 981 Habilitados 15 Lances 0 Mega Leilões Imóveis Apartamentos Santa Catarina Joinville Apartamento 133 m² (Unid. 203) - Atiradores - Joinville - SC Navegue pelos lotes: Lote 1 Lote 2 Lote 3 Lote 4 Lote 5 Lote 6 Lote 7 Lote 8 Lote 9 Lote 10 Lote 11 Lote 12 Lote 13 Lote 14 Lote 15 Lote 16 Lote 17 Lote 18 Lote 19 Lote 20 Lote 21 Lote 22 Lote 23 Lote 24 Lote 25 Lote 26 Lote 27 Lote 28 Lote 29 Lote 30 Lote 31 Lote 32 Lote 33 Lote 34 Lote 35 Lote 36 Lote 37 Lote 38 Lote 39 Lote 40 Lote 41 Lote 42 Lote 43 Lote 44 Lote 45 Lote 46 Lote 47 Lote 48 Lote 49 Lote 50 Lote 51 Lote 52 Lote 53 Lote 54 Lote 55 Lote 56 Lote 57 Lote 58 Lote 59 Lote 60 Lote 61 Lote 62 Lote 63 Lote 64 Lote 65 Lote 66 Lote 67 Lote 68 Lote 69 Lote 70 Lote 71 Lote 72 Lote 73 Lote 74 Lote 75 Lote 76 Lote 77 Lote 78 Lote 79 Lote 80 Lote 81 Lote 82 Lote 83 Lote 84 Lote 85 Lote 86 Lote 87 Lote 88 Lote 89 Lote 90 Lote 91 Lote 92 Lote 93 Lote 94 Lote 95 Lote 96 Lote 97 Lote 98 Lote 99 Lote 100 Lote 101 Lote 102 Lote 103 Lote 104 Lote 105 Lote 106 Lote 107 Lote 108 Lote 109 Lote 110 Lote 111 Lote 112 Lote 113 Lote 114 Lote 115 Lote 116 Lote 117 Lote 118 Lote 119 Lote 120 Lote 121 Lote 122 Lote 123 Lote 124 Lote 125 Lote 126 Lote 127 Lote 128 Lote 129 Lote 130 Lote 131 Lote 132 Lote 133 Lote 134 Lote 135 Lote 136 Lote 137 Lote 138 Lote 139 Lote 140 Lote 141 Lote 142 Lote 143 Lote 144 Lote 145 Lote 146 Lote 147 Lote 148 Lote 149 Lote 150 Lote 151 Lote 152 Lote 153 Lote 154 Lote 155 Lote 156 Lote 157 Lote 158 Lote 159 Lote 160 Lote 161 Lote 162 Lote 163 Lote 164 Lote 165 Lote 166 Lote 167 Lote 168 Lote 169 Lote 170 Lote 171 Lote 172 Lote 173 Lote 174 Lote 175 Lote 176 Lote 177 Lote 178 Lote 179 Lote 180 Lote 181 Lote 182 Lote 183 Lote 184 Lote 185 Lote 186 Lote 187 Lote 188 Lote 189 Lote 190 Lote 191 Lote 192 Lote 193 Lote 194 Lote 195 Lote 196 Lote 197 Lote 198 Lote 199 Lote 200 Lote 201 Lote 202 Lote 203 IMÓVEL DESOCUPADO Área 133 m2 Vagas 1 Localização Rua Leopoldo Fischer, 266, Atiradores, Joinville, SC Comitente BANCO SANTANDER S.A. Leiloeiro Fernando José Cerello G. Pereira JUCESP Nº 844 - Leiloeiro oficial do Estado de São Paulo JUCEMG Nº 1192 - Leiloeiro oficial do Estado de Minas Gerais JUCEMAT Nº 73 - Leiloeiro oficial do Estado de Mato Grosso Valor de Avaliação R$ 890.000,00 ( Oitocentos e noventa mil reais) . A descrição dos lotes é uma cópia fiel das informações fornecidas pelos cartórios, comitente ou outro órgão responsável pelo bem. O bem será vendido no estado em que se encontra conforme edital publicado. Reservamo-nos o direito de corrigir possíveis erros de digitação. Cumpre informar, que nos leilões Judiciais e de Falência, o pr",
+          "source_listing_urls": [
+            "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810&utm_term=X130810&utm_content=link"
+          ]
+        },
+        "newly_discovered_at": "2026-10-24T08:08:01-03:00"
+      },
+      "preserved_record": {
+        "id": "76872ff95863dd2e0332",
+        "source_ids": [
+          "mega_leiloes"
+        ],
+        "source_listing_ids": [
+          "X130810"
+        ],
+        "source_listing_urls": [
+          "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810&utm_term=X130810&utm_content=link"
+        ],
+        "city": "Joinville",
+        "state": "SC",
+        "neighborhood": null,
+        "address": "Rua Leopoldo Fischer, 266, Atiradores, Joinville, SC",
+        "property_type": "Apartamento",
+        "area_privative_m2": 133.65,
+        "area_built_m2": 133.65,
+        "area_total_m2": null,
+        "registry_number": "16.150",
+        "registry_office": null,
+        "auction_lot": "142",
+        "auctioneer": "Fernando José Cerello G. Pereira",
+        "seller": "BANCO SANTANDER S.A.",
+        "modality": "extrajudicial",
+        "appraisal_value_brl": 890000.0,
+        "first_minimum_bid_brl": null,
+        "second_minimum_bid_brl": null,
+        "current_minimum_bid_brl": 761000.0,
+        "source_listing_price_brl": 761000.0,
+        "discount_on_appraisal_percent": 14.49,
+        "auction_events": [
+          {
+            "date": "2026-11-03",
+            "time": "12:22",
+            "minimum_bid_brl": null,
+            "stage": "first"
+          }
+        ],
+        "commission_percent": null,
+        "payment_conditions": null,
+        "occupancy": "desocupado",
+        "status": "active",
+        "official_url": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810&utm_term=X130810&utm_content=link",
+        "source_listing_url": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810&utm_term=X130810&utm_content=link",
+        "validation_status": "verified",
+        "edital_url": "https://cdn1.megaleiloes.com.br/auctions/35058/megaleiloes_edital__261023-082159.pdf",
+        "document_urls": [
+          "https://cdn1.megaleiloes.com.br/auctions/35058/megaleiloes_edital__261023-082159.pdf",
+          "https://cdn1.megaleiloes.com.br/batches/130810/megaleiloes_matricula_X130810.pdf"
+        ],
+        "image_urls": [
+          "https://cdn1.megaleiloes.com.br/batches/130810/ecf65ce89febfb2eab50c1ac39b3ea2d_670x380.jpg",
+          "https://cdn1.megaleiloes.com.br/batches/130810/d3ab0636ce67cc82f361a5463134edc8_670x380.jpg",
+          "https://cdn1.megaleiloes.com.br/batches/130810/68c302a3274edd50565c153dfc9bc40d_670x380.jpg",
+          "https://cdn1.megaleiloes.com.br/batches/130810/7baadb11443947215d223fedd84c0297_670x380.jpg"
+        ],
+        "first_seen_at": "2026-10-24T07:56:44-03:00",
+        "last_checked_at": "2026-10-24T08:08:01-03:00",
+        "classification": "B",
+        "risk_flags": [],
+        "field_verification": {
+          "city": "declared",
+          "property_type": "declared",
+          "appraisal_value_brl": "declared",
+          "first_minimum_bid_brl": "unknown",
+          "second_minimum_bid_brl": "unknown",
+          "current_minimum_bid_brl": "declared",
+          "occupancy": "declared",
+          "registry_number": "declared",
+          "auction_events": "declared",
+          "source_listing_price_brl": "declared",
+          "official_url": "verified",
+          "edital_url": "verified",
+          "registry_office": "unknown",
+          "payment_conditions": "unknown",
+          "modality": "declared",
+          "seller": "declared",
+          "auctioneer": "declared",
+          "area_privative_m2": "declared",
+          "area_built_m2": "declared",
+          "area_total_m2": "unknown"
+        },
+        "provenance": {
+          "source_id": "mega_leiloes",
+          "captured_from": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810&utm_term=X130810&utm_content=link",
+          "is_aggregator": false,
+          "raw_text": "IMÓVEL DESOCUPADO R$ 761.000,00 348 0 Apartamento 133 m² (Unid. 203) - Atiradores - Joinville - SC X130810 Joinville, SC ABERTO PARA LANCES Data: 03/11/2026 às 12:22 R$ 761.000,00 IR Explore por Categorias Pesquisa Avançada FAQ Entrar ou Criar conta Valor inicial R$ 761.000,00 Extrajudicial Leilão ML35058 Código Lote X130810 Número Lote LOTE 142 Visitas 349 Habilitados 6 Lances 0 Mega Leilões Imóveis Apartamentos Santa Catarina Joinville Apartamento 133 m² (Unid. 203) - Atiradores - Joinville - SC Navegue pelos lotes: Lote 1 Lote 2 Lote 3 Lote 4 Lote 5 Lote 6 Lote 7 Lote 8 Lote 9 Lote 10 Lote 11 Lote 12 Lote 13 Lote 14 Lote 15 Lote 16 Lote 17 Lote 18 Lote 19 Lote 20 Lote 21 Lote 22 Lote 23 Lote 24 Lote 25 Lote 26 Lote 27 Lote 28 Lote 29 Lote 30 Lote 31 Lote 32 Lote 33 Lote 34 Lote 35 Lote 36 Lote 37 Lote 38 Lote 39 Lote 40 Lote 41 Lote 42 Lote 43 Lote 44 Lote 45 Lote 46 Lote 47 Lote 48 Lote 49 Lote 50 Lote 51 Lote 52 Lote 53 Lote 54 Lote 55 Lote 56 Lote 57 Lote 58 Lote 59 Lote 60 Lote 61 Lote 62 Lote 63 Lote 64 Lote 65 Lote 66 Lote 67 Lote 68 Lote 69 Lote 70 Lote 71 Lote 72 Lote 73 Lote 74 Lote 75 Lote 76 Lote 77 Lote 78 Lote 79 Lote 80 Lote 81 Lote 82 Lote 83 Lote 84 Lote 85 Lote 86 Lote 87 Lote 88 Lote 89 Lote 90 Lote 91 Lote 92 Lote 93 Lote 94 Lote 95 Lote 96 Lote 97 Lote 98 Lote 99 Lote 100 Lote 101 Lote 102 Lote 103 Lote 104 Lote 105 Lote 106 Lote 107 Lote 108 Lote 109 Lote 110 Lote 111 Lote 112 Lote 113 Lote 114 Lote 115 Lote 116 Lote 117 Lote 118 Lote 119 Lote 120 Lote 121 Lote 122 Lote 123 Lote 124 Lote 125 Lote 126 Lote 127 Lote 128 Lote 129 Lote 130 Lote 131 Lote 132 Lote 133 Lote 134 Lote 135 Lote 136 Lote 137 Lote 138 Lote 139 Lote 140 Lote 141 Lote 142 Lote 143 Lote 144 Lote 145 Lote 146 Lote 147 Lote 148 Lote 149 Lote 150 Lote 151 Lote 152 Lote 153 Lote 154 Lote 155 Lote 156 Lote 157 Lote 158 Lote 159 Lote 160 Lote 161 Lote 162 Lote 163 Lote 164 Lote 165 Lote 166 Lote 167 Lote 168 Lote 169 Lote 170 Lote 171 Lote 172 Lote 173 Lote 174 Lote 175 Lote 176 Lote 177 Lote 178 Lote 179 Lote 180 Lote 181 Lote 182 Lote 183 Lote 184 Lote 185 Lote 186 Lote 187 Lote 188 Lote 189 Lote 190 Lote 191 Lote 192 Lote 193 Lote 194 Lote 195 Lote 196 Lote 197 Lote 198 Lote 199 Lote 200 Lote 201 Lote 202 Lote 203 IMÓVEL DESOCUPADO Área 133 m2 Vagas 1 Localização Rua Leopoldo Fischer, 266, Atiradores, Joinville, SC Comitente BANCO SANTANDER S.A. Leiloeiro Fernando José Cerello G. Pereira JUCESP Nº 844 - Leiloeiro oficial do Estado de São Paulo JUCEMG Nº 1192 - Leiloeiro oficial do Estado de Minas Gerais JUCEMAT Nº 73 - Leiloeiro oficial do Estado de Mato Grosso Valor de Avaliação R$ 890.000,00 ( Oitocentos e noventa mil reais) . A descrição dos lotes é uma cópia fiel das informações fornecidas pelos cartórios, comitente ou outro órgão responsável pelo bem. O bem será vendido no estado em que se encontra conforme edital publicado. Reservamo-nos o direito de corrigir possíveis erros de digitação. Cumpre informar, que nos leilões Judiciais e de Falência, o pro"
+        },
+        "newly_discovered_at": "2026-10-24T08:08:01-03:00"
+      },
+      "resolution": "Registro anterior restaurado integralmente, incluindo fotos; observação isolada para revisão."
+    }
+  ],
+  "photo_preservation": [
+    {
+      "property_id": "c7c851cf14061ca175e9",
+      "reason": "Preservadas as fotos anteriores do mesmo imóvel, agregando apenas imagens retornadas pela galeria da mesma URL.",
+      "observed_image_urls": [
+        "https://www.santanderimoveis.com.br/wp-content/uploads/2026/08/1785954893959.jpeg"
+      ],
+      "preserved_image_urls": [
+        "https://hasta.com.br/foto/788478/0.jpg",
+        "https://www.santanderimoveis.com.br/wp-content/uploads/2026/08/1785954893959.jpeg"
+      ]
+    },
+    {
+      "property_id": "3000999e5d4b8f79828b",
+      "reason": "Preservadas as fotos anteriores do mesmo imóvel, agregando apenas imagens retornadas pela galeria da mesma URL.",
+      "observed_image_urls": [
+        "https://hasta.com.br/foto/2268596/0.jpg"
+      ],
+      "preserved_image_urls": [
+        "https://hasta.com.br/foto/2268596/0.jpg",
+        "https://hasta.com.br/foto/2268596/1.jpg",
+        "https://hasta.com.br/foto/2268596/2.jpg",
+        "https://hasta.com.br/foto/2268596/3.jpg",
+        "https://hasta.com.br/foto/2268596/4.jpg",
+        "https://hasta.com.br/foto/2268596/5.jpg",
+        "https://hasta.com.br/foto/2268596/6.jpg",
+        "https://hasta.com.br/foto/2268596/7.jpg",
+        "https://hasta.com.br/foto/2268596/8.jpg",
+        "https://hasta.com.br/foto/2268596/9.jpg",
+        "https://hasta.com.br/foto/2268596/10.jpg",
+        "https://hasta.com.br/foto/2268596/11.jpg"
+      ]
+    },
+    {
+      "property_id": "36913ba2a684762ca887",
+      "reason": "Preservadas as fotos anteriores do mesmo imóvel, agregando apenas imagens retornadas pela galeria da mesma URL.",
+      "observed_image_urls": [
+        "https://www.santanderimoveis.com.br/wp-content/uploads/2026/07/1785440605006.jpeg"
+      ],
+      "preserved_image_urls": [
+        "https://hasta.com.br/foto/746520/0.jpg",
+        "https://www.santanderimoveis.com.br/wp-content/uploads/2026/07/1785440605006.jpeg"
+      ]
+    },
+    {
+      "property_id": "4e87051665604a054689",
+      "reason": "Preservadas as fotos anteriores do mesmo imóvel, agregando apenas imagens retornadas pela galeria da mesma URL.",
+      "observed_image_urls": [
+        "https://www.santanderimoveis.com.br/wp-content/uploads/2026/04/1775572276222.jpeg"
+      ],
+      "preserved_image_urls": [
+        "https://hasta.com.br/foto/600093/0.jpg",
+        "https://www.santanderimoveis.com.br/wp-content/uploads/2026/04/1775572276222.jpeg"
+      ]
+    },
+    {
+      "property_id": "6c6ab2c8d00135269ccf",
+      "reason": "Preservadas as fotos anteriores do mesmo imóvel, agregando apenas imagens retornadas pela galeria da mesma URL.",
+      "observed_image_urls": [
+        "https://hasta.com.br/foto/2268594/0.jpg"
+      ],
+      "preserved_image_urls": [
+        "https://hasta.com.br/foto/2268594/0.jpg",
+        "https://hasta.com.br/foto/2268594/1.jpg",
+        "https://hasta.com.br/foto/2268594/2.jpg"
+      ]
+    },
+    {
+      "property_id": "80d0e5b207315b6d1e5d",
+      "reason": "Preservadas as fotos anteriores do mesmo imóvel, agregando apenas imagens retornadas pela galeria da mesma URL.",
+      "observed_image_urls": [
+        "https://www.santanderimoveis.com.br/wp-content/uploads/2026/09/1788533080897.jpeg"
+      ],
+      "preserved_image_urls": [
+        "https://hasta.com.br/foto/1250563/0.jpg",
+        "https://www.santanderimoveis.com.br/wp-content/uploads/2026/09/1788533080897.jpeg"
+      ]
+    },
+    {
+      "property_id": "be1508c8019df091dbbc",
+      "reason": "Preservadas as fotos anteriores do mesmo imóvel, agregando apenas imagens retornadas pela galeria da mesma URL.",
+      "observed_image_urls": [
+        "https://hasta.com.br/foto/2268595/0.jpg"
+      ],
+      "preserved_image_urls": [
+        "https://hasta.com.br/foto/2268595/0.jpg",
+        "https://hasta.com.br/foto/2268595/1.jpg"
+      ]
+    },
+    {
+      "property_id": "fa3ee5ea39779c25e788",
+      "reason": "Preservadas as fotos anteriores do mesmo imóvel, agregando apenas imagens retornadas pela galeria da mesma URL.",
+      "observed_image_urls": [
+        "https://imagens.portalzuk.com.br/mini/2026/09/74f1f0fe30d601a2e45e477feacaaad8.jpg"
+      ],
+      "preserved_image_urls": [
+        "https://hasta.com.br/foto/1720890/0.jpg",
+        "https://imagens.portalzuk.com.br/mini/2026/09/74f1f0fe30d601a2e45e477feacaaad8.jpg"
+      ]
+    }
+  ],
+  "previous_unresolved_identity_conflicts": [
+    {
+      "previous_run_id": "ceab4837-485b-4135-97a0-944fc32d174e",
       "property_id": "30a95faa59307c10f75b",
       "reason": "Observação associa imóveis distintos ao mesmo ID; versão válida restaurada integralmente, incluindo fotos. Histórico anterior preservado.",
       "restored_from": "pre_run_snapshot",
@@ -550,6 +1917,7 @@
       }
     },
     {
+      "previous_run_id": "ceab4837-485b-4135-97a0-944fc32d174e",
       "property_id": "634946a661cc12762b48",
       "reason": "Observação associa imóveis distintos ao mesmo ID; versão válida restaurada integralmente, incluindo fotos. Histórico anterior preservado.",
       "restored_from": "git:001c58d:data/properties.json",
@@ -725,410 +2093,6 @@
       }
     }
   ],
-  "observation_corrections": [
-    {
-      "property_id": "cbe9429e4d51c45c7f5e",
-      "reason": "Campos corrigidos apenas com descrição literal capturada na fonte; extração de cartório e condições de pagamento inválida foi anulada; documentos de privacidade excluídos.",
-      "raw_observation": {
-        "id": "cbe9429e4d51c45c7f5e",
-        "source_ids": [
-          "mega_leiloes"
-        ],
-        "source_listing_ids": [
-          "Lote"
-        ],
-        "source_listing_urls": [
-          "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/balneario-camboriu/apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839&utm_term=X130839&utm_content=link"
-        ],
-        "city": "Balneário Camboriú",
-        "state": "SC",
-        "neighborhood": null,
-        "address": "Rua Vaticano, 57, Nações, Balneário Camboriú, SC",
-        "property_type": "Apartamento",
-        "area_privative_m2": 95.0,
-        "area_built_m2": null,
-        "area_total_m2": null,
-        "registry_number": "128.021",
-        "registry_office": "o Camboriú - SC X130839 Balneário Camboriú",
-        "auction_lot": "171",
-        "auctioneer": "Mega Leilões",
-        "seller": "BANCO SANTANDER S",
-        "modality": "judicial",
-        "appraisal_value_brl": 910000.0,
-        "first_minimum_bid_brl": null,
-        "second_minimum_bid_brl": null,
-        "current_minimum_bid_brl": 655200.0,
-        "source_listing_price_brl": 655200.0,
-        "discount_on_appraisal_percent": 28.0,
-        "auction_events": [
-          {
-            "date": "2026-11-03",
-            "time": "12:51",
-            "minimum_bid_brl": null,
-            "stage": "first"
-          }
-        ],
-        "commission_percent": null,
-        "payment_conditions": "Contrato de compra e venda Lances Apartamento, Padrão, Ocupado, 1 vaga(s) de garagem. Área(s): 95,97 m² de área construída, 95,97 m² de área privativa, 36,16 m² de área comum.",
-        "occupancy": "ocupado",
-        "status": "active",
-        "official_url": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/balneario-camboriu/apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839&utm_term=X130839&utm_content=link",
-        "source_listing_url": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/balneario-camboriu/apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839&utm_term=X130839&utm_content=link",
-        "validation_status": "verified",
-        "edital_url": "https://cdn1.megaleiloes.com.br/auctions/35058/megaleiloes_edital__261023-082159.pdf",
-        "document_urls": [
-          "https://cdn1.megaleiloes.com.br/auctions/35058/megaleiloes_edital__261023-082159.pdf",
-          "https://cdn1.megaleiloes.com.br/batches/130839/megaleiloes_matricula_X130839.pdf",
-          "https://cdn1.megaleiloes.com.br/Politica_de_Privacidade_Mega_Leiloes_Rev_Janeiro_2023.pdf",
-          "https://adoptprodstorage.blob.core.windows.net/adopt-prod/organization/e88ba239-a73f-4a78-8f0f-581fb4061046/disclaimer/536f00c5-c7cf-47f9-8a04-bfa2671ddebf/policy/01GPK5M2RNCQQTEPR6VHQWG0GA.pdf"
-        ],
-        "image_urls": [
-          "https://cdn1.megaleiloes.com.br/batches/130839/885d757d840c7e520f8b682e641e272c_670x380.jpg",
-          "https://cdn1.megaleiloes.com.br/batches/130839/f5e09b60ba233ea3da2acf3d30f39c3e_670x380.jpg",
-          "https://cdn1.megaleiloes.com.br/batches/130839/3edb065544ddbf08d89a8e8d080a3a2a_670x380.jpg",
-          "https://cdn1.megaleiloes.com.br/batches/130839/41c14ae7903a9cae92027dc1c0cf4ad8_670x380.jpg"
-        ],
-        "first_seen_at": "2026-10-24T07:56:45-03:00",
-        "last_checked_at": "2026-10-24T08:08:01-03:00",
-        "classification": "B",
-        "risk_flags": [
-          "occupied"
-        ],
-        "field_verification": {
-          "city": "declared",
-          "property_type": "declared",
-          "appraisal_value_brl": "declared",
-          "first_minimum_bid_brl": "unknown",
-          "second_minimum_bid_brl": "unknown",
-          "current_minimum_bid_brl": "declared",
-          "occupancy": "declared",
-          "registry_number": "declared",
-          "auction_events": "declared",
-          "source_listing_price_brl": "declared",
-          "official_url": "verified",
-          "edital_url": "verified"
-        },
-        "provenance": {
-          "source_id": "mega_leiloes",
-          "captured_from": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/balneario-camboriu/apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-95-m2-nacoes-balneario-camboriu-sc-x130839&utm_term=X130839&utm_content=link",
-          "is_aggregator": false,
-          "raw_text": "R$ 655.200,00 455 0 Apartamento 95 m² - Nações - Balneário Camboriú - SC X130839 Balneário Camboriú, SC ABERTO PARA LANCES Data: 03/11/2026 às 12:51 R$ 655.200,00 IR Explore por Categorias Pesquisa Avançada FAQ Entrar ou Criar conta Valor inicial R$ 655.200,00 Extrajudicial Leilão ML35058 Código Lote X130839 Número Lote LOTE 171 Visitas 456 Habilitados 6 Lances 0 Mega Leilões Imóveis Apartamentos Santa Catarina Balneário Camboriú Apartamento 95 m² - Nações - Balneário Camboriú - SC Navegue pelos lotes: Lote 1 Lote 2 Lote 3 Lote 4 Lote 5 Lote 6 Lote 7 Lote 8 Lote 9 Lote 10 Lote 11 Lote 12 Lote 13 Lote 14 Lote 15 Lote 16 Lote 17 Lote 18 Lote 19 Lote 20 Lote 21 Lote 22 Lote 23 Lote 24 Lote 25 Lote 26 Lote 27 Lote 28 Lote 29 Lote 30 Lote 31 Lote 32 Lote 33 Lote 34 Lote 35 Lote 36 Lote 37 Lote 38 Lote 39 Lote 40 Lote 41 Lote 42 Lote 43 Lote 44 Lote 45 Lote 46 Lote 47 Lote 48 Lote 49 Lote 50 Lote 51 Lote 52 Lote 53 Lote 54 Lote 55 Lote 56 Lote 57 Lote 58 Lote 59 Lote 60 Lote 61 Lote 62 Lote 63 Lote 64 Lote 65 Lote 66 Lote 67 Lote 68 Lote 69 Lote 70 Lote 71 Lote 72 Lote 73 Lote 74 Lote 75 Lote 76 Lote 77 Lote 78 Lote 79 Lote 80 Lote 81 Lote 82 Lote 83 Lote 84 Lote 85 Lote 86 Lote 87 Lote 88 Lote 89 Lote 90 Lote 91 Lote 92 Lote 93 Lote 94 Lote 95 Lote 96 Lote 97 Lote 98 Lote 99 Lote 100 Lote 101 Lote 102 Lote 103 Lote 104 Lote 105 Lote 106 Lote 107 Lote 108 Lote 109 Lote 110 Lote 111 Lote 112 Lote 113 Lote 114 Lote 115 Lote 116 Lote 117 Lote 118 Lote 119 Lote 120 Lote 121 Lote 122 Lote 123 Lote 124 Lote 125 Lote 126 Lote 127 Lote 128 Lote 129 Lote 130 Lote 131 Lote 132 Lote 133 Lote 134 Lote 135 Lote 136 Lote 137 Lote 138 Lote 139 Lote 140 Lote 141 Lote 142 Lote 143 Lote 144 Lote 145 Lote 146 Lote 147 Lote 148 Lote 149 Lote 150 Lote 151 Lote 152 Lote 153 Lote 154 Lote 155 Lote 156 Lote 157 Lote 158 Lote 159 Lote 160 Lote 161 Lote 162 Lote 163 Lote 164 Lote 165 Lote 166 Lote 167 Lote 168 Lote 169 Lote 170 Lote 171 Lote 172 Lote 173 Lote 174 Lote 175 Lote 176 Lote 177 Lote 178 Lote 179 Lote 180 Lote 181 Lote 182 Lote 183 Lote 184 Lote 185 Lote 186 Lote 187 Lote 188 Lote 189 Lote 190 Lote 191 Lote 192 Lote 193 Lote 194 Lote 195 Lote 196 Lote 197 Lote 198 Lote 199 Lote 200 Lote 201 Lote 202 Lote 203 Área 95 m2 Vagas 1 Localização Rua Vaticano, 57, Nações, Balneário Camboriú, SC Comitente BANCO SANTANDER S.A. Leiloeiro Fernando José Cerello G. Pereira JUCESP Nº 844 - Leiloeiro oficial do Estado de São Paulo JUCEMG Nº 1192 - Leiloeiro oficial do Estado de Minas Gerais JUCEMAT Nº 73 - Leiloeiro oficial do Estado de Mato Grosso Valor de Avaliação R$ 910.000,00 ( Novecentos e dez mil reais) . A descrição dos lotes é uma cópia fiel das informações fornecidas pelos cartórios, comitente ou outro órgão responsável pelo bem. O bem será vendido no estado em que se encontra conforme edital publicado. Reservamo-nos o direito de corrigir possíveis erros de digitação. Cumpre informar, que nos leilões Judiciais e de Falência, o procedimento do pós-arrematação, deve ser real"
-        },
-        "newly_discovered_at": "2026-10-24T08:08:01-03:00"
-      },
-      "corrected_fields": {
-        "source_listing_ids": [
-          "X130839"
-        ],
-        "area_privative_m2": 95.97,
-        "area_built_m2": 95.97,
-        "registry_office": null,
-        "auctioneer": "Fernando José Cerello G. Pereira",
-        "seller": "BANCO SANTANDER S.A.",
-        "modality": "extrajudicial",
-        "payment_conditions": null,
-        "document_urls": [
-          "https://cdn1.megaleiloes.com.br/auctions/35058/megaleiloes_edital__261023-082159.pdf",
-          "https://cdn1.megaleiloes.com.br/batches/130839/megaleiloes_matricula_X130839.pdf"
-        ],
-        "field_verification": {
-          "city": "declared",
-          "property_type": "declared",
-          "appraisal_value_brl": "declared",
-          "first_minimum_bid_brl": "unknown",
-          "second_minimum_bid_brl": "unknown",
-          "current_minimum_bid_brl": "declared",
-          "occupancy": "declared",
-          "registry_number": "declared",
-          "auction_events": "declared",
-          "source_listing_price_brl": "declared",
-          "official_url": "verified",
-          "edital_url": "verified",
-          "registry_office": "unknown",
-          "payment_conditions": "unknown",
-          "modality": "declared",
-          "seller": "declared",
-          "auctioneer": "declared",
-          "area_privative_m2": "declared",
-          "area_built_m2": "declared",
-          "area_total_m2": "unknown"
-        }
-      }
-    },
-    {
-      "property_id": "3743d46db92caec2e2a1",
-      "reason": "Campos corrigidos apenas com descrição literal capturada na fonte; extração de cartório e condições de pagamento inválida foi anulada; documentos de privacidade excluídos.",
-      "raw_observation": {
-        "id": "3743d46db92caec2e2a1",
-        "source_ids": [
-          "mega_leiloes"
-        ],
-        "source_listing_ids": [
-          "Lote"
-        ],
-        "source_listing_urls": [
-          "https://www.megaleiloes.com.br/imoveis/casas/sc/joinville/casa-269-m2-floresta-joinville-sc-x130797?utm_source=megaleiloes&utm_medium=link&utm_campaign=casa-269-m2-floresta-joinville-sc-x130797&utm_term=X130797&utm_content=link"
-        ],
-        "city": "Joinville",
-        "state": "SC",
-        "neighborhood": null,
-        "address": "Rua Gustavo Hoepfner, 118, Floresta, Joinville, SC",
-        "property_type": "Casa",
-        "area_privative_m2": 269.0,
-        "area_built_m2": null,
-        "area_total_m2": null,
-        "registry_number": "9.126",
-        "registry_office": "as Pesquisa Avançada FAQ Entrar ou Criar conta Valor inicial R$ 1",
-        "auction_lot": "130",
-        "auctioneer": "Mega Leilões",
-        "seller": "BANCO SANTANDER S",
-        "modality": "judicial",
-        "appraisal_value_brl": 1769000.0,
-        "first_minimum_bid_brl": null,
-        "second_minimum_bid_brl": null,
-        "current_minimum_bid_brl": 1114200.0,
-        "source_listing_price_brl": 1114200.0,
-        "discount_on_appraisal_percent": 37.02,
-        "auction_events": [
-          {
-            "date": "2026-11-03",
-            "time": "12:09",
-            "minimum_bid_brl": null,
-            "stage": "first"
-          }
-        ],
-        "commission_percent": null,
-        "payment_conditions": "Contrato de compra e venda Lances Casa, Padrão, Ocupado. Área(s): 964,03 m² de área total, 269,46 m² de área construída.",
-        "occupancy": "ocupado",
-        "status": "active",
-        "official_url": "https://www.megaleiloes.com.br/imoveis/casas/sc/joinville/casa-269-m2-floresta-joinville-sc-x130797?utm_source=megaleiloes&utm_medium=link&utm_campaign=casa-269-m2-floresta-joinville-sc-x130797&utm_term=X130797&utm_content=link",
-        "source_listing_url": "https://www.megaleiloes.com.br/imoveis/casas/sc/joinville/casa-269-m2-floresta-joinville-sc-x130797?utm_source=megaleiloes&utm_medium=link&utm_campaign=casa-269-m2-floresta-joinville-sc-x130797&utm_term=X130797&utm_content=link",
-        "validation_status": "verified",
-        "edital_url": "https://cdn1.megaleiloes.com.br/auctions/35058/megaleiloes_edital__261023-082159.pdf",
-        "document_urls": [
-          "https://cdn1.megaleiloes.com.br/auctions/35058/megaleiloes_edital__261023-082159.pdf",
-          "https://cdn1.megaleiloes.com.br/batches/130797/megaleiloes_matricula_X130797.pdf",
-          "https://cdn1.megaleiloes.com.br/Politica_de_Privacidade_Mega_Leiloes_Rev_Janeiro_2023.pdf",
-          "https://adoptprodstorage.blob.core.windows.net/adopt-prod/organization/e88ba239-a73f-4a78-8f0f-581fb4061046/disclaimer/536f00c5-c7cf-47f9-8a04-bfa2671ddebf/policy/01GPK5M2RNCQQTEPR6VHQWG0GA.pdf"
-        ],
-        "image_urls": [
-          "https://cdn1.megaleiloes.com.br/batches/130797/829d186d8f682111e2248d40a7c23f75_670x380.jpg",
-          "https://cdn1.megaleiloes.com.br/batches/130797/ac0a48c75f707c8df5c41e47b51fa953_670x380.jpg",
-          "https://cdn1.megaleiloes.com.br/batches/130797/0acbb2ec7a9e88bea5e010620d479d36_670x380.jpg",
-          "https://cdn1.megaleiloes.com.br/batches/130797/36d11c09f7d05a14adc669fcd4110ebf_670x380.jpg",
-          "https://cdn1.megaleiloes.com.br/batches/130797/721d56959242dd504a341f2acfb50ac2_670x380.jpg",
-          "https://cdn1.megaleiloes.com.br/batches/130797/6d2cfbcd6b4be64bfcb98c151b30e940_670x380.jpg"
-        ],
-        "first_seen_at": "2026-10-24T07:56:42-03:00",
-        "last_checked_at": "2026-10-24T08:08:01-03:00",
-        "classification": "B",
-        "risk_flags": [
-          "occupied"
-        ],
-        "field_verification": {
-          "city": "declared",
-          "property_type": "declared",
-          "appraisal_value_brl": "declared",
-          "first_minimum_bid_brl": "unknown",
-          "second_minimum_bid_brl": "unknown",
-          "current_minimum_bid_brl": "declared",
-          "occupancy": "declared",
-          "registry_number": "declared",
-          "auction_events": "declared",
-          "source_listing_price_brl": "declared",
-          "official_url": "verified",
-          "edital_url": "verified"
-        },
-        "provenance": {
-          "source_id": "mega_leiloes",
-          "captured_from": "https://www.megaleiloes.com.br/imoveis/casas/sc/joinville/casa-269-m2-floresta-joinville-sc-x130797?utm_source=megaleiloes&utm_medium=link&utm_campaign=casa-269-m2-floresta-joinville-sc-x130797&utm_term=X130797&utm_content=link",
-          "is_aggregator": false,
-          "raw_text": "R$ 1.114.200,00 566 0 Casa 269 m² - Floresta - Joinville - SC X130797 Joinville, SC ABERTO PARA LANCES Data: 03/11/2026 às 12:09 R$ 1.114.200,00 IR Explore por Categorias Pesquisa Avançada FAQ Entrar ou Criar conta Valor inicial R$ 1.114.200,00 Extrajudicial Leilão ML35058 Código Lote X130797 Número Lote LOTE 130 Visitas 567 Habilitados 6 Lances 0 Mega Leilões Imóveis Casas Santa Catarina Joinville Casa 269 m² - Floresta - Joinville - SC Navegue pelos lotes: Lote 1 Lote 2 Lote 3 Lote 4 Lote 5 Lote 6 Lote 7 Lote 8 Lote 9 Lote 10 Lote 11 Lote 12 Lote 13 Lote 14 Lote 15 Lote 16 Lote 17 Lote 18 Lote 19 Lote 20 Lote 21 Lote 22 Lote 23 Lote 24 Lote 25 Lote 26 Lote 27 Lote 28 Lote 29 Lote 30 Lote 31 Lote 32 Lote 33 Lote 34 Lote 35 Lote 36 Lote 37 Lote 38 Lote 39 Lote 40 Lote 41 Lote 42 Lote 43 Lote 44 Lote 45 Lote 46 Lote 47 Lote 48 Lote 49 Lote 50 Lote 51 Lote 52 Lote 53 Lote 54 Lote 55 Lote 56 Lote 57 Lote 58 Lote 59 Lote 60 Lote 61 Lote 62 Lote 63 Lote 64 Lote 65 Lote 66 Lote 67 Lote 68 Lote 69 Lote 70 Lote 71 Lote 72 Lote 73 Lote 74 Lote 75 Lote 76 Lote 77 Lote 78 Lote 79 Lote 80 Lote 81 Lote 82 Lote 83 Lote 84 Lote 85 Lote 86 Lote 87 Lote 88 Lote 89 Lote 90 Lote 91 Lote 92 Lote 93 Lote 94 Lote 95 Lote 96 Lote 97 Lote 98 Lote 99 Lote 100 Lote 101 Lote 102 Lote 103 Lote 104 Lote 105 Lote 106 Lote 107 Lote 108 Lote 109 Lote 110 Lote 111 Lote 112 Lote 113 Lote 114 Lote 115 Lote 116 Lote 117 Lote 118 Lote 119 Lote 120 Lote 121 Lote 122 Lote 123 Lote 124 Lote 125 Lote 126 Lote 127 Lote 128 Lote 129 Lote 130 Lote 131 Lote 132 Lote 133 Lote 134 Lote 135 Lote 136 Lote 137 Lote 138 Lote 139 Lote 140 Lote 141 Lote 142 Lote 143 Lote 144 Lote 145 Lote 146 Lote 147 Lote 148 Lote 149 Lote 150 Lote 151 Lote 152 Lote 153 Lote 154 Lote 155 Lote 156 Lote 157 Lote 158 Lote 159 Lote 160 Lote 161 Lote 162 Lote 163 Lote 164 Lote 165 Lote 166 Lote 167 Lote 168 Lote 169 Lote 170 Lote 171 Lote 172 Lote 173 Lote 174 Lote 175 Lote 176 Lote 177 Lote 178 Lote 179 Lote 180 Lote 181 Lote 182 Lote 183 Lote 184 Lote 185 Lote 186 Lote 187 Lote 188 Lote 189 Lote 190 Lote 191 Lote 192 Lote 193 Lote 194 Lote 195 Lote 196 Lote 197 Lote 198 Lote 199 Lote 200 Lote 201 Lote 202 Lote 203 Área 269 m2 Localização Rua Gustavo Hoepfner, 118, Floresta, Joinville, SC Comitente BANCO SANTANDER S.A. Leiloeiro Fernando José Cerello G. Pereira JUCESP Nº 844 - Leiloeiro oficial do Estado de São Paulo JUCEMG Nº 1192 - Leiloeiro oficial do Estado de Minas Gerais JUCEMAT Nº 73 - Leiloeiro oficial do Estado de Mato Grosso Valor de Avaliação R$ 1.769.000,00 ( Um milhão, setecentos e sessenta e nove mil reais) . A descrição dos lotes é uma cópia fiel das informações fornecidas pelos cartórios, comitente ou outro órgão responsável pelo bem. O bem será vendido no estado em que se encontra conforme edital publicado. Reservamo-nos o direito de corrigir possíveis erros de digitação. Cumpre informar, que nos leilões Judiciais e de Falência, o procedimento do pós-arrematação, deve ser realizado pelo arrematante ju"
-        },
-        "newly_discovered_at": "2026-10-24T08:08:01-03:00"
-      },
-      "corrected_fields": {
-        "source_listing_ids": [
-          "X130797"
-        ],
-        "area_privative_m2": null,
-        "area_built_m2": 269.46,
-        "area_total_m2": 964.03,
-        "registry_office": null,
-        "auctioneer": "Fernando José Cerello G. Pereira",
-        "seller": "BANCO SANTANDER S.A.",
-        "modality": "extrajudicial",
-        "payment_conditions": null,
-        "document_urls": [
-          "https://cdn1.megaleiloes.com.br/auctions/35058/megaleiloes_edital__261023-082159.pdf",
-          "https://cdn1.megaleiloes.com.br/batches/130797/megaleiloes_matricula_X130797.pdf"
-        ],
-        "field_verification": {
-          "city": "declared",
-          "property_type": "declared",
-          "appraisal_value_brl": "declared",
-          "first_minimum_bid_brl": "unknown",
-          "second_minimum_bid_brl": "unknown",
-          "current_minimum_bid_brl": "declared",
-          "occupancy": "declared",
-          "registry_number": "declared",
-          "auction_events": "declared",
-          "source_listing_price_brl": "declared",
-          "official_url": "verified",
-          "edital_url": "verified",
-          "registry_office": "unknown",
-          "payment_conditions": "unknown",
-          "modality": "declared",
-          "seller": "declared",
-          "auctioneer": "declared",
-          "area_privative_m2": "unknown",
-          "area_built_m2": "declared",
-          "area_total_m2": "declared"
-        }
-      }
-    },
-    {
-      "property_id": "76872ff95863dd2e0332",
-      "reason": "Campos corrigidos apenas com descrição literal capturada na fonte; extração de cartório e condições de pagamento inválida foi anulada; documentos de privacidade excluídos.",
-      "raw_observation": {
-        "id": "76872ff95863dd2e0332",
-        "source_ids": [
-          "mega_leiloes"
-        ],
-        "source_listing_ids": [
-          "Lote"
-        ],
-        "source_listing_urls": [
-          "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810&utm_term=X130810&utm_content=link"
-        ],
-        "city": "Joinville",
-        "state": "SC",
-        "neighborhood": null,
-        "address": "Rua Leopoldo Fischer, 266, Atiradores, Joinville, SC",
-        "property_type": "Apartamento",
-        "area_privative_m2": 133.0,
-        "area_built_m2": null,
-        "area_total_m2": null,
-        "registry_number": "16.150",
-        "registry_office": "as Pesquisa Avançada FAQ Entrar ou Criar conta Valor inicial R$ 761",
-        "auction_lot": "142",
-        "auctioneer": "Mega Leilões",
-        "seller": "BANCO SANTANDER S",
-        "modality": "judicial",
-        "appraisal_value_brl": 890000.0,
-        "first_minimum_bid_brl": null,
-        "second_minimum_bid_brl": null,
-        "current_minimum_bid_brl": 761000.0,
-        "source_listing_price_brl": 761000.0,
-        "discount_on_appraisal_percent": 14.49,
-        "auction_events": [
-          {
-            "date": "2026-11-03",
-            "time": "12:22",
-            "minimum_bid_brl": null,
-            "stage": "first"
-          }
-        ],
-        "commission_percent": null,
-        "payment_conditions": "Contrato de compra e venda Lances Apartamento, Padrão, Desocupado, 1 vaga(s) de garagem. Área(s): 133,65 m² de área construída, 133,65 m² de área privativa, 51,62 m² de área comum.",
-        "occupancy": "desocupado",
-        "status": "active",
-        "official_url": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810&utm_term=X130810&utm_content=link",
-        "source_listing_url": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810&utm_term=X130810&utm_content=link",
-        "validation_status": "verified",
-        "edital_url": "https://cdn1.megaleiloes.com.br/auctions/35058/megaleiloes_edital__261023-082159.pdf",
-        "document_urls": [
-          "https://cdn1.megaleiloes.com.br/auctions/35058/megaleiloes_edital__261023-082159.pdf",
-          "https://cdn1.megaleiloes.com.br/batches/130810/megaleiloes_matricula_X130810.pdf",
-          "https://cdn1.megaleiloes.com.br/Politica_de_Privacidade_Mega_Leiloes_Rev_Janeiro_2023.pdf",
-          "https://adoptprodstorage.blob.core.windows.net/adopt-prod/organization/e88ba239-a73f-4a78-8f0f-581fb4061046/disclaimer/536f00c5-c7cf-47f9-8a04-bfa2671ddebf/policy/01GPK5M2RNCQQTEPR6VHQWG0GA.pdf"
-        ],
-        "image_urls": [
-          "https://cdn1.megaleiloes.com.br/batches/130810/ecf65ce89febfb2eab50c1ac39b3ea2d_670x380.jpg",
-          "https://cdn1.megaleiloes.com.br/batches/130810/d3ab0636ce67cc82f361a5463134edc8_670x380.jpg",
-          "https://cdn1.megaleiloes.com.br/batches/130810/68c302a3274edd50565c153dfc9bc40d_670x380.jpg",
-          "https://cdn1.megaleiloes.com.br/batches/130810/7baadb11443947215d223fedd84c0297_670x380.jpg"
-        ],
-        "first_seen_at": "2026-10-24T07:56:44-03:00",
-        "last_checked_at": "2026-10-24T08:08:01-03:00",
-        "classification": "B",
-        "risk_flags": [],
-        "field_verification": {
-          "city": "declared",
-          "property_type": "declared",
-          "appraisal_value_brl": "declared",
-          "first_minimum_bid_brl": "unknown",
-          "second_minimum_bid_brl": "unknown",
-          "current_minimum_bid_brl": "declared",
-          "occupancy": "declared",
-          "registry_number": "declared",
-          "auction_events": "declared",
-          "source_listing_price_brl": "declared",
-          "official_url": "verified",
-          "edital_url": "verified"
-        },
-        "provenance": {
-          "source_id": "mega_leiloes",
-          "captured_from": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810&utm_term=X130810&utm_content=link",
-          "is_aggregator": false,
-          "raw_text": "IMÓVEL DESOCUPADO R$ 761.000,00 348 0 Apartamento 133 m² (Unid. 203) - Atiradores - Joinville - SC X130810 Joinville, SC ABERTO PARA LANCES Data: 03/11/2026 às 12:22 R$ 761.000,00 IR Explore por Categorias Pesquisa Avançada FAQ Entrar ou Criar conta Valor inicial R$ 761.000,00 Extrajudicial Leilão ML35058 Código Lote X130810 Número Lote LOTE 142 Visitas 349 Habilitados 6 Lances 0 Mega Leilões Imóveis Apartamentos Santa Catarina Joinville Apartamento 133 m² (Unid. 203) - Atiradores - Joinville - SC Navegue pelos lotes: Lote 1 Lote 2 Lote 3 Lote 4 Lote 5 Lote 6 Lote 7 Lote 8 Lote 9 Lote 10 Lote 11 Lote 12 Lote 13 Lote 14 Lote 15 Lote 16 Lote 17 Lote 18 Lote 19 Lote 20 Lote 21 Lote 22 Lote 23 Lote 24 Lote 25 Lote 26 Lote 27 Lote 28 Lote 29 Lote 30 Lote 31 Lote 32 Lote 33 Lote 34 Lote 35 Lote 36 Lote 37 Lote 38 Lote 39 Lote 40 Lote 41 Lote 42 Lote 43 Lote 44 Lote 45 Lote 46 Lote 47 Lote 48 Lote 49 Lote 50 Lote 51 Lote 52 Lote 53 Lote 54 Lote 55 Lote 56 Lote 57 Lote 58 Lote 59 Lote 60 Lote 61 Lote 62 Lote 63 Lote 64 Lote 65 Lote 66 Lote 67 Lote 68 Lote 69 Lote 70 Lote 71 Lote 72 Lote 73 Lote 74 Lote 75 Lote 76 Lote 77 Lote 78 Lote 79 Lote 80 Lote 81 Lote 82 Lote 83 Lote 84 Lote 85 Lote 86 Lote 87 Lote 88 Lote 89 Lote 90 Lote 91 Lote 92 Lote 93 Lote 94 Lote 95 Lote 96 Lote 97 Lote 98 Lote 99 Lote 100 Lote 101 Lote 102 Lote 103 Lote 104 Lote 105 Lote 106 Lote 107 Lote 108 Lote 109 Lote 110 Lote 111 Lote 112 Lote 113 Lote 114 Lote 115 Lote 116 Lote 117 Lote 118 Lote 119 Lote 120 Lote 121 Lote 122 Lote 123 Lote 124 Lote 125 Lote 126 Lote 127 Lote 128 Lote 129 Lote 130 Lote 131 Lote 132 Lote 133 Lote 134 Lote 135 Lote 136 Lote 137 Lote 138 Lote 139 Lote 140 Lote 141 Lote 142 Lote 143 Lote 144 Lote 145 Lote 146 Lote 147 Lote 148 Lote 149 Lote 150 Lote 151 Lote 152 Lote 153 Lote 154 Lote 155 Lote 156 Lote 157 Lote 158 Lote 159 Lote 160 Lote 161 Lote 162 Lote 163 Lote 164 Lote 165 Lote 166 Lote 167 Lote 168 Lote 169 Lote 170 Lote 171 Lote 172 Lote 173 Lote 174 Lote 175 Lote 176 Lote 177 Lote 178 Lote 179 Lote 180 Lote 181 Lote 182 Lote 183 Lote 184 Lote 185 Lote 186 Lote 187 Lote 188 Lote 189 Lote 190 Lote 191 Lote 192 Lote 193 Lote 194 Lote 195 Lote 196 Lote 197 Lote 198 Lote 199 Lote 200 Lote 201 Lote 202 Lote 203 IMÓVEL DESOCUPADO Área 133 m2 Vagas 1 Localização Rua Leopoldo Fischer, 266, Atiradores, Joinville, SC Comitente BANCO SANTANDER S.A. Leiloeiro Fernando José Cerello G. Pereira JUCESP Nº 844 - Leiloeiro oficial do Estado de São Paulo JUCEMG Nº 1192 - Leiloeiro oficial do Estado de Minas Gerais JUCEMAT Nº 73 - Leiloeiro oficial do Estado de Mato Grosso Valor de Avaliação R$ 890.000,00 ( Oitocentos e noventa mil reais) . A descrição dos lotes é uma cópia fiel das informações fornecidas pelos cartórios, comitente ou outro órgão responsável pelo bem. O bem será vendido no estado em que se encontra conforme edital publicado. Reservamo-nos o direito de corrigir possíveis erros de digitação. Cumpre informar, que nos leilões Judiciais e de Falência, o pro"
-        },
-        "newly_discovered_at": "2026-10-24T08:08:01-03:00"
-      },
-      "corrected_fields": {
-        "source_listing_ids": [
-          "X130810"
-        ],
-        "area_privative_m2": 133.65,
-        "area_built_m2": 133.65,
-        "registry_office": null,
-        "auctioneer": "Fernando José Cerello G. Pereira",
-        "seller": "BANCO SANTANDER S.A.",
-        "modality": "extrajudicial",
-        "payment_conditions": null,
-        "document_urls": [
-          "https://cdn1.megaleiloes.com.br/auctions/35058/megaleiloes_edital__261023-082159.pdf",
-          "https://cdn1.megaleiloes.com.br/batches/130810/megaleiloes_matricula_X130810.pdf"
-        ],
-        "field_verification": {
-          "city": "declared",
-          "property_type": "declared",
-          "appraisal_value_brl": "declared",
-          "first_minimum_bid_brl": "unknown",
-          "second_minimum_bid_brl": "unknown",
-          "current_minimum_bid_brl": "declared",
-          "occupancy": "declared",
-          "registry_number": "declared",
-          "auction_events": "declared",
-          "source_listing_price_brl": "declared",
-          "official_url": "verified",
-          "edital_url": "verified",
-          "registry_office": "unknown",
-          "payment_conditions": "unknown",
-          "modality": "declared",
-          "seller": "declared",
-          "auctioneer": "declared",
-          "area_privative_m2": "declared",
-          "area_built_m2": "declared",
-          "area_total_m2": "unknown"
-        }
-      }
-    },
-    {
-      "property_id": "1325716fc2c25e3ed88d",
-      "reason": "Texto de cidade capturado como cartório sem evidência explícita; campo mantido desconhecido.",
-      "field": "registry_office",
-      "before": "O CAMBORIU 📍 Balneário Camboriú",
-      "after": null
-    },
-    {
-      "property_id": "edcdb81e525e12d4d098",
-      "reason": "Texto de cidade capturado como cartório sem evidência explícita; campo mantido desconhecido.",
-      "field": "registry_office",
-      "before": "o Camboriú",
-      "after": null
-    }
-  ],
   "validation_status": "passed_with_isolated_conflicts",
   "photo_report": "data/image-report.json",
   "pipeline_exit_codes": {
@@ -1136,15 +2100,16 @@
     "monitor.ensure_images": 1,
     "monitor.photo_policy": 0
   },
-  "validation_finished_at": "2026-10-24T08:11:00-03:00",
   "validation_notes": [
-    "156 identidades anteriores preservadas; 10 identidades novas nesta data local.",
-    "Colisão conhecida de Joinville isolada; colisão antiga de Rio do Sul restaurada a partir da última versão sem mescla no Git. Nenhum evento anterior apagado.",
-    "Duas fotos ausentes; recuperação respeitou HTTP 403, placeholder permitido.",
-    "32 testes aprovados."
+    "166 identidades anteriores preservadas; nenhuma identidade nova nesta data local.",
+    "Duas colisões atuais e cinco observações inconsistentes isoladas com restauração integral dos registros anteriores, incluindo fotos.",
+    "Histórico anterior integralmente preservado; eventos desta execução refletem somente diferenças válidas na base final.",
+    "Fotos anteriores preservadas, agregando somente novas URLs da galeria do próprio anúncio; duas ausências com placeholder permitido.",
+    "32 testes do repositório aprovados."
   ],
-  "collection_finished_at": "2026-10-24T08:08:01-03:00",
-  "collection_duration_seconds": 706.04,
+  "collection_finished_at": "2026-10-25T08:10:14-03:00",
+  "collection_duration_seconds": 800.71,
+  "validation_finished_at": "2026-10-25T08:11:50-03:00",
   "validation_checks": {
     "json_files": 6,
     "unique_ids": 166,
@@ -1152,8 +2117,9 @@
     "previous_ids_preserved": true,
     "previous_history_preserved": true,
     "discovery_dates_preserved": true,
-    "photo_policy": "passed",
+    "previous_photos_preserved": true,
     "photo_listing_identity": "passed",
+    "photo_policy": "passed",
     "tests_passed": 32
   }
 }
