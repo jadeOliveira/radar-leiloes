@@ -1,8 +1,10 @@
 {
-  "checked_at": "2026-10-26T08:45:31-03:00",
-  "total_listings": 175,
-  "listings_with_images": 173,
-  "recovered_ids": [],
+  "checked_at": "2026-10-26T10:45:25-03:00",
+  "total_listings": 185,
+  "listings_with_images": 183,
+  "recovered_ids": [
+    "435a0e5ffc96da5b1319"
+  ],
   "missing_image_ids": [
     "90d48537555d97f4526c",
     "208e5cb631fadc27dcaa"

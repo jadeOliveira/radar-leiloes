@@ -4140,6 +4140,162 @@
           "detected_at": "2026-10-26T08:45:21-03:00"
         }
       ]
+    },
+    {
+      "run_id": "993c8cbc-78b2-49d1-8283-218cef732ff3",
+      "detected_at": "2026-10-26T10:44:51-03:00",
+      "changes": [
+        {
+          "property_id": "add6dc6bb4a201b146c4",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-26T10:44:51-03:00"
+        },
+        {
+          "property_id": "9cc01182a839f1016f96",
+          "city": "Navegantes",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-26T10:44:51-03:00"
+        },
+        {
+          "property_id": "435a0e5ffc96da5b1319",
+          "city": "São Francisco do Sul",
+          "source_ids": [
+            "leiloeiro_publico"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-26T10:44:51-03:00"
+        },
+        {
+          "property_id": "5264b16672e827dcc35e",
+          "city": "São Francisco do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-26T10:44:51-03:00"
+        },
+        {
+          "property_id": "89707a65c2d41d274013",
+          "city": "São Francisco do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-26T10:44:51-03:00"
+        },
+        {
+          "property_id": "920f6d870cbc4b94700a",
+          "city": "São Francisco do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-26T10:44:51-03:00"
+        },
+        {
+          "property_id": "a03f4a2680d6793a6f16",
+          "city": "São Francisco do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-26T10:44:51-03:00"
+        },
+        {
+          "property_id": "b9e74d59ac58f9993d2a",
+          "city": "São Francisco do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-26T10:44:51-03:00"
+        },
+        {
+          "property_id": "eac5b8478800b83e666b",
+          "city": "São Francisco do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-26T10:44:51-03:00"
+        },
+        {
+          "property_id": "ed5bef9e918bccc3c7c8",
+          "city": "São Francisco do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-26T10:44:51-03:00"
+        }
+      ]
     }
   ]
 }
