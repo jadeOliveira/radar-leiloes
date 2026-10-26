@@ -3891,6 +3891,255 @@
           "detected_at": "2026-10-25T08:10:14-03:00"
         }
       ]
+    },
+    {
+      "run_id": "6bcd11ec-6c28-41ae-98ef-c872f3d5c1d2",
+      "detected_at": "2026-10-26T08:45:21-03:00",
+      "changes": [
+        {
+          "property_id": "3f862121f487cca878fd",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "image_urls",
+              "before": [
+                "https://hasta.com.br/foto/1942348/0.jpg",
+                "https://hasta.com.br/foto/1942348/1.jpg",
+                "https://hasta.com.br/foto/1942348/2.jpg",
+                "https://hasta.com.br/foto/1942348/3.jpg",
+                "https://hasta.com.br/foto/1942348/4.jpg"
+              ],
+              "after": [
+                "https://hasta.com.br/foto/1942348/0.jpg",
+                "https://hasta.com.br/foto/1942348/1.jpg",
+                "https://hasta.com.br/foto/1942348/2.jpg",
+                "https://hasta.com.br/foto/1942348/3.jpg",
+                "https://hasta.com.br/foto/1942348/4.jpg",
+                "https://hasta.com.br/foto/1942348/5.jpg"
+              ]
+            }
+          ],
+          "detected_at": "2026-10-26T08:45:21-03:00"
+        },
+        {
+          "property_id": "d4daf48a3d815ba9f4a5",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-26T08:45:21-03:00"
+        },
+        {
+          "property_id": "f79f117d76680f4f3bf0",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-26T08:45:21-03:00"
+        },
+        {
+          "property_id": "5e9ae9a7f2dab533f156",
+          "city": "Barra Velha",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-26T08:45:21-03:00"
+        },
+        {
+          "property_id": "0ccf972fdf5ca3ef2223",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-26T08:45:21-03:00"
+        },
+        {
+          "property_id": "1cafa2c48d2ab8f4382c",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "image_urls",
+              "before": [
+                "https://hasta.com.br/foto/1942356/0.jpg",
+                "https://hasta.com.br/foto/1942356/1.jpg",
+                "https://hasta.com.br/foto/1942356/2.jpg",
+                "https://hasta.com.br/foto/1942356/3.jpg",
+                "https://hasta.com.br/foto/1942356/4.jpg",
+                "https://hasta.com.br/foto/1942356/5.jpg",
+                "https://hasta.com.br/foto/1942356/6.jpg"
+              ],
+              "after": [
+                "https://hasta.com.br/foto/1942356/0.jpg",
+                "https://hasta.com.br/foto/1942356/1.jpg",
+                "https://hasta.com.br/foto/1942356/2.jpg",
+                "https://hasta.com.br/foto/1942356/3.jpg",
+                "https://hasta.com.br/foto/1942356/4.jpg",
+                "https://hasta.com.br/foto/1942356/5.jpg",
+                "https://hasta.com.br/foto/1942356/6.jpg",
+                "https://hasta.com.br/foto/1942356/7.jpg"
+              ]
+            }
+          ],
+          "detected_at": "2026-10-26T08:45:21-03:00"
+        },
+        {
+          "property_id": "2a82c2551cb5929c08ef",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-26T08:45:21-03:00"
+        },
+        {
+          "property_id": "3a87fa2d7018ca022639",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-26T08:45:21-03:00"
+        },
+        {
+          "property_id": "53ebef2c2ec3286d25da",
+          "city": "Joinville",
+          "source_ids": [
+            "mega_leiloes",
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "registry_office",
+              "before": "as Pesquisa Avançada FAQ Entrar ou Criar conta Valor inicial R$ 260",
+              "after": null
+            },
+            {
+              "field": "image_urls",
+              "before": [
+                "https://cdn1.megaleiloes.com.br/batches/130445/54ab297692cb9cfad546c4eef1e818b2_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130445/92bf84c33463b7c99a5c762c5ba0272b_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130445/81d2393b409a150746ace7bd6df49807_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130445/32bf756bab339759db74315d429c694d_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130445/52e8e7fc3d42d7c03a1165e8f0ad5459_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130445/35c386a6127d3b69d41461f70ecb2c97_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130445/362453d2f3aefcfce503b17d1c2f0476_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130445/be6d178b51552f2aa1156646a8f4338f_670x380.jpg"
+              ],
+              "after": [
+                "https://cdn1.megaleiloes.com.br/batches/130445/54ab297692cb9cfad546c4eef1e818b2_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130445/92bf84c33463b7c99a5c762c5ba0272b_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130445/81d2393b409a150746ace7bd6df49807_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130445/32bf756bab339759db74315d429c694d_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130445/52e8e7fc3d42d7c03a1165e8f0ad5459_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130445/35c386a6127d3b69d41461f70ecb2c97_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130445/362453d2f3aefcfce503b17d1c2f0476_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130445/be6d178b51552f2aa1156646a8f4338f_670x380.jpg",
+                "https://hasta.com.br/foto/2309036/0.jpg",
+                "https://hasta.com.br/foto/2309036/1.jpg",
+                "https://hasta.com.br/foto/2309036/2.jpg",
+                "https://hasta.com.br/foto/2309036/3.jpg",
+                "https://hasta.com.br/foto/2309036/4.jpg",
+                "https://hasta.com.br/foto/2309036/5.jpg",
+                "https://hasta.com.br/foto/2309036/6.jpg",
+                "https://hasta.com.br/foto/2309036/7.jpg",
+                "https://hasta.com.br/foto/2309036/8.jpg"
+              ]
+            }
+          ],
+          "detected_at": "2026-10-26T08:45:21-03:00"
+        },
+        {
+          "property_id": "a4613dacec3e5997f498",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-26T08:45:21-03:00"
+        },
+        {
+          "property_id": "be86f85c2a9b33f617e2",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-26T08:45:21-03:00"
+        },
+        {
+          "property_id": "f6a78df1cb8759d74973",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-10-26T08:45:21-03:00"
+        }
+      ]
     }
   ]
 }
