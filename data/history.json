@@ -4182,6 +4182,78 @@
         }
       ],
       "detected_at": "2026-10-26T10:44:51-03:00"
+    },
+    {
+      "property_id": "89e27b7fb5476fee9c81",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "image_urls",
+          "before": [
+            "https://hasta.com.br/foto/2249151/0.jpg"
+          ],
+          "after": [
+            "https://hasta.com.br/foto/2249151/0.jpg",
+            "https://hasta.com.br/foto/2249151/1.jpg",
+            "https://hasta.com.br/foto/2249151/2.jpg",
+            "https://hasta.com.br/foto/2249151/3.jpg"
+          ]
+        }
+      ],
+      "detected_at": "2026-10-27T08:19:35-03:00"
+    },
+    {
+      "property_id": "4869eb031114b1d0ba59",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "image_urls",
+          "before": [
+            "https://hasta.com.br/foto/556980/0.jpg"
+          ],
+          "after": [
+            "https://hasta.com.br/foto/556980/0.jpg",
+            "https://hasta.com.br/foto/556980/1.jpg"
+          ]
+        }
+      ],
+      "detected_at": "2026-10-27T08:19:35-03:00"
+    },
+    {
+      "property_id": "75f91401b44235122029",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-27T08:19:35-03:00"
+    },
+    {
+      "property_id": "ffa899954677882440c0",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-27T08:19:35-03:00"
     }
   ]
 }
