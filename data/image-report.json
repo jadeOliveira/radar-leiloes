@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-27T08:19:43-03:00",
+  "checked_at": "2026-10-28T09:02:35-03:00",
   "total_listings": 187,
   "listings_with_images": 185,
   "recovered_ids": [],
@@ -13,6 +13,5 @@
       "source_url": "https://www.leilaoimovel.com.br/imovel/sc/balneario-camboriu/residencial-apartamento-n-105-do-bloco-c-do-condominio-rubem-bento-residencial-situado-na-rua-jose-francisco-imovel-3044677?utm_source=chatgpt.com",
       "error": "Fonte limitada (HTTP 403); acesso não contornado."
     }
-  ],
-  "validation_note": "Contagens reconciliadas com base final após isolamento de observações inconsistentes."
+  ]
 }
