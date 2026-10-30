@@ -4462,6 +4462,156 @@
         }
       ],
       "detected_at": "2026-10-29T08:22:49-03:00"
+    },
+    {
+      "property_id": "1ff74318e6f034323726",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "source_listing_price_brl",
+          "before": 1573880.0,
+          "after": 1416492.0
+        }
+      ],
+      "detected_at": "2026-10-30T08:13:48-03:00"
+    },
+    {
+      "property_id": "60739d34f368032b17c7",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "source_listing_price_brl",
+          "before": 2207516.43,
+          "after": 2060348.67
+        }
+      ],
+      "detected_at": "2026-10-30T08:13:48-03:00"
+    },
+    {
+      "property_id": "80dc8c82250e1a10d2ef",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "source_listing_price_brl",
+          "before": 2242212.19,
+          "after": 2092731.38
+        }
+      ],
+      "detected_at": "2026-10-30T08:13:48-03:00"
+    },
+    {
+      "property_id": "f3c25a0d17ed0624873c",
+      "city": "Penha",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "image_urls",
+          "before": [
+            "https://hasta.com.br/foto/2346760/0.jpg"
+          ],
+          "after": [
+            "https://hasta.com.br/foto/2346760/0.jpg",
+            "https://hasta.com.br/foto/2346760/1.jpg",
+            "https://hasta.com.br/foto/2346760/2.jpg",
+            "https://hasta.com.br/foto/2346760/3.jpg",
+            "https://hasta.com.br/foto/2346760/4.jpg",
+            "https://hasta.com.br/foto/2346760/5.jpg",
+            "https://hasta.com.br/foto/2346760/6.jpg",
+            "https://hasta.com.br/foto/2346760/7.jpg",
+            "https://hasta.com.br/foto/2346760/8.jpg",
+            "https://hasta.com.br/foto/2346760/9.jpg",
+            "https://hasta.com.br/foto/2346760/10.jpg",
+            "https://hasta.com.br/foto/2346760/11.jpg"
+          ]
+        }
+      ],
+      "detected_at": "2026-10-30T08:13:48-03:00"
+    },
+    {
+      "property_id": "349c40f306e13a389952",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-30T08:13:48-03:00"
+    },
+    {
+      "property_id": "8c47e0e0f5126ed103c3",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-30T08:13:48-03:00"
+    },
+    {
+      "property_id": "a10f1e7ace90e7d5f9e3",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-30T08:13:48-03:00"
+    },
+    {
+      "property_id": "17aeec3dcb7c2a4a7b01",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-30T08:13:48-03:00"
+    },
+    {
+      "property_id": "0e40b4e8618d3d8e4d9a",
+      "city": "Penha",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-10-30T08:13:48-03:00"
     }
   ]
 }

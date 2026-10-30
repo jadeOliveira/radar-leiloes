@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T08:22:49-03:00",
+  "updated_at": "2026-10-30T08:13:48-03:00",
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -327,6 +327,78 @@
         "raw_text": "Apartamento APARTAMENTO BALNEARIO CAMBORIU 📍 Balneário Camboriú, SC R$ 1.200.000,00"
       },
       "newly_discovered_at": "2026-10-24T08:08:01-03:00"
+    },
+    {
+      "id": "17aeec3dcb7c2a4a7b01",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1562632-balneario-camboriu-sc-apartamento"
+      ],
+      "city": "Balneário Camboriú",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Apartamento",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 901831.5,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/1562632-balneario-camboriu-sc-apartamento",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1562632/0.jpg"
+      ],
+      "first_seen_at": "2026-10-30T08:08:05-03:00",
+      "last_checked_at": "2026-10-30T08:13:48-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified",
+        "registry_office": "unknown"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/1562632-balneario-camboriu-sc-apartamento",
+        "is_aggregator": true,
+        "raw_text": "Apartamento BALNEÁRIO CAMBORIÚ (SC): APARTAMENTO 📍 Balneário Camboriú, SC R$ 901.831,50 50% OFF"
+      },
+      "newly_discovered_at": "2026-10-30T08:13:48-03:00"
     },
     {
       "id": "1c43d8800821095acc99",
@@ -661,6 +733,80 @@
       },
       "newly_discovered_at": "2026-10-20T10:11:11-03:00",
       "image_source_url": "https://hasta.com.br/imovel/1083274-apartamento-em-balneario-camboriu-sc-lote-001-id-4396"
+    },
+    {
+      "id": "349c40f306e13a389952",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2375238-terreno-urbano-com-210-800m2-margens-br-101-oeste-em-balneario-camboriu-sc"
+      ],
+      "city": "Balneário Camboriú",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Terreno",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": 210800.0,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 4700250.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2375238-terreno-urbano-com-210-800m2-margens-br-101-oeste-em-balneario-camboriu-sc",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2375238/0.jpg"
+      ],
+      "first_seen_at": "2026-10-30T08:08:54-03:00",
+      "last_checked_at": "2026-10-30T08:13:48-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified",
+        "registry_office": "unknown",
+        "area_total_m2": "declared",
+        "area_privative_m2": "unknown"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2375238-terreno-urbano-com-210-800m2-margens-br-101-oeste-em-balneario-camboriu-sc",
+        "is_aggregator": true,
+        "raw_text": "Imóvel TERRENO URBANO COM 210.800M² MARGENS BR 101 OESTE EM BALNEÁRIO CAMBORIÚ SC 📍 Balneário Camboriú, SC R$ 4.700.250,00 25% OFF"
+      },
+      "newly_discovered_at": "2026-10-30T08:13:48-03:00"
     },
     {
       "id": "35b30aac192a4fe40fdf",
@@ -5129,7 +5275,7 @@
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": null,
-      "source_listing_price_brl": 1573880.0,
+      "source_listing_price_brl": 1416492.0,
       "discount_on_appraisal_percent": null,
       "auction_events": [],
       "commission_percent": null,
@@ -5145,7 +5291,7 @@
         "https://hasta.com.br/foto/1067948/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-10-27T08:19:35-03:00",
+      "last_checked_at": "2026-10-30T08:13:48-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5170,7 +5316,7 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1067948-2a-vara-federal-de-joinville-lote-001-id-3061",
         "is_aggregator": true,
-        "raw_text": "Terreno 2ª Vara Federal de Joinville - Lote 001 (ID 3061) 📍 Joinville, SC R$ 1.573.880,00",
+        "raw_text": "Terreno 2ª Vara Federal de Joinville - Lote 001 (ID 3061) 📍 Joinville, SC R$ 1.416.492,00",
         "source_listing_urls": [
           "https://hasta.com.br/imovel/1067948-2a-vara-federal-de-joinville-lote-001-id-3061"
         ]
@@ -7995,7 +8141,7 @@
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": null,
-      "source_listing_price_brl": 2207516.43,
+      "source_listing_price_brl": 2060348.67,
       "discount_on_appraisal_percent": null,
       "auction_events": [],
       "commission_percent": null,
@@ -8015,7 +8161,7 @@
         "https://hasta.com.br/foto/2027069/4.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-27T08:19:35-03:00",
+      "last_checked_at": "2026-10-30T08:13:48-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8040,7 +8186,7 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2027069-direitos-aquisitivos-em-face-de-plaza-monet-incorporacao-spe-ltda-a-um-apartamen",
         "is_aggregator": true,
-        "raw_text": "Apartamento Direitos aquisitivos em face de plaza monet incorporação spe ltda- (a) um apartamento de n°1112, 11º pavimento, do residencial plaza monet 📍 Joinville, SC R$ 2.207.516,43",
+        "raw_text": "Apartamento Direitos aquisitivos em face de plaza monet incorporação spe ltda- (a) um apartamento de n°1112, 11º pavimento, do residencial plaza monet 📍 Joinville, SC R$ 2.060.348,67",
         "source_listing_urls": [
           "https://hasta.com.br/imovel/2027069-direitos-aquisitivos-em-face-de-plaza-monet-incorporacao-spe-ltda-a-um-apartamen"
         ]
@@ -9350,7 +9496,7 @@
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": null,
-      "source_listing_price_brl": 2242212.19,
+      "source_listing_price_brl": 2092731.38,
       "discount_on_appraisal_percent": null,
       "auction_events": [],
       "commission_percent": null,
@@ -9370,7 +9516,7 @@
         "https://hasta.com.br/foto/2027070/4.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-27T08:19:35-03:00",
+      "last_checked_at": "2026-10-30T08:13:48-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9395,7 +9541,7 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2027070-direitos-aquisitivos-em-face-de-plaza-monet-incorporacao-spe-ltda-a-um-apartamen",
         "is_aggregator": true,
-        "raw_text": "Apartamento Direitos aquisitivos em face de plaza monet incorporação spe ltda- (a) um apartamento de n°1012, 10º pavimento, do residencial plaza monet e suas respectivas vagas de garagem. 📍 Joinville, SC R$ 2.242.212,19",
+        "raw_text": "Apartamento Direitos aquisitivos em face de plaza monet incorporação spe ltda- (a) um apartamento de n°1012, 10º pavimento, do residencial plaza monet e suas respectivas vagas de garagem. 📍 Joinville, SC R$ 2.092.731,38",
         "source_listing_urls": [
           "https://hasta.com.br/imovel/2027070-direitos-aquisitivos-em-face-de-plaza-monet-incorporacao-spe-ltda-a-um-apartamen"
         ]
@@ -10446,6 +10592,79 @@
       },
       "newly_discovered_at": "2026-10-20T10:11:11-03:00",
       "image_source_url": "https://hasta.com.br/imovel/2123226-apartamento-em-leilao-em-joinville-sc-3049029"
+    },
+    {
+      "id": "a10f1e7ace90e7d5f9e3",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [
+        "001"
+      ],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2216726-terreno-gloria-joinville-sc"
+      ],
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Terreno",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": "001",
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 790216.51,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2216726-terreno-gloria-joinville-sc",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2216726/0.jpg"
+      ],
+      "first_seen_at": "2026-10-30T08:06:07-03:00",
+      "last_checked_at": "2026-10-30T08:13:48-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2216726-terreno-gloria-joinville-sc",
+        "is_aggregator": true,
+        "raw_text": "Terreno Lote 001 📍 Joinville, SC R$ 790.216,51"
+      },
+      "newly_discovered_at": "2026-10-30T08:13:48-03:00"
     },
     {
       "id": "a4613dacec3e5997f498",
@@ -14268,6 +14487,83 @@
       "image_source_url": "https://hasta.com.br/imovel/585659-terreno-c-79-910-54-m2-rod-sc-414-penha-sc"
     },
     {
+      "id": "0e40b4e8618d3d8e4d9a",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/523713-casa-em-penha-sc"
+      ],
+      "city": "Penha",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Casa",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 661500.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/523713-casa-em-penha-sc",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/523713/0.jpg",
+        "https://hasta.com.br/foto/523713/1.jpg",
+        "https://hasta.com.br/foto/523713/2.jpg",
+        "https://hasta.com.br/foto/523713/3.jpg",
+        "https://hasta.com.br/foto/523713/4.jpg",
+        "https://hasta.com.br/foto/523713/5.jpg",
+        "https://hasta.com.br/foto/523713/6.jpg"
+      ],
+      "first_seen_at": "2026-10-30T08:09:42-03:00",
+      "last_checked_at": "2026-10-30T08:13:48-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/523713-casa-em-penha-sc",
+        "is_aggregator": true,
+        "raw_text": "Casa Casa em Penha/SC 📍 Penha, SC R$ 661.500,00"
+      },
+      "newly_discovered_at": "2026-10-30T08:13:48-03:00"
+    },
+    {
       "id": "f3c25a0d17ed0624873c",
       "source_ids": [
         "hasta"
@@ -14307,10 +14603,21 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
-        "https://hasta.com.br/foto/2346760/0.jpg"
+        "https://hasta.com.br/foto/2346760/0.jpg",
+        "https://hasta.com.br/foto/2346760/1.jpg",
+        "https://hasta.com.br/foto/2346760/2.jpg",
+        "https://hasta.com.br/foto/2346760/3.jpg",
+        "https://hasta.com.br/foto/2346760/4.jpg",
+        "https://hasta.com.br/foto/2346760/5.jpg",
+        "https://hasta.com.br/foto/2346760/6.jpg",
+        "https://hasta.com.br/foto/2346760/7.jpg",
+        "https://hasta.com.br/foto/2346760/8.jpg",
+        "https://hasta.com.br/foto/2346760/9.jpg",
+        "https://hasta.com.br/foto/2346760/10.jpg",
+        "https://hasta.com.br/foto/2346760/11.jpg"
       ],
       "first_seen_at": "2026-10-29T08:18:34-03:00",
-      "last_checked_at": "2026-10-29T08:22:49-03:00",
+      "last_checked_at": "2026-10-30T08:13:48-03:00",
       "classification": "B",
       "risk_flags": [
         "aggregator_listing_unverified"
@@ -14327,13 +14634,17 @@
         "auction_events": "unknown",
         "source_listing_price_brl": "declared",
         "official_url": "unverified",
-        "auctioneer": "unverified"
+        "auctioneer": "unverified",
+        "address": "unknown"
       },
       "provenance": {
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2346760-lote-unico-desocupado-penha-sc-leilao-id-5958-lote-1-apartamento-com-vagas-em-pe",
         "is_aggregator": true,
-        "raw_text": "Apartamento LOTE ÚNICO DESOCUPADO Penha - SC Leilão ID 5958 LOTE 1 APARTAMENTO COM VAGAS EM PENHA/SC Modalidade: 📍 Penha, SC R$ 1.729.000,00"
+        "raw_text": "Apartamento LOTE ÚNICO DESOCUPADO Penha - SC Leilão ID 5958 LOTE 1 APARTAMENTO COM VAGAS EM PENHA/SC Modalidade: 📍 Penha, SC R$ 1.729.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2346760-lote-unico-desocupado-penha-sc-leilao-id-5958-lote-1-apartamento-com-vagas-em-pe"
+        ]
       },
       "newly_discovered_at": "2026-10-29T08:22:49-03:00"
     },
@@ -14819,6 +15130,82 @@
       },
       "newly_discovered_at": "2026-10-20T10:11:11-03:00",
       "image_source_url": "https://hasta.com.br/imovel/2092507-venda-direta-de-imovel-em-rio-do-sul-sc-1a-vara-civel-de-rio-do-sul-sc-lote-001"
+    },
+    {
+      "id": "8c47e0e0f5126ed103c3",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2384159-casa-em-itoupava-rio-do-sul-sc"
+      ],
+      "city": "Rio do Sul",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Casa",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 181500.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2384159-casa-em-itoupava-rio-do-sul-sc",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2384159/0.jpg",
+        "https://hasta.com.br/foto/2384159/1.jpg",
+        "https://hasta.com.br/foto/2384159/2.jpg",
+        "https://hasta.com.br/foto/2384159/3.jpg",
+        "https://hasta.com.br/foto/2384159/4.jpg"
+      ],
+      "first_seen_at": "2026-10-30T08:10:26-03:00",
+      "last_checked_at": "2026-10-30T08:13:48-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified",
+        "registry_office": "unknown"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2384159-casa-em-itoupava-rio-do-sul-sc",
+        "is_aggregator": true,
+        "raw_text": "Casa Casa em Itoupava, Rio do Sul SC 📍 Rio do Sul, SC R$ 181.500,00"
+      },
+      "newly_discovered_at": "2026-10-30T08:13:48-03:00"
     },
     {
       "id": "a766c05ab6f4a23d03fb",
@@ -15830,8 +16217,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.4,
-      "finished_at": "2026-10-29T08:10:05-03:00"
+      "duration_seconds": 0.22,
+      "finished_at": "2026-10-30T08:01:05-03:00"
     },
     {
       "source_id": "caixa",
@@ -15850,8 +16237,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 3.56,
-      "finished_at": "2026-10-29T08:10:09-03:00"
+      "duration_seconds": 2.13,
+      "finished_at": "2026-10-30T08:01:08-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -15870,9 +16257,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 33.48,
-      "finished_at": "2026-10-29T08:10:42-03:00",
-      "last_success_at": "2026-10-29T08:10:42-03:00"
+      "duration_seconds": 57.57,
+      "finished_at": "2026-10-30T08:02:05-03:00",
+      "last_success_at": "2026-10-30T08:02:05-03:00"
     },
     {
       "source_id": "superbid",
@@ -15891,8 +16278,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.12,
-      "finished_at": "2026-10-29T08:10:43-03:00"
+      "duration_seconds": 0.16,
+      "finished_at": "2026-10-30T08:02:05-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -15911,8 +16298,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.85,
-      "finished_at": "2026-10-29T08:10:45-03:00"
+      "duration_seconds": 3.99,
+      "finished_at": "2026-10-30T08:02:09-03:00"
     },
     {
       "source_id": "duarte",
@@ -15931,9 +16318,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 21.69,
-      "finished_at": "2026-10-29T08:11:07-03:00",
-      "last_success_at": "2026-10-29T08:11:07-03:00"
+      "duration_seconds": 28.32,
+      "finished_at": "2026-10-30T08:02:38-03:00",
+      "last_success_at": "2026-10-30T08:02:38-03:00"
     },
     {
       "source_id": "zampieri",
@@ -15952,9 +16339,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 6.06,
-      "finished_at": "2026-10-29T08:11:13-03:00",
-      "last_success_at": "2026-10-29T08:11:13-03:00"
+      "duration_seconds": 5.94,
+      "finished_at": "2026-10-30T08:02:44-03:00",
+      "last_success_at": "2026-10-30T08:02:44-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -15973,9 +16360,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.57,
-      "finished_at": "2026-10-29T08:11:16-03:00",
-      "last_success_at": "2026-10-29T08:11:16-03:00"
+      "duration_seconds": 4.13,
+      "finished_at": "2026-10-30T08:02:48-03:00",
+      "last_success_at": "2026-10-30T08:02:48-03:00"
     },
     {
       "source_id": "freitas",
@@ -15994,9 +16381,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 8.22,
-      "finished_at": "2026-10-29T08:11:24-03:00",
-      "last_success_at": "2026-10-29T08:11:24-03:00"
+      "duration_seconds": 7.91,
+      "finished_at": "2026-10-30T08:02:56-03:00",
+      "last_success_at": "2026-10-30T08:02:56-03:00"
     },
     {
       "source_id": "comprei",
@@ -16016,7 +16403,7 @@
         "São Francisco do Sul": 0
       },
       "duration_seconds": 1.29,
-      "finished_at": "2026-10-29T08:11:26-03:00"
+      "finished_at": "2026-10-30T08:02:57-03:00"
     },
     {
       "source_id": "sampaio",
@@ -16035,9 +16422,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 18.55,
-      "finished_at": "2026-10-29T08:11:44-03:00",
-      "last_success_at": "2026-10-29T08:11:44-03:00"
+      "duration_seconds": 18.49,
+      "finished_at": "2026-10-30T08:03:16-03:00",
+      "last_success_at": "2026-10-30T08:03:16-03:00"
     },
     {
       "source_id": "machado",
@@ -16056,30 +16443,30 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 3.06,
-      "finished_at": "2026-10-29T08:11:47-03:00",
-      "last_success_at": "2026-10-29T08:11:47-03:00"
+      "duration_seconds": 3.11,
+      "finished_at": "2026-10-30T08:03:19-03:00",
+      "last_success_at": "2026-10-30T08:03:19-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
       "status": "success",
-      "pages_read": 13,
-      "listings_found": 156,
+      "pages_read": 12,
+      "listings_found": 148,
       "error": null,
       "listings_by_city": {
-        "Joinville": 100,
-        "Balneário Camboriú": 24,
+        "Joinville": 95,
+        "Balneário Camboriú": 22,
         "Balneário Piçarras": 1,
         "Barra Velha": 7,
-        "Penha": 2,
+        "Penha": 3,
         "Navegantes": 4,
-        "Rio do Sul": 11,
-        "São Francisco do Sul": 7
+        "Rio do Sul": 12,
+        "São Francisco do Sul": 4
       },
-      "duration_seconds": 492.76,
-      "finished_at": "2026-10-29T08:20:00-03:00",
-      "last_success_at": "2026-10-29T08:20:00-03:00"
+      "duration_seconds": 461.66,
+      "finished_at": "2026-10-30T08:11:01-03:00",
+      "last_success_at": "2026-10-30T08:11:01-03:00"
     },
     {
       "source_id": "hasta_publica",
@@ -16098,9 +16485,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 56.9,
-      "finished_at": "2026-10-29T08:20:57-03:00",
-      "last_success_at": "2026-10-29T08:20:57-03:00"
+      "duration_seconds": 56.26,
+      "finished_at": "2026-10-30T08:11:57-03:00",
+      "last_success_at": "2026-10-30T08:11:57-03:00"
     },
     {
       "source_id": "leiloeiro_publico",
@@ -16119,9 +16506,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 1
       },
-      "duration_seconds": 111.96,
-      "finished_at": "2026-10-29T08:22:49-03:00",
-      "last_success_at": "2026-10-29T08:22:49-03:00"
+      "duration_seconds": 111.01,
+      "finished_at": "2026-10-30T08:13:48-03:00",
+      "last_success_at": "2026-10-30T08:13:48-03:00"
     }
   ]
 }
