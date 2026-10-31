@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T08:13:48-03:00",
+  "updated_at": "2026-10-31T08:13:42-03:00",
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -2021,6 +2021,89 @@
       "newly_discovered_at": "2026-10-22T09:59:31-03:00"
     },
     {
+      "id": "c2bb77b2f5e5578fdedb",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1270343-apartamento-no-centro-de-balneario-camboriu-sc-1-suite-terraco-vaga-ao-lado-do-a"
+      ],
+      "city": "Balneário Camboriú",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Apartamento",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 690000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/1270343-apartamento-no-centro-de-balneario-camboriu-sc-1-suite-terraco-vaga-ao-lado-do-a",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1270343/0.jpg",
+        "https://hasta.com.br/foto/1270343/1.jpg",
+        "https://hasta.com.br/foto/1270343/2.jpg",
+        "https://hasta.com.br/foto/1270343/3.jpg",
+        "https://hasta.com.br/foto/1270343/4.jpg",
+        "https://hasta.com.br/foto/1270343/5.jpg",
+        "https://hasta.com.br/foto/1270343/6.jpg",
+        "https://hasta.com.br/foto/1270343/7.jpg",
+        "https://hasta.com.br/foto/1270343/8.jpg",
+        "https://hasta.com.br/foto/1270343/9.jpg",
+        "https://hasta.com.br/foto/1270343/10.jpg",
+        "https://hasta.com.br/foto/1270343/11.jpg"
+      ],
+      "first_seen_at": "2026-10-31T08:08:53-03:00",
+      "last_checked_at": "2026-10-31T08:13:42-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified",
+        "registry_office": "unknown"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/1270343-apartamento-no-centro-de-balneario-camboriu-sc-1-suite-terraco-vaga-ao-lado-do-a",
+        "is_aggregator": true,
+        "raw_text": "Apartamento APARTAMENTO NO CENTRO DE BALNEÁRIO CAMBORIÚ/SC 1 SUÍTE | TERRAÇO | VAGA - Ao lado do Atlântico Shopping Center 📍 Balneário Camboriú, SC R$ 690.000,00 20% OFF"
+      },
+      "newly_discovered_at": "2026-10-31T08:13:42-03:00"
+    },
+    {
       "id": "c7c851cf14061ca175e9",
       "source_ids": [
         "hasta"
@@ -2353,6 +2436,89 @@
         "raw_text": "Apartamento Apartamento, padrão, 1 vaga(s) de garagem 📍 Balneário Camboriú, SC R$ 655.200,00"
       },
       "newly_discovered_at": "2026-10-26T08:45:21-03:00"
+    },
+    {
+      "id": "d91d57deae7279989f86",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2389905-loteamento-jardim-brusque"
+      ],
+      "city": "Balneário Camboriú",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Terreno",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 3430000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2389905-loteamento-jardim-brusque",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2389905/0.jpg",
+        "https://hasta.com.br/foto/2389905/1.jpg",
+        "https://hasta.com.br/foto/2389905/2.jpg",
+        "https://hasta.com.br/foto/2389905/3.jpg",
+        "https://hasta.com.br/foto/2389905/4.jpg",
+        "https://hasta.com.br/foto/2389905/5.jpg",
+        "https://hasta.com.br/foto/2389905/6.jpg",
+        "https://hasta.com.br/foto/2389905/7.jpg",
+        "https://hasta.com.br/foto/2389905/8.jpg",
+        "https://hasta.com.br/foto/2389905/9.jpg",
+        "https://hasta.com.br/foto/2389905/10.jpg",
+        "https://hasta.com.br/foto/2389905/11.jpg"
+      ],
+      "first_seen_at": "2026-10-31T08:08:15-03:00",
+      "last_checked_at": "2026-10-31T08:13:42-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified",
+        "registry_office": "unknown"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2389905-loteamento-jardim-brusque",
+        "is_aggregator": true,
+        "raw_text": "Terreno Loteamento jardim brusque 📍 Balneário Camboriú, SC R$ 3.430.000,00"
+      },
+      "newly_discovered_at": "2026-10-31T08:13:42-03:00"
     },
     {
       "id": "e98e0977d4e843841950",
@@ -5021,7 +5187,7 @@
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": null,
-      "source_listing_price_brl": 217666.0,
+      "source_listing_price_brl": 178517.46,
       "discount_on_appraisal_percent": null,
       "auction_events": [],
       "commission_percent": null,
@@ -5043,7 +5209,7 @@
         "https://hasta.com.br/foto/2106474/6.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-27T08:19:35-03:00",
+      "last_checked_at": "2026-10-31T08:13:42-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5068,7 +5234,7 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2106474-imoveis-relacionados",
         "is_aggregator": true,
-        "raw_text": "Apartamento Imóveis relacionados 📍 Joinville, SC R$ 217.666,00",
+        "raw_text": "Apartamento Imóveis relacionados 📍 Joinville, SC R$ 178.517,46",
         "source_listing_urls": [
           "https://hasta.com.br/imovel/2106474-imoveis-relacionados"
         ]
@@ -5247,6 +5413,85 @@
       "image_source_url": "https://hasta.com.br/imovel/999607-casa-residencial-gloria-3-dormitorio-s-1-vaga-s-de-garagem"
     },
     {
+      "id": "1d5d546c18222b744ace",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [
+        "001"
+      ],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2346553-terreno-boehmerwald-joinville-sc"
+      ],
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Terreno",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": "001",
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 284457.5,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2346553-terreno-boehmerwald-joinville-sc",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2346553/0.jpg",
+        "https://hasta.com.br/foto/2346553/1.jpg",
+        "https://hasta.com.br/foto/2346553/2.jpg",
+        "https://hasta.com.br/foto/2346553/3.jpg",
+        "https://hasta.com.br/foto/2346553/4.jpg",
+        "https://hasta.com.br/foto/2346553/5.jpg"
+      ],
+      "first_seen_at": "2026-10-31T08:05:32-03:00",
+      "last_checked_at": "2026-10-31T08:13:42-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified",
+        "registry_office": "unknown"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2346553-terreno-boehmerwald-joinville-sc",
+        "is_aggregator": true,
+        "raw_text": "Terreno Lote 001 📍 Joinville, SC R$ 284.457,50"
+      },
+      "newly_discovered_at": "2026-10-31T08:13:42-03:00"
+    },
+    {
       "id": "1ff74318e6f034323726",
       "source_ids": [
         "hasta"
@@ -5323,6 +5568,83 @@
       },
       "newly_discovered_at": "2026-10-20T10:11:11-03:00",
       "image_source_url": "https://hasta.com.br/imovel/1067948-2a-vara-federal-de-joinville-lote-001-id-3061"
+    },
+    {
+      "id": "20864dbc2b3016b65cb3",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [
+        "001"
+      ],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2392630-apartamento-jardim-paraiso-joinville-sc"
+      ],
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Apartamento",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": "001",
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 120000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2392630-apartamento-jardim-paraiso-joinville-sc",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2392630/0.jpg",
+        "https://hasta.com.br/foto/2392630/1.jpg",
+        "https://hasta.com.br/foto/2392630/2.jpg",
+        "https://hasta.com.br/foto/2392630/3.jpg"
+      ],
+      "first_seen_at": "2026-10-31T08:06:11-03:00",
+      "last_checked_at": "2026-10-31T08:13:42-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified",
+        "registry_office": "unknown"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2392630-apartamento-jardim-paraiso-joinville-sc",
+        "is_aggregator": true,
+        "raw_text": "Apartamento LOTE 001 📍 Joinville, SC R$ 120.000,00"
+      },
+      "newly_discovered_at": "2026-10-31T08:13:42-03:00"
     },
     {
       "source_ids": [
@@ -5415,6 +5737,83 @@
       },
       "id": "208e5cb631fadc27dcaa",
       "newly_discovered_at": "2026-10-22T08:00:00-03:00"
+    },
+    {
+      "id": "2985dee62a2a7b9d7598",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [
+        "001"
+      ],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2392638-apartamento-joinville-sc"
+      ],
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Apartamento",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": "001",
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 90000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2392638-apartamento-joinville-sc",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2392638/0.jpg",
+        "https://hasta.com.br/foto/2392638/1.jpg",
+        "https://hasta.com.br/foto/2392638/2.jpg",
+        "https://hasta.com.br/foto/2392638/3.jpg"
+      ],
+      "first_seen_at": "2026-10-31T08:06:10-03:00",
+      "last_checked_at": "2026-10-31T08:13:42-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified",
+        "registry_office": "unknown"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2392638-apartamento-joinville-sc",
+        "is_aggregator": true,
+        "raw_text": "Apartamento LOTE 001 📍 Joinville, SC R$ 90.000,00"
+      },
+      "newly_discovered_at": "2026-10-31T08:13:42-03:00"
     },
     {
       "id": "2a82c2551cb5929c08ef",
@@ -9389,6 +9788,95 @@
       "image_source_url": "https://hasta.com.br/imovel/1824383-apartamento-no-bairro-jardim-paraiso-em-joinville-sc-lote-001-id-8412"
     },
     {
+      "id": "7e528738cce1268fcdde",
+      "source_ids": [
+        "mega_leiloes"
+      ],
+      "source_listing_ids": [
+        "X131109"
+      ],
+      "source_listing_urls": [
+        "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-129-m2-bucarein-joinville-sc-x131109?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-129-m2-bucarein-joinville-sc-x131109&utm_term=X131109&utm_content=link"
+      ],
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": "Bucarein",
+      "address": "Rua Ministro Calógeras, 956, Bucarein, Joinville, SC",
+      "property_type": "Apartamento",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": 129.0,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": "128",
+      "auctioneer": "Fernando José Cerello G. Pereira",
+      "seller": "ITAÚ UNIBANCO S/A",
+      "modality": "extrajudicial",
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": 400000.0,
+      "source_listing_price_brl": 400000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [
+        {
+          "date": "2026-11-09",
+          "time": "17:07",
+          "minimum_bid_brl": null,
+          "stage": "first"
+        }
+      ],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "active",
+      "official_url": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-129-m2-bucarein-joinville-sc-x131109?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-129-m2-bucarein-joinville-sc-x131109&utm_term=X131109&utm_content=link",
+      "source_listing_url": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-129-m2-bucarein-joinville-sc-x131109?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-129-m2-bucarein-joinville-sc-x131109&utm_term=X131109&utm_content=link",
+      "validation_status": "verified",
+      "edital_url": "https://cdn1.megaleiloes.com.br/auctions/35100/megaleiloes_edital_ML35100_261030-183222.pdf",
+      "document_urls": [
+        "https://cdn1.megaleiloes.com.br/auctions/35100/megaleiloes_edital_ML35100_261030-183222.pdf",
+        "https://cdn1.megaleiloes.com.br/batches/131109/megaleiloes_matricula_X131109_261030-145327.pdf",
+        "https://cdn1.megaleiloes.com.br/batches/131109/megaleiloes_outros_documentos_X131109_261030-145327.pdf"
+      ],
+      "image_urls": [
+        "https://cdn1.megaleiloes.com.br/batches/131109/c822188c881d565fba261d1eef7364df_670x380.jpg",
+        "https://cdn1.megaleiloes.com.br/batches/131109/9973e8d8f659789e7a99e4822957bedf_670x380.jpg",
+        "https://cdn1.megaleiloes.com.br/batches/131109/c19eaa31380eecead247de5a0403659a_670x380.jpg",
+        "https://cdn1.megaleiloes.com.br/batches/131109/82dd4ac0d8a41bec29e2ee95f6f3a4cf_670x380.jpg"
+      ],
+      "first_seen_at": "2026-10-31T08:01:43-03:00",
+      "last_checked_at": "2026-10-31T08:13:42-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "declared",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "declared",
+        "source_listing_price_brl": "declared",
+        "official_url": "verified",
+        "edital_url": "verified",
+        "registry_office": "unknown",
+        "area_privative_m2": "unknown",
+        "area_total_m2": "declared"
+      },
+      "provenance": {
+        "source_id": "mega_leiloes",
+        "captured_from": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-129-m2-bucarein-joinville-sc-x131109?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-129-m2-bucarein-joinville-sc-x131109&utm_term=X131109&utm_content=link",
+        "is_aggregator": false,
+        "raw_text": "R$ 400.000,00 393 0 Apartamento 129 m² - Bucarein - Joinville - SC X131109 Joinville, SC ABERTO PARA LANCES Data: 09/11/2026 às 17:07 R$ 400.000,00 IR Explore por Categorias Pesquisa Avançada FAQ Entrar ou Criar conta Valor inicial R$ 400.000,00 Extrajudicial Leilão ML35100 Código Lote X131109 Número Lote LOTE 128 Visitas 394 Habilitados 7 Lances 0 Mega Leilões Imóveis Apartamentos Santa Catarina Joinville Apartamento 129 m² - Bucarein - Joinville - SC Navegue pelos lotes: Lote 1 Lote 2 Lote 3 Lote 4 Lote 5 Lote 6 Lote 7 Lote 8 Lote 9 Lote 10 Lote 11 Lote 12 Lote 13 Lote 14 Lote 15 Lote 16 Lote 17 Lote 18 Lote 19 Lote 20 Lote 21 Lote 22 Lote 23 Lote 24 Lote 25 Lote 26 Lote 27 Lote 28 Lote 29 Lote 30 Lote 31 Lote 32 Lote 33 Lote 34 Lote 35 Lote 36 Lote 37 Lote 38 Lote 39 Lote 40 Lote 41 Lote 42 Lote 43 Lote 44 Lote 45 Lote 46 Lote 47 Lote 48 Lote 49 Lote 50 Lote 51 Lote 52 Lote 53 Lote 54 Lote 55 Lote 56 Lote 57 Lote 58 Lote 59 Lote 60 Lote 61 Lote 62 Lote 63 Lote 64 Lote 65 Lote 66 Lote 67 Lote 68 Lote 69 Lote 70 Lote 71 Lote 72 Lote 73 Lote 74 Lote 75 Lote 76 Lote 77 Lote 78 Lote 79 Lote 80 Lote 81 Lote 82 Lote 83 Lote 84 Lote 85 Lote 86 Lote 87 Lote 88 Lote 89 Lote 90 Lote 91 Lote 92 Lote 93 Lote 94 Lote 95 Lote 96 Lote 97 Lote 98 Lote 99 Lote 100 Lote 101 Lote 102 Lote 103 Lote 104 Lote 105 Lote 106 Lote 107 Lote 108 Lote 109 Lote 110 Lote 111 Lote 112 Lote 113 Lote 114 Lote 115 Lote 116 Lote 117 Lote 118 Lote 119 Lote 120 Lote 121 Lote 122 Lote 123 Lote 124 Lote 125 Lote 126 Lote 127 Lote 128 Área 129 m2 Localização Rua Ministro Calógeras, 956, Bucarein, Joinville, SC Comitente ITAÚ UNIBANCO S/A Leiloeiro Fernando José Cerello G. Pereira JUCESP Nº 844 - Leiloeiro oficial do Estado de São Paulo JUCEMG Nº 1192 - Leiloeiro oficial do Estado de Minas Gerais JUCEMAT Nº 73 - Leiloeiro oficial do Estado de Mato Grosso Valor de Avaliação R$ 0,00 ( Nao informado) . A descrição dos lotes é uma cópia fiel das informações fornecidas pelos cartórios, comitente ou outro órgão responsável pelo bem. O bem será vendido no estado em que se encontra conforme edital publicado. Reservamo-nos o direito de corrigir possíveis erros de digitação. Cumpre informar, que nos leilões Judiciais e de Falência, o procedimento do pós-arrematação, deve ser realizado pelo arrematante junto ao seu procurador/advogado, diretamente nos autos do processo, uma vez que o Leiloeiro é auxiliar da justiça e está impedido de atuar nessa esfera devido ao conflito de interesses a ser gerado. Aquele que tentar fraudar a arrematação, além da reparação do dano na esfera cível - arts. 186 e 927 do Código Civil - ficará sujeito as penalidades do artigo 358 do Código Penal: Art. 358 - Impedir, perturbar ou fraudar arrematação judicial; afastar ou procurar afastar concorrente ou licitante, por meio de violência, grave ameaça, fraude ou oferecimento de vantagem: Pena - detenção, de 2 (dois) meses a 1 (um) ano, ou multa, além da pena correspondente à violência. Descrição Condições de pagamento Cont"
+      },
+      "newly_discovered_at": "2026-10-31T08:13:42-03:00"
+    },
+    {
       "id": "80d0e5b207315b6d1e5d",
       "source_ids": [
         "hasta"
@@ -10823,6 +11311,83 @@
       },
       "newly_discovered_at": "2026-10-20T10:11:11-03:00",
       "image_source_url": "https://hasta.com.br/imovel/1216324-casa-no-bairro-gloria-em-joinville-sc-lote-001-id-8225"
+    },
+    {
+      "id": "a78e427487c1390faad7",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [
+        "001"
+      ],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2392642-apartamento-jardim-paraiso-joinville-sc"
+      ],
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Apartamento",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": "001",
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 105000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2392642-apartamento-jardim-paraiso-joinville-sc",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2392642/0.jpg",
+        "https://hasta.com.br/foto/2392642/1.jpg",
+        "https://hasta.com.br/foto/2392642/2.jpg",
+        "https://hasta.com.br/foto/2392642/3.jpg"
+      ],
+      "first_seen_at": "2026-10-31T08:06:08-03:00",
+      "last_checked_at": "2026-10-31T08:13:42-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified",
+        "registry_office": "unknown"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2392642-apartamento-jardim-paraiso-joinville-sc",
+        "is_aggregator": true,
+        "raw_text": "Apartamento LOTE 001 📍 Joinville, SC R$ 105.000,00"
+      },
+      "newly_discovered_at": "2026-10-31T08:13:42-03:00"
     },
     {
       "id": "a8abab7ef7553f541b10",
@@ -12603,6 +13168,93 @@
         ]
       },
       "newly_discovered_at": "2026-10-23T08:10:18-03:00"
+    },
+    {
+      "id": "d19765d8042114c98b07",
+      "source_ids": [
+        "mega_leiloes"
+      ],
+      "source_listing_ids": [
+        "X131133"
+      ],
+      "source_listing_urls": [
+        "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-71-m2-joinville-sc-rua-joao-paul-280-floresta-x131133?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-71-m2-joinville-sc-rua-joao-paul-280-floresta-x131133&utm_term=X131133&utm_content=link"
+      ],
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": "Floresta",
+      "address": "Rua João Paul, 280, Floresta, Joinville, SC",
+      "property_type": "Apartamento",
+      "area_privative_m2": 71.53,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": "32.764",
+      "registry_office": "2º RI local",
+      "auction_lot": "21",
+      "auctioneer": "Fernando José Cerello G. Pereira",
+      "seller": "BANCO BRADESCO S.A.",
+      "modality": "extrajudicial",
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": 192000.0,
+      "source_listing_price_brl": 192000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [
+        {
+          "date": "2026-11-16",
+          "time": "20:42",
+          "minimum_bid_brl": null,
+          "stage": "first"
+        }
+      ],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": "ocupado",
+      "status": "active",
+      "official_url": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-71-m2-joinville-sc-rua-joao-paul-280-floresta-x131133?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-71-m2-joinville-sc-rua-joao-paul-280-floresta-x131133&utm_term=X131133&utm_content=link",
+      "source_listing_url": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-71-m2-joinville-sc-rua-joao-paul-280-floresta-x131133?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-71-m2-joinville-sc-rua-joao-paul-280-floresta-x131133&utm_term=X131133&utm_content=link",
+      "validation_status": "verified",
+      "edital_url": "https://cdn1.megaleiloes.com.br/auctions/35104/megaleiloes_edital__261030-150124.pdf",
+      "document_urls": [
+        "https://cdn1.megaleiloes.com.br/auctions/35104/megaleiloes_edital__261030-150124.pdf",
+        "https://cdn1.megaleiloes.com.br/batches/131133/megaleiloes_matricula_X131133_261030-173629.pdf"
+      ],
+      "image_urls": [
+        "https://cdn1.megaleiloes.com.br/batches/131133/f48305971f7d0228c19eebcf4ff4402d_670x380.jpg",
+        "https://cdn1.megaleiloes.com.br/batches/131133/a279ff79dc4d16263f1de6353babf712_670x380.jpg"
+      ],
+      "first_seen_at": "2026-10-31T08:01:46-03:00",
+      "last_checked_at": "2026-10-31T08:13:42-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupied",
+        "property_address_regularization_required",
+        "buyer_responsible_for_reported_debts"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "declared",
+        "occupancy": "declared",
+        "registry_number": "declared",
+        "auction_events": "declared",
+        "source_listing_price_brl": "declared",
+        "official_url": "verified",
+        "edital_url": "verified",
+        "registry_office": "declared",
+        "area_privative_m2": "declared"
+      },
+      "provenance": {
+        "source_id": "mega_leiloes",
+        "captured_from": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-71-m2-joinville-sc-rua-joao-paul-280-floresta-x131133?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-71-m2-joinville-sc-rua-joao-paul-280-floresta-x131133&utm_term=X131133&utm_content=link",
+        "is_aggregator": false,
+        "raw_text": "R$ 192.000,00 286 0 Apartamento 71 m² - Joinville-SC - Rua João Paul, 280 - Floresta X131133 Joinville, SC ABERTO PARA LANCES Data: 16/11/2026 às 20:42 R$ 192.000,00 IR Explore por Categorias Pesquisa Avançada FAQ Entrar ou Criar conta Valor inicial R$ 192.000,00 Extrajudicial Leilão ML35104 Código Lote X131133 Número Lote LOTE 21 Visitas 287 Habilitados 2 Lances 0 Mega Leilões Imóveis Apartamentos Santa Catarina Joinville Apartamento 71 m² - Joinville-SC - Rua João Paul, 280 - Floresta Navegue pelos lotes: Lote 1 Lote 2 Lote 3 Lote 4 Lote 5 Lote 6 Lote 7 Lote 8 Lote 9 Lote 10 Lote 11 Lote 12 Lote 13 Lote 14 Lote 15 Lote 16 Lote 17 Lote 18 Lote 19 Lote 20 Lote 21 Lote 22 Lote 23 Lote 24 Lote 25 Lote 26 Lote 27 Lote 28 Lote 29 Área 71 m2 Vagas 1 Localização Rua João Paul, 280, Floresta, Joinville, SC Comitente BANCO BRADESCO S.A. Leiloeiro Fernando José Cerello G. Pereira JUCESP Nº 844 - Leiloeiro oficial do Estado de São Paulo JUCEMG Nº 1192 - Leiloeiro oficial do Estado de Minas Gerais JUCEMAT Nº 73 - Leiloeiro oficial do Estado de Mato Grosso Valor de Avaliação R$ 0,00 ( Nao informado) . A descrição dos lotes é uma cópia fiel das informações fornecidas pelos cartórios, comitente ou outro órgão responsável pelo bem. O bem será vendido no estado em que se encontra conforme edital publicado. Reservamo-nos o direito de corrigir possíveis erros de digitação. Cumpre informar, que nos leilões Judiciais e de Falência, o procedimento do pós-arrematação, deve ser realizado pelo arrematante junto ao seu procurador/advogado, diretamente nos autos do processo, uma vez que o Leiloeiro é auxiliar da justiça e está impedido de atuar nessa esfera devido ao conflito de interesses a ser gerado. Aquele que tentar fraudar a arrematação, além da reparação do dano na esfera cível - arts. 186 e 927 do Código Civil - ficará sujeito as penalidades do artigo 358 do Código Penal: Art. 358 - Impedir, perturbar ou fraudar arrematação judicial; afastar ou procurar afastar concorrente ou licitante, por meio de violência, grave ameaça, fraude ou oferecimento de vantagem: Pena - detenção, de 2 (dois) meses a 1 (um) ano, ou multa, além da pena correspondente à violência. Descrição Condições de pagamento Contrato de compra e venda Lances Joinville-SC. Bairro Floresta. Rua Mathilde Drefhal (no local e lançado no Cadastro Municipal consta Rua João Paul, nº 280). Apto. 1406 da Torre 1 do Condomínio Jardins Joinville Home Club, com direito a 01 box de garagem. Apartamento. Áreas privativas 71,53m² (Apto) e 12,00m² (box). Matr. 32.764 do 2º RI local. Obs.: (i) Regularização e encargos perante os órgãos competentes da atualização do endereço e da numeração predial, se entender necessário, correrão por conta do Comprador, sem direito a reembolso; (ii) Débitos de IPTU, condomínio e Taxa Ambiental de aprox. R$ 300.000,00, deverão ser apurados e pagos pelo arrematante, sem direito a reembolso; (iii) Ocupado (AF). Último Lance Faça sua oferta! Incremento R$ 3.000,00 Aberto para lances Iníci"
+      },
+      "newly_discovered_at": "2026-10-31T08:13:42-03:00"
     },
     {
       "id": "d3344a31675898a6feaf",
@@ -16217,8 +16869,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.22,
-      "finished_at": "2026-10-30T08:01:05-03:00"
+      "duration_seconds": 0.32,
+      "finished_at": "2026-10-31T08:01:14-03:00"
     },
     {
       "source_id": "caixa",
@@ -16237,18 +16889,18 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.13,
-      "finished_at": "2026-10-30T08:01:08-03:00"
+      "duration_seconds": 2.75,
+      "finished_at": "2026-10-31T08:01:16-03:00"
     },
     {
       "source_id": "mega_leiloes",
       "name": "Mega Leilões",
       "status": "partial",
       "pages_read": 2,
-      "listings_found": 5,
+      "listings_found": 7,
       "error": "A paginação repetiu a mesma página; a fonte não avançou para novos resultados.",
       "listings_by_city": {
-        "Joinville": 3,
+        "Joinville": 5,
         "Balneário Camboriú": 1,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
@@ -16257,9 +16909,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 57.57,
-      "finished_at": "2026-10-30T08:02:05-03:00",
-      "last_success_at": "2026-10-30T08:02:05-03:00"
+      "duration_seconds": 34.94,
+      "finished_at": "2026-10-31T08:01:51-03:00",
+      "last_success_at": "2026-10-31T08:01:51-03:00"
     },
     {
       "source_id": "superbid",
@@ -16278,8 +16930,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.16,
-      "finished_at": "2026-10-30T08:02:05-03:00"
+      "duration_seconds": 0.14,
+      "finished_at": "2026-10-31T08:01:52-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -16298,8 +16950,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 3.99,
-      "finished_at": "2026-10-30T08:02:09-03:00"
+      "duration_seconds": 2.98,
+      "finished_at": "2026-10-31T08:01:55-03:00"
     },
     {
       "source_id": "duarte",
@@ -16318,9 +16970,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 28.32,
-      "finished_at": "2026-10-30T08:02:38-03:00",
-      "last_success_at": "2026-10-30T08:02:38-03:00"
+      "duration_seconds": 20.0,
+      "finished_at": "2026-10-31T08:02:15-03:00",
+      "last_success_at": "2026-10-31T08:02:15-03:00"
     },
     {
       "source_id": "zampieri",
@@ -16339,9 +16991,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 5.94,
-      "finished_at": "2026-10-30T08:02:44-03:00",
-      "last_success_at": "2026-10-30T08:02:44-03:00"
+      "duration_seconds": 5.96,
+      "finished_at": "2026-10-31T08:02:21-03:00",
+      "last_success_at": "2026-10-31T08:02:21-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -16360,9 +17012,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 4.13,
-      "finished_at": "2026-10-30T08:02:48-03:00",
-      "last_success_at": "2026-10-30T08:02:48-03:00"
+      "duration_seconds": 2.57,
+      "finished_at": "2026-10-31T08:02:23-03:00",
+      "last_success_at": "2026-10-31T08:02:23-03:00"
     },
     {
       "source_id": "freitas",
@@ -16381,9 +17033,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 7.91,
-      "finished_at": "2026-10-30T08:02:56-03:00",
-      "last_success_at": "2026-10-30T08:02:56-03:00"
+      "duration_seconds": 8.25,
+      "finished_at": "2026-10-31T08:02:32-03:00",
+      "last_success_at": "2026-10-31T08:02:32-03:00"
     },
     {
       "source_id": "comprei",
@@ -16402,8 +17054,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 1.29,
-      "finished_at": "2026-10-30T08:02:57-03:00"
+      "duration_seconds": 1.26,
+      "finished_at": "2026-10-31T08:02:33-03:00"
     },
     {
       "source_id": "sampaio",
@@ -16422,9 +17074,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 18.49,
-      "finished_at": "2026-10-30T08:03:16-03:00",
-      "last_success_at": "2026-10-30T08:03:16-03:00"
+      "duration_seconds": 11.73,
+      "finished_at": "2026-10-31T08:02:45-03:00",
+      "last_success_at": "2026-10-31T08:02:45-03:00"
     },
     {
       "source_id": "machado",
@@ -16443,20 +17095,20 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 3.11,
-      "finished_at": "2026-10-30T08:03:19-03:00",
-      "last_success_at": "2026-10-30T08:03:19-03:00"
+      "duration_seconds": 2.94,
+      "finished_at": "2026-10-31T08:02:48-03:00",
+      "last_success_at": "2026-10-31T08:02:48-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
       "status": "success",
-      "pages_read": 12,
-      "listings_found": 148,
+      "pages_read": 13,
+      "listings_found": 149,
       "error": null,
       "listings_by_city": {
         "Joinville": 95,
-        "Balneário Camboriú": 22,
+        "Balneário Camboriú": 23,
         "Balneário Piçarras": 1,
         "Barra Velha": 7,
         "Penha": 3,
@@ -16464,9 +17116,9 @@
         "Rio do Sul": 12,
         "São Francisco do Sul": 4
       },
-      "duration_seconds": 461.66,
-      "finished_at": "2026-10-30T08:11:01-03:00",
-      "last_success_at": "2026-10-30T08:11:01-03:00"
+      "duration_seconds": 475.02,
+      "finished_at": "2026-10-31T08:10:43-03:00",
+      "last_success_at": "2026-10-31T08:10:43-03:00"
     },
     {
       "source_id": "hasta_publica",
@@ -16485,9 +17137,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 56.26,
-      "finished_at": "2026-10-30T08:11:57-03:00",
-      "last_success_at": "2026-10-30T08:11:57-03:00"
+      "duration_seconds": 62.38,
+      "finished_at": "2026-10-31T08:11:45-03:00",
+      "last_success_at": "2026-10-31T08:11:45-03:00"
     },
     {
       "source_id": "leiloeiro_publico",
@@ -16506,9 +17158,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 1
       },
-      "duration_seconds": 111.01,
-      "finished_at": "2026-10-30T08:13:48-03:00",
-      "last_success_at": "2026-10-30T08:13:48-03:00"
+      "duration_seconds": 116.79,
+      "finished_at": "2026-10-31T08:13:42-03:00",
+      "last_success_at": "2026-10-31T08:13:42-03:00"
     }
   ]
 }
