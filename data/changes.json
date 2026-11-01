@@ -4885,6 +4885,87 @@
           "detected_at": "2026-10-31T08:13:42-03:00"
         }
       ]
+    },
+    {
+      "run_id": "21b92df3-a610-47c4-8036-858e8ea6ba74",
+      "detected_at": "2026-11-01T08:14:22-03:00",
+      "changes": [
+        {
+          "property_id": "3714117092feb852b763",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "source_listing_price_brl",
+              "before": 2733922.36,
+              "after": 2551660.87
+            }
+          ],
+          "detected_at": "2026-11-01T08:14:22-03:00"
+        },
+        {
+          "property_id": "1f8fbcd745a92fd9089c",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "source_listing_price_brl",
+              "before": 50595.18,
+              "after": 30357.1
+            }
+          ],
+          "detected_at": "2026-11-01T08:14:22-03:00"
+        },
+        {
+          "property_id": "cc476664a7a64503463f",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-11-01T08:14:22-03:00"
+        },
+        {
+          "property_id": "a782417bf9a334fd7be9",
+          "city": "Navegantes",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-11-01T08:14:22-03:00"
+        },
+        {
+          "property_id": "cb378eb42906b11e1bad",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-11-01T08:14:22-03:00"
+        }
+      ]
     }
   ]
 }

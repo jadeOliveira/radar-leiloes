@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T08:13:42-03:00",
+  "updated_at": "2026-11-01T08:14:22-03:00",
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -6399,7 +6399,7 @@
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": null,
-      "source_listing_price_brl": 2733922.36,
+      "source_listing_price_brl": 2551660.87,
       "discount_on_appraisal_percent": null,
       "auction_events": [],
       "commission_percent": null,
@@ -6419,7 +6419,7 @@
         "https://hasta.com.br/foto/2027072/4.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-10-27T08:19:35-03:00",
+      "last_checked_at": "2026-11-01T08:14:22-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6444,7 +6444,7 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2027072-direitos-aquisitivos-em-face-de-plaza-monet-incorporacao-spe-ltda-a-um-apartamen",
         "is_aggregator": true,
-        "raw_text": "Apartamento Direitos aquisitivos em face de plaza monet incorporação spe ltda- (a) um apartamento de n°1011, 10º pavimento, do residencial plaza monet e suas respectivas vagas de garagem. 📍 Joinville, SC R$ 2.733.922,36",
+        "raw_text": "Apartamento Direitos aquisitivos em face de plaza monet incorporação spe ltda- (a) um apartamento de n°1011, 10º pavimento, do residencial plaza monet e suas respectivas vagas de garagem. 📍 Joinville, SC R$ 2.551.660,87",
         "source_listing_urls": [
           "https://hasta.com.br/imovel/2027072-direitos-aquisitivos-em-face-de-plaza-monet-incorporacao-spe-ltda-a-um-apartamen"
         ]
@@ -12919,6 +12919,148 @@
       "image_source_url": "https://hasta.com.br/imovel/2092417-comprei-pgfn-imoveis-em-santa-catarina-lote-076-id-4294"
     },
     {
+      "id": "cb378eb42906b11e1bad",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2420290-no-do-bem-514117449-joinville-sc-descricao-imovel-de-matricula-1909-do-3o-oficio"
+      ],
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Casa",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": "1909",
+      "registry_office": "3º Ofício de Registro de Imóveis de Joinville-SC",
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 309758.25,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2420290-no-do-bem-514117449-joinville-sc-descricao-imovel-de-matricula-1909-do-3o-oficio",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2420290/0.jpg"
+      ],
+      "first_seen_at": "2026-11-01T08:06:43-03:00",
+      "last_checked_at": "2026-11-01T08:14:22-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "declared",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2420290-no-do-bem-514117449-joinville-sc-descricao-imovel-de-matricula-1909-do-3o-oficio",
+        "is_aggregator": true,
+        "raw_text": "Casa Nº DO BEM: 514117449 JOINVILLE (SC) Descrição: IMÓVEL DE MATRÍCULA 1909 DO 3º OFÍCIO DE REGISTRO DE IMÓVEIS DE JOINVILLE-SC, ASSIM DESCRITO: - Joinville/SC 📍 Joinville, SC R$ 309.758,25"
+      },
+      "newly_discovered_at": "2026-11-01T08:14:22-03:00"
+    },
+    {
+      "id": "cc476664a7a64503463f",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2420287-no-do-bem-536272505-joinville-sc-descricao-imovel-de-matricula-108261-do-1o-ofic"
+      ],
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Apartamento",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": "108261",
+      "registry_office": "1º Ofício de Registro de Imóveis de Joinville-SC",
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 236859.89,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2420287-no-do-bem-536272505-joinville-sc-descricao-imovel-de-matricula-108261-do-1o-ofic",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2420287/0.jpg"
+      ],
+      "first_seen_at": "2026-11-01T08:06:44-03:00",
+      "last_checked_at": "2026-11-01T08:14:22-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "declared",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2420287-no-do-bem-536272505-joinville-sc-descricao-imovel-de-matricula-108261-do-1o-ofic",
+        "is_aggregator": true,
+        "raw_text": "Apartamento Nº DO BEM: 536272505 JOINVILLE (SC) Descrição: IMÓVEL DE MATRÍCULA 108261 DO 1º OFÍCIO DE REGISTRO DE IMÓVEIS DE JOINVILLE-SC, ASSIM DESCRIT - Joinville/SC 📍 Joinville, SC R$ 236.859,89"
+      },
+      "newly_discovered_at": "2026-11-01T08:14:22-03:00"
+    },
+    {
       "id": "cda2006ba0eb5524068e",
       "source_ids": [
         "leiloeiro_publico"
@@ -15061,6 +15203,79 @@
       "newly_discovered_at": "2026-10-26T10:44:51-03:00"
     },
     {
+      "id": "a782417bf9a334fd7be9",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2412292-apartamento-em-leilao-em-navegantes-sc-3083435"
+      ],
+      "city": "Navegantes",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Apartamento",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 884000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2412292-apartamento-em-leilao-em-navegantes-sc-3083435",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2412292/0.jpg",
+        "https://hasta.com.br/foto/2412292/1.jpg",
+        "https://hasta.com.br/foto/2412292/2.jpg"
+      ],
+      "first_seen_at": "2026-11-01T08:10:31-03:00",
+      "last_checked_at": "2026-11-01T08:14:22-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2412292-apartamento-em-leilao-em-navegantes-sc-3083435",
+        "is_aggregator": true,
+        "raw_text": "Apartamento Apartamento em Leilão em Navegantes / SC - 3083435 📍 Navegantes, SC R$ 884.000,00"
+      },
+      "newly_discovered_at": "2026-11-01T08:14:22-03:00"
+    },
+    {
       "id": "08f4d528c584a645188b",
       "source_ids": [
         "hasta"
@@ -15329,7 +15544,7 @@
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": null,
-      "source_listing_price_brl": 50595.18,
+      "source_listing_price_brl": 30357.1,
       "discount_on_appraisal_percent": null,
       "auction_events": [],
       "commission_percent": null,
@@ -15345,7 +15560,7 @@
         "https://hasta.com.br/foto/1311441/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:11-03:00",
-      "last_checked_at": "2026-10-27T08:19:35-03:00",
+      "last_checked_at": "2026-11-01T08:14:22-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -15370,7 +15585,7 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1311441-judicial-on-line-comarca-de-rio-do-sul-lote-002-id-9928",
         "is_aggregator": true,
-        "raw_text": "Apartamento Judicial - On Line - Comarca de Rio do Sul - Lote 002 (ID 9928) 📍 Rio do Sul, SC R$ 50.595,18",
+        "raw_text": "Apartamento Judicial - On Line - Comarca de Rio do Sul - Lote 002 (ID 9928) 📍 Rio do Sul, SC R$ 30.357,10",
         "source_listing_urls": [
           "https://hasta.com.br/imovel/1311441-judicial-on-line-comarca-de-rio-do-sul-lote-002-id-9928"
         ]
@@ -16869,8 +17084,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.32,
-      "finished_at": "2026-10-31T08:01:14-03:00"
+      "duration_seconds": 0.25,
+      "finished_at": "2026-11-01T08:02:03-03:00"
     },
     {
       "source_id": "caixa",
@@ -16889,8 +17104,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.75,
-      "finished_at": "2026-10-31T08:01:16-03:00"
+      "duration_seconds": 2.51,
+      "finished_at": "2026-11-01T08:02:06-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -16909,9 +17124,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 34.94,
-      "finished_at": "2026-10-31T08:01:51-03:00",
-      "last_success_at": "2026-10-31T08:01:51-03:00"
+      "duration_seconds": 34.98,
+      "finished_at": "2026-11-01T08:02:41-03:00",
+      "last_success_at": "2026-11-01T08:02:41-03:00"
     },
     {
       "source_id": "superbid",
@@ -16930,8 +17145,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.14,
-      "finished_at": "2026-10-31T08:01:52-03:00"
+      "duration_seconds": 0.35,
+      "finished_at": "2026-11-01T08:02:41-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -16950,8 +17165,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.98,
-      "finished_at": "2026-10-31T08:01:55-03:00"
+      "duration_seconds": 2.62,
+      "finished_at": "2026-11-01T08:02:44-03:00"
     },
     {
       "source_id": "duarte",
@@ -16970,9 +17185,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 20.0,
-      "finished_at": "2026-10-31T08:02:15-03:00",
-      "last_success_at": "2026-10-31T08:02:15-03:00"
+      "duration_seconds": 19.09,
+      "finished_at": "2026-11-01T08:03:03-03:00",
+      "last_success_at": "2026-11-01T08:03:03-03:00"
     },
     {
       "source_id": "zampieri",
@@ -16991,9 +17206,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 5.96,
-      "finished_at": "2026-10-31T08:02:21-03:00",
-      "last_success_at": "2026-10-31T08:02:21-03:00"
+      "duration_seconds": 5.97,
+      "finished_at": "2026-11-01T08:03:09-03:00",
+      "last_success_at": "2026-11-01T08:03:09-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -17012,9 +17227,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.57,
-      "finished_at": "2026-10-31T08:02:23-03:00",
-      "last_success_at": "2026-10-31T08:02:23-03:00"
+      "duration_seconds": 2.91,
+      "finished_at": "2026-11-01T08:03:12-03:00",
+      "last_success_at": "2026-11-01T08:03:12-03:00"
     },
     {
       "source_id": "freitas",
@@ -17033,9 +17248,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 8.25,
-      "finished_at": "2026-10-31T08:02:32-03:00",
-      "last_success_at": "2026-10-31T08:02:32-03:00"
+      "duration_seconds": 7.87,
+      "finished_at": "2026-11-01T08:03:20-03:00",
+      "last_success_at": "2026-11-01T08:03:20-03:00"
     },
     {
       "source_id": "comprei",
@@ -17054,8 +17269,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 1.26,
-      "finished_at": "2026-10-31T08:02:33-03:00"
+      "duration_seconds": 1.29,
+      "finished_at": "2026-11-01T08:03:21-03:00"
     },
     {
       "source_id": "sampaio",
@@ -17074,9 +17289,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 11.73,
-      "finished_at": "2026-10-31T08:02:45-03:00",
-      "last_success_at": "2026-10-31T08:02:45-03:00"
+      "duration_seconds": 11.7,
+      "finished_at": "2026-11-01T08:03:33-03:00",
+      "last_success_at": "2026-11-01T08:03:33-03:00"
     },
     {
       "source_id": "machado",
@@ -17095,30 +17310,30 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.94,
-      "finished_at": "2026-10-31T08:02:48-03:00",
-      "last_success_at": "2026-10-31T08:02:48-03:00"
+      "duration_seconds": 2.89,
+      "finished_at": "2026-11-01T08:03:36-03:00",
+      "last_success_at": "2026-11-01T08:03:36-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
       "status": "success",
       "pages_read": 13,
-      "listings_found": 149,
+      "listings_found": 151,
       "error": null,
       "listings_by_city": {
-        "Joinville": 95,
-        "Balneário Camboriú": 23,
+        "Joinville": 97,
+        "Balneário Camboriú": 22,
         "Balneário Piçarras": 1,
         "Barra Velha": 7,
         "Penha": 3,
-        "Navegantes": 4,
+        "Navegantes": 5,
         "Rio do Sul": 12,
         "São Francisco do Sul": 4
       },
-      "duration_seconds": 475.02,
-      "finished_at": "2026-10-31T08:10:43-03:00",
-      "last_success_at": "2026-10-31T08:10:43-03:00"
+      "duration_seconds": 474.07,
+      "finished_at": "2026-11-01T08:11:30-03:00",
+      "last_success_at": "2026-11-01T08:11:30-03:00"
     },
     {
       "source_id": "hasta_publica",
@@ -17137,9 +17352,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 62.38,
-      "finished_at": "2026-10-31T08:11:45-03:00",
-      "last_success_at": "2026-10-31T08:11:45-03:00"
+      "duration_seconds": 53.47,
+      "finished_at": "2026-11-01T08:12:24-03:00",
+      "last_success_at": "2026-11-01T08:12:24-03:00"
     },
     {
       "source_id": "leiloeiro_publico",
@@ -17158,9 +17373,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 1
       },
-      "duration_seconds": 116.79,
-      "finished_at": "2026-10-31T08:13:42-03:00",
-      "last_success_at": "2026-10-31T08:13:42-03:00"
+      "duration_seconds": 117.8,
+      "finished_at": "2026-11-01T08:14:22-03:00",
+      "last_success_at": "2026-11-01T08:14:22-03:00"
     }
   ]
 }
