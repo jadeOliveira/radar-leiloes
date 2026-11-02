@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T08:14:22-03:00",
+  "updated_at": "2026-11-02T08:15:53-03:00",
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -9290,6 +9290,77 @@
       "image_source_url": "https://hasta.com.br/imovel/1463844-apartamento-joinville-sc-floresta-rua-princesa-mafalda-474"
     },
     {
+      "id": "73a94dfa5524c24cd088",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2439490-alienacao-fiduciaria-no-2026-970014-pagamento-a-vista"
+      ],
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Apartamento",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": "extrajudicial",
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 236859.89,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2439490-alienacao-fiduciaria-no-2026-970014-pagamento-a-vista",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2439490/0.jpg"
+      ],
+      "first_seen_at": "2026-11-02T08:06:31-03:00",
+      "last_checked_at": "2026-11-02T08:15:53-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2439490-alienacao-fiduciaria-no-2026-970014-pagamento-a-vista",
+        "is_aggregator": true,
+        "raw_text": "Apartamento Alienação fiduciária nº 2026/970014 - pagamento à vista 📍 Joinville, SC R$ 236.859,89"
+      },
+      "newly_discovered_at": "2026-11-02T08:15:53-03:00"
+    },
+    {
       "id": "746d9d277b7b4210e869",
       "source_ids": [
         "hasta"
@@ -17084,8 +17155,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.25,
-      "finished_at": "2026-11-01T08:02:03-03:00"
+      "duration_seconds": 0.4,
+      "finished_at": "2026-11-02T08:03:13-03:00"
     },
     {
       "source_id": "caixa",
@@ -17104,8 +17175,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.51,
-      "finished_at": "2026-11-01T08:02:06-03:00"
+      "duration_seconds": 2.68,
+      "finished_at": "2026-11-02T08:03:16-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -17124,9 +17195,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 34.98,
-      "finished_at": "2026-11-01T08:02:41-03:00",
-      "last_success_at": "2026-11-01T08:02:41-03:00"
+      "duration_seconds": 36.6,
+      "finished_at": "2026-11-02T08:03:53-03:00",
+      "last_success_at": "2026-11-02T08:03:53-03:00"
     },
     {
       "source_id": "superbid",
@@ -17145,8 +17216,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.35,
-      "finished_at": "2026-11-01T08:02:41-03:00"
+      "duration_seconds": 0.1,
+      "finished_at": "2026-11-02T08:03:53-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -17165,8 +17236,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.62,
-      "finished_at": "2026-11-01T08:02:44-03:00"
+      "duration_seconds": 2.96,
+      "finished_at": "2026-11-02T08:03:56-03:00"
     },
     {
       "source_id": "duarte",
@@ -17185,9 +17256,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 19.09,
-      "finished_at": "2026-11-01T08:03:03-03:00",
-      "last_success_at": "2026-11-01T08:03:03-03:00"
+      "duration_seconds": 19.58,
+      "finished_at": "2026-11-02T08:04:15-03:00",
+      "last_success_at": "2026-11-02T08:04:15-03:00"
     },
     {
       "source_id": "zampieri",
@@ -17206,9 +17277,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 5.97,
-      "finished_at": "2026-11-01T08:03:09-03:00",
-      "last_success_at": "2026-11-01T08:03:09-03:00"
+      "duration_seconds": 6.02,
+      "finished_at": "2026-11-02T08:04:22-03:00",
+      "last_success_at": "2026-11-02T08:04:22-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -17227,9 +17298,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.91,
-      "finished_at": "2026-11-01T08:03:12-03:00",
-      "last_success_at": "2026-11-01T08:03:12-03:00"
+      "duration_seconds": 2.58,
+      "finished_at": "2026-11-02T08:04:24-03:00",
+      "last_success_at": "2026-11-02T08:04:24-03:00"
     },
     {
       "source_id": "freitas",
@@ -17248,9 +17319,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 7.87,
-      "finished_at": "2026-11-01T08:03:20-03:00",
-      "last_success_at": "2026-11-01T08:03:20-03:00"
+      "duration_seconds": 8.35,
+      "finished_at": "2026-11-02T08:04:33-03:00",
+      "last_success_at": "2026-11-02T08:04:33-03:00"
     },
     {
       "source_id": "comprei",
@@ -17269,8 +17340,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 1.29,
-      "finished_at": "2026-11-01T08:03:21-03:00"
+      "duration_seconds": 1.38,
+      "finished_at": "2026-11-02T08:04:34-03:00"
     },
     {
       "source_id": "sampaio",
@@ -17289,9 +17360,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 11.7,
-      "finished_at": "2026-11-01T08:03:33-03:00",
-      "last_success_at": "2026-11-01T08:03:33-03:00"
+      "duration_seconds": 11.81,
+      "finished_at": "2026-11-02T08:04:46-03:00",
+      "last_success_at": "2026-11-02T08:04:46-03:00"
     },
     {
       "source_id": "machado",
@@ -17310,9 +17381,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.89,
-      "finished_at": "2026-11-01T08:03:36-03:00",
-      "last_success_at": "2026-11-01T08:03:36-03:00"
+      "duration_seconds": 2.94,
+      "finished_at": "2026-11-02T08:04:49-03:00",
+      "last_success_at": "2026-11-02T08:04:49-03:00"
     },
     {
       "source_id": "hasta",
@@ -17331,9 +17402,9 @@
         "Rio do Sul": 12,
         "São Francisco do Sul": 4
       },
-      "duration_seconds": 474.07,
-      "finished_at": "2026-11-01T08:11:30-03:00",
-      "last_success_at": "2026-11-01T08:11:30-03:00"
+      "duration_seconds": 495.78,
+      "finished_at": "2026-11-02T08:13:05-03:00",
+      "last_success_at": "2026-11-02T08:13:05-03:00"
     },
     {
       "source_id": "hasta_publica",
@@ -17352,9 +17423,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 53.47,
-      "finished_at": "2026-11-01T08:12:24-03:00",
-      "last_success_at": "2026-11-01T08:12:24-03:00"
+      "duration_seconds": 55.98,
+      "finished_at": "2026-11-02T08:14:01-03:00",
+      "last_success_at": "2026-11-02T08:14:01-03:00"
     },
     {
       "source_id": "leiloeiro_publico",
@@ -17373,9 +17444,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 1
       },
-      "duration_seconds": 117.8,
-      "finished_at": "2026-11-01T08:14:22-03:00",
-      "last_success_at": "2026-11-01T08:14:22-03:00"
+      "duration_seconds": 112.49,
+      "finished_at": "2026-11-02T08:15:53-03:00",
+      "last_success_at": "2026-11-02T08:15:53-03:00"
     }
   ]
 }
