@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T08:15:53-03:00",
+  "updated_at": "2026-11-04T08:13:01-03:00",
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -973,6 +973,82 @@
       },
       "newly_discovered_at": "2026-10-20T10:11:11-03:00",
       "image_source_url": "https://hasta.com.br/imovel/1967354-judicial-leilao-judicial-apartamento-rua-1401-97-balneario-camboriu-sc-1a-praca"
+    },
+    {
+      "id": "3ca3c28add20e01422f4",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2454006-terreno-area-b-rodovia-br-101-1976-nova-esperanca-balneario-camboriu-sc-area-de"
+      ],
+      "city": "Balneário Camboriú",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Terreno",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": 240324.49,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 4700250.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2454006-terreno-area-b-rodovia-br-101-1976-nova-esperanca-balneario-camboriu-sc-area-de",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2454006/0.jpg",
+        "https://hasta.com.br/foto/2454006/1.jpg",
+        "https://hasta.com.br/foto/2454006/2.jpg",
+        "https://hasta.com.br/foto/2454006/3.jpg",
+        "https://hasta.com.br/foto/2454006/4.jpg",
+        "https://hasta.com.br/foto/2454006/5.jpg"
+      ],
+      "first_seen_at": "2026-11-04T08:08:06-03:00",
+      "last_checked_at": "2026-11-04T08:13:01-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2454006-terreno-area-b-rodovia-br-101-1976-nova-esperanca-balneario-camboriu-sc-area-de",
+        "is_aggregator": true,
+        "raw_text": "Terreno TERRENO - ÁREA B, RODOVIA BR 101, 1976, NOVA ESPERANÇA, BALNEÁRIO CAMBORIÚ/SC, ÁREA DE 240.324,49M² - Luis Leiloeiro 📍 Balneário Camboriú, SC R$ 4.700.250,00"
+      },
+      "newly_discovered_at": "2026-11-04T08:13:01-03:00"
     },
     {
       "id": "3f862121f487cca878fd",
@@ -2019,6 +2095,99 @@
         ]
       },
       "newly_discovered_at": "2026-10-22T09:59:31-03:00"
+    },
+    {
+      "id": "b8149b3671ff40a4e9af",
+      "source_ids": [
+        "mega_leiloes"
+      ],
+      "source_listing_ids": [
+        "J131194"
+      ],
+      "source_listing_urls": [
+        "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/balneario-camboriu/nua-propriedade-sobre-apartamento-96-m2-area-total-e-vaga-de-garagem-centro-balneario-camboriu-sc-j131194?utm_source=megaleiloes&utm_medium=link&utm_campaign=nua-propriedade-sobre-apartamento-96-m2-area-total-e-vaga-de-garagem-centro-balneario-camboriu-sc-j131194&utm_term=J131194&utm_content=link"
+      ],
+      "city": "Balneário Camboriú",
+      "state": "SC",
+      "neighborhood": null,
+      "address": "Rua 2450, 352, Centro, Balneário Camboriú, SC",
+      "property_type": "Apartamento",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": 96.917,
+      "registry_number": "80.802",
+      "registry_office": "1º Cartório de Registro de Imóveis da Comarca de Balneário Camboriú/SC",
+      "auction_lot": "J131194",
+      "auctioneer": "Thais Cristina Kich",
+      "seller": null,
+      "modality": "judicial",
+      "appraisal_value_brl": 890538.64,
+      "first_minimum_bid_brl": 890538.64,
+      "second_minimum_bid_brl": 742085.85,
+      "current_minimum_bid_brl": 890538.64,
+      "source_listing_price_brl": 890538.64,
+      "discount_on_appraisal_percent": 0.0,
+      "auction_events": [
+        {
+          "date": "2027-01-21",
+          "time": "14:00",
+          "minimum_bid_brl": 890538.64,
+          "stage": "first"
+        },
+        {
+          "date": "2027-02-11",
+          "time": "14:00",
+          "minimum_bid_brl": 742085.85,
+          "stage": "second"
+        }
+      ],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "scheduled_unverified",
+      "official_url": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/balneario-camboriu/nua-propriedade-sobre-apartamento-96-m2-area-total-e-vaga-de-garagem-centro-balneario-camboriu-sc-j131194?utm_source=megaleiloes&utm_medium=link&utm_campaign=nua-propriedade-sobre-apartamento-96-m2-area-total-e-vaga-de-garagem-centro-balneario-camboriu-sc-j131194&utm_term=J131194&utm_content=link",
+      "source_listing_url": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/balneario-camboriu/nua-propriedade-sobre-apartamento-96-m2-area-total-e-vaga-de-garagem-centro-balneario-camboriu-sc-j131194?utm_source=megaleiloes&utm_medium=link&utm_campaign=nua-propriedade-sobre-apartamento-96-m2-area-total-e-vaga-de-garagem-centro-balneario-camboriu-sc-j131194&utm_term=J131194&utm_content=link",
+      "validation_status": "verified",
+      "edital_url": "https://cdn1.megaleiloes.com.br/batches/131194/megaleiloes_edital_J131194_261103-165838.pdf",
+      "document_urls": [
+        "https://cdn1.megaleiloes.com.br/batches/131194/megaleiloes_edital_J131194_261103-165838.pdf",
+        "https://cdn1.megaleiloes.com.br/batches/131194/megaleiloes_laudo_J131194_261103-165838.pdf",
+        "https://cdn1.megaleiloes.com.br/batches/131194/megaleiloes_matricula_J131194_261103-165838.pdf"
+      ],
+      "image_urls": [
+        "https://cdn1.megaleiloes.com.br/batches/131194/89e4ef7551ee2f9feab765728906b8e8_670x380.jpg",
+        "https://cdn1.megaleiloes.com.br/batches/131194/cc57c198f0276a80722341747ad8432e_670x380.jpg",
+        "https://cdn1.megaleiloes.com.br/batches/131194/d45826779215cfb678eedade67a61497_670x380.jpg",
+        "https://cdn1.megaleiloes.com.br/batches/131194/4c01e2884b1746046fa6cdb9e6d6f302_670x380.jpg"
+      ],
+      "first_seen_at": "2026-11-04T08:00:22-03:00",
+      "last_checked_at": "2026-11-04T08:13:01-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "usufruct_declared"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "declared",
+        "first_minimum_bid_brl": "declared",
+        "second_minimum_bid_brl": "declared",
+        "current_minimum_bid_brl": "declared",
+        "occupancy": "unknown",
+        "registry_number": "declared",
+        "auction_events": "declared",
+        "source_listing_price_brl": "declared",
+        "official_url": "verified",
+        "edital_url": "verified"
+      },
+      "provenance": {
+        "source_id": "mega_leiloes",
+        "captured_from": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/balneario-camboriu/nua-propriedade-sobre-apartamento-96-m2-area-total-e-vaga-de-garagem-centro-balneario-camboriu-sc-j131194?utm_source=megaleiloes&utm_medium=link&utm_campaign=nua-propriedade-sobre-apartamento-96-m2-area-total-e-vaga-de-garagem-centro-balneario-camboriu-sc-j131194&utm_term=J131194&utm_content=link",
+        "is_aggregator": false,
+        "raw_text": "17% ABAIXO NA 2ª PRAÇA R$ 890.538,64 67 0 Nua Propriedade sobre Apartamento 96 m² (área total) e Vaga de Garagem - Centro - Balneário Camboriú - SC J131194 Balneário Camboriú, SC EM BREVE 1ª Praça: 21/01/2027 às 14:00 R$ 890.538,64 2ª Praça: 11/02/2027 às 14:00 R$ 742.085,85 IR Explore por Categorias Pesquisa Avançada FAQ Entrar ou Criar conta 17% ABAIXO NA 2ª PRAÇA Valor inicial R$ 890.538,64 Judicial Leilão ML35114 Código Lote J131194 Visitas 68 Habilitados 0 Lances 0 Mega Leilões Imóveis Apartamentos Santa Catarina Balneário Camboriú Nua Propriedade sobre Apartamento 96 m² (área total) e Vaga de Garagem - Centro - Balneário Camboriú - SC Localização Rua 2450, 352, Centro, Balneário Camboriú, SC Vara 4ª Vara Cível do Foro da Comarca de Balneário Camboriú/SC Forum 4ª Vara Cível do Foro da Comarca de Balneário Camboriú/SC Leiloeiro Thais Cristina Kich JUCESC AARC/500 - SC JUCISRS 511 - RS JUCEPAR 26/449-L Processo 0003589-93.2010.8.24.0005 Controle Não aplicável Autor espólio de GUNTHER FRIEDRICH BUKHARDT Réu MARIA DE LOURDES GARCIA Valor de Avaliação R$ 890.538,64 ( Oitocentos e noventa mil, quinhentos e trinta e oito reais e sessenta e quatro centavos) em 10/2026 . A descrição dos lotes é uma cópia fiel das informações fornecidas pelos cartórios, comitente ou outro órgão responsável pelo bem. O bem será vendido no estado em que se encontra conforme edital publicado. Reservamo-nos o direito de corrigir possíveis erros de digitação. Cumpre informar, que nos leilões Judiciais e de Falência, o procedimento do pós-arrematação, deve ser realizado pelo arrematante junto ao seu procurador/advogado, diretamente nos autos do processo, uma vez que o Leiloeiro é auxiliar da justiça e está impedido de atuar nessa esfera devido ao conflito de interesses a ser gerado. Aquele que tentar fraudar a arrematação, além da reparação do dano na esfera cível - arts. 186 e 927 do Código Civil - ficará sujeito as penalidades do artigo 358 do Código Penal: Art. 358 - Impedir, perturbar ou fraudar arrematação judicial; afastar ou procurar afastar concorrente ou licitante, por meio de violência, grave ameaça, fraude ou oferecimento de vantagem: Pena - detenção, de 2 (dois) meses a 1 (um) ano, ou multa, além da pena correspondente à violência. Descrição Contrato de compra e venda Lances Parcelamento e Proposta LOTE ÚNICO: NUA PROPRIEDADE SOBRE O APARTAMENTO Nº 501 DO EDIFICIO RESIDENCIAL LAUSANNE, DESCRITO NA MATRÍCULA Nº 80.802 DO 1º CARTÓRIO DE REGISTRO DE IMÓVEIS DA COMARCA DE BALNEÁRIO CAMBORIÚ/SC: Apartamento nº 501 do Edifício Residencial Lausanne, Rua 2450, nº 352, nesta cidade, área total: 96,917m², área ideal: 12,8042m, terreno: 1.060,40m. ÔNUS/GRAVAMES: R.2. USUFRUTO em favor Efreen Monges Rivas. R.4 e Av.05. PENHORA, processo 0003589-93.2010.8.24.0005, 1ª Vara Cível da Comarca de Balneário Camboriú/SC. E NUA PROPRIEDADE SOBRE A VAGA DE GARAGEM Nº 48 DO EDIFICIO RESIDENCIAL LAUSANNE DESCRITO NA MATRÍCULA Nº 80.803 DO 1º CARTÓRIO DE REGISTRO DE IMÓVEIS DA COMARCA D"
+      },
+      "newly_discovered_at": "2026-11-04T08:13:01-03:00"
     },
     {
       "id": "c2bb77b2f5e5578fdedb",
@@ -3989,6 +4158,77 @@
       "image_source_url": "https://hasta.com.br/imovel/1720889-casa-barra-velha-sc-quinta-dos-acorianos-rua-dos-borgonhas-s-n"
     },
     {
+      "id": "c3864aeacbd9a3237341",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2464161-terreno-itajuba-barra-velha-sc"
+      ],
+      "city": "Barra Velha",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Terreno",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 145000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2464161-terreno-itajuba-barra-velha-sc",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2464161/0.jpg"
+      ],
+      "first_seen_at": "2026-11-04T08:08:39-03:00",
+      "last_checked_at": "2026-11-04T08:13:01-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2464161-terreno-itajuba-barra-velha-sc",
+        "is_aggregator": true,
+        "raw_text": "Terreno Terreno 📍 Barra Velha, SC R$ 145.000,00"
+      },
+      "newly_discovered_at": "2026-11-04T08:13:01-03:00"
+    },
+    {
       "id": "c9bb3bb1f325a39780fb",
       "source_ids": [
         "hasta"
@@ -5891,6 +6131,77 @@
         ]
       },
       "newly_discovered_at": "2026-10-26T08:45:21-03:00"
+    },
+    {
+      "id": "2d5445fbe19c817f2839",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [
+        "008"
+      ],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2464487-terreno-joinville-sc"
+      ],
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Terreno",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": "008",
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 699000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2464487-terreno-joinville-sc",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [],
+      "first_seen_at": "2026-11-04T08:04:49-03:00",
+      "last_checked_at": "2026-11-04T08:13:01-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2464487-terreno-joinville-sc",
+        "is_aggregator": true,
+        "raw_text": "🏠 Terreno Lote 008 📍 Joinville, SC R$ 699.000,00"
+      },
+      "newly_discovered_at": "2026-11-04T08:13:01-03:00"
     },
     {
       "id": "3000999e5d4b8f79828b",
@@ -8823,6 +9134,87 @@
       },
       "newly_discovered_at": "2026-10-20T10:11:11-03:00",
       "image_source_url": "https://hasta.com.br/imovel/1083652-apartamento-sc"
+    },
+    {
+      "id": "6a6caf6f406783cdaabd",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2450544-oportunidade-de-investimento"
+      ],
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Apartamento",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 210000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2450544-oportunidade-de-investimento",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2450544/0.jpg",
+        "https://hasta.com.br/foto/2450544/1.jpg",
+        "https://hasta.com.br/foto/2450544/2.jpg",
+        "https://hasta.com.br/foto/2450544/3.jpg",
+        "https://hasta.com.br/foto/2450544/4.jpg",
+        "https://hasta.com.br/foto/2450544/5.jpg",
+        "https://hasta.com.br/foto/2450544/6.jpg",
+        "https://hasta.com.br/foto/2450544/7.jpg",
+        "https://hasta.com.br/foto/2450544/8.jpg",
+        "https://hasta.com.br/foto/2450544/9.jpg",
+        "https://hasta.com.br/foto/2450544/10.jpg"
+      ],
+      "first_seen_at": "2026-11-04T08:05:41-03:00",
+      "last_checked_at": "2026-11-04T08:13:01-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2450544-oportunidade-de-investimento",
+        "is_aggregator": true,
+        "raw_text": "Apartamento Oportunidade de investimento 📍 Joinville, SC R$ 210.000,00"
+      },
+      "newly_discovered_at": "2026-11-04T08:13:01-03:00"
     },
     {
       "id": "6ac7134572ab22488eef",
@@ -12836,6 +13228,87 @@
       "image_source_url": "https://hasta.com.br/imovel/1908554-imovel-situado-na-rua-leopoldo-beninca-s-n-bairro-vila-nova-joinville-sc-terreno"
     },
     {
+      "id": "c464d2ac44bf979a823f",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2450549-oferta-da-caixa"
+      ],
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Apartamento",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 241235.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2450549-oferta-da-caixa",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2450549/0.jpg",
+        "https://hasta.com.br/foto/2450549/1.jpg",
+        "https://hasta.com.br/foto/2450549/2.jpg",
+        "https://hasta.com.br/foto/2450549/3.jpg",
+        "https://hasta.com.br/foto/2450549/4.jpg",
+        "https://hasta.com.br/foto/2450549/5.jpg",
+        "https://hasta.com.br/foto/2450549/6.jpg",
+        "https://hasta.com.br/foto/2450549/7.jpg",
+        "https://hasta.com.br/foto/2450549/8.jpg",
+        "https://hasta.com.br/foto/2450549/9.jpg",
+        "https://hasta.com.br/foto/2450549/10.jpg"
+      ],
+      "first_seen_at": "2026-11-04T08:05:39-03:00",
+      "last_checked_at": "2026-11-04T08:13:01-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2450549-oferta-da-caixa",
+        "is_aggregator": true,
+        "raw_text": "Apartamento Oferta da Caixa 📍 Joinville, SC R$ 241.235,00"
+      },
+      "newly_discovered_at": "2026-11-04T08:13:01-03:00"
+    },
+    {
       "id": "c568331510bbb18014a0",
       "source_ids": [
         "hasta"
@@ -13907,6 +14380,77 @@
         ]
       },
       "newly_discovered_at": "2026-10-20T10:11:11-03:00"
+    },
+    {
+      "id": "dff52e1a5cffa71ca249",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [
+        "001"
+      ],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2459224-terreno-joinville-joinville-sc"
+      ],
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Terreno",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": "001",
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 1416492.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2459224-terreno-joinville-joinville-sc",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [],
+      "first_seen_at": "2026-11-04T08:04:51-03:00",
+      "last_checked_at": "2026-11-04T08:13:01-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2459224-terreno-joinville-joinville-sc",
+        "is_aggregator": true,
+        "raw_text": "🏠 Terreno Lote 001 📍 Joinville, SC R$ 1.416.492,00"
+      },
+      "newly_discovered_at": "2026-11-04T08:13:01-03:00"
     },
     {
       "id": "e3172a71edfd8d1e8d6e",
@@ -16990,6 +17534,77 @@
       "newly_discovered_at": "2026-10-26T10:44:51-03:00"
     },
     {
+      "id": "c4979ae927f37da8a74c",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1506391-um-lote-de-terreno-sob-no-20-vinte-medido-e-demarcado-na-quadra-no-21-vinte-e-um"
+      ],
+      "city": "São Francisco do Sul",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Terreno",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 61600.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/1506391-um-lote-de-terreno-sob-no-20-vinte-medido-e-demarcado-na-quadra-no-21-vinte-e-um",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1506391/0.jpg"
+      ],
+      "first_seen_at": "2026-11-04T08:10:02-03:00",
+      "last_checked_at": "2026-11-04T08:13:01-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/1506391-um-lote-de-terreno-sob-no-20-vinte-medido-e-demarcado-na-quadra-no-21-vinte-e-um",
+        "is_aggregator": true,
+        "raw_text": "Terreno Um lote de terreno, sob nº 20 (vinte), medido e demarcado na quadra nº 21 (vinte e um), do denominado loteamento \"cidade balneária sayonara\", situado no lugar \"bupeva\", 📍 São Francisco do Sul, SC R$ 61.600,00"
+      },
+      "newly_discovered_at": "2026-11-04T08:13:01-03:00"
+    },
+    {
       "id": "eac5b8478800b83e666b",
       "source_ids": [
         "hasta"
@@ -17155,8 +17770,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.4,
-      "finished_at": "2026-11-02T08:03:13-03:00"
+      "duration_seconds": 0.28,
+      "finished_at": "2026-11-04T07:59:22-03:00"
     },
     {
       "source_id": "caixa",
@@ -17175,19 +17790,19 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.68,
-      "finished_at": "2026-11-02T08:03:16-03:00"
+      "duration_seconds": 23.55,
+      "finished_at": "2026-11-04T07:59:45-03:00"
     },
     {
       "source_id": "mega_leiloes",
       "name": "Mega Leilões",
       "status": "partial",
       "pages_read": 2,
-      "listings_found": 7,
+      "listings_found": 8,
       "error": "A paginação repetiu a mesma página; a fonte não avançou para novos resultados.",
       "listings_by_city": {
         "Joinville": 5,
-        "Balneário Camboriú": 1,
+        "Balneário Camboriú": 2,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
         "Penha": 0,
@@ -17195,9 +17810,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 36.6,
-      "finished_at": "2026-11-02T08:03:53-03:00",
-      "last_success_at": "2026-11-02T08:03:53-03:00"
+      "duration_seconds": 40.4,
+      "finished_at": "2026-11-04T08:00:26-03:00",
+      "last_success_at": "2026-11-04T08:00:26-03:00"
     },
     {
       "source_id": "superbid",
@@ -17216,8 +17831,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.1,
-      "finished_at": "2026-11-02T08:03:53-03:00"
+      "duration_seconds": 0.12,
+      "finished_at": "2026-11-04T08:00:26-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -17236,16 +17851,16 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.96,
-      "finished_at": "2026-11-02T08:03:56-03:00"
+      "duration_seconds": 2.79,
+      "finished_at": "2026-11-04T08:00:29-03:00"
     },
     {
       "source_id": "duarte",
       "name": "Duarte Leilões Oficiais",
-      "status": "success",
+      "status": "partial",
       "pages_read": 1,
       "listings_found": 0,
-      "error": null,
+      "error": "Alguns anúncios não puderam ser abertos: Falha ao abrir a fonte: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href*=\\\"/oferta/\\\"]\").first to be visible\n",
       "listings_by_city": {
         "Joinville": 0,
         "Balneário Camboriú": 0,
@@ -17256,9 +17871,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 19.58,
-      "finished_at": "2026-11-02T08:04:15-03:00",
-      "last_success_at": "2026-11-02T08:04:15-03:00"
+      "duration_seconds": 71.86,
+      "finished_at": "2026-11-04T08:01:41-03:00",
+      "last_success_at": "2026-11-04T08:01:41-03:00"
     },
     {
       "source_id": "zampieri",
@@ -17277,9 +17892,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 6.02,
-      "finished_at": "2026-11-02T08:04:22-03:00",
-      "last_success_at": "2026-11-02T08:04:22-03:00"
+      "duration_seconds": 5.95,
+      "finished_at": "2026-11-04T08:01:47-03:00",
+      "last_success_at": "2026-11-04T08:01:47-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -17298,9 +17913,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.58,
-      "finished_at": "2026-11-02T08:04:24-03:00",
-      "last_success_at": "2026-11-02T08:04:24-03:00"
+      "duration_seconds": 2.48,
+      "finished_at": "2026-11-04T08:01:49-03:00",
+      "last_success_at": "2026-11-04T08:01:49-03:00"
     },
     {
       "source_id": "freitas",
@@ -17319,9 +17934,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 8.35,
-      "finished_at": "2026-11-02T08:04:33-03:00",
-      "last_success_at": "2026-11-02T08:04:33-03:00"
+      "duration_seconds": 7.87,
+      "finished_at": "2026-11-04T08:01:57-03:00",
+      "last_success_at": "2026-11-04T08:01:57-03:00"
     },
     {
       "source_id": "comprei",
@@ -17340,8 +17955,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 1.38,
-      "finished_at": "2026-11-02T08:04:34-03:00"
+      "duration_seconds": 1.26,
+      "finished_at": "2026-11-04T08:01:59-03:00"
     },
     {
       "source_id": "sampaio",
@@ -17360,9 +17975,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 11.81,
-      "finished_at": "2026-11-02T08:04:46-03:00",
-      "last_success_at": "2026-11-02T08:04:46-03:00"
+      "duration_seconds": 11.76,
+      "finished_at": "2026-11-04T08:02:10-03:00",
+      "last_success_at": "2026-11-04T08:02:10-03:00"
     },
     {
       "source_id": "machado",
@@ -17381,30 +17996,30 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.94,
-      "finished_at": "2026-11-02T08:04:49-03:00",
-      "last_success_at": "2026-11-02T08:04:49-03:00"
+      "duration_seconds": 3.16,
+      "finished_at": "2026-11-04T08:02:14-03:00",
+      "last_success_at": "2026-11-04T08:02:14-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
       "status": "success",
       "pages_read": 13,
-      "listings_found": 151,
+      "listings_found": 156,
       "error": null,
       "listings_by_city": {
-        "Joinville": 97,
-        "Balneário Camboriú": 22,
+        "Joinville": 100,
+        "Balneário Camboriú": 24,
         "Balneário Piçarras": 1,
-        "Barra Velha": 7,
+        "Barra Velha": 6,
         "Penha": 3,
         "Navegantes": 5,
         "Rio do Sul": 12,
-        "São Francisco do Sul": 4
+        "São Francisco do Sul": 5
       },
-      "duration_seconds": 495.78,
-      "finished_at": "2026-11-02T08:13:05-03:00",
-      "last_success_at": "2026-11-02T08:13:05-03:00"
+      "duration_seconds": 481.12,
+      "finished_at": "2026-11-04T08:10:15-03:00",
+      "last_success_at": "2026-11-04T08:10:15-03:00"
     },
     {
       "source_id": "hasta_publica",
@@ -17423,17 +18038,17 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 55.98,
-      "finished_at": "2026-11-02T08:14:01-03:00",
-      "last_success_at": "2026-11-02T08:14:01-03:00"
+      "duration_seconds": 54.89,
+      "finished_at": "2026-11-04T08:11:10-03:00",
+      "last_success_at": "2026-11-04T08:11:10-03:00"
     },
     {
       "source_id": "leiloeiro_publico",
       "name": "Leiloeiro Público",
-      "status": "success",
-      "pages_read": 81,
+      "status": "partial",
+      "pages_read": 79,
       "listings_found": 6,
-      "error": null,
+      "error": "1 páginas de leilão não expuseram links de lotes reconhecíveis.",
       "listings_by_city": {
         "Joinville": 3,
         "Balneário Camboriú": 2,
@@ -17444,9 +18059,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 1
       },
-      "duration_seconds": 112.49,
-      "finished_at": "2026-11-02T08:15:53-03:00",
-      "last_success_at": "2026-11-02T08:15:53-03:00"
+      "duration_seconds": 110.74,
+      "finished_at": "2026-11-04T08:13:01-03:00",
+      "last_success_at": "2026-11-04T08:13:01-03:00"
     }
   ]
 }

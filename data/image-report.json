@@ -1,11 +1,13 @@
 {
-  "checked_at": "2026-11-03T08:25:05-03:00",
-  "total_listings": 212,
-  "listings_with_images": 210,
+  "checked_at": "2026-11-04T08:13:57-03:00",
+  "total_listings": 220,
+  "listings_with_images": 216,
   "recovered_ids": [],
   "missing_image_ids": [
     "90d48537555d97f4526c",
-    "208e5cb631fadc27dcaa"
+    "208e5cb631fadc27dcaa",
+    "dff52e1a5cffa71ca249",
+    "2d5445fbe19c817f2839"
   ],
   "errors": [
     {
