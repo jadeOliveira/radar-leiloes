@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T08:13:01-03:00",
+  "updated_at": "2026-11-05T08:12:09-03:00",
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -4197,10 +4197,11 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
-        "https://hasta.com.br/foto/2464161/0.jpg"
+        "https://hasta.com.br/foto/2464161/0.jpg",
+        "https://hasta.com.br/foto/2464161/1.jpg"
       ],
       "first_seen_at": "2026-11-04T08:08:39-03:00",
-      "last_checked_at": "2026-11-04T08:13:01-03:00",
+      "last_checked_at": "2026-11-05T08:12:09-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4218,13 +4219,17 @@
         "auction_events": "unknown",
         "source_listing_price_brl": "declared",
         "official_url": "unverified",
-        "auctioneer": "unverified"
+        "auctioneer": "unverified",
+        "address": "unknown"
       },
       "provenance": {
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/2464161-terreno-itajuba-barra-velha-sc",
         "is_aggregator": true,
-        "raw_text": "Terreno Terreno 📍 Barra Velha, SC R$ 145.000,00"
+        "raw_text": "Terreno Terreno 📍 Barra Velha, SC R$ 145.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/2464161-terreno-itajuba-barra-velha-sc"
+        ]
       },
       "newly_discovered_at": "2026-11-04T08:13:01-03:00"
     },
@@ -8394,6 +8399,78 @@
       "image_source_url": "https://www.leiloeiropublico.com.br/DetalheLote.aspx?Leilao=22.190&Lote=3784&Sublote=1"
     },
     {
+      "id": "5063afe759a99f6df292",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2451269-credelesc-a-fiduciaria-sobrado-em-joinville"
+      ],
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Casa",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": "extrajudicial",
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 379000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2451269-credelesc-a-fiduciaria-sobrado-em-joinville",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2451269/0.jpg",
+        "https://hasta.com.br/foto/2451269/1.jpg"
+      ],
+      "first_seen_at": "2026-11-05T08:01:38-03:00",
+      "last_checked_at": "2026-11-05T08:12:09-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2451269-credelesc-a-fiduciaria-sobrado-em-joinville",
+        "is_aggregator": true,
+        "raw_text": "Casa CREDELESC- A. Fiduciária - Sobrado em Joinville 📍 Joinville, SC R$ 379.000,00"
+      },
+      "newly_discovered_at": "2026-11-05T08:12:09-03:00"
+    },
+    {
       "id": "50a18739351cdd90ae96",
       "source_ids": [
         "hasta"
@@ -9604,6 +9681,77 @@
         ]
       },
       "newly_discovered_at": "2026-10-24T08:08:01-03:00"
+    },
+    {
+      "id": "70d194b2c9479bf34e9d",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [
+        "001"
+      ],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2480838-terreno-joinville-sc"
+      ],
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Terreno",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": "001",
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 660000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2480838-terreno-joinville-sc",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [],
+      "first_seen_at": "2026-11-05T08:03:53-03:00",
+      "last_checked_at": "2026-11-05T08:12:09-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2480838-terreno-joinville-sc",
+        "is_aggregator": true,
+        "raw_text": "🏠 Terreno Lote 001 📍 Joinville, SC R$ 660.000,00"
+      },
+      "newly_discovered_at": "2026-11-05T08:12:09-03:00"
     },
     {
       "id": "7394dc14a35f864e8b27",
@@ -17770,8 +17918,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.28,
-      "finished_at": "2026-11-04T07:59:22-03:00"
+      "duration_seconds": 0.51,
+      "finished_at": "2026-11-05T07:59:50-03:00"
     },
     {
       "source_id": "caixa",
@@ -17790,19 +17938,19 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 23.55,
-      "finished_at": "2026-11-04T07:59:45-03:00"
+      "duration_seconds": 2.95,
+      "finished_at": "2026-11-05T07:59:53-03:00"
     },
     {
       "source_id": "mega_leiloes",
       "name": "Mega Leilões",
       "status": "partial",
       "pages_read": 2,
-      "listings_found": 8,
+      "listings_found": 5,
       "error": "A paginação repetiu a mesma página; a fonte não avançou para novos resultados.",
       "listings_by_city": {
-        "Joinville": 5,
-        "Balneário Camboriú": 2,
+        "Joinville": 3,
+        "Balneário Camboriú": 1,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
         "Penha": 0,
@@ -17810,9 +17958,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 40.4,
-      "finished_at": "2026-11-04T08:00:26-03:00",
-      "last_success_at": "2026-11-04T08:00:26-03:00"
+      "duration_seconds": 34.61,
+      "finished_at": "2026-11-05T08:00:28-03:00",
+      "last_success_at": "2026-11-05T08:00:28-03:00"
     },
     {
       "source_id": "superbid",
@@ -17831,8 +17979,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.12,
-      "finished_at": "2026-11-04T08:00:26-03:00"
+      "duration_seconds": 0.13,
+      "finished_at": "2026-11-05T08:00:28-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -17851,16 +17999,16 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.79,
-      "finished_at": "2026-11-04T08:00:29-03:00"
+      "duration_seconds": 2.94,
+      "finished_at": "2026-11-05T08:00:31-03:00"
     },
     {
       "source_id": "duarte",
       "name": "Duarte Leilões Oficiais",
-      "status": "partial",
+      "status": "success",
       "pages_read": 1,
       "listings_found": 0,
-      "error": "Alguns anúncios não puderam ser abertos: Falha ao abrir a fonte: Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"a[href*=\\\"/oferta/\\\"]\").first to be visible\n",
+      "error": null,
       "listings_by_city": {
         "Joinville": 0,
         "Balneário Camboriú": 0,
@@ -17871,9 +18019,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 71.86,
-      "finished_at": "2026-11-04T08:01:41-03:00",
-      "last_success_at": "2026-11-04T08:01:41-03:00"
+      "duration_seconds": 17.44,
+      "finished_at": "2026-11-05T08:00:48-03:00",
+      "last_success_at": "2026-11-05T08:00:48-03:00"
     },
     {
       "source_id": "zampieri",
@@ -17892,9 +18040,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 5.95,
-      "finished_at": "2026-11-04T08:01:47-03:00",
-      "last_success_at": "2026-11-04T08:01:47-03:00"
+      "duration_seconds": 6.36,
+      "finished_at": "2026-11-05T08:00:55-03:00",
+      "last_success_at": "2026-11-05T08:00:55-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -17913,9 +18061,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.48,
-      "finished_at": "2026-11-04T08:01:49-03:00",
-      "last_success_at": "2026-11-04T08:01:49-03:00"
+      "duration_seconds": 2.56,
+      "finished_at": "2026-11-05T08:00:57-03:00",
+      "last_success_at": "2026-11-05T08:00:57-03:00"
     },
     {
       "source_id": "freitas",
@@ -17934,9 +18082,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 7.87,
-      "finished_at": "2026-11-04T08:01:57-03:00",
-      "last_success_at": "2026-11-04T08:01:57-03:00"
+      "duration_seconds": 8.38,
+      "finished_at": "2026-11-05T08:01:06-03:00",
+      "last_success_at": "2026-11-05T08:01:06-03:00"
     },
     {
       "source_id": "comprei",
@@ -17955,8 +18103,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 1.26,
-      "finished_at": "2026-11-04T08:01:59-03:00"
+      "duration_seconds": 1.28,
+      "finished_at": "2026-11-05T08:01:07-03:00"
     },
     {
       "source_id": "sampaio",
@@ -17975,9 +18123,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 11.76,
-      "finished_at": "2026-11-04T08:02:10-03:00",
-      "last_success_at": "2026-11-04T08:02:10-03:00"
+      "duration_seconds": 10.63,
+      "finished_at": "2026-11-05T08:01:18-03:00",
+      "last_success_at": "2026-11-05T08:01:18-03:00"
     },
     {
       "source_id": "machado",
@@ -17996,30 +18144,30 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 3.16,
-      "finished_at": "2026-11-04T08:02:14-03:00",
-      "last_success_at": "2026-11-04T08:02:14-03:00"
+      "duration_seconds": 3.17,
+      "finished_at": "2026-11-05T08:01:21-03:00",
+      "last_success_at": "2026-11-05T08:01:21-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
       "status": "success",
       "pages_read": 13,
-      "listings_found": 156,
+      "listings_found": 157,
       "error": null,
       "listings_by_city": {
-        "Joinville": 100,
+        "Joinville": 101,
         "Balneário Camboriú": 24,
         "Balneário Piçarras": 1,
-        "Barra Velha": 6,
-        "Penha": 3,
+        "Barra Velha": 7,
+        "Penha": 2,
         "Navegantes": 5,
         "Rio do Sul": 12,
         "São Francisco do Sul": 5
       },
-      "duration_seconds": 481.12,
-      "finished_at": "2026-11-04T08:10:15-03:00",
-      "last_success_at": "2026-11-04T08:10:15-03:00"
+      "duration_seconds": 481.96,
+      "finished_at": "2026-11-05T08:09:23-03:00",
+      "last_success_at": "2026-11-05T08:09:23-03:00"
     },
     {
       "source_id": "hasta_publica",
@@ -18038,17 +18186,17 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 54.89,
-      "finished_at": "2026-11-04T08:11:10-03:00",
-      "last_success_at": "2026-11-04T08:11:10-03:00"
+      "duration_seconds": 57.25,
+      "finished_at": "2026-11-05T08:10:20-03:00",
+      "last_success_at": "2026-11-05T08:10:20-03:00"
     },
     {
       "source_id": "leiloeiro_publico",
       "name": "Leiloeiro Público",
-      "status": "partial",
-      "pages_read": 79,
+      "status": "success",
+      "pages_read": 80,
       "listings_found": 6,
-      "error": "1 páginas de leilão não expuseram links de lotes reconhecíveis.",
+      "error": null,
       "listings_by_city": {
         "Joinville": 3,
         "Balneário Camboriú": 2,
@@ -18059,9 +18207,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 1
       },
-      "duration_seconds": 110.74,
-      "finished_at": "2026-11-04T08:13:01-03:00",
-      "last_success_at": "2026-11-04T08:13:01-03:00"
+      "duration_seconds": 108.15,
+      "finished_at": "2026-11-05T08:12:08-03:00",
+      "last_success_at": "2026-11-05T08:12:08-03:00"
     }
   ]
 }
