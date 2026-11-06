@@ -5169,6 +5169,81 @@
           "detected_at": "2026-11-05T08:12:09-03:00"
         }
       ]
+    },
+    {
+      "run_id": "fc1be5c6-dda0-4f71-80d1-101baa38587c",
+      "detected_at": "2026-11-06T08:09:56-03:00",
+      "changes": [
+        {
+          "property_id": "a4613dacec3e5997f498",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "image_urls",
+              "before": [
+                "https://hasta.com.br/foto/2307627/0.jpg",
+                "https://hasta.com.br/foto/2307627/1.jpg"
+              ],
+              "after": [
+                "https://hasta.com.br/foto/2307627/0.jpg",
+                "https://hasta.com.br/foto/2307627/1.jpg",
+                "https://hasta.com.br/foto/2307627/2.jpg",
+                "https://hasta.com.br/foto/2307627/3.jpg",
+                "https://hasta.com.br/foto/2307627/4.jpg"
+              ]
+            }
+          ],
+          "detected_at": "2026-11-06T08:09:56-03:00"
+        },
+        {
+          "property_id": "de13120571b88c7b541d",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "source_listing_price_brl",
+              "before": 739818.0,
+              "after": 655519.0
+            }
+          ],
+          "detected_at": "2026-11-06T08:09:56-03:00"
+        },
+        {
+          "property_id": "eff27680d22d1a793972",
+          "city": "Barra Velha",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-11-06T08:09:56-03:00"
+        },
+        {
+          "property_id": "9047ef30c8ed891f3200",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-11-06T08:09:56-03:00"
+        }
+      ]
     }
   ]
 }
