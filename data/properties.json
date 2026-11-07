@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T08:09:56-03:00",
+  "updated_at": "2026-11-07T08:15:59-03:00",
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -3686,6 +3686,77 @@
       "image_source_url": "https://hasta.com.br/imovel/1577602-terreno-urbano-barra-velha-lote-001-id-1497"
     },
     {
+      "id": "2bda9cc2e03a07d486d6",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2507539-otimo-terreno-em-barra-velha"
+      ],
+      "city": "Barra Velha",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Terreno",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 300000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2507539-otimo-terreno-em-barra-velha",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2507539/0.jpg"
+      ],
+      "first_seen_at": "2026-11-07T08:11:22-03:00",
+      "last_checked_at": "2026-11-07T08:15:59-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2507539-otimo-terreno-em-barra-velha",
+        "is_aggregator": true,
+        "raw_text": "Terreno Otimo terreno em barra velha 📍 Barra Velha, SC R$ 300.000,00"
+      },
+      "newly_discovered_at": "2026-11-07T08:15:59-03:00"
+    },
+    {
       "id": "2dfba96f2e1ef67424ef",
       "source_ids": [
         "hasta"
@@ -4089,6 +4160,77 @@
       "newly_discovered_at": "2026-10-22T08:00:00-03:00"
     },
     {
+      "id": "76edeaf4c3ed6d2936c1",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2507776-casa-em-leilao-em-barra-velha-sc-3049045"
+      ],
+      "city": "Barra Velha",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Casa",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 238000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2507776-casa-em-leilao-em-barra-velha-sc-3049045",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2507776/0.jpg"
+      ],
+      "first_seen_at": "2026-11-07T08:11:29-03:00",
+      "last_checked_at": "2026-11-07T08:15:59-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2507776-casa-em-leilao-em-barra-velha-sc-3049045",
+        "is_aggregator": true,
+        "raw_text": "Casa Casa em Leilão em Barra Velha / SC - 3049045 📍 Barra Velha, SC R$ 238.000,00"
+      },
+      "newly_discovered_at": "2026-11-07T08:15:59-03:00"
+    },
+    {
       "id": "8c976a933bd3e52a902b",
       "source_ids": [
         "hasta"
@@ -4392,6 +4534,77 @@
         ]
       },
       "newly_discovered_at": "2026-10-22T11:36:11-03:00"
+    },
+    {
+      "id": "d32d2f4bc6777509aa93",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2507617-direitos-aquisitivos"
+      ],
+      "city": "Barra Velha",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Casa",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 155782.7,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2507617-direitos-aquisitivos",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2507617/0.jpg"
+      ],
+      "first_seen_at": "2026-11-07T08:11:13-03:00",
+      "last_checked_at": "2026-11-07T08:15:59-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2507617-direitos-aquisitivos",
+        "is_aggregator": true,
+        "raw_text": "Casa Direitos aquisitivos 📍 Barra Velha, SC R$ 155.782,70"
+      },
+      "newly_discovered_at": "2026-11-07T08:15:59-03:00"
     },
     {
       "id": "eff27680d22d1a793972",
@@ -7218,10 +7431,21 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
-        "https://hasta.com.br/foto/1785654/0.jpg"
+        "https://hasta.com.br/foto/1785654/0.jpg",
+        "https://hasta.com.br/foto/1785654/1.jpg",
+        "https://hasta.com.br/foto/1785654/2.jpg",
+        "https://hasta.com.br/foto/1785654/3.jpg",
+        "https://hasta.com.br/foto/1785654/4.jpg",
+        "https://hasta.com.br/foto/1785654/5.jpg",
+        "https://hasta.com.br/foto/1785654/6.jpg",
+        "https://hasta.com.br/foto/1785654/7.jpg",
+        "https://hasta.com.br/foto/1785654/8.jpg",
+        "https://hasta.com.br/foto/1785654/9.jpg",
+        "https://hasta.com.br/foto/1785654/10.jpg",
+        "https://hasta.com.br/foto/1785654/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-27T08:19:35-03:00",
+      "last_checked_at": "2026-11-07T08:15:59-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7246,7 +7470,7 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1785654-terreno-joinville-joinville-sc",
         "is_aggregator": true,
-        "raw_text": "Terreno Lote 3 📍 Joinville, SC R$ 30.000,00",
+        "raw_text": "Terreno Lote 3 📍 Joinville, SC R$ 95.800,00",
         "source_listing_urls": [
           "https://hasta.com.br/imovel/1785654-terreno-joinville-joinville-sc"
         ]
@@ -10806,6 +11030,84 @@
       "image_source_url": "https://hasta.com.br/imovel/2027070-direitos-aquisitivos-em-face-de-plaza-monet-incorporacao-spe-ltda-a-um-apartamen"
     },
     {
+      "id": "81c03fef72b8f01f2dbf",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2518867-apto-100m2-c-1-vaga-de-garagem-desocupado-joinville-sc-portal-da-independencia"
+      ],
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Apartamento",
+      "area_privative_m2": 100.0,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 328000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": "desocupado",
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2518867-apto-100m2-c-1-vaga-de-garagem-desocupado-joinville-sc-portal-da-independencia",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2518867/0.jpg",
+        "https://hasta.com.br/foto/2518867/1.jpg",
+        "https://hasta.com.br/foto/2518867/2.jpg",
+        "https://hasta.com.br/foto/2518867/3.jpg",
+        "https://hasta.com.br/foto/2518867/4.jpg",
+        "https://hasta.com.br/foto/2518867/5.jpg",
+        "https://hasta.com.br/foto/2518867/6.jpg",
+        "https://hasta.com.br/foto/2518867/7.jpg",
+        "https://hasta.com.br/foto/2518867/8.jpg"
+      ],
+      "first_seen_at": "2026-11-07T08:08:04-03:00",
+      "last_checked_at": "2026-11-07T08:15:59-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "declared",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2518867-apto-100m2-c-1-vaga-de-garagem-desocupado-joinville-sc-portal-da-independencia",
+        "is_aggregator": true,
+        "raw_text": "Apartamento Apto. 100m² c/ 1 vaga de garagem | DESOCUPADO | Joinville-SC | Portal da Independência | Anita Garibaldi, Próx. ao Shopping Estação e UniSociesc 📍 Joinville, SC R$ 328.000,00"
+      },
+      "newly_discovered_at": "2026-11-07T08:15:59-03:00"
+    },
+    {
       "id": "830d20a29f778cb562ae",
       "source_ids": [
         "hasta"
@@ -11506,10 +11808,21 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
-        "https://hasta.com.br/foto/1967089/0.jpg"
+        "https://hasta.com.br/foto/1967089/0.jpg",
+        "https://hasta.com.br/foto/1967089/1.jpg",
+        "https://hasta.com.br/foto/1967089/2.jpg",
+        "https://hasta.com.br/foto/1967089/3.jpg",
+        "https://hasta.com.br/foto/1967089/4.jpg",
+        "https://hasta.com.br/foto/1967089/5.jpg",
+        "https://hasta.com.br/foto/1967089/6.jpg",
+        "https://hasta.com.br/foto/1967089/7.jpg",
+        "https://hasta.com.br/foto/1967089/8.jpg",
+        "https://hasta.com.br/foto/1967089/9.jpg",
+        "https://hasta.com.br/foto/1967089/10.jpg",
+        "https://hasta.com.br/foto/1967089/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-27T08:19:35-03:00",
+      "last_checked_at": "2026-11-07T08:15:59-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -11534,7 +11847,7 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1967089-terreno-joinville-joinville-sc",
         "is_aggregator": true,
-        "raw_text": "Terreno Lote 8 📍 Joinville, SC R$ 23.681,60",
+        "raw_text": "Terreno Lote 8 📍 Joinville, SC R$ 50.881,60",
         "source_listing_urls": [
           "https://hasta.com.br/imovel/1967089-terreno-joinville-joinville-sc"
         ]
@@ -12360,10 +12673,21 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
-        "https://hasta.com.br/foto/1967090/0.jpg"
+        "https://hasta.com.br/foto/1967090/0.jpg",
+        "https://hasta.com.br/foto/1967090/1.jpg",
+        "https://hasta.com.br/foto/1967090/2.jpg",
+        "https://hasta.com.br/foto/1967090/3.jpg",
+        "https://hasta.com.br/foto/1967090/4.jpg",
+        "https://hasta.com.br/foto/1967090/5.jpg",
+        "https://hasta.com.br/foto/1967090/6.jpg",
+        "https://hasta.com.br/foto/1967090/7.jpg",
+        "https://hasta.com.br/foto/1967090/8.jpg",
+        "https://hasta.com.br/foto/1967090/9.jpg",
+        "https://hasta.com.br/foto/1967090/10.jpg",
+        "https://hasta.com.br/foto/1967090/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-27T08:19:35-03:00",
+      "last_checked_at": "2026-11-07T08:15:59-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -17539,6 +17863,77 @@
       "newly_discovered_at": "2026-10-26T10:44:51-03:00"
     },
     {
+      "id": "52a86b63cc0cb6bda6d8",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/1506383-um-lote-de-terreno-sob-no-19-dezenove-medido-e-demarcado-na-quadra-no-21-vinte-e"
+      ],
+      "city": "São Francisco do Sul",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Terreno",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 60500.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/1506383-um-lote-de-terreno-sob-no-19-dezenove-medido-e-demarcado-na-quadra-no-21-vinte-e",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/1506383/0.jpg"
+      ],
+      "first_seen_at": "2026-11-07T08:12:59-03:00",
+      "last_checked_at": "2026-11-07T08:15:59-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/1506383-um-lote-de-terreno-sob-no-19-dezenove-medido-e-demarcado-na-quadra-no-21-vinte-e",
+        "is_aggregator": true,
+        "raw_text": "Terreno Um lote de terreno, sob nº 19 (dezenove), medido e demarcado na quadra nº 21 (vinte e um) do denominado loteamento \"cidade balneária sayonara 📍 São Francisco do Sul, SC R$ 60.500,00"
+      },
+      "newly_discovered_at": "2026-11-07T08:15:59-03:00"
+    },
+    {
       "id": "89707a65c2d41d274013",
       "source_ids": [
         "hasta"
@@ -18078,8 +18473,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.22,
-      "finished_at": "2026-11-06T07:57:37-03:00"
+      "duration_seconds": 0.17,
+      "finished_at": "2026-11-07T08:03:11-03:00"
     },
     {
       "source_id": "caixa",
@@ -18098,8 +18493,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.75,
-      "finished_at": "2026-11-06T07:57:39-03:00"
+      "duration_seconds": 2.68,
+      "finished_at": "2026-11-07T08:03:13-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -18118,9 +18513,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 33.53,
-      "finished_at": "2026-11-06T07:58:13-03:00",
-      "last_success_at": "2026-11-06T07:58:13-03:00"
+      "duration_seconds": 34.01,
+      "finished_at": "2026-11-07T08:03:48-03:00",
+      "last_success_at": "2026-11-07T08:03:48-03:00"
     },
     {
       "source_id": "superbid",
@@ -18139,8 +18534,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.12,
-      "finished_at": "2026-11-06T07:58:13-03:00"
+      "duration_seconds": 0.31,
+      "finished_at": "2026-11-07T08:03:48-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -18159,8 +18554,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.97,
-      "finished_at": "2026-11-06T07:58:16-03:00"
+      "duration_seconds": 3.41,
+      "finished_at": "2026-11-07T08:03:51-03:00"
     },
     {
       "source_id": "duarte",
@@ -18179,9 +18574,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 16.18,
-      "finished_at": "2026-11-06T07:58:32-03:00",
-      "last_success_at": "2026-11-06T07:58:32-03:00"
+      "duration_seconds": 15.17,
+      "finished_at": "2026-11-07T08:04:07-03:00",
+      "last_success_at": "2026-11-07T08:04:07-03:00"
     },
     {
       "source_id": "zampieri",
@@ -18200,9 +18595,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 6.03,
-      "finished_at": "2026-11-06T07:58:38-03:00",
-      "last_success_at": "2026-11-06T07:58:38-03:00"
+      "duration_seconds": 5.98,
+      "finished_at": "2026-11-07T08:04:13-03:00",
+      "last_success_at": "2026-11-07T08:04:13-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -18221,9 +18616,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.56,
-      "finished_at": "2026-11-06T07:58:41-03:00",
-      "last_success_at": "2026-11-06T07:58:41-03:00"
+      "duration_seconds": 2.51,
+      "finished_at": "2026-11-07T08:04:15-03:00",
+      "last_success_at": "2026-11-07T08:04:15-03:00"
     },
     {
       "source_id": "freitas",
@@ -18242,9 +18637,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 7.84,
-      "finished_at": "2026-11-06T07:58:49-03:00",
-      "last_success_at": "2026-11-06T07:58:49-03:00"
+      "duration_seconds": 8.65,
+      "finished_at": "2026-11-07T08:04:24-03:00",
+      "last_success_at": "2026-11-07T08:04:24-03:00"
     },
     {
       "source_id": "comprei",
@@ -18263,8 +18658,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 1.35,
-      "finished_at": "2026-11-06T07:58:50-03:00"
+      "duration_seconds": 1.31,
+      "finished_at": "2026-11-07T08:04:25-03:00"
     },
     {
       "source_id": "sampaio",
@@ -18283,9 +18678,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 10.67,
-      "finished_at": "2026-11-06T07:59:01-03:00",
-      "last_success_at": "2026-11-06T07:59:01-03:00"
+      "duration_seconds": 10.57,
+      "finished_at": "2026-11-07T08:04:36-03:00",
+      "last_success_at": "2026-11-07T08:04:36-03:00"
     },
     {
       "source_id": "machado",
@@ -18304,41 +18699,41 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 5.64,
-      "finished_at": "2026-11-06T07:59:07-03:00",
-      "last_success_at": "2026-11-06T07:59:07-03:00"
+      "duration_seconds": 5.3,
+      "finished_at": "2026-11-07T08:04:41-03:00",
+      "last_success_at": "2026-11-07T08:04:41-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
       "status": "success",
       "pages_read": 13,
-      "listings_found": 154,
+      "listings_found": 157,
       "error": null,
       "listings_by_city": {
         "Joinville": 97,
         "Balneário Camboriú": 24,
         "Balneário Piçarras": 1,
-        "Barra Velha": 8,
+        "Barra Velha": 11,
         "Penha": 2,
         "Navegantes": 5,
         "Rio do Sul": 12,
         "São Francisco do Sul": 5
       },
-      "duration_seconds": 481.08,
-      "finished_at": "2026-11-06T08:07:08-03:00",
-      "last_success_at": "2026-11-06T08:07:08-03:00"
+      "duration_seconds": 510.41,
+      "finished_at": "2026-11-07T08:13:12-03:00",
+      "last_success_at": "2026-11-07T08:13:12-03:00"
     },
     {
       "source_id": "hasta_publica",
       "name": "Hasta Pública Leilões",
       "status": "success",
       "pages_read": 2,
-      "listings_found": 1,
+      "listings_found": 0,
       "error": null,
       "listings_by_city": {
         "Joinville": 0,
-        "Balneário Camboriú": 1,
+        "Balneário Camboriú": 0,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
         "Penha": 0,
@@ -18346,15 +18741,15 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 49.11,
-      "finished_at": "2026-11-06T08:07:57-03:00",
-      "last_success_at": "2026-11-06T08:07:57-03:00"
+      "duration_seconds": 48.1,
+      "finished_at": "2026-11-07T08:14:00-03:00",
+      "last_success_at": "2026-11-07T08:14:00-03:00"
     },
     {
       "source_id": "leiloeiro_publico",
       "name": "Leiloeiro Público",
       "status": "success",
-      "pages_read": 82,
+      "pages_read": 81,
       "listings_found": 6,
       "error": null,
       "listings_by_city": {
@@ -18367,9 +18762,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 1
       },
-      "duration_seconds": 118.64,
-      "finished_at": "2026-11-06T08:09:56-03:00",
-      "last_success_at": "2026-11-06T08:09:56-03:00"
+      "duration_seconds": 118.63,
+      "finished_at": "2026-11-07T08:15:59-03:00",
+      "last_success_at": "2026-11-07T08:15:59-03:00"
     }
   ]
 }
