@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T08:15:59-03:00",
+  "updated_at": "2026-11-08T08:16:18-03:00",
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -6472,10 +6472,13 @@
       "image_urls": [
         "https://hasta.com.br/foto/2309080/0.jpg",
         "https://hasta.com.br/foto/2309080/1.jpg",
-        "https://hasta.com.br/foto/2309080/2.jpg"
+        "https://hasta.com.br/foto/2309080/2.jpg",
+        "https://hasta.com.br/foto/2309080/3.jpg",
+        "https://hasta.com.br/foto/2309080/4.jpg",
+        "https://hasta.com.br/foto/2309080/5.jpg"
       ],
       "first_seen_at": "2026-10-26T08:35:11-03:00",
-      "last_checked_at": "2026-10-26T10:44:51-03:00",
+      "last_checked_at": "2026-11-08T08:16:18-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6577,6 +6580,77 @@
         "raw_text": "🏠 Terreno Lote 008 📍 Joinville, SC R$ 699.000,00"
       },
       "newly_discovered_at": "2026-11-04T08:13:01-03:00"
+    },
+    {
+      "id": "2dea64ce5ae62f392b49",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2514437-joinville-sc-apartamento-rua-manuel-agostinho-de-carvalho-n-350-apto-301-bl-18"
+      ],
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Apartamento",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 241235.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2514437-joinville-sc-apartamento-rua-manuel-agostinho-de-carvalho-n-350-apto-301-bl-18",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2514437/0.jpg"
+      ],
+      "first_seen_at": "2026-11-08T08:08:38-03:00",
+      "last_checked_at": "2026-11-08T08:16:18-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2514437-joinville-sc-apartamento-rua-manuel-agostinho-de-carvalho-n-350-apto-301-bl-18",
+        "is_aggregator": true,
+        "raw_text": "Apartamento JOINVILLE/SC - APARTAMENTO - RUA MANUEL AGOSTINHO DE CARVALHO N. 350 APTO. 301 BL 18 PAV 03 - JOAO COSTA - COND RES PARK SUL 📍 Joinville, SC R$ 241.235,00"
+      },
+      "newly_discovered_at": "2026-11-08T08:16:18-03:00"
     },
     {
       "id": "3000999e5d4b8f79828b",
@@ -11311,7 +11385,7 @@
       "commission_percent": null,
       "payment_conditions": null,
       "occupancy": null,
-      "status": "scheduled_unverified",
+      "status": "ended_unverified",
       "official_url": null,
       "source_listing_url": "https://hasta.com.br/imovel/2091959-casa-no-bairro-gloria-em-joinville-sc-1o-leilao-04-11-2026-as-14-30-lance-inicia",
       "validation_status": "nao_verificado",
@@ -18473,8 +18547,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.17,
-      "finished_at": "2026-11-07T08:03:11-03:00"
+      "duration_seconds": 0.15,
+      "finished_at": "2026-11-08T08:03:43-03:00"
     },
     {
       "source_id": "caixa",
@@ -18493,8 +18567,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.68,
-      "finished_at": "2026-11-07T08:03:13-03:00"
+      "duration_seconds": 2.94,
+      "finished_at": "2026-11-08T08:03:46-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -18513,9 +18587,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 34.01,
-      "finished_at": "2026-11-07T08:03:48-03:00",
-      "last_success_at": "2026-11-07T08:03:48-03:00"
+      "duration_seconds": 30.98,
+      "finished_at": "2026-11-08T08:04:17-03:00",
+      "last_success_at": "2026-11-08T08:04:17-03:00"
     },
     {
       "source_id": "superbid",
@@ -18535,7 +18609,7 @@
         "São Francisco do Sul": 0
       },
       "duration_seconds": 0.31,
-      "finished_at": "2026-11-07T08:03:48-03:00"
+      "finished_at": "2026-11-08T08:04:17-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -18554,8 +18628,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 3.41,
-      "finished_at": "2026-11-07T08:03:51-03:00"
+      "duration_seconds": 2.92,
+      "finished_at": "2026-11-08T08:04:20-03:00"
     },
     {
       "source_id": "duarte",
@@ -18574,9 +18648,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 15.17,
-      "finished_at": "2026-11-07T08:04:07-03:00",
-      "last_success_at": "2026-11-07T08:04:07-03:00"
+      "duration_seconds": 15.45,
+      "finished_at": "2026-11-08T08:04:36-03:00",
+      "last_success_at": "2026-11-08T08:04:36-03:00"
     },
     {
       "source_id": "zampieri",
@@ -18595,9 +18669,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 5.98,
-      "finished_at": "2026-11-07T08:04:13-03:00",
-      "last_success_at": "2026-11-07T08:04:13-03:00"
+      "duration_seconds": 6.0,
+      "finished_at": "2026-11-08T08:04:42-03:00",
+      "last_success_at": "2026-11-08T08:04:42-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -18617,8 +18691,8 @@
         "São Francisco do Sul": 0
       },
       "duration_seconds": 2.51,
-      "finished_at": "2026-11-07T08:04:15-03:00",
-      "last_success_at": "2026-11-07T08:04:15-03:00"
+      "finished_at": "2026-11-08T08:04:44-03:00",
+      "last_success_at": "2026-11-08T08:04:44-03:00"
     },
     {
       "source_id": "freitas",
@@ -18637,9 +18711,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 8.65,
-      "finished_at": "2026-11-07T08:04:24-03:00",
-      "last_success_at": "2026-11-07T08:04:24-03:00"
+      "duration_seconds": 8.39,
+      "finished_at": "2026-11-08T08:04:53-03:00",
+      "last_success_at": "2026-11-08T08:04:53-03:00"
     },
     {
       "source_id": "comprei",
@@ -18658,8 +18732,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 1.31,
-      "finished_at": "2026-11-07T08:04:25-03:00"
+      "duration_seconds": 1.53,
+      "finished_at": "2026-11-08T08:04:54-03:00"
     },
     {
       "source_id": "sampaio",
@@ -18678,9 +18752,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 10.57,
-      "finished_at": "2026-11-07T08:04:36-03:00",
-      "last_success_at": "2026-11-07T08:04:36-03:00"
+      "duration_seconds": 10.61,
+      "finished_at": "2026-11-08T08:05:05-03:00",
+      "last_success_at": "2026-11-08T08:05:05-03:00"
     },
     {
       "source_id": "machado",
@@ -18699,30 +18773,30 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 5.3,
-      "finished_at": "2026-11-07T08:04:41-03:00",
-      "last_success_at": "2026-11-07T08:04:41-03:00"
+      "duration_seconds": 4.96,
+      "finished_at": "2026-11-08T08:05:10-03:00",
+      "last_success_at": "2026-11-08T08:05:10-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
       "status": "success",
       "pages_read": 13,
-      "listings_found": 157,
+      "listings_found": 158,
       "error": null,
       "listings_by_city": {
-        "Joinville": 97,
+        "Joinville": 99,
         "Balneário Camboriú": 24,
         "Balneário Piçarras": 1,
         "Barra Velha": 11,
         "Penha": 2,
         "Navegantes": 5,
-        "Rio do Sul": 12,
+        "Rio do Sul": 11,
         "São Francisco do Sul": 5
       },
-      "duration_seconds": 510.41,
-      "finished_at": "2026-11-07T08:13:12-03:00",
-      "last_success_at": "2026-11-07T08:13:12-03:00"
+      "duration_seconds": 500.31,
+      "finished_at": "2026-11-08T08:13:30-03:00",
+      "last_success_at": "2026-11-08T08:13:30-03:00"
     },
     {
       "source_id": "hasta_publica",
@@ -18741,9 +18815,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 48.1,
-      "finished_at": "2026-11-07T08:14:00-03:00",
-      "last_success_at": "2026-11-07T08:14:00-03:00"
+      "duration_seconds": 49.48,
+      "finished_at": "2026-11-08T08:14:20-03:00",
+      "last_success_at": "2026-11-08T08:14:20-03:00"
     },
     {
       "source_id": "leiloeiro_publico",
@@ -18762,9 +18836,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 1
       },
-      "duration_seconds": 118.63,
-      "finished_at": "2026-11-07T08:15:59-03:00",
-      "last_success_at": "2026-11-07T08:15:59-03:00"
+      "duration_seconds": 117.75,
+      "finished_at": "2026-11-08T08:16:18-03:00",
+      "last_success_at": "2026-11-08T08:16:18-03:00"
     }
   ]
 }
