@@ -5477,6 +5477,102 @@
           "detected_at": "2026-11-08T08:16:18-03:00"
         }
       ]
+    },
+    {
+      "run_id": "92f11a65-5f4e-44b6-96c4-42de0f029903",
+      "detected_at": "2026-11-09T08:12:54-03:00",
+      "changes": [
+        {
+          "property_id": "750706a19b0b19f7d5ed",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-11-09T08:12:54-03:00"
+        },
+        {
+          "property_id": "648372f9d2ba21c3eaf1",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-11-09T08:12:54-03:00"
+        },
+        {
+          "property_id": "5459cbbe19a59500741c",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-11-09T08:12:54-03:00"
+        },
+        {
+          "property_id": "ea015e7f3e9215730ecb",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-11-09T08:12:54-03:00"
+        },
+        {
+          "property_id": "755829b80eb3f6ee18b8",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-11-09T08:12:54-03:00"
+        },
+        {
+          "property_id": "f4f2b6fe12069dde4977",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-11-09T08:12:54-03:00"
+        }
+      ]
     }
   ]
 }
