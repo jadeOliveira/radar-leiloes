@@ -5387,6 +5387,51 @@
         }
       ],
       "detected_at": "2026-11-09T08:12:54-03:00"
+    },
+    {
+      "property_id": "8d4c45f5b726eb2983ef",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-11-10T08:16:41-03:00"
+    },
+    {
+      "property_id": "512b4cd32fb52b15bf1a",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-11-10T08:16:41-03:00"
+    },
+    {
+      "property_id": "3670958123d613d19b2e",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-11-10T08:16:41-03:00"
     }
   ]
 }

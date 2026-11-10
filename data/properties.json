@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T08:12:54-03:00",
+  "updated_at": "2026-11-10T08:16:41-03:00",
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -9075,6 +9075,85 @@
       "image_source_url": "https://hasta.com.br/imovel/1946983-apartamento-saguacu-joinville-sc"
     },
     {
+      "id": "512b4cd32fb52b15bf1a",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2584825-casa-139-53m2-com-terreno-360m2-joinville-sc-nova-brasilia-financiamento-ate"
+      ],
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": "Nova Brasília",
+      "address": null,
+      "property_type": "Casa",
+      "area_privative_m2": null,
+      "area_built_m2": 139.53,
+      "area_total_m2": 360.0,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 585000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2584825-casa-139-53m2-com-terreno-360m2-joinville-sc-nova-brasilia-financiamento-ate",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2584825/0.jpg",
+        "https://hasta.com.br/foto/2584825/1.jpg",
+        "https://hasta.com.br/foto/2584825/2.jpg",
+        "https://hasta.com.br/foto/2584825/3.jpg",
+        "https://hasta.com.br/foto/2584825/4.jpg",
+        "https://hasta.com.br/foto/2584825/5.jpg",
+        "https://hasta.com.br/foto/2584825/6.jpg",
+        "https://hasta.com.br/foto/2584825/7.jpg",
+        "https://hasta.com.br/foto/2584825/8.jpg"
+      ],
+      "first_seen_at": "2026-11-10T08:08:28-03:00",
+      "last_checked_at": "2026-11-10T08:16:41-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2584825-casa-139-53m2-com-terreno-360m2-joinville-sc-nova-brasilia-financiamento-ate",
+        "is_aggregator": true,
+        "raw_text": "Casa Casa 139,53m² com Terreno 360m² | Joinville-SC | Nova Brasília - Financiamento até 420 Meses! 📍 Joinville, SC R$ 585.000,00"
+      },
+      "newly_discovered_at": "2026-11-10T08:16:41-03:00"
+    },
+    {
       "id": "53ebef2c2ec3286d25da",
       "source_ids": [
         "mega_leiloes",
@@ -11800,6 +11879,84 @@
       },
       "newly_discovered_at": "2026-10-20T10:11:11-03:00",
       "image_source_url": "https://hasta.com.br/imovel/1949169-spazio-jardim-de-bari"
+    },
+    {
+      "id": "8d4c45f5b726eb2983ef",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2589671-apartamento-no-bairro-jardim-paraiso-em-joinville-sc-1o-leilao-02-12-2026-as-14"
+      ],
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": "Jardim Paraíso",
+      "address": null,
+      "property_type": "Apartamento",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": 90000.0,
+      "source_listing_price_brl": 90000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [
+        {
+          "date": "2026-12-02",
+          "time": "14:30",
+          "minimum_bid_brl": null,
+          "stage": "first"
+        }
+      ],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "scheduled_unverified",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2589671-apartamento-no-bairro-jardim-paraiso-em-joinville-sc-1o-leilao-02-12-2026-as-14",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2589671/0.jpg"
+      ],
+      "first_seen_at": "2026-11-10T08:06:52-03:00",
+      "last_checked_at": "2026-11-10T08:16:41-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "declared",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "declared",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2589671-apartamento-no-bairro-jardim-paraiso-em-joinville-sc-1o-leilao-02-12-2026-as-14",
+        "is_aggregator": true,
+        "raw_text": "Apartamento APARTAMENTO NO BAIRRO JARDIM PARAÍSO EM JOINVILLE/SC 1º Leilão: 02/12/2026 às 14:30 Lance Inicial R$ 📍 Joinville, SC R$ 90.000,00"
+      },
+      "newly_discovered_at": "2026-11-10T08:16:41-03:00"
     },
     {
       "id": "925fd912c1beab9817e2",
@@ -17346,6 +17503,80 @@
       "newly_discovered_at": "2026-10-29T08:22:49-03:00"
     },
     {
+      "id": "3670958123d613d19b2e",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2573503-rio-do-sul-sc-bairro-taboao-casa-areas-totais-terr-378-00m2-e-constr-15-26m2"
+      ],
+      "city": "Rio do Sul",
+      "state": "SC",
+      "neighborhood": "Taboão",
+      "address": null,
+      "property_type": "Casa",
+      "area_privative_m2": null,
+      "area_built_m2": 15.26,
+      "area_total_m2": 378.0,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 174713.91,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2573503-rio-do-sul-sc-bairro-taboao-casa-areas-totais-terr-378-00m2-e-constr-15-26m2",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2573503/0.jpg",
+        "https://hasta.com.br/foto/2573503/1.jpg",
+        "https://hasta.com.br/foto/2573503/2.jpg",
+        "https://hasta.com.br/foto/2573503/3.jpg"
+      ],
+      "first_seen_at": "2026-11-10T08:12:31-03:00",
+      "last_checked_at": "2026-11-10T08:16:41-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2573503-rio-do-sul-sc-bairro-taboao-casa-areas-totais-terr-378-00m2-e-constr-15-26m2",
+        "is_aggregator": true,
+        "raw_text": "Casa Rio do sul – sc. bairro taboão. casa. áreas totais. terr. 378,00m² e constr. 15,26m² 📍 Rio do Sul, SC R$ 174.713,91"
+      },
+      "newly_discovered_at": "2026-11-10T08:16:41-03:00"
+    },
+    {
       "id": "634946a661cc12762b48",
       "source_ids": [
         "hasta"
@@ -18977,8 +19208,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.19,
-      "finished_at": "2026-11-09T07:59:25-03:00"
+      "duration_seconds": 0.1,
+      "finished_at": "2026-11-10T08:03:40-03:00"
     },
     {
       "source_id": "caixa",
@@ -18997,18 +19228,18 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.61,
-      "finished_at": "2026-11-09T07:59:28-03:00"
+      "duration_seconds": 2.69,
+      "finished_at": "2026-11-10T08:03:43-03:00"
     },
     {
       "source_id": "mega_leiloes",
       "name": "Mega Leilões",
       "status": "partial",
       "pages_read": 2,
-      "listings_found": 5,
+      "listings_found": 4,
       "error": "A paginação repetiu a mesma página; a fonte não avançou para novos resultados.",
       "listings_by_city": {
-        "Joinville": 3,
+        "Joinville": 2,
         "Balneário Camboriú": 1,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
@@ -19017,9 +19248,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 30.69,
-      "finished_at": "2026-11-09T07:59:58-03:00",
-      "last_success_at": "2026-11-09T07:59:58-03:00"
+      "duration_seconds": 29.5,
+      "finished_at": "2026-11-10T08:04:12-03:00",
+      "last_success_at": "2026-11-10T08:04:12-03:00"
     },
     {
       "source_id": "superbid",
@@ -19038,8 +19269,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.3,
-      "finished_at": "2026-11-09T07:59:59-03:00"
+      "duration_seconds": 0.32,
+      "finished_at": "2026-11-10T08:04:13-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -19058,8 +19289,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.7,
-      "finished_at": "2026-11-09T08:00:02-03:00"
+      "duration_seconds": 3.07,
+      "finished_at": "2026-11-10T08:04:16-03:00"
     },
     {
       "source_id": "duarte",
@@ -19078,9 +19309,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 17.16,
-      "finished_at": "2026-11-09T08:00:19-03:00",
-      "last_success_at": "2026-11-09T08:00:19-03:00"
+      "duration_seconds": 15.7,
+      "finished_at": "2026-11-10T08:04:32-03:00",
+      "last_success_at": "2026-11-10T08:04:32-03:00"
     },
     {
       "source_id": "zampieri",
@@ -19099,9 +19330,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 6.39,
-      "finished_at": "2026-11-09T08:00:25-03:00",
-      "last_success_at": "2026-11-09T08:00:25-03:00"
+      "duration_seconds": 5.97,
+      "finished_at": "2026-11-10T08:04:38-03:00",
+      "last_success_at": "2026-11-10T08:04:38-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -19120,9 +19351,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.58,
-      "finished_at": "2026-11-09T08:00:28-03:00",
-      "last_success_at": "2026-11-09T08:00:28-03:00"
+      "duration_seconds": 2.5,
+      "finished_at": "2026-11-10T08:04:40-03:00",
+      "last_success_at": "2026-11-10T08:04:40-03:00"
     },
     {
       "source_id": "freitas",
@@ -19141,9 +19372,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 16.1,
-      "finished_at": "2026-11-09T08:00:44-03:00",
-      "last_success_at": "2026-11-09T08:00:44-03:00"
+      "duration_seconds": 7.95,
+      "finished_at": "2026-11-10T08:04:48-03:00",
+      "last_success_at": "2026-11-10T08:04:48-03:00"
     },
     {
       "source_id": "comprei",
@@ -19162,8 +19393,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 1.27,
-      "finished_at": "2026-11-09T08:00:45-03:00"
+      "duration_seconds": 1.26,
+      "finished_at": "2026-11-10T08:04:50-03:00"
     },
     {
       "source_id": "sampaio",
@@ -19182,9 +19413,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 10.64,
-      "finished_at": "2026-11-09T08:00:56-03:00",
-      "last_success_at": "2026-11-09T08:00:56-03:00"
+      "duration_seconds": 10.58,
+      "finished_at": "2026-11-10T08:05:00-03:00",
+      "last_success_at": "2026-11-10T08:05:00-03:00"
     },
     {
       "source_id": "machado",
@@ -19203,30 +19434,30 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 4.95,
-      "finished_at": "2026-11-09T08:01:01-03:00",
-      "last_success_at": "2026-11-09T08:01:01-03:00"
+      "duration_seconds": 5.13,
+      "finished_at": "2026-11-10T08:05:05-03:00",
+      "last_success_at": "2026-11-10T08:05:05-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
       "status": "success",
       "pages_read": 13,
-      "listings_found": 165,
+      "listings_found": 166,
       "error": null,
       "listings_by_city": {
-        "Joinville": 104,
+        "Joinville": 106,
         "Balneário Camboriú": 25,
         "Balneário Piçarras": 1,
         "Barra Velha": 11,
         "Penha": 2,
-        "Navegantes": 5,
-        "Rio do Sul": 12,
+        "Navegantes": 3,
+        "Rio do Sul": 13,
         "São Francisco do Sul": 5
       },
-      "duration_seconds": 539.7,
-      "finished_at": "2026-11-09T08:10:01-03:00",
-      "last_success_at": "2026-11-09T08:10:01-03:00"
+      "duration_seconds": 506.37,
+      "finished_at": "2026-11-10T08:13:32-03:00",
+      "last_success_at": "2026-11-10T08:13:32-03:00"
     },
     {
       "source_id": "hasta_publica",
@@ -19245,30 +19476,30 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 50.28,
-      "finished_at": "2026-11-09T08:10:51-03:00",
-      "last_success_at": "2026-11-09T08:10:51-03:00"
+      "duration_seconds": 51.52,
+      "finished_at": "2026-11-10T08:14:23-03:00",
+      "last_success_at": "2026-11-10T08:14:23-03:00"
     },
     {
       "source_id": "leiloeiro_publico",
       "name": "Leiloeiro Público",
-      "status": "success",
-      "pages_read": 80,
-      "listings_found": 6,
-      "error": null,
+      "status": "partial",
+      "pages_read": 79,
+      "listings_found": 1,
+      "error": "1 páginas de leilão não expuseram links de lotes reconhecíveis.",
       "listings_by_city": {
-        "Joinville": 3,
-        "Balneário Camboriú": 2,
+        "Joinville": 0,
+        "Balneário Camboriú": 1,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
         "Penha": 0,
         "Navegantes": 0,
         "Rio do Sul": 0,
-        "São Francisco do Sul": 1
+        "São Francisco do Sul": 0
       },
-      "duration_seconds": 122.86,
-      "finished_at": "2026-11-09T08:12:54-03:00",
-      "last_success_at": "2026-11-09T08:12:54-03:00"
+      "duration_seconds": 137.29,
+      "finished_at": "2026-11-10T08:16:41-03:00",
+      "last_success_at": "2026-11-10T08:16:41-03:00"
     }
   ]
 }
