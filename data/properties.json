@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T08:16:41-03:00",
+  "updated_at": "2026-11-11T08:14:00-03:00",
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -399,6 +399,115 @@
         "raw_text": "Apartamento BALNEÁRIO CAMBORIÚ (SC): APARTAMENTO 📍 Balneário Camboriú, SC R$ 901.831,50 50% OFF"
       },
       "newly_discovered_at": "2026-10-30T08:13:48-03:00"
+    },
+    {
+      "id": "1925cc0591785f571795",
+      "source_ids": [
+        "hasta_publica"
+      ],
+      "source_listing_ids": [
+        "001"
+      ],
+      "source_listing_urls": [
+        "https://www.hastapublica.lel.br/leilao/leilao-2a-civel-de-itajai-1a-praca/lote_id/2103",
+        "https://www.hastapublica.lel.br/leilao/leilao-2a-civel-de-itajai-2a-praca-terreno-de-mata-26-051-415-m2-em-balneario-camboriu-sc/lote_id/2104"
+      ],
+      "city": "Balneário Camboriú",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Terreno",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": 26051.415,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": "001",
+      "auctioneer": "Hasta Pública Leilões",
+      "seller": null,
+      "modality": "judicial",
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": 2022028.36,
+      "second_minimum_bid_brl": 2022028.36,
+      "current_minimum_bid_brl": 2022028.36,
+      "source_listing_price_brl": 2022028.36,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [
+        {
+          "date": "2027-02-02",
+          "time": "14:00",
+          "minimum_bid_brl": 2022028.36,
+          "stage": "first"
+        },
+        {
+          "date": "2027-02-09",
+          "time": "14:00",
+          "minimum_bid_brl": 2022028.36,
+          "stage": "second"
+        }
+      ],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "scheduled_unverified",
+      "official_url": "https://www.hastapublica.lel.br/leilao/leilao-2a-civel-de-itajai-1a-praca/lote_id/2103",
+      "source_listing_url": "https://www.hastapublica.lel.br/leilao/leilao-2a-civel-de-itajai-1a-praca/lote_id/2103",
+      "validation_status": "verified",
+      "edital_url": "https://www.hastapublica.lel.br/leilao/leilao-2a-civel-de-itajai-1a-praca/lote_id/2103#collapseDocumentos",
+      "document_urls": [
+        "https://www.hastapublica.lel.br/leilao/leilao-2a-civel-de-itajai-1a-praca/lote_id/2103#collapseDocumentos",
+        "https://www.hastapublica.lel.br/uploads/media/documentos_leilao/0001/18/43abcaaa912f6f83e6ea0a6ebfa31e87d256e299.pdf",
+        "https://www.hastapublica.lel.br/uploads/media/documentos_bem/0001/18/680b7a34a2ceca9666644bcd1c98a28c380ab1b2.pdf",
+        "https://www.hastapublica.lel.br/uploads/media/documentos_bem/0001/18/b3fd0436430871716dafcd40a79b73036ddcaedb.pdf",
+        "https://www.hastapublica.lel.br/leilao/leilao-2a-civel-de-itajai-2a-praca-terreno-de-mata-26-051-415-m2-em-balneario-camboriu-sc/lote_id/2104#collapseDocumentos",
+        "https://www.hastapublica.lel.br/uploads/media/documentos_leilao/0001/18/8b0074623f62fe322fedd5c04e046d1170ff804f.pdf",
+        "https://www.hastapublica.lel.br/uploads/media/documentos_bem/0001/18/53cc9d47ec7648ac4e2f16fd377897fd49b2d82b.pdf",
+        "https://www.hastapublica.lel.br/uploads/media/documentos_bem/0001/18/e41284f27eca225ca8fb2bae87c31dae3b5f9e71.pdf"
+      ],
+      "image_urls": [
+        "https://www.hastapublica.lel.br/media/cache/big/uploads/media/default/0001/18/fae6e37a6a8b426201700272acd685c8fc8b9f41.png",
+        "https://www.hastapublica.lel.br/uploads/media/default/0001/18/fae6e37a6a8b426201700272acd685c8fc8b9f41.png",
+        "https://www.hastapublica.lel.br/uploads/media/default/0001/18/91b309ef626ae193418a8a8893ad37f51f550c66.png",
+        "https://www.hastapublica.lel.br/uploads/media/default/0001/18/a5a5749f3f124e3c632c806d218b485b39bcb0b4.png",
+        "https://www.hastapublica.lel.br/media/cache/big/uploads/media/default/0001/18/8d806d5537b25dcb3e04b0374c787e2ada04d90e.png",
+        "https://www.hastapublica.lel.br/uploads/media/default/0001/18/8d806d5537b25dcb3e04b0374c787e2ada04d90e.png",
+        "https://www.hastapublica.lel.br/uploads/media/default/0001/18/2867b009bda15464d6f0d00a7a3b538389b415f1.png",
+        "https://www.hastapublica.lel.br/uploads/media/default/0001/18/4d200a863cd077543b65fd1a24992f8764c61811.png"
+      ],
+      "first_seen_at": "2026-11-11T08:11:35-03:00",
+      "last_checked_at": "2026-11-11T08:14:00-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "declared",
+        "second_minimum_bid_brl": "declared",
+        "current_minimum_bid_brl": "declared",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "declared",
+        "source_listing_price_brl": "declared",
+        "official_url": "verified",
+        "edital_url": "verified",
+        "address": "unknown",
+        "registry_office": "unknown",
+        "area_total_m2": "declared"
+      },
+      "provenance": {
+        "source_id": "hasta_publica",
+        "captured_from": "https://www.hastapublica.lel.br/leilao/leilao-2a-civel-de-itajai-1a-praca/lote_id/2103",
+        "is_aggregator": false,
+        "raw_text": "LOTE 001 favorite_border TERRENO DE MATA 26.051,415 M², EM BALNEÁRIO CAMBORIÚ/SC LEILÃO 2ª CÍVEL DE ITAJAÍ- 1ª PRAÇA- TERRENO DE MATA 26.051,... TER. 02/02/2027 14:00 LANCE INICIAL: R$ 2.022.028,36 DETALHES (47) 93380-9279 | account_circle LOGIN CADASTRE-SE HOME LEILÕES VENDA DIRETA QUEM SOMOS QUERO VENDER CONTATO search IMÓVEIS 76 itens VEÍCULOS 6 itens ANIMAIS 0 itens DIVERSOS 0 itens MÁQUINAS 0 itens SUCATAS 0 itens HOME LEILÕES LEILÃO 2ª CÍVEL DE ITAJAÍ- 1ª PRAÇA- TERRENO DE MA... TERRENO DE MATA 26.051,415 M², EM BALNEÁRIO CAMBOR... Atalhos Todos Lotes Selecione um lote LOTE 001 LOTE 001 favorite_border Terreno de mata 26.051,415 m², em Balneário Camboriú/SC 1 / 3 LANCE INICIAL R$ 2.022.028,36 COMISSÃO R$ 101.101,42 5% LANCE INICIAL 1ª DATA R$ 2.022.028,36 INCREMENTO MÍNIMO R$ 100,00 AVISO LEGAL IMPORTANTE Aquele que tentar fraudar a arrematação, além da reparação do dano na esfera cível - arts. 186 e 927 do Código Civil - ficará sujeito às penalidades do artigo 358 do Código Penal: Art. 358 - Impedir, perturbar ou fraudar arrematação judicial; afastar ou procurar afastar concorrente ou licitante, por meio de violência, grave ameaça, fraude ou oferecimento de vantagem: Pena - detenção, de 2 (dois) meses a 1 (um) ano, ou multa, além da pena correspondente à violência. error_outline IMPORTANTE - SOBRE A DESCRIÇÃO DOS BENS A descrição dos bens é uma cópia fiel das informações fornecidas pelos cartórios, comitente ou outro órgão responsável. Reservamo-nos o direito de corrigir possíveis erros de digitação. Os bens são vendidos no estado que se encontram, cabendo ao interessado pesquisar e confirmar suas características. As imagens são meramente ilustrativas e podem não representar a real situação do bem. DESCRIÇÃO keyboard_arrow_down BEM PENHORADO: BEM(NS): Area 02 com 26.051,415 m2 localizada entre o Bairro da Barra e a Regiao das Praias, frente de 39 m a oeste com a area 01, esta area 01 com frente localizada a 280 m da Avenida Hermogenes de Assis Feijo na dire^ao da Rua Ildefonso Jose Martins, assim, a area 02 com frente distante 938,50 m da Avenida Hermogenes de Assis Feijo (280+658,50 lateral, conforme matricula de p. 523 que englobava as duas areas), fundos da mesma medida de 39m a leste com o Travessao Geral, atual Rodovia Interpraias, lateral sul com terras de Maria Vitor e Norte com terras de Pedro Muller, medindo 658,50 m cada. OBS: O terreno (imóvel avaliando) está localizado dentro da área de domínio da Mata Atlântica, apresentando características vegetacionais típicas desse bioma, como uma densa e diversificada floresta tropical úmida. Essa localização indica que o terreno se insere em uma microrregião de floresta tropical úmida, com características ecológicas e ambientais próprias da Mata Atlântica. ONUS E PENHORA: AV-1-M-08800- PENHORA- penhora de 50% da parte do co-proprietário OSMAR PRUSSER e sua mulher, na execução (autos 143/94), proposta por MOACIR J; R.2-8800- PENHORA- nº 033.96.001193-8, 2ª Vara Cível de Itajaí- SC, onde te",
+        "source_listing_urls": [
+          "https://www.hastapublica.lel.br/leilao/leilao-2a-civel-de-itajai-1a-praca/lote_id/2103",
+          "https://www.hastapublica.lel.br/leilao/leilao-2a-civel-de-itajai-2a-praca-terreno-de-mata-26-051-415-m2-em-balneario-camboriu-sc/lote_id/2104"
+        ]
+      },
+      "newly_discovered_at": "2026-11-11T08:14:00-03:00"
     },
     {
       "id": "1c43d8800821095acc99",
@@ -7835,7 +7944,7 @@
       "commission_percent": null,
       "payment_conditions": null,
       "occupancy": null,
-      "status": "scheduled_unverified",
+      "status": "ended_unverified",
       "official_url": null,
       "source_listing_url": "https://hasta.com.br/imovel/1785698-leilao-terreno-joinville-sc-1a-praca-03-11-2026-2a-praca-10-11-2026-r-6-785-000",
       "validation_status": "nao_verificado",
@@ -7845,7 +7954,7 @@
         "https://hasta.com.br/foto/1785698/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-27T08:19:35-03:00",
+      "last_checked_at": "2026-11-11T08:14:00-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -15424,68 +15533,51 @@
         "sampaio"
       ],
       "source_listing_ids": [
-        "038"
+        "01"
       ],
       "source_listing_urls": [
-        "https://sampaioleiloes.com.br/pregao/6ab191ab4cf1962c5289c9c8/6ab191e3ab0be795d32c9339"
+        "https://sampaioleiloes.com.br/pregao/6ab191ab4cf1962c5289c9c8/6ab191e3ab0be795d32c9339",
+        "https://sampaioleiloes.com.br/pregao/6af35a984f626a764558270e/6af35a984f626a7645582719"
       ],
       "city": "Joinville",
       "state": "SC",
       "neighborhood": null,
-      "address": "rua Padre Kolb, n.º 99 - Visitação: Apenas de forma externa Retirada: Não se aplica signal_wifi_statusbar_4_barON mailAvisos de leilões attributionInstitucional arrow_upward",
+      "address": "Rua Padre Kolb, nº 99, Joinville (SC)",
       "property_type": "Apartamento",
-      "area_privative_m2": 97.26,
+      "area_privative_m2": 73.02,
       "area_built_m2": null,
-      "area_total_m2": null,
-      "registry_number": null,
-      "registry_office": "ght last_page 1/1 01 Aberto Apartamento em Joinville Início: 10/11 10:00 Encerra a partir:",
-      "auction_lot": null,
+      "area_total_m2": 97.26,
+      "registry_number": "18.869",
+      "registry_office": "Cartório do 3º Ofício do Registro de Imóveis da Comarca de Joinville (SC)",
+      "auction_lot": "01",
       "auctioneer": "Sampaio Leilões",
       "seller": null,
       "modality": null,
       "appraisal_value_brl": 280000.0,
-      "first_minimum_bid_brl": null,
-      "second_minimum_bid_brl": 280000.0,
-      "current_minimum_bid_brl": 280000.0,
+      "first_minimum_bid_brl": 280000.0,
+      "second_minimum_bid_brl": 252000.0,
+      "current_minimum_bid_brl": 252000.0,
       "source_listing_price_brl": 280000.0,
-      "discount_on_appraisal_percent": 0.0,
+      "discount_on_appraisal_percent": 10.0,
       "auction_events": [
         {
-          "date": "2024-11-18",
-          "time": null,
+          "date": "2026-11-10",
+          "time": "14:00",
           "minimum_bid_brl": 280000.0,
-          "stage": "second"
-        },
-        {
-          "date": "2026-11-10",
-          "time": null,
-          "minimum_bid_brl": null,
           "stage": "first"
-        },
-        {
-          "date": "2026-11-10",
-          "time": "14:00",
-          "minimum_bid_brl": null,
-          "stage": "unknown"
-        },
-        {
-          "date": "2026-11-10",
-          "time": "14:00",
-          "minimum_bid_brl": null,
-          "stage": "unknown"
         },
         {
           "date": "2026-11-17",
           "time": "14:00",
-          "minimum_bid_brl": null,
-          "stage": "unknown"
+          "minimum_bid_brl": 252000.0,
+          "stage": "second"
         }
       ],
       "commission_percent": null,
       "payment_conditions": null,
       "occupancy": null,
       "status": "scheduled_unverified",
-      "official_url": "https://sampaioleiloes.com.br/pregao/6ab191ab4cf1962c5289c9c8/6ab191e3ab0be795d32c9339",
+      "official_url": "https://sampaioleiloes.com.br/pregao/6af35a984f626a764558270e/6af35a984f626a7645582719",
       "source_listing_url": "https://sampaioleiloes.com.br/pregao/6ab191ab4cf1962c5289c9c8/6ab191e3ab0be795d32c9339",
       "validation_status": "verified",
       "edital_url": null,
@@ -15501,7 +15593,7 @@
         "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grlkbn1ggqso/b/astavero/o/anexos/sampaio/6ab191ab4cf1962c5289c9c8/6ab191e3ab0be795d32c9339/whatsapp_image_2026_10_28_at_14_27_38__1_-1793208791000.jpeg"
       ],
       "first_seen_at": "2026-10-20T10:10:55-03:00",
-      "last_checked_at": "2026-10-29T08:22:49-03:00",
+      "last_checked_at": "2026-11-11T08:14:00-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown"
@@ -15510,22 +15602,27 @@
         "city": "declared",
         "property_type": "declared",
         "appraisal_value_brl": "declared",
-        "first_minimum_bid_brl": "unknown",
+        "first_minimum_bid_brl": "declared",
         "second_minimum_bid_brl": "declared",
         "current_minimum_bid_brl": "declared",
         "occupancy": "unknown",
-        "registry_number": "unknown",
+        "registry_number": "declared",
         "auction_events": "declared",
         "source_listing_price_brl": "declared",
-        "official_url": "verified"
+        "official_url": "verified",
+        "address": "declared",
+        "registry_office": "declared",
+        "area_privative_m2": "declared",
+        "area_total_m2": "declared"
       },
       "provenance": {
         "source_id": "sampaio",
-        "captured_from": "https://sampaioleiloes.com.br/pregao/6ab191ab4cf1962c5289c9c8/6ab191e3ab0be795d32c9339",
+        "captured_from": "https://sampaioleiloes.com.br/pregao/6af35a984f626a764558270e/6af35a984f626a7645582719",
         "is_aggregator": false,
-        "raw_text": "Apartamento em Joinville JOINVILLE - SC R$ 280.000,00 10/11/2026 ABERTO 1º LEILÃO home arrow_back Sampaio Leilões João Paulo Sampaio Damiani Leiloeiro Oficial JUCESC AARC-379 search account_circle more_vert ABERTO Oferta Data Valor Licitante Lote: ( 01 ) visibility VISITAS: 3880 APARTAMENTO EM JOINVILLE Valor: R$ 280.000,00 Escolha sua oferta: R$ 280.000,00 R$ 290.000,00 R$ 305.000,00 keyboard_arrow_up keyboard_arrow_down CONFIRMA Programar oferta: R$ 295.000,00 keyboard_arrow_up keyboard_arrow_down PROGRAMAR Vai para lote no pregão first_page keyboard_arrow_left keyboard_arrow_right last_page 1/1 01 Aberto Apartamento em Joinville Início: 10/11 10:00 Encerra a partir: 10/11 14:00 Valor avaliação: R$ 280.000,00 attach_file Edital attach_file Descrição do bem Favoritos star 01 (um) apartamento, matriculado sob o n.º 18.869, no Cartório do 3º Ofício do Registro de Imóveis da Comarca de Joinville (SC), correspondente à unidade n.º 03, 1º pavimento, bloco n.º 10 do Conjunto Residencial Campo Belo, situado na rua Padre Kolb, n.º 99, em Joinville (SC), medindo 97,26 m² de área real total, sendo 73,02 m² de área real privativa e 24,24 m² de área real de uso comum, inclusive uma vaga de garagem. Ônus: R-4 Hipoteca em favor da Caixa Econômica Federal – CEF. R-05 Penhora em favor de Condomínio Conjunto Residencial Campo Belo gravada nos autos nº 038.11.033310-9/001, da 2ª Vara Cível da Comarca de Joinville/SC. R-06 Penhora em favor da Caixa Econômica Federal – CEF gravada nos autos nº 5000054-66.2014.4.04.7201, da 2ª Vara Federal de Joinville/SC. Avaliação: R$ 280.000,00 (duzentos e oitenta mil reais), em 18/11/2024. Pagamento O pagamento do preço se dará no ato do leilão e por depósito bancário, em conta vinculada ao juízo, aberta para esse fim. Dados do leilão Disponibilidade: Aberto 1º Leilão: 10/11/2026 14:00 Local: Datas dos Leilões 1º Leilão: 10/11/2026 14:00 Valor leilão: R$ 280.000,00 2º Leilão: 17/11/2026 14:00 Valor leilão: R$ 252.000,00 placeLocal do leilao placeLocal do bem Dados do Processo Vara da Justiça: 8ª Vara Cível Da Comarca de Joinville Magistrado: DANIEL RADUNZ Processo: 5000538-16.2012.8.24.0038 Tipo de processo: Exequente: Condomínio Conjunto Residencial Campo Belo Executado: José de Fatima Caetano e Debora Cristina Izauro Caetano Depositário: José de Fatima Caetano e Debora Cristina Izauro Caetano Cidade/UF: Joinville/SC Endereço: rua Padre Kolb, n.º 99 - Visitação: Apenas de forma externa Retirada: Não se aplica signal_wifi_statusbar_4_barON mailAvisos de leilões attributionInstitucional arrow_upward",
+        "raw_text": "Apartamento em Joinville JOINVILLE / SC R$ 280.000,00 10/11/2026 SEM OFERTA 1º LEILÃO home arrow_back Sampaio Leilões João Paulo Sampaio Damiani Leiloeiro Oficial JUCESC AARC-379 search account_circle more_vert ABERTO Oferta Data Valor Licitante Lote: ( 01 ) visibility VISITAS: 5608 APARTAMENTO EM JOINVILLE Valor: R$ 252.000,00 Escolha sua oferta: R$ 252.000,00 R$ 262.000,00 R$ 277.000,00 keyboard_arrow_up keyboard_arrow_down CONFIRMA Programar oferta: R$ 267.000,00 keyboard_arrow_up keyboard_arrow_down PROGRAMAR Vai para lote no pregão first_page keyboard_arrow_left keyboard_arrow_right last_page 1/1 01 Aberto Apartamento em Joinville Início: 17/11 10:00 Encerra a partir: 17/11 14:00 Valor avaliação: R$ 280.000,00 attach_file Edital attach_file Descrição do bem Favoritos star 01 (um) apartamento, matriculado sob o n.º 18.869, no Cartório do 3º Ofício do Registro de Imóveis da Comarca de Joinville (SC), correspondente à unidade n.º 03, 1º pavimento, bloco n.º 10 do Conjunto Residencial Campo Belo, situado na rua Padre Kolb, n.º 99, em Joinville (SC), medindo 97,26 m² de área real total, sendo 73,02 m² de área real privativa e 24,24 m² de área real de uso comum, inclusive uma vaga de garagem. Ônus: R-4 Hipoteca em favor da Caixa Econômica Federal – CEF. R-05 Penhora em favor de Condomínio Conjunto Residencial Campo Belo gravada nos autos nº 038.11.033310-9/001, da 2ª Vara Cível da Comarca de Joinville/SC. R-06 Penhora em favor da Caixa Econômica Federal – CEF gravada nos autos nº 5000054-66.2014.4.04.7201, da 2ª Vara Federal de Joinville/SC. Avaliação: R$ 280.000,00 (duzentos e oitenta mil reais), em 18/11/2024. Pagamento O pagamento do preço se dará no ato do leilão e por depósito bancário, em conta vinculada ao juízo, aberta para esse fim. Dados do leilão Disponibilidade: Aberto 2º Leilão: 17/11/2026 14:00 Local: Datas dos Leilões 1º Leilão: 10/11/2026 14:00 Valor leilão: R$ 280.000,00 2º Leilão: 17/11/2026 14:00 Valor leilão: R$ 252.000,00 placeLocal do leilao placeLocal do bem Dados do Processo Vara da Justiça: 8ª Vara Cível Da Comarca de Joinville Magistrado: DANIEL RADUNZ Processo: 5000538-16.2012.8.24.0038 Tipo de processo: Exequente: Condomínio Conjunto Residencial Campo Belo Executado: José de Fatima Caetano e Debora Cristina Izauro Caetano Depositário: José de Fatima Caetano e Debora Cristina Izauro Caetano Cidade/UF: Joinville/SC Endereço: rua Padre Kolb, n.º 99 - Visitação: Apenas de forma externa Retirada: Não se aplica signal_wifi_statusbar_4_barON mailAvisos de leilões attributionInstitucional arrow_upward",
         "source_listing_urls": [
-          "https://sampaioleiloes.com.br/pregao/6ab191ab4cf1962c5289c9c8/6ab191e3ab0be795d32c9339"
+          "https://sampaioleiloes.com.br/pregao/6ab191ab4cf1962c5289c9c8/6ab191e3ab0be795d32c9339",
+          "https://sampaioleiloes.com.br/pregao/6af35a984f626a764558270e/6af35a984f626a7645582719"
         ]
       },
       "newly_discovered_at": "2026-10-20T10:11:11-03:00"
@@ -19208,8 +19305,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.1,
-      "finished_at": "2026-11-10T08:03:40-03:00"
+      "duration_seconds": 0.14,
+      "finished_at": "2026-11-11T08:00:33-03:00"
     },
     {
       "source_id": "caixa",
@@ -19228,8 +19325,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.69,
-      "finished_at": "2026-11-10T08:03:43-03:00"
+      "duration_seconds": 2.55,
+      "finished_at": "2026-11-11T08:00:35-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -19248,9 +19345,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 29.5,
-      "finished_at": "2026-11-10T08:04:12-03:00",
-      "last_success_at": "2026-11-10T08:04:12-03:00"
+      "duration_seconds": 31.85,
+      "finished_at": "2026-11-11T08:01:07-03:00",
+      "last_success_at": "2026-11-11T08:01:07-03:00"
     },
     {
       "source_id": "superbid",
@@ -19269,8 +19366,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.32,
-      "finished_at": "2026-11-10T08:04:13-03:00"
+      "duration_seconds": 0.44,
+      "finished_at": "2026-11-11T08:01:08-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -19289,8 +19386,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 3.07,
-      "finished_at": "2026-11-10T08:04:16-03:00"
+      "duration_seconds": 3.43,
+      "finished_at": "2026-11-11T08:01:11-03:00"
     },
     {
       "source_id": "duarte",
@@ -19309,9 +19406,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 15.7,
-      "finished_at": "2026-11-10T08:04:32-03:00",
-      "last_success_at": "2026-11-10T08:04:32-03:00"
+      "duration_seconds": 15.39,
+      "finished_at": "2026-11-11T08:01:27-03:00",
+      "last_success_at": "2026-11-11T08:01:27-03:00"
     },
     {
       "source_id": "zampieri",
@@ -19330,9 +19427,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 5.97,
-      "finished_at": "2026-11-10T08:04:38-03:00",
-      "last_success_at": "2026-11-10T08:04:38-03:00"
+      "duration_seconds": 6.01,
+      "finished_at": "2026-11-11T08:01:33-03:00",
+      "last_success_at": "2026-11-11T08:01:33-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -19351,9 +19448,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.5,
-      "finished_at": "2026-11-10T08:04:40-03:00",
-      "last_success_at": "2026-11-10T08:04:40-03:00"
+      "duration_seconds": 2.52,
+      "finished_at": "2026-11-11T08:01:35-03:00",
+      "last_success_at": "2026-11-11T08:01:35-03:00"
     },
     {
       "source_id": "freitas",
@@ -19372,9 +19469,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 7.95,
-      "finished_at": "2026-11-10T08:04:48-03:00",
-      "last_success_at": "2026-11-10T08:04:48-03:00"
+      "duration_seconds": 8.24,
+      "finished_at": "2026-11-11T08:01:43-03:00",
+      "last_success_at": "2026-11-11T08:01:43-03:00"
     },
     {
       "source_id": "comprei",
@@ -19393,8 +19490,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 1.26,
-      "finished_at": "2026-11-10T08:04:50-03:00"
+      "duration_seconds": 1.25,
+      "finished_at": "2026-11-11T08:01:45-03:00"
     },
     {
       "source_id": "sampaio",
@@ -19413,9 +19510,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 10.58,
-      "finished_at": "2026-11-10T08:05:00-03:00",
-      "last_success_at": "2026-11-10T08:05:00-03:00"
+      "duration_seconds": 11.86,
+      "finished_at": "2026-11-11T08:01:57-03:00",
+      "last_success_at": "2026-11-11T08:01:57-03:00"
     },
     {
       "source_id": "machado",
@@ -19434,20 +19531,20 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 5.13,
-      "finished_at": "2026-11-10T08:05:05-03:00",
-      "last_success_at": "2026-11-10T08:05:05-03:00"
+      "duration_seconds": 5.37,
+      "finished_at": "2026-11-11T08:02:02-03:00",
+      "last_success_at": "2026-11-11T08:02:02-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
       "status": "success",
       "pages_read": 13,
-      "listings_found": 166,
+      "listings_found": 163,
       "error": null,
       "listings_by_city": {
-        "Joinville": 106,
-        "Balneário Camboriú": 25,
+        "Joinville": 104,
+        "Balneário Camboriú": 24,
         "Balneário Piçarras": 1,
         "Barra Velha": 11,
         "Penha": 2,
@@ -19455,20 +19552,86 @@
         "Rio do Sul": 13,
         "São Francisco do Sul": 5
       },
-      "duration_seconds": 506.37,
-      "finished_at": "2026-11-10T08:13:32-03:00",
-      "last_success_at": "2026-11-10T08:13:32-03:00"
+      "duration_seconds": 524.68,
+      "finished_at": "2026-11-11T08:10:47-03:00",
+      "last_success_at": "2026-11-11T08:10:47-03:00",
+      "city_results": [
+        {
+          "status": "success",
+          "pages_read": 5,
+          "listings_found": 104,
+          "error": null,
+          "duration_seconds": 309.96,
+          "city": "Joinville"
+        },
+        {
+          "status": "success",
+          "pages_read": 2,
+          "listings_found": 24,
+          "error": null,
+          "duration_seconds": 74.69,
+          "city": "Balneário Camboriú"
+        },
+        {
+          "status": "success",
+          "pages_read": 1,
+          "listings_found": 1,
+          "error": null,
+          "duration_seconds": 6.01,
+          "city": "Balneário Piçarras"
+        },
+        {
+          "status": "success",
+          "pages_read": 1,
+          "listings_found": 11,
+          "error": null,
+          "duration_seconds": 20.22,
+          "city": "Barra Velha"
+        },
+        {
+          "status": "success",
+          "pages_read": 1,
+          "listings_found": 2,
+          "error": null,
+          "duration_seconds": 12.68,
+          "city": "Penha"
+        },
+        {
+          "status": "success",
+          "pages_read": 1,
+          "listings_found": 3,
+          "error": null,
+          "duration_seconds": 13.51,
+          "city": "Navegantes"
+        },
+        {
+          "status": "success",
+          "pages_read": 1,
+          "listings_found": 13,
+          "error": null,
+          "duration_seconds": 69.26,
+          "city": "Rio do Sul"
+        },
+        {
+          "status": "success",
+          "pages_read": 1,
+          "listings_found": 5,
+          "error": null,
+          "duration_seconds": 18.34,
+          "city": "São Francisco do Sul"
+        }
+      ]
     },
     {
       "source_id": "hasta_publica",
       "name": "Hasta Pública Leilões",
       "status": "success",
       "pages_read": 2,
-      "listings_found": 0,
+      "listings_found": 2,
       "error": null,
       "listings_by_city": {
         "Joinville": 0,
-        "Balneário Camboriú": 0,
+        "Balneário Camboriú": 2,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
         "Penha": 0,
@@ -19476,15 +19639,15 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 51.52,
-      "finished_at": "2026-11-10T08:14:23-03:00",
-      "last_success_at": "2026-11-10T08:14:23-03:00"
+      "duration_seconds": 50.16,
+      "finished_at": "2026-11-11T08:11:37-03:00",
+      "last_success_at": "2026-11-11T08:11:37-03:00"
     },
     {
       "source_id": "leiloeiro_publico",
       "name": "Leiloeiro Público",
       "status": "partial",
-      "pages_read": 79,
+      "pages_read": 80,
       "listings_found": 1,
       "error": "1 páginas de leilão não expuseram links de lotes reconhecíveis.",
       "listings_by_city": {
@@ -19497,9 +19660,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 137.29,
-      "finished_at": "2026-11-10T08:16:41-03:00",
-      "last_success_at": "2026-11-10T08:16:41-03:00"
+      "duration_seconds": 142.35,
+      "finished_at": "2026-11-11T08:13:59-03:00",
+      "last_success_at": "2026-11-11T08:13:59-03:00"
     }
   ]
 }
