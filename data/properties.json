@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T08:14:00-03:00",
+  "updated_at": "2026-11-12T08:10:31-03:00",
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -5612,13 +5612,16 @@
     {
       "id": "0fc466da0d41eebd3fab",
       "source_ids": [
-        "freitas"
+        "freitas",
+        "mega_leiloes"
       ],
       "source_listing_ids": [
-        "601"
+        "601",
+        "X130898"
       ],
       "source_listing_urls": [
-        "https://www.freitasleiloeiro.com.br/Leiloes/LoteDetalhes?leilaoId=8127&loteNumero=8"
+        "https://www.freitasleiloeiro.com.br/Leiloes/LoteDetalhes?leilaoId=8127&loteNumero=8",
+        "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-122-m2-01-vaga-anita-garibaldi-joinville-sc-x130898?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-122-m2-01-vaga-anita-garibaldi-joinville-sc-x130898&utm_term=X130898&utm_content=link"
       ],
       "city": "Joinville",
       "state": "SC",
@@ -5627,13 +5630,13 @@
       "property_type": "Apartamento",
       "area_privative_m2": 122.86,
       "area_built_m2": null,
-      "area_total_m2": null,
+      "area_total_m2": 193.73,
       "registry_number": "34.530",
-      "registry_office": "o Danúbio",
-      "auction_lot": "008",
-      "auctioneer": "Freitas Leiloeiro",
-      "seller": "responde pelo resultado da ação",
-      "modality": null,
+      "registry_office": "2º RI local",
+      "auction_lot": "10",
+      "auctioneer": "Fernando José Cerello G. Pereira",
+      "seller": "BANCO DAYCOVAL",
+      "modality": "extrajudicial",
       "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
@@ -5658,23 +5661,31 @@
           "time": null,
           "minimum_bid_brl": null,
           "stage": "second"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "14:09",
+          "minimum_bid_brl": 699000.0,
+          "stage": "unknown"
         }
       ],
       "commission_percent": 5.0,
       "payment_conditions": "– Imóveis Ocupados Sobre o valor do arremate, incorrerá a",
       "occupancy": "ocupado",
       "status": "active",
-      "official_url": "https://www.freitasleiloeiro.com.br/Leiloes/LoteDetalhes?leilaoId=8127&loteNumero=8",
+      "official_url": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-122-m2-01-vaga-anita-garibaldi-joinville-sc-x130898?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-122-m2-01-vaga-anita-garibaldi-joinville-sc-x130898&utm_term=X130898&utm_content=link",
       "source_listing_url": "https://www.freitasleiloeiro.com.br/Leiloes/LoteDetalhes?leilaoId=8127&loteNumero=8",
       "validation_status": "verified",
-      "edital_url": "https://cdn3.freitasleiloeiro.com.br/leiloes/8127/edital/edital_8127.pdf",
+      "edital_url": "https://cdn1.megaleiloes.com.br/auctions/35071/megaleiloes_edital__261026-171647.pdf",
       "document_urls": [
         "https://www.freitasleiloeiro.com.br/Login/Index?redir=/clientes/consultadocumentosveiculos",
         "https://cdn3.freitasleiloeiro.com.br/leiloes/8127/condicao/condicao_8127.pdf",
         "https://cdn3.freitasleiloeiro.com.br/leiloes/8127/edital/edital_8127.pdf",
         "https://cdn3.freitasleiloeiro.com.br/leiloes/8127/catalogo/catalogo_8127.pdf",
         "https://cdn3.freitasleiloeiro.com.br/leiloes/8127/matricula/008/matricula_008.pdf",
-        "https://www.freitasleiloeiro.com.br/Clientes/ConsultaDocumentosVeiculos"
+        "https://www.freitasleiloeiro.com.br/Clientes/ConsultaDocumentosVeiculos",
+        "https://cdn1.megaleiloes.com.br/auctions/35071/megaleiloes_edital__261026-171647.pdf",
+        "https://cdn1.megaleiloes.com.br/batches/130898/megaleiloes_matricula_X130898_261027-104304.pdf"
       ],
       "image_urls": [
         "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/LT008_01.JPG",
@@ -5690,10 +5701,22 @@
         "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154118.JPG",
         "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154119.JPG",
         "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154121.JPG",
-        "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154122.JPG"
+        "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154122.JPG",
+        "https://cdn1.megaleiloes.com.br/batches/130898/fbc7dd14d02f1a1bdfe52613848ea8d4_670x380.jpg",
+        "https://cdn1.megaleiloes.com.br/batches/130898/724d4868f45a8177e6b813bb53425cdc_670x380.jpg",
+        "https://cdn1.megaleiloes.com.br/batches/130898/543337ab3a3b3dc04699f32b3420f511_670x380.jpg",
+        "https://cdn1.megaleiloes.com.br/batches/130898/9fdddeda3bfce37aa0b43caa093293bf_670x380.jpg",
+        "https://cdn1.megaleiloes.com.br/batches/130898/c8839b6dc3860c3fe9d4568807b258f0_670x380.jpg",
+        "https://cdn1.megaleiloes.com.br/batches/130898/c9e64536b0604ea9b5e57a9f278d1692_670x380.jpg",
+        "https://cdn1.megaleiloes.com.br/batches/130898/b9e9ce7615407872df0125333f0fe7ab_670x380.jpg",
+        "https://cdn1.megaleiloes.com.br/batches/130898/f677a047e332dad89d05837265e54ddb_670x380.jpg",
+        "https://cdn1.megaleiloes.com.br/batches/130898/88d0aee09d02c95bdcaccc07f3d174bc_670x380.jpg",
+        "https://cdn1.megaleiloes.com.br/batches/130898/ba07ad0223d0e27ff47b3b24fb18c958_670x380.jpg",
+        "https://cdn1.megaleiloes.com.br/batches/130898/3d9950905b10bcf71e12c118fda82fe8_670x380.jpg",
+        "https://cdn1.megaleiloes.com.br/batches/130898/4cd41593769b417247fee06c733bbe8b_670x380.jpg"
       ],
       "first_seen_at": "2026-10-20T10:10:42-03:00",
-      "last_checked_at": "2026-10-27T08:19:35-03:00",
+      "last_checked_at": "2026-11-12T08:10:31-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied"
@@ -5710,15 +5733,19 @@
         "auction_events": "declared",
         "source_listing_price_brl": "declared",
         "official_url": "verified",
-        "edital_url": "verified"
+        "edital_url": "verified",
+        "area_total_m2": "declared",
+        "registry_office": "declared",
+        "modality": "declared"
       },
       "provenance": {
-        "source_id": "freitas",
-        "captured_from": "https://www.freitasleiloeiro.com.br/Leiloes/LoteDetalhes?leilaoId=8127&loteNumero=8",
+        "source_id": "mega_leiloes",
+        "captured_from": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-122-m2-01-vaga-anita-garibaldi-joinville-sc-x130898?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-122-m2-01-vaga-anita-garibaldi-joinville-sc-x130898&utm_term=X130898&utm_content=link",
         "is_aggregator": false,
-        "raw_text": "008 05/11/2026 12:00 JOINVILLE/SC - Apartamento nº 601 do Residencial Rio Danúbio, Rua Pernambuco, nº... R$ 699.000,00 Lance Inicial JOINVILLE/SC ABERTO PARA LANCES Início Agenda Organização Cadastre-se Contato Serviços Login LEILÃO \"ON-LINE\" - 29 IMÓVEIS - BANCO DAYCOVAL S/A Apartamento | JOINVILLE/SC Favoritar Ver Favoritos Previous Next Lote 008 Data do Leilão 05/11/2026 Horário 12:00 Anterior Lotes Próximo Navegar Visitas 393 Curtidas 0 ABERTO Condições de venda Edital / Anúncio Catálogo do leilão Como participar Endereço: Rua Pernambuco, nº 200, Anita Garibaldi - JOINVILLE/SC Descrição completa: JOINVILLE/SC - Apartamento nº 601 do Residencial Rio Danúbio, Rua Pernambuco, nº 200, Anita Garibaldi. Área privativa: 122,86m²; área de garagem: 21,60m²; área comum: 49,27m²; área total: 193,73m². Matrícula nº 34.530 do 2º RI local. Obs.: Consta Ação de Procedimento Comum Cível, processo nº 5004573-28.2026.8.24.0038 em trâmite na 8ª Vara Cível da Comarca de Joinville/SC. O Vendedor responde pelo resultado da ação, de acordo com os critérios e limites estabelecidos nas “Condições de Venda dos Imóveis” constantes do edital. Consta Ação de Reintegração/Manutenção de Posse, processo nº 5005469-71.2026.8.24.0038 em trâmite no Juízo da 1ª Vara Cível da Comarca de Joinville/SC. O Arrematante, por possuir conhecimento, declara a sua anuência quanto à transferência do patrocínio, aos eventuais resultados e aos efeitos da ação informada, responsabilizando-se pela regularização processual, no prazo máximo de 5 dias. O Banco permanecerá atuando no processo até comunicação da venda nos autos. Imóvel ocupado, desocupação por conta do arrematante. Informações importantes: Fotos Meramente Ilustrativas; 5% referente à comissão do leiloeiro acrescido ao valor da arrematação; Abertura p/ lances: 19/10/2026 09:00 Leiloeiro: Sérgio Villa Nova de Freitas Modalidade: SOMENTE ONLINE Local do leilão: INTERNET (São Paulo/SP) Arquivos: Matrícula Edital Leia atentamente as condições antes de participar do leilão: Condições de Pagamento – Imóveis Ocupados Sobre o valor do arremate, incorrerá a comissão de 5% ao leiloeiro a ser pago pelo arrematante. Formas de Pagamento - À vista: Pagamento integral em até 48 horas úteis após a comunicação da homologação da arrematação. - Parcelamento Direto com o Banco Daycoval • Entrada mínima de 40%; • Saldo em até 60 meses; • Sujeito à análise e aprovação de crédito; • Parcelas corrigidas por 1,35% ao mês + IPCA. Importante: Não há opção de financiamento imobiliário para imóveis ocupados. R$ 699.000,00 Lance Inicial R$ 20.000,00 Incremento Mínimo Maior lance: Aguardando lances Encerramento prev.: 05/11/2026 12:16:00 Restando: 9 dia(s) e 04h 09m 48s ABERTO PARA LANCES Área de lances Efetuar Login Praça da Liberdade, 130 - 15º andar - Liberdade - São Paulo/SP - CEP: 01503-010 - Fone: (11) 3117-1000 Atendimento presencial de segunda a sexta das 09:00 às 16:30. Atendimento Cadastro Telefone: (11) 3117-1000 - Ramais: 132, 133 e 134 online@freitas",
+        "raw_text": "R$ 699.000,00 4717 0 Apartamento 122 m² (01 vaga) - Anita Garibaldi - Joinville - SC X130898 Joinville, SC ABERTO PARA LANCES Data: 01/12/2026 às 14:09 R$ 699.000,00 IR Explore por Categorias Pesquisa Avançada FAQ Entrar ou Criar conta Valor inicial R$ 699.000,00 Extrajudicial Leilão ML35071 Código Lote X130898 Número Lote LOTE 10 Visitas 4.718 Habilitados 8 Lances 0 Mega Leilões Imóveis Apartamentos Santa Catarina Joinville Apartamento 122 m² (01 vaga) - Anita Garibaldi - Joinville - SC Navegue pelos lotes: Lote 1 Lote 2 Lote 3 Lote 4 Lote 5 Lote 6 Lote 7 Lote 8 Lote 9 Lote 10 Lote 11 Lote 12 Lote 13 Lote 14 Lote 15 Lote 16 Lote 17 Lote 18 Lote 19 Lote 20 Lote 21 Lote 22 Lote 23 Lote 24 Lote 25 Lote 26 Lote 27 Lote 28 Lote 29 Área 122 m2 Vagas 1 Localização Rua Pernambuco, 200, Anita Garibaldi, Joinville, SC Comitente BANCO DAYCOVAL Leiloeiro Fernando José Cerello G. Pereira JUCESP Nº 844 - Leiloeiro oficial do Estado de São Paulo JUCEMG Nº 1192 - Leiloeiro oficial do Estado de Minas Gerais JUCEMAT Nº 73 - Leiloeiro oficial do Estado de Mato Grosso Valor de Avaliação R$ 0,00 ( Nao informado) . A descrição dos lotes é uma cópia fiel das informações fornecidas pelos cartórios, comitente ou outro órgão responsável pelo bem. O bem será vendido no estado em que se encontra conforme edital publicado. Reservamo-nos o direito de corrigir possíveis erros de digitação. Cumpre informar, que nos leilões Judiciais e de Falência, o procedimento do pós-arrematação, deve ser realizado pelo arrematante junto ao seu procurador/advogado, diretamente nos autos do processo, uma vez que o Leiloeiro é auxiliar da justiça e está impedido de atuar nessa esfera devido ao conflito de interesses a ser gerado. Aquele que tentar fraudar a arrematação, além da reparação do dano na esfera cível - arts. 186 e 927 do Código Civil - ficará sujeito as penalidades do artigo 358 do Código Penal: Art. 358 - Impedir, perturbar ou fraudar arrematação judicial; afastar ou procurar afastar concorrente ou licitante, por meio de violência, grave ameaça, fraude ou oferecimento de vantagem: Pena - detenção, de 2 (dois) meses a 1 (um) ano, ou multa, além da pena correspondente à violência. Descrição Condições de pagamento Contrato de compra e venda Lances LOTE 10 – JOINVILLE/SC – Bairro Anita Garibaldi. APARTAMENTO na Rua Pernambuco, nº 200. Apto. 601 no 6º andar do Residencial Rio Danúbio. Área privativa 122,86m² e área de garagem 21,60m². Matrícula nº 34.530 do 2º RI local. Contribuinte Municipal nº 13.20.13.44-0740.0020. Obs.: (i) Imóvel ocupado. Desocupação por conta do arrematante; (ii) Consta Ação de Reintegração de Posse nº 4002552-88.2026.8.26.0152 e Ação Anulatória 4000182-85.2026.8.26.0654. O Arrematante, por possuir conhecimento, declara a sua anuência quanto à transferência do patrocínio, aos eventuais resultados e aos efeitos da ação informada, responsabilizando-se pela regularização processual, no prazo máximo de 5 dias. O Banco permanecerá atuando no processo até comunicação da",
         "source_listing_urls": [
-          "https://www.freitasleiloeiro.com.br/Leiloes/LoteDetalhes?leilaoId=8127&loteNumero=8"
+          "https://www.freitasleiloeiro.com.br/Leiloes/LoteDetalhes?leilaoId=8127&loteNumero=8",
+          "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-122-m2-01-vaga-anita-garibaldi-joinville-sc-x130898?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-122-m2-01-vaga-anita-garibaldi-joinville-sc-x130898&utm_term=X130898&utm_content=link"
         ]
       },
       "newly_discovered_at": "2026-10-20T10:11:11-03:00"
@@ -15159,17 +15186,19 @@
       "official_url": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-71-m2-joinville-sc-rua-joao-paul-280-floresta-x131133?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-71-m2-joinville-sc-rua-joao-paul-280-floresta-x131133&utm_term=X131133&utm_content=link",
       "source_listing_url": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-71-m2-joinville-sc-rua-joao-paul-280-floresta-x131133?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-71-m2-joinville-sc-rua-joao-paul-280-floresta-x131133&utm_term=X131133&utm_content=link",
       "validation_status": "verified",
-      "edital_url": "https://cdn1.megaleiloes.com.br/auctions/35104/megaleiloes_edital__261030-150124.pdf",
+      "edital_url": "https://cdn1.megaleiloes.com.br/auctions/35104/megaleiloes_edital_ML35104_261111-140440.pdf",
       "document_urls": [
         "https://cdn1.megaleiloes.com.br/auctions/35104/megaleiloes_edital__261030-150124.pdf",
-        "https://cdn1.megaleiloes.com.br/batches/131133/megaleiloes_matricula_X131133_261030-173629.pdf"
+        "https://cdn1.megaleiloes.com.br/batches/131133/megaleiloes_matricula_X131133_261030-173629.pdf",
+        "https://cdn1.megaleiloes.com.br/auctions/35104/megaleiloes_edital_ML35104_261111-140440.pdf"
       ],
       "image_urls": [
         "https://cdn1.megaleiloes.com.br/batches/131133/f48305971f7d0228c19eebcf4ff4402d_670x380.jpg",
-        "https://cdn1.megaleiloes.com.br/batches/131133/a279ff79dc4d16263f1de6353babf712_670x380.jpg"
+        "https://cdn1.megaleiloes.com.br/batches/131133/a279ff79dc4d16263f1de6353babf712_670x380.jpg",
+        "https://cdn1.megaleiloes.com.br/batches/131133/40d19a293c11ed9df2ae10e5a444775f_670x380.jpg"
       ],
       "first_seen_at": "2026-10-31T08:01:46-03:00",
-      "last_checked_at": "2026-10-31T08:13:42-03:00",
+      "last_checked_at": "2026-11-12T08:10:31-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied",
@@ -15196,7 +15225,10 @@
         "source_id": "mega_leiloes",
         "captured_from": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-71-m2-joinville-sc-rua-joao-paul-280-floresta-x131133?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-71-m2-joinville-sc-rua-joao-paul-280-floresta-x131133&utm_term=X131133&utm_content=link",
         "is_aggregator": false,
-        "raw_text": "R$ 192.000,00 286 0 Apartamento 71 m² - Joinville-SC - Rua João Paul, 280 - Floresta X131133 Joinville, SC ABERTO PARA LANCES Data: 16/11/2026 às 20:42 R$ 192.000,00 IR Explore por Categorias Pesquisa Avançada FAQ Entrar ou Criar conta Valor inicial R$ 192.000,00 Extrajudicial Leilão ML35104 Código Lote X131133 Número Lote LOTE 21 Visitas 287 Habilitados 2 Lances 0 Mega Leilões Imóveis Apartamentos Santa Catarina Joinville Apartamento 71 m² - Joinville-SC - Rua João Paul, 280 - Floresta Navegue pelos lotes: Lote 1 Lote 2 Lote 3 Lote 4 Lote 5 Lote 6 Lote 7 Lote 8 Lote 9 Lote 10 Lote 11 Lote 12 Lote 13 Lote 14 Lote 15 Lote 16 Lote 17 Lote 18 Lote 19 Lote 20 Lote 21 Lote 22 Lote 23 Lote 24 Lote 25 Lote 26 Lote 27 Lote 28 Lote 29 Área 71 m2 Vagas 1 Localização Rua João Paul, 280, Floresta, Joinville, SC Comitente BANCO BRADESCO S.A. Leiloeiro Fernando José Cerello G. Pereira JUCESP Nº 844 - Leiloeiro oficial do Estado de São Paulo JUCEMG Nº 1192 - Leiloeiro oficial do Estado de Minas Gerais JUCEMAT Nº 73 - Leiloeiro oficial do Estado de Mato Grosso Valor de Avaliação R$ 0,00 ( Nao informado) . A descrição dos lotes é uma cópia fiel das informações fornecidas pelos cartórios, comitente ou outro órgão responsável pelo bem. O bem será vendido no estado em que se encontra conforme edital publicado. Reservamo-nos o direito de corrigir possíveis erros de digitação. Cumpre informar, que nos leilões Judiciais e de Falência, o procedimento do pós-arrematação, deve ser realizado pelo arrematante junto ao seu procurador/advogado, diretamente nos autos do processo, uma vez que o Leiloeiro é auxiliar da justiça e está impedido de atuar nessa esfera devido ao conflito de interesses a ser gerado. Aquele que tentar fraudar a arrematação, além da reparação do dano na esfera cível - arts. 186 e 927 do Código Civil - ficará sujeito as penalidades do artigo 358 do Código Penal: Art. 358 - Impedir, perturbar ou fraudar arrematação judicial; afastar ou procurar afastar concorrente ou licitante, por meio de violência, grave ameaça, fraude ou oferecimento de vantagem: Pena - detenção, de 2 (dois) meses a 1 (um) ano, ou multa, além da pena correspondente à violência. Descrição Condições de pagamento Contrato de compra e venda Lances Joinville-SC. Bairro Floresta. Rua Mathilde Drefhal (no local e lançado no Cadastro Municipal consta Rua João Paul, nº 280). Apto. 1406 da Torre 1 do Condomínio Jardins Joinville Home Club, com direito a 01 box de garagem. Apartamento. Áreas privativas 71,53m² (Apto) e 12,00m² (box). Matr. 32.764 do 2º RI local. Obs.: (i) Regularização e encargos perante os órgãos competentes da atualização do endereço e da numeração predial, se entender necessário, correrão por conta do Comprador, sem direito a reembolso; (ii) Débitos de IPTU, condomínio e Taxa Ambiental de aprox. R$ 300.000,00, deverão ser apurados e pagos pelo arrematante, sem direito a reembolso; (iii) Ocupado (AF). Último Lance Faça sua oferta! Incremento R$ 3.000,00 Aberto para lances Iníci"
+        "raw_text": "R$ 192.000,00 5041 0 Apartamento 71 m² - Joinville-SC - Rua João Paul, 280 - Floresta X131133 Joinville, SC ABERTO PARA LANCES Data: 16/11/2026 às 20:42 R$ 192.000,00 IR Explore por Categorias Pesquisa Avançada FAQ Entrar ou Criar conta Valor inicial R$ 192.000,00 Extrajudicial Leilão ML35104 Código Lote X131133 Número Lote LOTE 21 Visitas 5.042 Habilitados 101 Lances 0 Mega Leilões Imóveis Apartamentos Santa Catarina Joinville Apartamento 71 m² - Joinville-SC - Rua João Paul, 280 - Floresta Navegue pelos lotes: Lote 1 Lote 2 Lote 3 Lote 4 Lote 5 Lote 6 Lote 7 Lote 8 Lote 9 Lote 10 Lote 11 Lote 12 Lote 13 Lote 14 Lote 15 Lote 16 Lote 17 Lote 18 Lote 19 Lote 20 Lote 21 Lote 22 Lote 23 Lote 24 Lote 25 Lote 26 Lote 27 Lote 28 Lote 29 Área 71 m2 Vagas 1 Localização Rua João Paul, 280, Floresta, Joinville, SC Comitente BANCO BRADESCO S.A. Leiloeiro Fernando José Cerello G. Pereira JUCESP Nº 844 - Leiloeiro oficial do Estado de São Paulo JUCEMG Nº 1192 - Leiloeiro oficial do Estado de Minas Gerais JUCEMAT Nº 73 - Leiloeiro oficial do Estado de Mato Grosso Valor de Avaliação R$ 0,00 ( Nao informado) . A descrição dos lotes é uma cópia fiel das informações fornecidas pelos cartórios, comitente ou outro órgão responsável pelo bem. O bem será vendido no estado em que se encontra conforme edital publicado. Reservamo-nos o direito de corrigir possíveis erros de digitação. Cumpre informar, que nos leilões Judiciais e de Falência, o procedimento do pós-arrematação, deve ser realizado pelo arrematante junto ao seu procurador/advogado, diretamente nos autos do processo, uma vez que o Leiloeiro é auxiliar da justiça e está impedido de atuar nessa esfera devido ao conflito de interesses a ser gerado. Aquele que tentar fraudar a arrematação, além da reparação do dano na esfera cível - arts. 186 e 927 do Código Civil - ficará sujeito as penalidades do artigo 358 do Código Penal: Art. 358 - Impedir, perturbar ou fraudar arrematação judicial; afastar ou procurar afastar concorrente ou licitante, por meio de violência, grave ameaça, fraude ou oferecimento de vantagem: Pena - detenção, de 2 (dois) meses a 1 (um) ano, ou multa, além da pena correspondente à violência. Descrição Condições de pagamento Contrato de compra e venda Lances Joinville-SC. Bairro Floresta. Rua Mathilde Drefhal (no local e lançado no Cadastro Municipal consta Rua João Paul, nº 280). Apto. 1406 da Torre 1 do Condomínio Jardins Joinville Home Club, com direito a 01 box de garagem. Apartamento. Áreas privativas 71,53m² (Apto) e 12,00m² (box). Matr. 32.764 do 2º RI local. Obs.: (i) Regularização e encargos perante os órgãos competentes da atualização do endereço e da numeração predial, se entender necessário, correrão por conta do Comprador, sem direito a reembolso; (ii) Débitos de IPTU, condomínio e Taxa Ambiental de aprox. R$ 150.000,00, deverão ser apurados e pagos pelo arrematante, sem direito a reembolso; (iii) Ocupado (AF). Último Lance Faça sua oferta! Incremento R$ 3.000,00 Aberto para lances ",
+        "source_listing_urls": [
+          "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-71-m2-joinville-sc-rua-joao-paul-280-floresta-x131133?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-71-m2-joinville-sc-rua-joao-paul-280-floresta-x131133&utm_term=X131133&utm_content=link"
+        ]
       },
       "newly_discovered_at": "2026-10-31T08:13:42-03:00"
     },
@@ -16575,7 +16607,7 @@
       ],
       "city": "Joinville",
       "state": "SC",
-      "neighborhood": "JARDIM PARAÍSO",
+      "neighborhood": "Jardim Paraíso",
       "address": null,
       "property_type": "Apartamento",
       "area_privative_m2": null,
@@ -16604,7 +16636,10 @@
       "edital_url": null,
       "document_urls": [],
       "image_urls": [
-        "https://hasta.com.br/foto/2320896/0.jpg"
+        "https://hasta.com.br/foto/2320896/0.jpg",
+        "https://hasta.com.br/foto/2320896/1.jpg",
+        "https://hasta.com.br/foto/2320896/2.jpg",
+        "https://hasta.com.br/foto/2320896/3.jpg"
       ],
       "first_seen_at": "2026-10-27T08:10:28-03:00",
       "last_checked_at": "2026-10-27T08:19:35-03:00",
@@ -16626,7 +16661,8 @@
         "auction_events": "unknown",
         "source_listing_price_brl": "declared",
         "official_url": "unverified",
-        "auctioneer": "unverified"
+        "auctioneer": "unverified",
+        "neighborhood": "declared"
       },
       "provenance": {
         "source_id": "hasta",
@@ -18081,6 +18117,79 @@
       "newly_discovered_at": "2026-10-30T08:13:48-03:00"
     },
     {
+      "id": "993b7b565d56325554ec",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2638397-apartamento-no-jardim-america-rio-do-sul-sc"
+      ],
+      "city": "Rio do Sul",
+      "state": "SC",
+      "neighborhood": "Jardim América",
+      "address": null,
+      "property_type": "Apartamento",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 526608.29,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2638397-apartamento-no-jardim-america-rio-do-sul-sc",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2638397/0.jpg"
+      ],
+      "first_seen_at": "2026-11-12T08:06:49-03:00",
+      "last_checked_at": "2026-11-12T08:10:31-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified",
+        "registry_office": "unknown",
+        "neighborhood": "declared"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2638397-apartamento-no-jardim-america-rio-do-sul-sc",
+        "is_aggregator": true,
+        "raw_text": "Apartamento Apartamento no Jardim América, Rio do Sul SC 📍 Rio do Sul, SC R$ 526.608,29"
+      },
+      "newly_discovered_at": "2026-11-12T08:10:31-03:00"
+    },
+    {
       "id": "a766c05ab6f4a23d03fb",
       "source_ids": [
         "hasta"
@@ -19305,8 +19414,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.14,
-      "finished_at": "2026-11-11T08:00:33-03:00"
+      "duration_seconds": 0.1,
+      "finished_at": "2026-11-12T07:57:34-03:00"
     },
     {
       "source_id": "caixa",
@@ -19325,8 +19434,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.55,
-      "finished_at": "2026-11-11T08:00:35-03:00"
+      "duration_seconds": 2.97,
+      "finished_at": "2026-11-12T07:57:37-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -19345,9 +19454,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 31.85,
-      "finished_at": "2026-11-11T08:01:07-03:00",
-      "last_success_at": "2026-11-11T08:01:07-03:00"
+      "duration_seconds": 31.08,
+      "finished_at": "2026-11-12T07:58:08-03:00",
+      "last_success_at": "2026-11-12T07:58:08-03:00"
     },
     {
       "source_id": "superbid",
@@ -19366,8 +19475,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.44,
-      "finished_at": "2026-11-11T08:01:08-03:00"
+      "duration_seconds": 0.13,
+      "finished_at": "2026-11-12T07:58:08-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -19386,8 +19495,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 3.43,
-      "finished_at": "2026-11-11T08:01:11-03:00"
+      "duration_seconds": 3.55,
+      "finished_at": "2026-11-12T07:58:12-03:00"
     },
     {
       "source_id": "duarte",
@@ -19406,9 +19515,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 15.39,
-      "finished_at": "2026-11-11T08:01:27-03:00",
-      "last_success_at": "2026-11-11T08:01:27-03:00"
+      "duration_seconds": 15.61,
+      "finished_at": "2026-11-12T07:58:27-03:00",
+      "last_success_at": "2026-11-12T07:58:27-03:00"
     },
     {
       "source_id": "zampieri",
@@ -19427,9 +19536,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 6.01,
-      "finished_at": "2026-11-11T08:01:33-03:00",
-      "last_success_at": "2026-11-11T08:01:33-03:00"
+      "duration_seconds": 6.84,
+      "finished_at": "2026-11-12T07:58:34-03:00",
+      "last_success_at": "2026-11-12T07:58:34-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -19448,19 +19557,19 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.52,
-      "finished_at": "2026-11-11T08:01:35-03:00",
-      "last_success_at": "2026-11-11T08:01:35-03:00"
+      "duration_seconds": 2.58,
+      "finished_at": "2026-11-12T07:58:37-03:00",
+      "last_success_at": "2026-11-12T07:58:37-03:00"
     },
     {
       "source_id": "freitas",
       "name": "Freitas Leiloeiro",
       "status": "partial",
       "pages_read": 2,
-      "listings_found": 1,
+      "listings_found": 0,
       "error": "A paginação repetiu a mesma página; a fonte não avançou para novos resultados.",
       "listings_by_city": {
-        "Joinville": 1,
+        "Joinville": 0,
         "Balneário Camboriú": 0,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
@@ -19469,9 +19578,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 8.24,
-      "finished_at": "2026-11-11T08:01:43-03:00",
-      "last_success_at": "2026-11-11T08:01:43-03:00"
+      "duration_seconds": 6.61,
+      "finished_at": "2026-11-12T07:58:43-03:00",
+      "last_success_at": "2026-11-12T07:58:43-03:00"
     },
     {
       "source_id": "comprei",
@@ -19490,8 +19599,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 1.25,
-      "finished_at": "2026-11-11T08:01:45-03:00"
+      "duration_seconds": 1.29,
+      "finished_at": "2026-11-12T07:58:45-03:00"
     },
     {
       "source_id": "sampaio",
@@ -19510,9 +19619,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 11.86,
-      "finished_at": "2026-11-11T08:01:57-03:00",
-      "last_success_at": "2026-11-11T08:01:57-03:00"
+      "duration_seconds": 11.67,
+      "finished_at": "2026-11-12T07:58:57-03:00",
+      "last_success_at": "2026-11-12T07:58:57-03:00"
     },
     {
       "source_id": "machado",
@@ -19531,20 +19640,20 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 5.37,
-      "finished_at": "2026-11-11T08:02:02-03:00",
-      "last_success_at": "2026-11-11T08:02:02-03:00"
+      "duration_seconds": 4.83,
+      "finished_at": "2026-11-12T07:59:01-03:00",
+      "last_success_at": "2026-11-12T07:59:01-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
       "status": "success",
       "pages_read": 13,
-      "listings_found": 163,
+      "listings_found": 161,
       "error": null,
       "listings_by_city": {
-        "Joinville": 104,
-        "Balneário Camboriú": 24,
+        "Joinville": 103,
+        "Balneário Camboriú": 23,
         "Balneário Piçarras": 1,
         "Barra Velha": 11,
         "Penha": 2,
@@ -19552,24 +19661,24 @@
         "Rio do Sul": 13,
         "São Francisco do Sul": 5
       },
-      "duration_seconds": 524.68,
-      "finished_at": "2026-11-11T08:10:47-03:00",
-      "last_success_at": "2026-11-11T08:10:47-03:00",
+      "duration_seconds": 519.25,
+      "finished_at": "2026-11-12T08:07:41-03:00",
+      "last_success_at": "2026-11-12T08:07:41-03:00",
       "city_results": [
         {
           "status": "success",
           "pages_read": 5,
-          "listings_found": 104,
+          "listings_found": 103,
           "error": null,
-          "duration_seconds": 309.96,
+          "duration_seconds": 317.0,
           "city": "Joinville"
         },
         {
           "status": "success",
           "pages_read": 2,
-          "listings_found": 24,
+          "listings_found": 23,
           "error": null,
-          "duration_seconds": 74.69,
+          "duration_seconds": 72.01,
           "city": "Balneário Camboriú"
         },
         {
@@ -19577,7 +19686,7 @@
           "pages_read": 1,
           "listings_found": 1,
           "error": null,
-          "duration_seconds": 6.01,
+          "duration_seconds": 7.15,
           "city": "Balneário Piçarras"
         },
         {
@@ -19585,7 +19694,7 @@
           "pages_read": 1,
           "listings_found": 11,
           "error": null,
-          "duration_seconds": 20.22,
+          "duration_seconds": 19.83,
           "city": "Barra Velha"
         },
         {
@@ -19593,7 +19702,7 @@
           "pages_read": 1,
           "listings_found": 2,
           "error": null,
-          "duration_seconds": 12.68,
+          "duration_seconds": 13.4,
           "city": "Penha"
         },
         {
@@ -19601,7 +19710,7 @@
           "pages_read": 1,
           "listings_found": 3,
           "error": null,
-          "duration_seconds": 13.51,
+          "duration_seconds": 15.67,
           "city": "Navegantes"
         },
         {
@@ -19609,7 +19718,7 @@
           "pages_read": 1,
           "listings_found": 13,
           "error": null,
-          "duration_seconds": 69.26,
+          "duration_seconds": 53.89,
           "city": "Rio do Sul"
         },
         {
@@ -19617,7 +19726,7 @@
           "pages_read": 1,
           "listings_found": 5,
           "error": null,
-          "duration_seconds": 18.34,
+          "duration_seconds": 20.29,
           "city": "São Francisco do Sul"
         }
       ]
@@ -19639,30 +19748,30 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 50.16,
-      "finished_at": "2026-11-11T08:11:37-03:00",
-      "last_success_at": "2026-11-11T08:11:37-03:00"
+      "duration_seconds": 48.72,
+      "finished_at": "2026-11-12T08:08:29-03:00",
+      "last_success_at": "2026-11-12T08:08:29-03:00"
     },
     {
       "source_id": "leiloeiro_publico",
       "name": "Leiloeiro Público",
-      "status": "partial",
+      "status": "success",
       "pages_read": 80,
-      "listings_found": 1,
-      "error": "1 páginas de leilão não expuseram links de lotes reconhecíveis.",
+      "listings_found": 6,
+      "error": null,
       "listings_by_city": {
-        "Joinville": 0,
-        "Balneário Camboriú": 1,
+        "Joinville": 3,
+        "Balneário Camboriú": 2,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
         "Penha": 0,
         "Navegantes": 0,
         "Rio do Sul": 0,
-        "São Francisco do Sul": 0
+        "São Francisco do Sul": 1
       },
-      "duration_seconds": 142.35,
-      "finished_at": "2026-11-11T08:13:59-03:00",
-      "last_success_at": "2026-11-11T08:13:59-03:00"
+      "duration_seconds": 121.66,
+      "finished_at": "2026-11-12T08:10:31-03:00",
+      "last_success_at": "2026-11-12T08:10:31-03:00"
     }
   ]
 }

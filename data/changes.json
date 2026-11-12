@@ -5793,6 +5793,291 @@
           "detected_at": "2026-11-11T08:14:00-03:00"
         }
       ]
+    },
+    {
+      "run_id": "d17f1c4c-ec54-4363-99fa-1e007f16f2a4",
+      "detected_at": "2026-11-12T08:10:31-03:00",
+      "changes": [
+        {
+          "property_id": "0fc466da0d41eebd3fab",
+          "city": "Joinville",
+          "source_ids": [
+            "freitas",
+            "mega_leiloes"
+          ],
+          "changes": [
+            {
+              "field": "area_total_m2",
+              "before": null,
+              "after": 193.73
+            },
+            {
+              "field": "auction_events",
+              "before": [
+                {
+                  "date": "2026-10-19",
+                  "time": "09:00",
+                  "minimum_bid_brl": 699000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-11-05",
+                  "time": "12:00",
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                },
+                {
+                  "date": "2026-11-05",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "second"
+                }
+              ],
+              "after": [
+                {
+                  "date": "2026-10-19",
+                  "time": "09:00",
+                  "minimum_bid_brl": 699000.0,
+                  "stage": "unknown"
+                },
+                {
+                  "date": "2026-11-05",
+                  "time": "12:00",
+                  "minimum_bid_brl": null,
+                  "stage": "first"
+                },
+                {
+                  "date": "2026-11-05",
+                  "time": null,
+                  "minimum_bid_brl": null,
+                  "stage": "second"
+                },
+                {
+                  "date": "2026-12-01",
+                  "time": "14:09",
+                  "minimum_bid_brl": 699000.0,
+                  "stage": "unknown"
+                }
+              ]
+            },
+            {
+              "field": "auction_lot",
+              "before": "008",
+              "after": "10"
+            },
+            {
+              "field": "auctioneer",
+              "before": "Freitas Leiloeiro",
+              "after": "Fernando José Cerello G. Pereira"
+            },
+            {
+              "field": "document_urls",
+              "before": [
+                "https://www.freitasleiloeiro.com.br/Login/Index?redir=/clientes/consultadocumentosveiculos",
+                "https://cdn3.freitasleiloeiro.com.br/leiloes/8127/condicao/condicao_8127.pdf",
+                "https://cdn3.freitasleiloeiro.com.br/leiloes/8127/edital/edital_8127.pdf",
+                "https://cdn3.freitasleiloeiro.com.br/leiloes/8127/catalogo/catalogo_8127.pdf",
+                "https://cdn3.freitasleiloeiro.com.br/leiloes/8127/matricula/008/matricula_008.pdf",
+                "https://www.freitasleiloeiro.com.br/Clientes/ConsultaDocumentosVeiculos"
+              ],
+              "after": [
+                "https://www.freitasleiloeiro.com.br/Login/Index?redir=/clientes/consultadocumentosveiculos",
+                "https://cdn3.freitasleiloeiro.com.br/leiloes/8127/condicao/condicao_8127.pdf",
+                "https://cdn3.freitasleiloeiro.com.br/leiloes/8127/edital/edital_8127.pdf",
+                "https://cdn3.freitasleiloeiro.com.br/leiloes/8127/catalogo/catalogo_8127.pdf",
+                "https://cdn3.freitasleiloeiro.com.br/leiloes/8127/matricula/008/matricula_008.pdf",
+                "https://www.freitasleiloeiro.com.br/Clientes/ConsultaDocumentosVeiculos",
+                "https://cdn1.megaleiloes.com.br/auctions/35071/megaleiloes_edital__261026-171647.pdf",
+                "https://cdn1.megaleiloes.com.br/batches/130898/megaleiloes_matricula_X130898_261027-104304.pdf"
+              ]
+            },
+            {
+              "field": "edital_url",
+              "before": "https://cdn3.freitasleiloeiro.com.br/leiloes/8127/edital/edital_8127.pdf",
+              "after": "https://cdn1.megaleiloes.com.br/auctions/35071/megaleiloes_edital__261026-171647.pdf"
+            },
+            {
+              "field": "image_urls",
+              "before": [
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/LT008_01.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00149570.PNG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00149571.PNG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00149572.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00149573.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/Assets/Imagens/bg_mapa_imoveis_site.jpg",
+                "https://cdn3.freitasleiloeiro.com.br/Assets/Imagens/LanceAutomatico.jpg",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154115.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154116.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154117.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154118.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154119.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154121.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154122.JPG"
+              ],
+              "after": [
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/LT008_01.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00149570.PNG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00149571.PNG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00149572.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00149573.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/Assets/Imagens/bg_mapa_imoveis_site.jpg",
+                "https://cdn3.freitasleiloeiro.com.br/Assets/Imagens/LanceAutomatico.jpg",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154115.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154116.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154117.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154118.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154119.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154121.JPG",
+                "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154122.JPG",
+                "https://cdn1.megaleiloes.com.br/batches/130898/fbc7dd14d02f1a1bdfe52613848ea8d4_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130898/724d4868f45a8177e6b813bb53425cdc_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130898/543337ab3a3b3dc04699f32b3420f511_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130898/9fdddeda3bfce37aa0b43caa093293bf_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130898/c8839b6dc3860c3fe9d4568807b258f0_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130898/c9e64536b0604ea9b5e57a9f278d1692_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130898/b9e9ce7615407872df0125333f0fe7ab_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130898/f677a047e332dad89d05837265e54ddb_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130898/88d0aee09d02c95bdcaccc07f3d174bc_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130898/ba07ad0223d0e27ff47b3b24fb18c958_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130898/3d9950905b10bcf71e12c118fda82fe8_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130898/4cd41593769b417247fee06c733bbe8b_670x380.jpg"
+              ]
+            },
+            {
+              "field": "modality",
+              "before": null,
+              "after": "extrajudicial"
+            },
+            {
+              "field": "official_url",
+              "before": "https://www.freitasleiloeiro.com.br/Leiloes/LoteDetalhes?leilaoId=8127&loteNumero=8",
+              "after": "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-122-m2-01-vaga-anita-garibaldi-joinville-sc-x130898?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-122-m2-01-vaga-anita-garibaldi-joinville-sc-x130898&utm_term=X130898&utm_content=link"
+            },
+            {
+              "field": "registry_office",
+              "before": "o Danúbio",
+              "after": "2º RI local"
+            },
+            {
+              "field": "seller",
+              "before": "responde pelo resultado da ação",
+              "after": "BANCO DAYCOVAL"
+            },
+            {
+              "field": "source_ids",
+              "before": [
+                "freitas"
+              ],
+              "after": [
+                "freitas",
+                "mega_leiloes"
+              ]
+            },
+            {
+              "field": "source_listing_ids",
+              "before": [
+                "601"
+              ],
+              "after": [
+                "601",
+                "X130898"
+              ]
+            },
+            {
+              "field": "source_listing_urls",
+              "before": [
+                "https://www.freitasleiloeiro.com.br/Leiloes/LoteDetalhes?leilaoId=8127&loteNumero=8"
+              ],
+              "after": [
+                "https://www.freitasleiloeiro.com.br/Leiloes/LoteDetalhes?leilaoId=8127&loteNumero=8",
+                "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-122-m2-01-vaga-anita-garibaldi-joinville-sc-x130898?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-122-m2-01-vaga-anita-garibaldi-joinville-sc-x130898&utm_term=X130898&utm_content=link"
+              ]
+            }
+          ],
+          "detected_at": "2026-11-12T08:10:31-03:00"
+        },
+        {
+          "property_id": "d19765d8042114c98b07",
+          "city": "Joinville",
+          "source_ids": [
+            "mega_leiloes"
+          ],
+          "changes": [
+            {
+              "field": "document_urls",
+              "before": [
+                "https://cdn1.megaleiloes.com.br/auctions/35104/megaleiloes_edital__261030-150124.pdf",
+                "https://cdn1.megaleiloes.com.br/batches/131133/megaleiloes_matricula_X131133_261030-173629.pdf"
+              ],
+              "after": [
+                "https://cdn1.megaleiloes.com.br/auctions/35104/megaleiloes_edital__261030-150124.pdf",
+                "https://cdn1.megaleiloes.com.br/batches/131133/megaleiloes_matricula_X131133_261030-173629.pdf",
+                "https://cdn1.megaleiloes.com.br/auctions/35104/megaleiloes_edital_ML35104_261111-140440.pdf"
+              ]
+            },
+            {
+              "field": "edital_url",
+              "before": "https://cdn1.megaleiloes.com.br/auctions/35104/megaleiloes_edital__261030-150124.pdf",
+              "after": "https://cdn1.megaleiloes.com.br/auctions/35104/megaleiloes_edital_ML35104_261111-140440.pdf"
+            },
+            {
+              "field": "image_urls",
+              "before": [
+                "https://cdn1.megaleiloes.com.br/batches/131133/f48305971f7d0228c19eebcf4ff4402d_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/131133/a279ff79dc4d16263f1de6353babf712_670x380.jpg"
+              ],
+              "after": [
+                "https://cdn1.megaleiloes.com.br/batches/131133/f48305971f7d0228c19eebcf4ff4402d_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/131133/a279ff79dc4d16263f1de6353babf712_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/131133/40d19a293c11ed9df2ae10e5a444775f_670x380.jpg"
+              ]
+            }
+          ],
+          "detected_at": "2026-11-12T08:10:31-03:00"
+        },
+        {
+          "property_id": "ffa899954677882440c0",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "image_urls",
+              "before": [
+                "https://hasta.com.br/foto/2320896/0.jpg"
+              ],
+              "after": [
+                "https://hasta.com.br/foto/2320896/0.jpg",
+                "https://hasta.com.br/foto/2320896/1.jpg",
+                "https://hasta.com.br/foto/2320896/2.jpg",
+                "https://hasta.com.br/foto/2320896/3.jpg"
+              ]
+            },
+            {
+              "field": "neighborhood",
+              "before": "JARDIM PARAÍSO",
+              "after": "Jardim Paraíso"
+            }
+          ],
+          "detected_at": "2026-11-12T08:10:31-03:00"
+        },
+        {
+          "property_id": "993b7b565d56325554ec",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-11-12T08:10:31-03:00"
+        }
+      ]
     }
   ]
 }
