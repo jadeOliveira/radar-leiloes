@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T08:10:31-03:00",
+  "updated_at": "2026-11-13T08:09:11-03:00",
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -1035,7 +1035,7 @@
       "commission_percent": null,
       "payment_conditions": null,
       "occupancy": null,
-      "status": "scheduled_unverified",
+      "status": "ended_unverified",
       "official_url": null,
       "source_listing_url": "https://hasta.com.br/imovel/1967354-judicial-leilao-judicial-apartamento-rua-1401-97-balneario-camboriu-sc-1a-praca",
       "validation_status": "nao_verificado",
@@ -1050,7 +1050,7 @@
         "https://hasta.com.br/foto/1967354/5.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-27T08:19:35-03:00",
+      "last_checked_at": "2026-11-13T08:09:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1166,16 +1166,17 @@
       ],
       "source_listing_ids": [],
       "source_listing_urls": [
-        "https://hasta.com.br/imovel/1942348-lote-3-terrenos-com-2-128-00-m2-jardim-real-balneario-camboriu-sc"
+        "https://hasta.com.br/imovel/1942348-lote-3-terrenos-com-2-128-00-m2-jardim-real-balneario-camboriu-sc",
+        "https://hasta.com.br/imovel/2659641-terrenos-com-2-128-00-m2-jardim-real-balneario-camboriu"
       ],
       "city": "Balneário Camboriú",
       "state": "SC",
       "neighborhood": null,
       "address": null,
       "property_type": "Terreno",
-      "area_privative_m2": 2128.0,
+      "area_privative_m2": null,
       "area_built_m2": null,
-      "area_total_m2": null,
+      "area_total_m2": 2128.0,
       "registry_number": null,
       "registry_office": "o camboriú sc 📍 Balneário Camboriú",
       "auction_lot": "3",
@@ -1204,10 +1205,11 @@
         "https://hasta.com.br/foto/1942348/2.jpg",
         "https://hasta.com.br/foto/1942348/3.jpg",
         "https://hasta.com.br/foto/1942348/4.jpg",
-        "https://hasta.com.br/foto/1942348/5.jpg"
+        "https://hasta.com.br/foto/1942348/5.jpg",
+        "https://hasta.com.br/foto/2659641/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-27T08:19:35-03:00",
+      "last_checked_at": "2026-11-13T08:09:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1226,15 +1228,18 @@
         "source_listing_price_brl": "declared",
         "official_url": "unverified",
         "auctioneer": "unverified",
-        "address": "unknown"
+        "address": "unknown",
+        "area_privative_m2": "unknown",
+        "area_total_m2": "declared"
       },
       "provenance": {
         "source_id": "hasta",
-        "captured_from": "https://hasta.com.br/imovel/1942348-lote-3-terrenos-com-2-128-00-m2-jardim-real-balneario-camboriu-sc",
+        "captured_from": "https://hasta.com.br/imovel/2659641-terrenos-com-2-128-00-m2-jardim-real-balneario-camboriu",
         "is_aggregator": true,
-        "raw_text": "Terreno Lote 3: terrenos com 2.128,00 m² - jardim real balneário camboriú sc 📍 Balneário Camboriú, SC R$ 2.100.000,00",
+        "raw_text": "Terreno Terrenos com 2.128,00 m² - Jardim Real 📍 Balneário Camboriú, SC R$ 2.100.000,00",
         "source_listing_urls": [
-          "https://hasta.com.br/imovel/1942348-lote-3-terrenos-com-2-128-00-m2-jardim-real-balneario-camboriu-sc"
+          "https://hasta.com.br/imovel/1942348-lote-3-terrenos-com-2-128-00-m2-jardim-real-balneario-camboriu-sc",
+          "https://hasta.com.br/imovel/2659641-terrenos-com-2-128-00-m2-jardim-real-balneario-camboriu"
         ]
       },
       "newly_discovered_at": "2026-10-20T10:11:11-03:00",
@@ -6073,16 +6078,17 @@
       ],
       "source_listing_ids": [],
       "source_listing_urls": [
-        "https://hasta.com.br/imovel/1942356-lote-4-terreno-com-1-214-37-m2-boa-vista-centro-joinville-sc"
+        "https://hasta.com.br/imovel/1942356-lote-4-terreno-com-1-214-37-m2-boa-vista-centro-joinville-sc",
+        "https://hasta.com.br/imovel/2659642-terreno-com-1-214-37-m2-boa-vista-centro-joinville"
       ],
       "city": "Joinville",
       "state": "SC",
       "neighborhood": null,
       "address": null,
       "property_type": "Terreno",
-      "area_privative_m2": 1214.37,
+      "area_privative_m2": null,
       "area_built_m2": null,
-      "area_total_m2": null,
+      "area_total_m2": 1214.37,
       "registry_number": null,
       "registry_office": null,
       "auction_lot": "4",
@@ -6113,10 +6119,11 @@
         "https://hasta.com.br/foto/1942356/4.jpg",
         "https://hasta.com.br/foto/1942356/5.jpg",
         "https://hasta.com.br/foto/1942356/6.jpg",
-        "https://hasta.com.br/foto/1942356/7.jpg"
+        "https://hasta.com.br/foto/1942356/7.jpg",
+        "https://hasta.com.br/foto/2659642/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-10-27T08:19:35-03:00",
+      "last_checked_at": "2026-11-13T08:09:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6135,15 +6142,18 @@
         "source_listing_price_brl": "declared",
         "official_url": "unverified",
         "auctioneer": "unverified",
-        "address": "unknown"
+        "address": "unknown",
+        "area_privative_m2": "unknown",
+        "area_total_m2": "declared"
       },
       "provenance": {
         "source_id": "hasta",
-        "captured_from": "https://hasta.com.br/imovel/1942356-lote-4-terreno-com-1-214-37-m2-boa-vista-centro-joinville-sc",
+        "captured_from": "https://hasta.com.br/imovel/2659642-terreno-com-1-214-37-m2-boa-vista-centro-joinville",
         "is_aggregator": true,
-        "raw_text": "Terreno Lote 4: terreno com 1.214,37 m² - boa vista (centro) joinville sc 📍 Joinville, SC R$ 650.000,00",
+        "raw_text": "Terreno Terreno com 1.214,37 m² - Boa Vista (Centro) 📍 Joinville, SC R$ 650.000,00",
         "source_listing_urls": [
-          "https://hasta.com.br/imovel/1942356-lote-4-terreno-com-1-214-37-m2-boa-vista-centro-joinville-sc"
+          "https://hasta.com.br/imovel/1942356-lote-4-terreno-com-1-214-37-m2-boa-vista-centro-joinville-sc",
+          "https://hasta.com.br/imovel/2659642-terreno-com-1-214-37-m2-boa-vista-centro-joinville"
         ]
       },
       "newly_discovered_at": "2026-10-20T10:11:11-03:00",
@@ -7506,13 +7516,15 @@
     {
       "id": "3743d46db92caec2e2a1",
       "source_ids": [
-        "mega_leiloes"
+        "mega_leiloes",
+        "hasta"
       ],
       "source_listing_ids": [
         "X130797"
       ],
       "source_listing_urls": [
-        "https://www.megaleiloes.com.br/imoveis/casas/sc/joinville/casa-269-m2-floresta-joinville-sc-x130797?utm_source=megaleiloes&utm_medium=link&utm_campaign=casa-269-m2-floresta-joinville-sc-x130797&utm_term=X130797&utm_content=link"
+        "https://www.megaleiloes.com.br/imoveis/casas/sc/joinville/casa-269-m2-floresta-joinville-sc-x130797?utm_source=megaleiloes&utm_medium=link&utm_campaign=casa-269-m2-floresta-joinville-sc-x130797&utm_term=X130797&utm_content=link",
+        "https://hasta.com.br/imovel/2665438-joinville-sc-rua-gustavo-hoepfner-118-matricula-9-126"
       ],
       "city": "Joinville",
       "state": "SC",
@@ -7560,10 +7572,22 @@
         "https://cdn1.megaleiloes.com.br/batches/130797/0acbb2ec7a9e88bea5e010620d479d36_670x380.jpg",
         "https://cdn1.megaleiloes.com.br/batches/130797/36d11c09f7d05a14adc669fcd4110ebf_670x380.jpg",
         "https://cdn1.megaleiloes.com.br/batches/130797/721d56959242dd504a341f2acfb50ac2_670x380.jpg",
-        "https://cdn1.megaleiloes.com.br/batches/130797/6d2cfbcd6b4be64bfcb98c151b30e940_670x380.jpg"
+        "https://cdn1.megaleiloes.com.br/batches/130797/6d2cfbcd6b4be64bfcb98c151b30e940_670x380.jpg",
+        "https://hasta.com.br/foto/2665438/0.jpg",
+        "https://hasta.com.br/foto/2665438/1.jpg",
+        "https://hasta.com.br/foto/2665438/2.jpg",
+        "https://hasta.com.br/foto/2665438/3.jpg",
+        "https://hasta.com.br/foto/2665438/4.jpg",
+        "https://hasta.com.br/foto/2665438/5.jpg",
+        "https://hasta.com.br/foto/2665438/6.jpg",
+        "https://hasta.com.br/foto/2665438/7.jpg",
+        "https://hasta.com.br/foto/2665438/8.jpg",
+        "https://hasta.com.br/foto/2665438/9.jpg",
+        "https://hasta.com.br/foto/2665438/10.jpg",
+        "https://hasta.com.br/foto/2665438/11.jpg"
       ],
       "first_seen_at": "2026-10-24T07:56:42-03:00",
-      "last_checked_at": "2026-10-24T08:08:01-03:00",
+      "last_checked_at": "2026-11-13T08:09:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupied"
@@ -7785,7 +7809,7 @@
       "auction_lot": "001",
       "auctioneer": null,
       "seller": null,
-      "modality": null,
+      "modality": "judicial",
       "appraisal_value_brl": null,
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
@@ -7806,7 +7830,7 @@
         "https://hasta.com.br/foto/1913966/0.jpg"
       ],
       "first_seen_at": "2026-10-26T08:37:10-03:00",
-      "last_checked_at": "2026-10-27T08:19:35-03:00",
+      "last_checked_at": "2026-11-13T08:09:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7825,13 +7849,14 @@
         "source_listing_price_brl": "declared",
         "official_url": "unverified",
         "auctioneer": "unverified",
-        "address": "unknown"
+        "address": "unknown",
+        "modality": "declared"
       },
       "provenance": {
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1913966-terreno-joinville-sc",
         "is_aggregator": true,
-        "raw_text": "Terreno Lote 001 📍 Joinville, SC R$ 364.000,00",
+        "raw_text": "Terreno LEILÃO JUDICIAL - 4ª VARA CÍVEL DE JOINVILLE/SC - EDITAL 029/2026 - Lote 001 (ID 2508) 📍 Joinville, SC R$ 364.000,00",
         "source_listing_urls": [
           "https://hasta.com.br/imovel/1913966-terreno-joinville-sc"
         ]
@@ -11016,13 +11041,15 @@
     {
       "id": "76872ff95863dd2e0332",
       "source_ids": [
-        "mega_leiloes"
+        "mega_leiloes",
+        "hasta"
       ],
       "source_listing_ids": [
         "X130810"
       ],
       "source_listing_urls": [
-        "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810&utm_term=X130810&utm_content=link"
+        "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810&utm_term=X130810&utm_content=link",
+        "https://hasta.com.br/imovel/2666634-joinville-sc-rua-leopoldo-fischer-266-apartamento-no-203-do-bloco-a-matricula"
       ],
       "city": "Joinville",
       "state": "SC",
@@ -11068,10 +11095,18 @@
         "https://cdn1.megaleiloes.com.br/batches/130810/ecf65ce89febfb2eab50c1ac39b3ea2d_670x380.jpg",
         "https://cdn1.megaleiloes.com.br/batches/130810/d3ab0636ce67cc82f361a5463134edc8_670x380.jpg",
         "https://cdn1.megaleiloes.com.br/batches/130810/68c302a3274edd50565c153dfc9bc40d_670x380.jpg",
-        "https://cdn1.megaleiloes.com.br/batches/130810/7baadb11443947215d223fedd84c0297_670x380.jpg"
+        "https://cdn1.megaleiloes.com.br/batches/130810/7baadb11443947215d223fedd84c0297_670x380.jpg",
+        "https://hasta.com.br/foto/2666634/0.jpg",
+        "https://hasta.com.br/foto/2666634/1.jpg",
+        "https://hasta.com.br/foto/2666634/2.jpg",
+        "https://hasta.com.br/foto/2666634/3.jpg",
+        "https://hasta.com.br/foto/2666634/4.jpg",
+        "https://hasta.com.br/foto/2666634/5.jpg",
+        "https://hasta.com.br/foto/2666634/6.jpg",
+        "https://hasta.com.br/foto/2666634/7.jpg"
       ],
       "first_seen_at": "2026-10-24T07:56:44-03:00",
-      "last_checked_at": "2026-10-24T08:08:01-03:00",
+      "last_checked_at": "2026-11-13T08:09:11-03:00",
       "classification": "B",
       "risk_flags": [],
       "field_verification": {
@@ -12015,6 +12050,89 @@
       },
       "newly_discovered_at": "2026-10-20T10:11:11-03:00",
       "image_source_url": "https://hasta.com.br/imovel/1949169-spazio-jardim-de-bari"
+    },
+    {
+      "id": "88fc74704a0206796f73",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2386733-apartamento-residencial-anita-garibaldi"
+      ],
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": "Anita Garibaldi",
+      "address": null,
+      "property_type": "Apartamento",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 699000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2386733-apartamento-residencial-anita-garibaldi",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2386733/0.jpg",
+        "https://hasta.com.br/foto/2386733/1.jpg",
+        "https://hasta.com.br/foto/2386733/2.jpg",
+        "https://hasta.com.br/foto/2386733/3.jpg",
+        "https://hasta.com.br/foto/2386733/4.jpg",
+        "https://hasta.com.br/foto/2386733/5.jpg",
+        "https://hasta.com.br/foto/2386733/6.jpg",
+        "https://hasta.com.br/foto/2386733/7.jpg",
+        "https://hasta.com.br/foto/2386733/8.jpg",
+        "https://hasta.com.br/foto/2386733/9.jpg",
+        "https://hasta.com.br/foto/2386733/10.jpg"
+      ],
+      "first_seen_at": "2026-11-13T07:59:17-03:00",
+      "last_checked_at": "2026-11-13T08:09:11-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified",
+        "neighborhood": "declared",
+        "registry_office": "unknown"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2386733-apartamento-residencial-anita-garibaldi",
+        "is_aggregator": true,
+        "raw_text": "Apartamento Apartamento, Residencial, Anita Garibaldi 📍 Joinville, SC R$ 699.000,00 3% OFF"
+      },
+      "newly_discovered_at": "2026-11-13T08:09:11-03:00"
     },
     {
       "id": "8d4c45f5b726eb2983ef",
@@ -16133,12 +16251,12 @@
       ],
       "city": "Joinville",
       "state": "SC",
-      "neighborhood": null,
-      "address": null,
+      "neighborhood": "Zona Industrial Norte",
+      "address": "Rua dos Franceses, s/n, Joinville/SC",
       "property_type": "Terreno",
       "area_privative_m2": null,
       "area_built_m2": null,
-      "area_total_m2": null,
+      "area_total_m2": 4285.5,
       "registry_number": null,
       "registry_office": null,
       "auction_lot": "001",
@@ -16165,7 +16283,7 @@
         "https://hasta.com.br/foto/1913971/0.jpg"
       ],
       "first_seen_at": "2026-10-26T08:37:09-03:00",
-      "last_checked_at": "2026-10-27T08:19:35-03:00",
+      "last_checked_at": "2026-11-13T08:09:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -16184,13 +16302,15 @@
         "source_listing_price_brl": "declared",
         "official_url": "unverified",
         "auctioneer": "unverified",
-        "address": "unknown"
+        "address": "declared",
+        "area_total_m2": "declared",
+        "neighborhood": "declared"
       },
       "provenance": {
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1913971-terreno-joinville-sc",
         "is_aggregator": true,
-        "raw_text": "Terreno Lote 001 📍 Joinville, SC R$ 3.735.270,02",
+        "raw_text": "Terreno Leilão TERRENO NA ZONA INDUSTRIAL NORTE CONTENDO 4.285,50m² Rua dos Franceses, S/Nº, Joinville/SC 1ª 📍 Joinville, SC R$ 3.735.270,02",
         "source_listing_urls": [
           "https://hasta.com.br/imovel/1913971-terreno-joinville-sc"
         ]
@@ -18521,7 +18641,7 @@
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": null,
-      "source_listing_price_brl": 655519.0,
+      "source_listing_price_brl": 498194.44,
       "discount_on_appraisal_percent": null,
       "auction_events": [],
       "commission_percent": null,
@@ -18543,7 +18663,7 @@
         "https://hasta.com.br/foto/1676890/6.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:11-03:00",
-      "last_checked_at": "2026-11-06T08:09:56-03:00",
+      "last_checked_at": "2026-11-13T08:09:11-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -18568,7 +18688,7 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/1676890-apartamento-jardim-america-rio-do-sul-sc",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento à venda em leilão 📍 Rio do Sul, SC R$ 655.519,00",
+        "raw_text": "Apartamento Apartamento à venda em leilão 📍 Rio do Sul, SC R$ 498.194,44",
         "source_listing_urls": [
           "https://hasta.com.br/imovel/1676890-apartamento-jardim-america-rio-do-sul-sc"
         ]
@@ -19414,8 +19534,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.1,
-      "finished_at": "2026-11-12T07:57:34-03:00"
+      "duration_seconds": 0.26,
+      "finished_at": "2026-11-13T07:56:51-03:00"
     },
     {
       "source_id": "caixa",
@@ -19434,8 +19554,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.97,
-      "finished_at": "2026-11-12T07:57:37-03:00"
+      "duration_seconds": 2.38,
+      "finished_at": "2026-11-13T07:56:53-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -19454,9 +19574,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 31.08,
-      "finished_at": "2026-11-12T07:58:08-03:00",
-      "last_success_at": "2026-11-12T07:58:08-03:00"
+      "duration_seconds": 33.86,
+      "finished_at": "2026-11-13T07:57:27-03:00",
+      "last_success_at": "2026-11-13T07:57:27-03:00"
     },
     {
       "source_id": "superbid",
@@ -19475,8 +19595,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.13,
-      "finished_at": "2026-11-12T07:58:08-03:00"
+      "duration_seconds": 0.14,
+      "finished_at": "2026-11-13T07:57:27-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -19495,8 +19615,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 3.55,
-      "finished_at": "2026-11-12T07:58:12-03:00"
+      "duration_seconds": 2.64,
+      "finished_at": "2026-11-13T07:57:30-03:00"
     },
     {
       "source_id": "duarte",
@@ -19515,9 +19635,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 15.61,
-      "finished_at": "2026-11-12T07:58:27-03:00",
-      "last_success_at": "2026-11-12T07:58:27-03:00"
+      "duration_seconds": 15.25,
+      "finished_at": "2026-11-13T07:57:45-03:00",
+      "last_success_at": "2026-11-13T07:57:45-03:00"
     },
     {
       "source_id": "zampieri",
@@ -19536,9 +19656,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 6.84,
-      "finished_at": "2026-11-12T07:58:34-03:00",
-      "last_success_at": "2026-11-12T07:58:34-03:00"
+      "duration_seconds": 6.02,
+      "finished_at": "2026-11-13T07:57:51-03:00",
+      "last_success_at": "2026-11-13T07:57:51-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -19557,9 +19677,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.58,
-      "finished_at": "2026-11-12T07:58:37-03:00",
-      "last_success_at": "2026-11-12T07:58:37-03:00"
+      "duration_seconds": 2.61,
+      "finished_at": "2026-11-13T07:57:54-03:00",
+      "last_success_at": "2026-11-13T07:57:54-03:00"
     },
     {
       "source_id": "freitas",
@@ -19578,9 +19698,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 6.61,
-      "finished_at": "2026-11-12T07:58:43-03:00",
-      "last_success_at": "2026-11-12T07:58:43-03:00"
+      "duration_seconds": 6.81,
+      "finished_at": "2026-11-13T07:58:01-03:00",
+      "last_success_at": "2026-11-13T07:58:01-03:00"
     },
     {
       "source_id": "comprei",
@@ -19599,8 +19719,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 1.29,
-      "finished_at": "2026-11-12T07:58:45-03:00"
+      "duration_seconds": 1.31,
+      "finished_at": "2026-11-13T07:58:02-03:00"
     },
     {
       "source_id": "sampaio",
@@ -19619,9 +19739,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 11.67,
-      "finished_at": "2026-11-12T07:58:57-03:00",
-      "last_success_at": "2026-11-12T07:58:57-03:00"
+      "duration_seconds": 41.12,
+      "finished_at": "2026-11-13T07:58:43-03:00",
+      "last_success_at": "2026-11-13T07:58:43-03:00"
     },
     {
       "source_id": "machado",
@@ -19640,45 +19760,45 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 4.83,
-      "finished_at": "2026-11-12T07:59:01-03:00",
-      "last_success_at": "2026-11-12T07:59:01-03:00"
+      "duration_seconds": 5.15,
+      "finished_at": "2026-11-13T07:58:49-03:00",
+      "last_success_at": "2026-11-13T07:58:49-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
       "status": "success",
-      "pages_read": 13,
-      "listings_found": 161,
+      "pages_read": 12,
+      "listings_found": 146,
       "error": null,
       "listings_by_city": {
-        "Joinville": 103,
-        "Balneário Camboriú": 23,
+        "Joinville": 91,
+        "Balneário Camboriú": 22,
         "Balneário Piçarras": 1,
-        "Barra Velha": 11,
+        "Barra Velha": 9,
         "Penha": 2,
         "Navegantes": 3,
         "Rio do Sul": 13,
         "São Francisco do Sul": 5
       },
-      "duration_seconds": 519.25,
-      "finished_at": "2026-11-12T08:07:41-03:00",
-      "last_success_at": "2026-11-12T08:07:41-03:00",
+      "duration_seconds": 452.95,
+      "finished_at": "2026-11-13T08:06:22-03:00",
+      "last_success_at": "2026-11-13T08:06:22-03:00",
       "city_results": [
         {
           "status": "success",
-          "pages_read": 5,
-          "listings_found": 103,
+          "pages_read": 4,
+          "listings_found": 91,
           "error": null,
-          "duration_seconds": 317.0,
+          "duration_seconds": 261.44,
           "city": "Joinville"
         },
         {
           "status": "success",
           "pages_read": 2,
-          "listings_found": 23,
+          "listings_found": 22,
           "error": null,
-          "duration_seconds": 72.01,
+          "duration_seconds": 70.57,
           "city": "Balneário Camboriú"
         },
         {
@@ -19686,15 +19806,15 @@
           "pages_read": 1,
           "listings_found": 1,
           "error": null,
-          "duration_seconds": 7.15,
+          "duration_seconds": 7.57,
           "city": "Balneário Piçarras"
         },
         {
           "status": "success",
           "pages_read": 1,
-          "listings_found": 11,
+          "listings_found": 9,
           "error": null,
-          "duration_seconds": 19.83,
+          "duration_seconds": 18.67,
           "city": "Barra Velha"
         },
         {
@@ -19702,7 +19822,7 @@
           "pages_read": 1,
           "listings_found": 2,
           "error": null,
-          "duration_seconds": 13.4,
+          "duration_seconds": 12.84,
           "city": "Penha"
         },
         {
@@ -19710,7 +19830,7 @@
           "pages_read": 1,
           "listings_found": 3,
           "error": null,
-          "duration_seconds": 15.67,
+          "duration_seconds": 12.71,
           "city": "Navegantes"
         },
         {
@@ -19718,7 +19838,7 @@
           "pages_read": 1,
           "listings_found": 13,
           "error": null,
-          "duration_seconds": 53.89,
+          "duration_seconds": 50.02,
           "city": "Rio do Sul"
         },
         {
@@ -19726,7 +19846,7 @@
           "pages_read": 1,
           "listings_found": 5,
           "error": null,
-          "duration_seconds": 20.29,
+          "duration_seconds": 19.12,
           "city": "São Francisco do Sul"
         }
       ]
@@ -19748,15 +19868,15 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 48.72,
-      "finished_at": "2026-11-12T08:08:29-03:00",
-      "last_success_at": "2026-11-12T08:08:29-03:00"
+      "duration_seconds": 53.53,
+      "finished_at": "2026-11-13T08:07:15-03:00",
+      "last_success_at": "2026-11-13T08:07:15-03:00"
     },
     {
       "source_id": "leiloeiro_publico",
       "name": "Leiloeiro Público",
       "status": "success",
-      "pages_read": 80,
+      "pages_read": 82,
       "listings_found": 6,
       "error": null,
       "listings_by_city": {
@@ -19769,9 +19889,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 1
       },
-      "duration_seconds": 121.66,
-      "finished_at": "2026-11-12T08:10:31-03:00",
-      "last_success_at": "2026-11-12T08:10:31-03:00"
+      "duration_seconds": 116.15,
+      "finished_at": "2026-11-13T08:09:11-03:00",
+      "last_success_at": "2026-11-13T08:09:11-03:00"
     }
   ]
 }

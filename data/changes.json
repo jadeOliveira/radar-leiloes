@@ -6078,6 +6078,317 @@
           "detected_at": "2026-11-12T08:10:31-03:00"
         }
       ]
+    },
+    {
+      "run_id": "05d88617-4c8f-4f5a-b5e7-596e3f1d11d1",
+      "detected_at": "2026-11-13T08:09:11-03:00",
+      "changes": [
+        {
+          "property_id": "36c68b362c00de16f369",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "status",
+              "before": "scheduled_unverified",
+              "after": "ended_unverified"
+            }
+          ],
+          "detected_at": "2026-11-13T08:09:11-03:00"
+        },
+        {
+          "property_id": "3f862121f487cca878fd",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "area_privative_m2",
+              "before": 2128.0,
+              "after": null
+            },
+            {
+              "field": "area_total_m2",
+              "before": null,
+              "after": 2128.0
+            },
+            {
+              "field": "image_urls",
+              "before": [
+                "https://hasta.com.br/foto/1942348/0.jpg",
+                "https://hasta.com.br/foto/1942348/1.jpg",
+                "https://hasta.com.br/foto/1942348/2.jpg",
+                "https://hasta.com.br/foto/1942348/3.jpg",
+                "https://hasta.com.br/foto/1942348/4.jpg",
+                "https://hasta.com.br/foto/1942348/5.jpg"
+              ],
+              "after": [
+                "https://hasta.com.br/foto/1942348/0.jpg",
+                "https://hasta.com.br/foto/1942348/1.jpg",
+                "https://hasta.com.br/foto/1942348/2.jpg",
+                "https://hasta.com.br/foto/1942348/3.jpg",
+                "https://hasta.com.br/foto/1942348/4.jpg",
+                "https://hasta.com.br/foto/1942348/5.jpg",
+                "https://hasta.com.br/foto/2659641/0.jpg"
+              ]
+            },
+            {
+              "field": "source_listing_urls",
+              "before": [
+                "https://hasta.com.br/imovel/1942348-lote-3-terrenos-com-2-128-00-m2-jardim-real-balneario-camboriu-sc"
+              ],
+              "after": [
+                "https://hasta.com.br/imovel/1942348-lote-3-terrenos-com-2-128-00-m2-jardim-real-balneario-camboriu-sc",
+                "https://hasta.com.br/imovel/2659641-terrenos-com-2-128-00-m2-jardim-real-balneario-camboriu"
+              ]
+            }
+          ],
+          "detected_at": "2026-11-13T08:09:11-03:00"
+        },
+        {
+          "property_id": "1cafa2c48d2ab8f4382c",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "area_privative_m2",
+              "before": 1214.37,
+              "after": null
+            },
+            {
+              "field": "area_total_m2",
+              "before": null,
+              "after": 1214.37
+            },
+            {
+              "field": "image_urls",
+              "before": [
+                "https://hasta.com.br/foto/1942356/0.jpg",
+                "https://hasta.com.br/foto/1942356/1.jpg",
+                "https://hasta.com.br/foto/1942356/2.jpg",
+                "https://hasta.com.br/foto/1942356/3.jpg",
+                "https://hasta.com.br/foto/1942356/4.jpg",
+                "https://hasta.com.br/foto/1942356/5.jpg",
+                "https://hasta.com.br/foto/1942356/6.jpg",
+                "https://hasta.com.br/foto/1942356/7.jpg"
+              ],
+              "after": [
+                "https://hasta.com.br/foto/1942356/0.jpg",
+                "https://hasta.com.br/foto/1942356/1.jpg",
+                "https://hasta.com.br/foto/1942356/2.jpg",
+                "https://hasta.com.br/foto/1942356/3.jpg",
+                "https://hasta.com.br/foto/1942356/4.jpg",
+                "https://hasta.com.br/foto/1942356/5.jpg",
+                "https://hasta.com.br/foto/1942356/6.jpg",
+                "https://hasta.com.br/foto/1942356/7.jpg",
+                "https://hasta.com.br/foto/2659642/0.jpg"
+              ]
+            },
+            {
+              "field": "source_listing_urls",
+              "before": [
+                "https://hasta.com.br/imovel/1942356-lote-4-terreno-com-1-214-37-m2-boa-vista-centro-joinville-sc"
+              ],
+              "after": [
+                "https://hasta.com.br/imovel/1942356-lote-4-terreno-com-1-214-37-m2-boa-vista-centro-joinville-sc",
+                "https://hasta.com.br/imovel/2659642-terreno-com-1-214-37-m2-boa-vista-centro-joinville"
+              ]
+            }
+          ],
+          "detected_at": "2026-11-13T08:09:11-03:00"
+        },
+        {
+          "property_id": "3743d46db92caec2e2a1",
+          "city": "Joinville",
+          "source_ids": [
+            "mega_leiloes",
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "image_urls",
+              "before": [
+                "https://cdn1.megaleiloes.com.br/batches/130797/829d186d8f682111e2248d40a7c23f75_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130797/ac0a48c75f707c8df5c41e47b51fa953_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130797/0acbb2ec7a9e88bea5e010620d479d36_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130797/36d11c09f7d05a14adc669fcd4110ebf_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130797/721d56959242dd504a341f2acfb50ac2_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130797/6d2cfbcd6b4be64bfcb98c151b30e940_670x380.jpg"
+              ],
+              "after": [
+                "https://cdn1.megaleiloes.com.br/batches/130797/829d186d8f682111e2248d40a7c23f75_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130797/ac0a48c75f707c8df5c41e47b51fa953_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130797/0acbb2ec7a9e88bea5e010620d479d36_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130797/36d11c09f7d05a14adc669fcd4110ebf_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130797/721d56959242dd504a341f2acfb50ac2_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130797/6d2cfbcd6b4be64bfcb98c151b30e940_670x380.jpg",
+                "https://hasta.com.br/foto/2665438/0.jpg",
+                "https://hasta.com.br/foto/2665438/1.jpg",
+                "https://hasta.com.br/foto/2665438/2.jpg",
+                "https://hasta.com.br/foto/2665438/3.jpg",
+                "https://hasta.com.br/foto/2665438/4.jpg",
+                "https://hasta.com.br/foto/2665438/5.jpg",
+                "https://hasta.com.br/foto/2665438/6.jpg",
+                "https://hasta.com.br/foto/2665438/7.jpg",
+                "https://hasta.com.br/foto/2665438/8.jpg",
+                "https://hasta.com.br/foto/2665438/9.jpg",
+                "https://hasta.com.br/foto/2665438/10.jpg",
+                "https://hasta.com.br/foto/2665438/11.jpg"
+              ]
+            },
+            {
+              "field": "source_ids",
+              "before": [
+                "mega_leiloes"
+              ],
+              "after": [
+                "mega_leiloes",
+                "hasta"
+              ]
+            },
+            {
+              "field": "source_listing_urls",
+              "before": [
+                "https://www.megaleiloes.com.br/imoveis/casas/sc/joinville/casa-269-m2-floresta-joinville-sc-x130797?utm_source=megaleiloes&utm_medium=link&utm_campaign=casa-269-m2-floresta-joinville-sc-x130797&utm_term=X130797&utm_content=link"
+              ],
+              "after": [
+                "https://www.megaleiloes.com.br/imoveis/casas/sc/joinville/casa-269-m2-floresta-joinville-sc-x130797?utm_source=megaleiloes&utm_medium=link&utm_campaign=casa-269-m2-floresta-joinville-sc-x130797&utm_term=X130797&utm_content=link",
+                "https://hasta.com.br/imovel/2665438-joinville-sc-rua-gustavo-hoepfner-118-matricula-9-126"
+              ]
+            }
+          ],
+          "detected_at": "2026-11-13T08:09:11-03:00"
+        },
+        {
+          "property_id": "3a87fa2d7018ca022639",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "modality",
+              "before": null,
+              "after": "judicial"
+            }
+          ],
+          "detected_at": "2026-11-13T08:09:11-03:00"
+        },
+        {
+          "property_id": "76872ff95863dd2e0332",
+          "city": "Joinville",
+          "source_ids": [
+            "mega_leiloes",
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "image_urls",
+              "before": [
+                "https://cdn1.megaleiloes.com.br/batches/130810/ecf65ce89febfb2eab50c1ac39b3ea2d_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130810/d3ab0636ce67cc82f361a5463134edc8_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130810/68c302a3274edd50565c153dfc9bc40d_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130810/7baadb11443947215d223fedd84c0297_670x380.jpg"
+              ],
+              "after": [
+                "https://cdn1.megaleiloes.com.br/batches/130810/ecf65ce89febfb2eab50c1ac39b3ea2d_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130810/d3ab0636ce67cc82f361a5463134edc8_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130810/68c302a3274edd50565c153dfc9bc40d_670x380.jpg",
+                "https://cdn1.megaleiloes.com.br/batches/130810/7baadb11443947215d223fedd84c0297_670x380.jpg",
+                "https://hasta.com.br/foto/2666634/0.jpg",
+                "https://hasta.com.br/foto/2666634/1.jpg",
+                "https://hasta.com.br/foto/2666634/2.jpg",
+                "https://hasta.com.br/foto/2666634/3.jpg",
+                "https://hasta.com.br/foto/2666634/4.jpg",
+                "https://hasta.com.br/foto/2666634/5.jpg",
+                "https://hasta.com.br/foto/2666634/6.jpg",
+                "https://hasta.com.br/foto/2666634/7.jpg"
+              ]
+            },
+            {
+              "field": "source_ids",
+              "before": [
+                "mega_leiloes"
+              ],
+              "after": [
+                "mega_leiloes",
+                "hasta"
+              ]
+            },
+            {
+              "field": "source_listing_urls",
+              "before": [
+                "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810&utm_term=X130810&utm_content=link"
+              ],
+              "after": [
+                "https://www.megaleiloes.com.br/imoveis/apartamentos/sc/joinville/apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810?utm_source=megaleiloes&utm_medium=link&utm_campaign=apartamento-133-m2-unid-203-atiradores-joinville-sc-x130810&utm_term=X130810&utm_content=link",
+                "https://hasta.com.br/imovel/2666634-joinville-sc-rua-leopoldo-fischer-266-apartamento-no-203-do-bloco-a-matricula"
+              ]
+            }
+          ],
+          "detected_at": "2026-11-13T08:09:11-03:00"
+        },
+        {
+          "property_id": "f6a78df1cb8759d74973",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "address",
+              "before": null,
+              "after": "Rua dos Franceses, s/n, Joinville/SC"
+            },
+            {
+              "field": "area_total_m2",
+              "before": null,
+              "after": 4285.5
+            },
+            {
+              "field": "neighborhood",
+              "before": null,
+              "after": "Zona Industrial Norte"
+            }
+          ],
+          "detected_at": "2026-11-13T08:09:11-03:00"
+        },
+        {
+          "property_id": "de13120571b88c7b541d",
+          "city": "Rio do Sul",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "source_listing_price_brl",
+              "before": 655519.0,
+              "after": 498194.44
+            }
+          ],
+          "detected_at": "2026-11-13T08:09:11-03:00"
+        },
+        {
+          "property_id": "88fc74704a0206796f73",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-11-13T08:09:11-03:00"
+        }
+      ]
     }
   ]
 }
