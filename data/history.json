@@ -6179,6 +6179,236 @@
         }
       ],
       "detected_at": "2026-11-13T08:09:11-03:00"
+    },
+    {
+      "property_id": "3fd400549f51ad71f5fb",
+      "city": "Joinville",
+      "source_ids": [
+        "caixa",
+        "nucleo"
+      ],
+      "changes": [
+        {
+          "field": "image_urls",
+          "before": [
+            "https://cdn.nucleoleiloes.com.br/imagens/large/1568009_13_639278879665719140.jpg",
+            "https://dropbox.com/scl/fi/0bfxbcop0rqrm9v1zcbhi/imovel_inativos.jpg?rlkey=xf5xz9md7wklssk612jv8vtih&st=g8iz6x3k&raw=1",
+            "https://cdn.nucleoleiloes.com.br/imagens/large/1505360_66_639246843350866406.jpg",
+            "https://cdn.nucleoleiloes.com.br/imagens/large/1505367_96_639233300058366740.jpg",
+            "https://cdn.nucleoleiloes.com.br/imagens/large/1505369_426_639233300814944554.jpg",
+            "https://cdn.nucleoleiloes.com.br/imagens/large/1522443_643_639244675217319690.jpg",
+            "https://cdn.nucleoleiloes.com.br/imagens/large/1522446_643_639244675717457583.jpg",
+            "https://cdn.nucleoleiloes.com.br/imagens/large/1522453_643_639244678685560664.jpg",
+            "https://cdn.nucleoleiloes.com.br/imagens/large/1472566_13_639209006962794945.jpg",
+            "https://cdn.nucleoleiloes.com.br/imagens/large/1472567_13_639209007413179066.jpg",
+            "https://cdn.nucleoleiloes.com.br/imagens/large/1472568_13_639209007865095233.jpg",
+            "https://cdn.nucleoleiloes.com.br/imagens/large/1505347_306_639233293293952827.jpg"
+          ],
+          "after": [
+            "https://cdn.nucleoleiloes.com.br/imagens/large/1568009_13_639278879665719140.jpg"
+          ]
+        }
+      ],
+      "detected_at": "2026-11-14T08:15:45-03:00"
+    },
+    {
+      "property_id": "7b89ba3a02999fcdae54",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "source_listing_price_brl",
+          "before": 90000.0,
+          "after": 45000.0
+        }
+      ],
+      "detected_at": "2026-11-14T08:15:45-03:00"
+    },
+    {
+      "property_id": "ab26f2057047fa3b3a48",
+      "city": "Joinville",
+      "source_ids": [
+        "seu_imovel_bb"
+      ],
+      "changes": [
+        {
+          "field": "image_urls",
+          "before": [
+            "https://www.seuimovelbb.com.br/imagem/conteudo/lg-padrao.png?1",
+            "https://www.seuimovelbb.com.br/imagem/imovel/10533_2.jpg",
+            "https://www.seuimovelbb.com.br/imagem/imovel/10533_3.jpg",
+            "https://www.seuimovelbb.com.br/imagem/imovel/10533_4.jpg",
+            "https://www.seuimovelbb.com.br/imagem/imovel/10533_1.jpg",
+            "https://www.seuimovelbb.com.br/imagem/imovel/7295_1.jpg",
+            "https://www.seuimovelbb.com.br/imagem/imovel/7296_1.jpg",
+            "https://www.seuimovelbb.com.br/imagem/imovel/7297_1.jpg",
+            "https://www.seuimovelbb.com.br/imagem/imovel/10611_1.jpeg",
+            "https://www.seuimovelbb.com.br/imagem/imovel/7134_1.jpg",
+            "https://www.seuimovelbb.com.br/imagem/imovel/7181_1.jpg"
+          ],
+          "after": [
+            "https://www.seuimovelbb.com.br/imagem/imovel/10533_2.jpg",
+            "https://www.seuimovelbb.com.br/imagem/imovel/10533_3.jpg",
+            "https://www.seuimovelbb.com.br/imagem/imovel/10533_4.jpg",
+            "https://www.seuimovelbb.com.br/imagem/imovel/10533_1.jpg"
+          ]
+        }
+      ],
+      "detected_at": "2026-11-14T08:15:45-03:00"
+    },
+    {
+      "property_id": "d19765d8042114c98b07",
+      "city": "Joinville",
+      "source_ids": [
+        "mega_leiloes"
+      ],
+      "changes": [
+        {
+          "field": "document_urls",
+          "before": [
+            "https://cdn1.megaleiloes.com.br/auctions/35104/megaleiloes_edital__261030-150124.pdf",
+            "https://cdn1.megaleiloes.com.br/batches/131133/megaleiloes_matricula_X131133_261030-173629.pdf",
+            "https://cdn1.megaleiloes.com.br/auctions/35104/megaleiloes_edital_ML35104_261111-140440.pdf"
+          ],
+          "after": [
+            "https://cdn1.megaleiloes.com.br/auctions/35104/megaleiloes_edital__261030-150124.pdf",
+            "https://cdn1.megaleiloes.com.br/batches/131133/megaleiloes_matricula_X131133_261030-173629.pdf",
+            "https://cdn1.megaleiloes.com.br/auctions/35104/megaleiloes_edital_ML35104_261111-140440.pdf",
+            "https://cdn1.megaleiloes.com.br/auctions/35104/megaleiloes_edital_ML35104_261113-235642.pdf"
+          ]
+        },
+        {
+          "field": "edital_url",
+          "before": "https://cdn1.megaleiloes.com.br/auctions/35104/megaleiloes_edital_ML35104_261111-140440.pdf",
+          "after": "https://cdn1.megaleiloes.com.br/auctions/35104/megaleiloes_edital_ML35104_261113-235642.pdf"
+        }
+      ],
+      "detected_at": "2026-11-14T08:15:45-03:00"
+    },
+    {
+      "property_id": "ffa899954677882440c0",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "source_listing_price_brl",
+          "before": 120000.0,
+          "after": 60000.0
+        }
+      ],
+      "detected_at": "2026-11-14T08:15:45-03:00"
+    },
+    {
+      "property_id": "3670958123d613d19b2e",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "image_urls",
+          "before": [
+            "https://hasta.com.br/foto/2573503/0.jpg",
+            "https://hasta.com.br/foto/2573503/1.jpg",
+            "https://hasta.com.br/foto/2573503/2.jpg",
+            "https://hasta.com.br/foto/2573503/3.jpg"
+          ],
+          "after": [
+            "https://hasta.com.br/foto/2573503/0.jpg",
+            "https://hasta.com.br/foto/2573503/1.jpg",
+            "https://hasta.com.br/foto/2573503/2.jpg",
+            "https://hasta.com.br/foto/2573503/3.jpg",
+            "https://hasta.com.br/foto/2573503/4.jpg",
+            "https://hasta.com.br/foto/2573503/5.jpg",
+            "https://hasta.com.br/foto/2573503/6.jpg",
+            "https://hasta.com.br/foto/2573503/7.jpg",
+            "https://hasta.com.br/foto/2573503/8.jpg",
+            "https://hasta.com.br/foto/2573503/9.jpg",
+            "https://hasta.com.br/foto/2573503/10.jpg",
+            "https://hasta.com.br/foto/2573503/11.jpg"
+          ]
+        }
+      ],
+      "detected_at": "2026-11-14T08:15:45-03:00"
+    },
+    {
+      "property_id": "257edcbf19bd69e53112",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-11-14T08:15:45-03:00"
+    },
+    {
+      "property_id": "ae88d556675b92f27a24",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-11-14T08:15:45-03:00"
+    },
+    {
+      "property_id": "bbcd1a9a1ee7ab30ab20",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-11-14T08:15:45-03:00"
+    },
+    {
+      "property_id": "bfb74c09046cd7ae9c4c",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-11-14T08:15:45-03:00"
+    },
+    {
+      "property_id": "ce30371d654c125c05dc",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-11-14T08:15:45-03:00"
     }
   ]
 }
