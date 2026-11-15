@@ -6625,6 +6625,57 @@
           "detected_at": "2026-11-14T08:15:45-03:00"
         }
       ]
+    },
+    {
+      "run_id": "cba853af-ac93-4202-833d-15dedbf04f4f",
+      "detected_at": "2026-11-15T08:09:06-03:00",
+      "changes": [
+        {
+          "property_id": "4e450b988492958a52c8",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-11-15T08:09:06-03:00"
+        },
+        {
+          "property_id": "690a187df0124486a828",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-11-15T08:09:06-03:00"
+        },
+        {
+          "property_id": "df864e53750ff8f00857",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-11-15T08:09:06-03:00"
+        }
+      ]
     }
   ]
 }

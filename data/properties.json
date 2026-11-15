@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T08:15:45-03:00",
+  "updated_at": "2026-11-15T08:09:06-03:00",
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -1244,6 +1244,79 @@
       },
       "newly_discovered_at": "2026-10-20T10:11:11-03:00",
       "image_source_url": "https://hasta.com.br/imovel/1942348-lote-3-terrenos-com-2-128-00-m2-jardim-real-balneario-camboriu-sc"
+    },
+    {
+      "id": "4e450b988492958a52c8",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2727588-imovel-residencial-no-condominio-rainha-virginia-apartamento-601-situado-a-rua"
+      ],
+      "city": "Balneário Camboriú",
+      "state": "SC",
+      "neighborhood": null,
+      "address": "Rua 3900, 133, Balneário Camboriú, SC",
+      "property_type": "Apartamento",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 1352747.25,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2727588-imovel-residencial-no-condominio-rainha-virginia-apartamento-601-situado-a-rua",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://comprei.pgfn.gov.br/gateway/imagem/anuncio/285956"
+      ],
+      "first_seen_at": "2026-11-15T08:04:19-03:00",
+      "last_checked_at": "2026-11-15T08:09:06-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified",
+        "registry_office": "unknown",
+        "address": "declared"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2727588-imovel-residencial-no-condominio-rainha-virginia-apartamento-601-situado-a-rua",
+        "is_aggregator": true,
+        "raw_text": "Imóvel Imóvel Residencial no Condomínio Rainha Virgínia, Apartamento 601, situado a Rua 3900, 133, 6° Andar - Barra Sul, Balneário Camboriú - SC, 88330-188. 📍 Balneário Camboriú, SC R$ 1.352.747,25 25% OFF"
+      },
+      "newly_discovered_at": "2026-11-15T08:09:06-03:00"
     },
     {
       "id": "5459cbbe19a59500741c",
@@ -10195,6 +10268,77 @@
       "newly_discovered_at": "2026-11-09T08:12:54-03:00"
     },
     {
+      "id": "690a187df0124486a828",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2706480-apartamento-em-leilao-em-joinville-sc-3083430"
+      ],
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Apartamento",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 228000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2706480-apartamento-em-leilao-em-joinville-sc-3083430",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2706480/0.jpg"
+      ],
+      "first_seen_at": "2026-11-15T08:02:13-03:00",
+      "last_checked_at": "2026-11-15T08:09:06-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2706480-apartamento-em-leilao-em-joinville-sc-3083430",
+        "is_aggregator": true,
+        "raw_text": "Apartamento Apartamento em Leilão em Joinville / SC - 3083430 📍 Joinville, SC R$ 228.000,00"
+      },
+      "newly_discovered_at": "2026-11-15T08:09:06-03:00"
+    },
+    {
       "id": "6a6caf6f406783cdaabd",
       "source_ids": [
         "hasta"
@@ -16158,6 +16302,86 @@
       "newly_discovered_at": "2026-10-20T10:11:11-03:00"
     },
     {
+      "id": "df864e53750ff8f00857",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [
+        "001"
+      ],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2685120-daniel-garcia-leiloes-leiloeiro-oficial-leilao-online-da-4a-vara-civel-de"
+      ],
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Apartamento",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": "001",
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 1446000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2685120-daniel-garcia-leiloes-leiloeiro-oficial-leilao-online-da-4a-vara-civel-de",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2685120/0.jpg",
+        "https://hasta.com.br/foto/2685120/1.jpg",
+        "https://hasta.com.br/foto/2685120/2.jpg",
+        "https://hasta.com.br/foto/2685120/3.jpg",
+        "https://hasta.com.br/foto/2685120/4.jpg",
+        "https://hasta.com.br/foto/2685120/5.jpg",
+        "https://hasta.com.br/foto/2685120/6.jpg",
+        "https://hasta.com.br/foto/2685120/7.jpg"
+      ],
+      "first_seen_at": "2026-11-15T08:02:16-03:00",
+      "last_checked_at": "2026-11-15T08:09:06-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2685120-daniel-garcia-leiloes-leiloeiro-oficial-leilao-online-da-4a-vara-civel-de",
+        "is_aggregator": true,
+        "raw_text": "Apartamento Daniel Garcia Leilões - Leiloeiro Oficial | Leilão Online da 4ª Vara Cível de Joinville/SC. - Lote 001 (ID 81166) 📍 Joinville, SC R$ 1.446.000,00"
+      },
+      "newly_discovered_at": "2026-11-15T08:09:06-03:00"
+    },
+    {
       "id": "dff52e1a5cffa71ca249",
       "source_ids": [
         "hasta"
@@ -19929,8 +20153,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.24,
-      "finished_at": "2026-11-14T08:04:25-03:00"
+      "duration_seconds": 0.16,
+      "finished_at": "2026-11-15T07:57:53-03:00"
     },
     {
       "source_id": "caixa",
@@ -19949,8 +20173,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.87,
-      "finished_at": "2026-11-14T08:04:28-03:00"
+      "duration_seconds": 2.6,
+      "finished_at": "2026-11-15T07:57:55-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -19969,9 +20193,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 32.35,
-      "finished_at": "2026-11-14T08:05:01-03:00",
-      "last_success_at": "2026-11-14T08:05:01-03:00"
+      "duration_seconds": 30.96,
+      "finished_at": "2026-11-15T07:58:26-03:00",
+      "last_success_at": "2026-11-15T07:58:26-03:00"
     },
     {
       "source_id": "superbid",
@@ -19990,8 +20214,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.14,
-      "finished_at": "2026-11-14T08:05:01-03:00"
+      "duration_seconds": 0.12,
+      "finished_at": "2026-11-15T07:58:26-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -20010,8 +20234,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.75,
-      "finished_at": "2026-11-14T08:05:04-03:00"
+      "duration_seconds": 2.76,
+      "finished_at": "2026-11-15T07:58:29-03:00"
     },
     {
       "source_id": "duarte",
@@ -20030,9 +20254,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 14.05,
-      "finished_at": "2026-11-14T08:05:18-03:00",
-      "last_success_at": "2026-11-14T08:05:18-03:00"
+      "duration_seconds": 13.93,
+      "finished_at": "2026-11-15T07:58:43-03:00",
+      "last_success_at": "2026-11-15T07:58:43-03:00"
     },
     {
       "source_id": "zampieri",
@@ -20051,9 +20275,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 5.96,
-      "finished_at": "2026-11-14T08:05:24-03:00",
-      "last_success_at": "2026-11-14T08:05:24-03:00"
+      "duration_seconds": 5.89,
+      "finished_at": "2026-11-15T07:58:49-03:00",
+      "last_success_at": "2026-11-15T07:58:49-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -20072,9 +20296,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.52,
-      "finished_at": "2026-11-14T08:05:26-03:00",
-      "last_success_at": "2026-11-14T08:05:26-03:00"
+      "duration_seconds": 2.58,
+      "finished_at": "2026-11-15T07:58:52-03:00",
+      "last_success_at": "2026-11-15T07:58:52-03:00"
     },
     {
       "source_id": "freitas",
@@ -20093,9 +20317,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 6.92,
-      "finished_at": "2026-11-14T08:05:33-03:00",
-      "last_success_at": "2026-11-14T08:05:33-03:00"
+      "duration_seconds": 7.57,
+      "finished_at": "2026-11-15T07:58:59-03:00",
+      "last_success_at": "2026-11-15T07:58:59-03:00"
     },
     {
       "source_id": "comprei",
@@ -20114,8 +20338,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 1.29,
-      "finished_at": "2026-11-14T08:05:35-03:00"
+      "duration_seconds": 1.3,
+      "finished_at": "2026-11-15T07:59:01-03:00"
     },
     {
       "source_id": "sampaio",
@@ -20134,9 +20358,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 45.74,
-      "finished_at": "2026-11-14T08:06:20-03:00",
-      "last_success_at": "2026-11-14T08:06:20-03:00"
+      "duration_seconds": 45.78,
+      "finished_at": "2026-11-15T07:59:47-03:00",
+      "last_success_at": "2026-11-15T07:59:47-03:00"
     },
     {
       "source_id": "machado",
@@ -20155,45 +20379,45 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 5.01,
-      "finished_at": "2026-11-14T08:06:25-03:00",
-      "last_success_at": "2026-11-14T08:06:25-03:00"
+      "duration_seconds": 5.05,
+      "finished_at": "2026-11-15T07:59:52-03:00",
+      "last_success_at": "2026-11-15T07:59:52-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
       "status": "success",
       "pages_read": 12,
-      "listings_found": 136,
+      "listings_found": 137,
       "error": null,
       "listings_by_city": {
-        "Joinville": 91,
-        "Balneário Camboriú": 21,
+        "Joinville": 90,
+        "Balneário Camboriú": 22,
         "Balneário Piçarras": 1,
         "Barra Velha": 7,
         "Penha": 1,
         "Navegantes": 3,
-        "Rio do Sul": 10,
+        "Rio do Sul": 11,
         "São Francisco do Sul": 2
       },
-      "duration_seconds": 399.56,
-      "finished_at": "2026-11-14T08:13:05-03:00",
-      "last_success_at": "2026-11-14T08:13:05-03:00",
+      "duration_seconds": 389.23,
+      "finished_at": "2026-11-15T08:06:21-03:00",
+      "last_success_at": "2026-11-15T08:06:21-03:00",
       "city_results": [
         {
           "status": "success",
           "pages_read": 4,
-          "listings_found": 91,
+          "listings_found": 90,
           "error": null,
-          "duration_seconds": 229.51,
+          "duration_seconds": 224.48,
           "city": "Joinville"
         },
         {
           "status": "success",
           "pages_read": 2,
-          "listings_found": 21,
+          "listings_found": 22,
           "error": null,
-          "duration_seconds": 67.87,
+          "duration_seconds": 64.91,
           "city": "Balneário Camboriú"
         },
         {
@@ -20201,7 +20425,7 @@
           "pages_read": 1,
           "listings_found": 1,
           "error": null,
-          "duration_seconds": 4.28,
+          "duration_seconds": 3.53,
           "city": "Balneário Piçarras"
         },
         {
@@ -20209,7 +20433,7 @@
           "pages_read": 1,
           "listings_found": 7,
           "error": null,
-          "duration_seconds": 18.03,
+          "duration_seconds": 15.71,
           "city": "Barra Velha"
         },
         {
@@ -20217,7 +20441,7 @@
           "pages_read": 1,
           "listings_found": 1,
           "error": null,
-          "duration_seconds": 8.79,
+          "duration_seconds": 9.11,
           "city": "Penha"
         },
         {
@@ -20225,15 +20449,15 @@
           "pages_read": 1,
           "listings_found": 3,
           "error": null,
-          "duration_seconds": 11.24,
+          "duration_seconds": 11.03,
           "city": "Navegantes"
         },
         {
           "status": "success",
           "pages_read": 1,
-          "listings_found": 10,
+          "listings_found": 11,
           "error": null,
-          "duration_seconds": 47.53,
+          "duration_seconds": 48.91,
           "city": "Rio do Sul"
         },
         {
@@ -20241,7 +20465,7 @@
           "pages_read": 1,
           "listings_found": 2,
           "error": null,
-          "duration_seconds": 12.31,
+          "duration_seconds": 11.53,
           "city": "São Francisco do Sul"
         }
       ]
@@ -20263,9 +20487,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 47.44,
-      "finished_at": "2026-11-14T08:13:53-03:00",
-      "last_success_at": "2026-11-14T08:13:53-03:00"
+      "duration_seconds": 53.67,
+      "finished_at": "2026-11-15T08:07:15-03:00",
+      "last_success_at": "2026-11-15T08:07:15-03:00"
     },
     {
       "source_id": "leiloeiro_publico",
@@ -20284,9 +20508,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 1
       },
-      "duration_seconds": 112.57,
-      "finished_at": "2026-11-14T08:15:45-03:00",
-      "last_success_at": "2026-11-14T08:15:45-03:00"
+      "duration_seconds": 110.7,
+      "finished_at": "2026-11-15T08:09:06-03:00",
+      "last_success_at": "2026-11-15T08:09:06-03:00"
     }
   ]
 }
