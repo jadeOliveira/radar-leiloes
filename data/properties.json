@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T08:09:06-03:00",
+  "updated_at": "2026-11-16T08:08:24-03:00",
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -17003,6 +17003,83 @@
       "image_source_url": "https://hasta.com.br/imovel/2107963-apartamento-no-bairro-itinga-joinville-sc-so-leiloes"
     },
     {
+      "id": "f7e0c728dceed9b81e0e",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2750113-sobrado-rua-lucidio-ferreira-neves-412-morro-do-meio-joinville-sc"
+      ],
+      "city": "Joinville",
+      "state": "SC",
+      "neighborhood": "Morro do Meio",
+      "address": "Rua Lucídio Ferreira Neves, 412, Joinville, SC",
+      "property_type": "Casa",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 482306.02,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2750113-sobrado-rua-lucidio-ferreira-neves-412-morro-do-meio-joinville-sc",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2750113/0.jpg",
+        "https://hasta.com.br/foto/2750113/1.jpg",
+        "https://hasta.com.br/foto/2750113/2.jpg",
+        "https://hasta.com.br/foto/2750113/3.jpg",
+        "https://hasta.com.br/foto/2750113/4.jpg"
+      ],
+      "first_seen_at": "2026-11-16T07:59:05-03:00",
+      "last_checked_at": "2026-11-16T08:08:24-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified",
+        "address": "declared",
+        "neighborhood": "declared"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2750113-sobrado-rua-lucidio-ferreira-neves-412-morro-do-meio-joinville-sc",
+        "is_aggregator": true,
+        "raw_text": "Casa Sobrado - rua lucídio ferreira neves, 412 - morro do meio - joinville sc 📍 Joinville, SC R$ 482.306,02"
+      },
+      "newly_discovered_at": "2026-11-16T08:08:24-03:00"
+    },
+    {
       "id": "fa3ee5ea39779c25e788",
       "source_ids": [
         "hasta"
@@ -20153,8 +20230,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.16,
-      "finished_at": "2026-11-15T07:57:53-03:00"
+      "duration_seconds": 0.24,
+      "finished_at": "2026-11-16T07:56:22-03:00"
     },
     {
       "source_id": "caixa",
@@ -20173,8 +20250,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.6,
-      "finished_at": "2026-11-15T07:57:55-03:00"
+      "duration_seconds": 2.7,
+      "finished_at": "2026-11-16T07:56:25-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -20193,9 +20270,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 30.96,
-      "finished_at": "2026-11-15T07:58:26-03:00",
-      "last_success_at": "2026-11-15T07:58:26-03:00"
+      "duration_seconds": 33.69,
+      "finished_at": "2026-11-16T07:56:59-03:00",
+      "last_success_at": "2026-11-16T07:56:59-03:00"
     },
     {
       "source_id": "superbid",
@@ -20214,8 +20291,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.12,
-      "finished_at": "2026-11-15T07:58:26-03:00"
+      "duration_seconds": 0.14,
+      "finished_at": "2026-11-16T07:56:59-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -20234,8 +20311,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.76,
-      "finished_at": "2026-11-15T07:58:29-03:00"
+      "duration_seconds": 2.8,
+      "finished_at": "2026-11-16T07:57:02-03:00"
     },
     {
       "source_id": "duarte",
@@ -20254,9 +20331,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 13.93,
-      "finished_at": "2026-11-15T07:58:43-03:00",
-      "last_success_at": "2026-11-15T07:58:43-03:00"
+      "duration_seconds": 14.42,
+      "finished_at": "2026-11-16T07:57:16-03:00",
+      "last_success_at": "2026-11-16T07:57:16-03:00"
     },
     {
       "source_id": "zampieri",
@@ -20275,9 +20352,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 5.89,
-      "finished_at": "2026-11-15T07:58:49-03:00",
-      "last_success_at": "2026-11-15T07:58:49-03:00"
+      "duration_seconds": 6.01,
+      "finished_at": "2026-11-16T07:57:22-03:00",
+      "last_success_at": "2026-11-16T07:57:22-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -20296,9 +20373,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.58,
-      "finished_at": "2026-11-15T07:58:52-03:00",
-      "last_success_at": "2026-11-15T07:58:52-03:00"
+      "duration_seconds": 2.51,
+      "finished_at": "2026-11-16T07:57:25-03:00",
+      "last_success_at": "2026-11-16T07:57:25-03:00"
     },
     {
       "source_id": "freitas",
@@ -20317,9 +20394,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 7.57,
-      "finished_at": "2026-11-15T07:58:59-03:00",
-      "last_success_at": "2026-11-15T07:58:59-03:00"
+      "duration_seconds": 6.7,
+      "finished_at": "2026-11-16T07:57:31-03:00",
+      "last_success_at": "2026-11-16T07:57:31-03:00"
     },
     {
       "source_id": "comprei",
@@ -20338,8 +20415,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 1.3,
-      "finished_at": "2026-11-15T07:59:01-03:00"
+      "duration_seconds": 1.12,
+      "finished_at": "2026-11-16T07:57:33-03:00"
     },
     {
       "source_id": "sampaio",
@@ -20358,9 +20435,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 45.78,
-      "finished_at": "2026-11-15T07:59:47-03:00",
-      "last_success_at": "2026-11-15T07:59:47-03:00"
+      "duration_seconds": 46.08,
+      "finished_at": "2026-11-16T07:58:19-03:00",
+      "last_success_at": "2026-11-16T07:58:19-03:00"
     },
     {
       "source_id": "machado",
@@ -20379,20 +20456,20 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 5.05,
-      "finished_at": "2026-11-15T07:59:52-03:00",
-      "last_success_at": "2026-11-15T07:59:52-03:00"
+      "duration_seconds": 5.16,
+      "finished_at": "2026-11-16T07:58:24-03:00",
+      "last_success_at": "2026-11-16T07:58:24-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
       "status": "success",
       "pages_read": 12,
-      "listings_found": 137,
+      "listings_found": 136,
       "error": null,
       "listings_by_city": {
-        "Joinville": 90,
-        "Balneário Camboriú": 22,
+        "Joinville": 91,
+        "Balneário Camboriú": 20,
         "Balneário Piçarras": 1,
         "Barra Velha": 7,
         "Penha": 1,
@@ -20400,24 +20477,24 @@
         "Rio do Sul": 11,
         "São Francisco do Sul": 2
       },
-      "duration_seconds": 389.23,
-      "finished_at": "2026-11-15T08:06:21-03:00",
-      "last_success_at": "2026-11-15T08:06:21-03:00",
+      "duration_seconds": 414.68,
+      "finished_at": "2026-11-16T08:05:19-03:00",
+      "last_success_at": "2026-11-16T08:05:19-03:00",
       "city_results": [
         {
           "status": "success",
           "pages_read": 4,
-          "listings_found": 90,
+          "listings_found": 91,
           "error": null,
-          "duration_seconds": 224.48,
+          "duration_seconds": 238.3,
           "city": "Joinville"
         },
         {
           "status": "success",
           "pages_read": 2,
-          "listings_found": 22,
+          "listings_found": 20,
           "error": null,
-          "duration_seconds": 64.91,
+          "duration_seconds": 67.93,
           "city": "Balneário Camboriú"
         },
         {
@@ -20425,7 +20502,7 @@
           "pages_read": 1,
           "listings_found": 1,
           "error": null,
-          "duration_seconds": 3.53,
+          "duration_seconds": 4.14,
           "city": "Balneário Piçarras"
         },
         {
@@ -20433,7 +20510,7 @@
           "pages_read": 1,
           "listings_found": 7,
           "error": null,
-          "duration_seconds": 15.71,
+          "duration_seconds": 16.49,
           "city": "Barra Velha"
         },
         {
@@ -20441,7 +20518,7 @@
           "pages_read": 1,
           "listings_found": 1,
           "error": null,
-          "duration_seconds": 9.11,
+          "duration_seconds": 9.18,
           "city": "Penha"
         },
         {
@@ -20449,7 +20526,7 @@
           "pages_read": 1,
           "listings_found": 3,
           "error": null,
-          "duration_seconds": 11.03,
+          "duration_seconds": 13.37,
           "city": "Navegantes"
         },
         {
@@ -20457,7 +20534,7 @@
           "pages_read": 1,
           "listings_found": 11,
           "error": null,
-          "duration_seconds": 48.91,
+          "duration_seconds": 52.83,
           "city": "Rio do Sul"
         },
         {
@@ -20465,7 +20542,7 @@
           "pages_read": 1,
           "listings_found": 2,
           "error": null,
-          "duration_seconds": 11.53,
+          "duration_seconds": 12.43,
           "city": "São Francisco do Sul"
         }
       ]
@@ -20487,15 +20564,15 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 53.67,
-      "finished_at": "2026-11-15T08:07:15-03:00",
-      "last_success_at": "2026-11-15T08:07:15-03:00"
+      "duration_seconds": 71.71,
+      "finished_at": "2026-11-16T08:06:30-03:00",
+      "last_success_at": "2026-11-16T08:06:30-03:00"
     },
     {
       "source_id": "leiloeiro_publico",
       "name": "Leiloeiro Público",
       "status": "success",
-      "pages_read": 82,
+      "pages_read": 81,
       "listings_found": 6,
       "error": null,
       "listings_by_city": {
@@ -20508,9 +20585,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 1
       },
-      "duration_seconds": 110.7,
-      "finished_at": "2026-11-15T08:09:06-03:00",
-      "last_success_at": "2026-11-15T08:09:06-03:00"
+      "duration_seconds": 113.54,
+      "finished_at": "2026-11-16T08:08:24-03:00",
+      "last_success_at": "2026-11-16T08:08:24-03:00"
     }
   ]
 }

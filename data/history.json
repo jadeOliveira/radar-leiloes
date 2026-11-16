@@ -6454,6 +6454,21 @@
         }
       ],
       "detected_at": "2026-11-15T08:09:06-03:00"
+    },
+    {
+      "property_id": "f7e0c728dceed9b81e0e",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-11-16T08:08:24-03:00"
     }
   ]
 }
