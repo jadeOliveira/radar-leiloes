@@ -6469,6 +6469,134 @@
         }
       ],
       "detected_at": "2026-11-16T08:08:24-03:00"
+    },
+    {
+      "property_id": "c2bb77b2f5e5578fdedb",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "source_listing_price_brl",
+          "before": 690000.0,
+          "after": 650000.0
+        }
+      ],
+      "detected_at": "2026-11-17T08:16:37-03:00"
+    },
+    {
+      "property_id": "07961135c293d6a48ed2",
+      "city": "Barra Velha",
+      "source_ids": [
+        "hasta_publica"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-11-17T08:16:37-03:00"
+    },
+    {
+      "property_id": "0fc466da0d41eebd3fab",
+      "city": "Joinville",
+      "source_ids": [
+        "freitas",
+        "mega_leiloes"
+      ],
+      "changes": [
+        {
+          "field": "image_urls",
+          "before": [
+            "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/LT008_01.JPG",
+            "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00149570.PNG",
+            "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00149571.PNG",
+            "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00149572.JPG",
+            "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00149573.JPG",
+            "https://cdn3.freitasleiloeiro.com.br/Assets/Imagens/bg_mapa_imoveis_site.jpg",
+            "https://cdn3.freitasleiloeiro.com.br/Assets/Imagens/LanceAutomatico.jpg",
+            "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154115.JPG",
+            "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154116.JPG",
+            "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154117.JPG",
+            "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154118.JPG",
+            "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154119.JPG",
+            "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154121.JPG",
+            "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154122.JPG",
+            "https://cdn1.megaleiloes.com.br/batches/130898/fbc7dd14d02f1a1bdfe52613848ea8d4_670x380.jpg",
+            "https://cdn1.megaleiloes.com.br/batches/130898/724d4868f45a8177e6b813bb53425cdc_670x380.jpg",
+            "https://cdn1.megaleiloes.com.br/batches/130898/543337ab3a3b3dc04699f32b3420f511_670x380.jpg",
+            "https://cdn1.megaleiloes.com.br/batches/130898/9fdddeda3bfce37aa0b43caa093293bf_670x380.jpg",
+            "https://cdn1.megaleiloes.com.br/batches/130898/c8839b6dc3860c3fe9d4568807b258f0_670x380.jpg",
+            "https://cdn1.megaleiloes.com.br/batches/130898/c9e64536b0604ea9b5e57a9f278d1692_670x380.jpg",
+            "https://cdn1.megaleiloes.com.br/batches/130898/b9e9ce7615407872df0125333f0fe7ab_670x380.jpg",
+            "https://cdn1.megaleiloes.com.br/batches/130898/f677a047e332dad89d05837265e54ddb_670x380.jpg",
+            "https://cdn1.megaleiloes.com.br/batches/130898/88d0aee09d02c95bdcaccc07f3d174bc_670x380.jpg",
+            "https://cdn1.megaleiloes.com.br/batches/130898/ba07ad0223d0e27ff47b3b24fb18c958_670x380.jpg",
+            "https://cdn1.megaleiloes.com.br/batches/130898/3d9950905b10bcf71e12c118fda82fe8_670x380.jpg",
+            "https://cdn1.megaleiloes.com.br/batches/130898/4cd41593769b417247fee06c733bbe8b_670x380.jpg"
+          ],
+          "after": [
+            "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/LT008_01.JPG",
+            "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00149570.PNG",
+            "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00149571.PNG",
+            "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00149572.JPG",
+            "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00149573.JPG",
+            "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154115.JPG",
+            "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154116.JPG",
+            "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154117.JPG",
+            "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154118.JPG",
+            "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154119.JPG",
+            "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154121.JPG",
+            "https://cdn3.freitasleiloeiro.com.br/LEILOES/8127/FOTOS/008/00154122.JPG",
+            "https://cdn1.megaleiloes.com.br/batches/130898/fbc7dd14d02f1a1bdfe52613848ea8d4_670x380.jpg",
+            "https://cdn1.megaleiloes.com.br/batches/130898/724d4868f45a8177e6b813bb53425cdc_670x380.jpg",
+            "https://cdn1.megaleiloes.com.br/batches/130898/543337ab3a3b3dc04699f32b3420f511_670x380.jpg",
+            "https://cdn1.megaleiloes.com.br/batches/130898/9fdddeda3bfce37aa0b43caa093293bf_670x380.jpg",
+            "https://cdn1.megaleiloes.com.br/batches/130898/c8839b6dc3860c3fe9d4568807b258f0_670x380.jpg",
+            "https://cdn1.megaleiloes.com.br/batches/130898/c9e64536b0604ea9b5e57a9f278d1692_670x380.jpg",
+            "https://cdn1.megaleiloes.com.br/batches/130898/b9e9ce7615407872df0125333f0fe7ab_670x380.jpg",
+            "https://cdn1.megaleiloes.com.br/batches/130898/f677a047e332dad89d05837265e54ddb_670x380.jpg",
+            "https://cdn1.megaleiloes.com.br/batches/130898/88d0aee09d02c95bdcaccc07f3d174bc_670x380.jpg",
+            "https://cdn1.megaleiloes.com.br/batches/130898/ba07ad0223d0e27ff47b3b24fb18c958_670x380.jpg",
+            "https://cdn1.megaleiloes.com.br/batches/130898/3d9950905b10bcf71e12c118fda82fe8_670x380.jpg",
+            "https://cdn1.megaleiloes.com.br/batches/130898/4cd41593769b417247fee06c733bbe8b_670x380.jpg"
+          ]
+        }
+      ],
+      "detected_at": "2026-11-17T08:16:37-03:00"
+    },
+    {
+      "property_id": "260b071031d76cbaaa03",
+      "city": "Navegantes",
+      "source_ids": [
+        "mega_leiloes"
+      ],
+      "changes": [
+        {
+          "field": "source_listing_price_brl",
+          "before": 723345.28,
+          "after": 352500.0
+        }
+      ],
+      "detected_at": "2026-11-17T08:16:37-03:00"
+    },
+    {
+      "property_id": "9bba00059cf9909dfb34",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-11-17T08:16:37-03:00"
     }
   ]
 }
