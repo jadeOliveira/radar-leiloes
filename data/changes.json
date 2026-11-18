@@ -6831,6 +6831,42 @@
           "detected_at": "2026-11-17T08:16:37-03:00"
         }
       ]
+    },
+    {
+      "run_id": "9c513a64-f775-4d98-8281-18be5f8af0af",
+      "detected_at": "2026-11-18T08:15:35-03:00",
+      "changes": [
+        {
+          "property_id": "03692fe334d21e3f3fee",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "current_minimum_bid_brl",
+              "before": 105000.0,
+              "after": 210000.0
+            }
+          ],
+          "detected_at": "2026-11-18T08:15:35-03:00"
+        },
+        {
+          "property_id": "2dfe5a4a2fd0851a4c6c",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-11-18T08:15:35-03:00"
+        }
+      ]
     }
   ]
 }
