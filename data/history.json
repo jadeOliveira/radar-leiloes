@@ -6627,6 +6627,51 @@
         }
       ],
       "detected_at": "2026-11-18T08:15:35-03:00"
+    },
+    {
+      "property_id": "4e615bc5010a962756dc",
+      "city": "Balneário Camboriú",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-11-20T08:08:36-03:00"
+    },
+    {
+      "property_id": "d6fb130bc97b2221ae54",
+      "city": "Penha",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-11-20T08:08:36-03:00"
+    },
+    {
+      "property_id": "fab48a7b0cf03bbd1b48",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "freitas"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-11-20T08:08:36-03:00"
     }
   ]
 }
