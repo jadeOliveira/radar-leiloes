@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T08:16:43-03:00",
+  "updated_at": "2026-11-23T08:09:55-03:00",
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -143,7 +143,7 @@
         "https://hasta.com.br/foto/1822397/1.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -725,7 +725,7 @@
         "https://hasta.com.br/foto/2025919/3.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -810,7 +810,7 @@
         "https://hasta.com.br/foto/1083274/7.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -963,7 +963,7 @@
         "https://hasta.com.br/foto/1451500/1.jpg"
       ],
       "first_seen_at": "2026-10-22T09:57:54-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1050,7 +1050,7 @@
         "https://hasta.com.br/foto/1967354/5.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1592,7 +1592,7 @@
         "https://hasta.com.br/foto/1943341/4.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1670,7 +1670,7 @@
         "https://hasta.com.br/foto/2092415/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1747,7 +1747,7 @@
         "https://hasta.com.br/foto/1805694/1.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2231,7 +2231,7 @@
         "https://hasta.com.br/foto/1001567/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2395,7 +2395,7 @@
         "https://arquivos.leiloeiropublico.com.br/Foto/2026/26.144/Lote.1.1/1a.jpg"
       ],
       "first_seen_at": "2026-10-22T15:21:39-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown"
@@ -2481,7 +2481,7 @@
         "https://hasta.com.br/foto/2218297/11.jpg"
       ],
       "first_seen_at": "2026-10-22T09:57:35-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2702,7 +2702,8 @@
         "igo"
       ],
       "source_listing_urls": [
-        "https://hasta.com.br/imovel/788478-apartamento-a-venda-na-rua-vaticano-balneario-camboriu-sc-codigo-02-27082"
+        "https://hasta.com.br/imovel/788478-apartamento-a-venda-na-rua-vaticano-balneario-camboriu-sc-codigo-02-27082",
+        "https://hasta.com.br/imovel/2922190-apartamento-a-venda-na-rua-vaticano-57-balneario-camboriu-sc-codigo-02-27082"
       ],
       "city": "Balneário Camboriú",
       "state": "SC",
@@ -2722,7 +2723,7 @@
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": null,
-      "source_listing_price_brl": 728000.0,
+      "source_listing_price_brl": 709800.0,
       "discount_on_appraisal_percent": null,
       "auction_events": [],
       "commission_percent": null,
@@ -2736,10 +2737,14 @@
       "document_urls": [],
       "image_urls": [
         "https://hasta.com.br/foto/788478/0.jpg",
-        "https://www.santanderimoveis.com.br/wp-content/uploads/2026/08/1785954893959.jpeg"
+        "https://www.santanderimoveis.com.br/wp-content/uploads/2026/08/1785954893959.jpeg",
+        "https://hasta.com.br/foto/2922190/0.jpg",
+        "https://hasta.com.br/foto/2922190/1.jpg",
+        "https://hasta.com.br/foto/2922190/2.jpg",
+        "https://hasta.com.br/foto/2922190/3.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-10-27T08:19:35-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2762,11 +2767,12 @@
       },
       "provenance": {
         "source_id": "hasta",
-        "captured_from": "https://hasta.com.br/imovel/788478-apartamento-a-venda-na-rua-vaticano-balneario-camboriu-sc-codigo-02-27082",
+        "captured_from": "https://hasta.com.br/imovel/2922190-apartamento-a-venda-na-rua-vaticano-57-balneario-camboriu-sc-codigo-02-27082",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento à venda na Rua Vaticano - Balneário Camboriú/SC Código: 02.27082 📍 Balneário Camboriú, SC R$ 728.000,00",
+        "raw_text": "Apartamento Apartamento à venda na RUA VATICANO, 57 - Balneário Camboriú/SC Código: 02.27082 📍 Balneário Camboriú, SC R$ 709.800,00",
         "source_listing_urls": [
-          "https://hasta.com.br/imovel/788478-apartamento-a-venda-na-rua-vaticano-balneario-camboriu-sc-codigo-02-27082"
+          "https://hasta.com.br/imovel/788478-apartamento-a-venda-na-rua-vaticano-balneario-camboriu-sc-codigo-02-27082",
+          "https://hasta.com.br/imovel/2922190-apartamento-a-venda-na-rua-vaticano-57-balneario-camboriu-sc-codigo-02-27082"
         ]
       },
       "newly_discovered_at": "2026-10-20T10:11:11-03:00",
@@ -3318,7 +3324,7 @@
         "https://arquivos.leiloeiropublico.com.br/Foto/2022/22.190/Lote.4105.1/4105a.jpg"
       ],
       "first_seen_at": "2026-10-22T15:21:39-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown"
@@ -3717,7 +3723,7 @@
         "https://hasta.com.br/foto/1001548/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4403,7 +4409,7 @@
         "https://hasta.com.br/foto/1948251/0.jpg"
       ],
       "first_seen_at": "2026-10-22T11:34:57-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4561,7 +4567,7 @@
         "https://hasta.com.br/foto/1913997/0.jpg"
       ],
       "first_seen_at": "2026-10-26T08:40:46-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4806,7 +4812,7 @@
         "https://hasta.com.br/foto/2507776/0.jpg"
       ],
       "first_seen_at": "2026-11-07T08:11:29-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -4881,7 +4887,7 @@
         "https://hasta.com.br/foto/283431/0.jpg"
       ],
       "first_seen_at": "2026-10-22T11:35:06-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5505,7 +5511,7 @@
         "https://hasta.com.br/foto/1854621/1.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5584,7 +5590,7 @@
         "https://hasta.com.br/foto/1769820/3.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5916,7 +5922,7 @@
         "https://hasta.com.br/foto/1908557/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6297,7 +6303,7 @@
         "https://hasta.com.br/foto/2187509/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6375,7 +6381,7 @@
         "https://hasta.com.br/foto/2090284/2.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6632,7 +6638,7 @@
         "https://hasta.com.br/foto/999607/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7268,7 +7274,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-11-04T08:04:49-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7343,7 +7349,7 @@
         "https://hasta.com.br/foto/2514437/0.jpg"
       ],
       "first_seen_at": "2026-11-08T08:08:38-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7733,7 +7739,7 @@
         "https://hasta.com.br/foto/2187787/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7928,7 +7934,8 @@
         "igo"
       ],
       "source_listing_urls": [
-        "https://hasta.com.br/imovel/746520-apartamento-a-venda-na-rua-leopoldo-fischer-joinville-sc-codigo-02-26418"
+        "https://hasta.com.br/imovel/746520-apartamento-a-venda-na-rua-leopoldo-fischer-joinville-sc-codigo-02-26418",
+        "https://hasta.com.br/imovel/2922045-apartamento-a-venda-na-rua-leopoldo-fischer-266-joinville-sc-codigo-02-26418"
       ],
       "city": "Joinville",
       "state": "SC",
@@ -7948,7 +7955,7 @@
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": null,
-      "source_listing_price_brl": 845500.0,
+      "source_listing_price_brl": 801000.0,
       "discount_on_appraisal_percent": null,
       "auction_events": [],
       "commission_percent": null,
@@ -7962,10 +7969,14 @@
       "document_urls": [],
       "image_urls": [
         "https://hasta.com.br/foto/746520/0.jpg",
-        "https://www.santanderimoveis.com.br/wp-content/uploads/2026/07/1785440605006.jpeg"
+        "https://www.santanderimoveis.com.br/wp-content/uploads/2026/07/1785440605006.jpeg",
+        "https://hasta.com.br/foto/2922045/0.jpg",
+        "https://hasta.com.br/foto/2922045/1.jpg",
+        "https://hasta.com.br/foto/2922045/2.jpg",
+        "https://hasta.com.br/foto/2922045/3.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:06-03:00",
-      "last_checked_at": "2026-10-27T08:19:35-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7988,11 +7999,12 @@
       },
       "provenance": {
         "source_id": "hasta",
-        "captured_from": "https://hasta.com.br/imovel/746520-apartamento-a-venda-na-rua-leopoldo-fischer-joinville-sc-codigo-02-26418",
+        "captured_from": "https://hasta.com.br/imovel/2922045-apartamento-a-venda-na-rua-leopoldo-fischer-266-joinville-sc-codigo-02-26418",
         "is_aggregator": true,
-        "raw_text": "Apartamento Apartamento à venda na Rua Leopoldo Fischer - Joinville/SC Código: 02.26418 📍 Joinville, SC R$ 845.500,00",
+        "raw_text": "Apartamento Apartamento à venda na RUA LEOPOLDO FISCHER, 266 - Joinville/SC Código: 02.26418 📍 Joinville, SC R$ 801.000,00",
         "source_listing_urls": [
-          "https://hasta.com.br/imovel/746520-apartamento-a-venda-na-rua-leopoldo-fischer-joinville-sc-codigo-02-26418"
+          "https://hasta.com.br/imovel/746520-apartamento-a-venda-na-rua-leopoldo-fischer-joinville-sc-codigo-02-26418",
+          "https://hasta.com.br/imovel/2922045-apartamento-a-venda-na-rua-leopoldo-fischer-266-joinville-sc-codigo-02-26418"
         ]
       },
       "newly_discovered_at": "2026-10-20T10:11:11-03:00",
@@ -8047,7 +8059,7 @@
         "https://hasta.com.br/foto/2027072/4.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8479,7 +8491,7 @@
         "https://hasta.com.br/foto/1913966/0.jpg"
       ],
       "first_seen_at": "2026-10-26T08:37:10-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8566,7 +8578,7 @@
         "https://hasta.com.br/foto/998960/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8908,7 +8920,7 @@
         "https://hasta.com.br/foto/1996455/3.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9069,7 +9081,7 @@
         "https://hasta.com.br/foto/556980/1.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9303,7 +9315,7 @@
         "https://hasta.com.br/foto/1908551/7.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9454,7 +9466,7 @@
         "https://hasta.com.br/foto/1514941/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9613,7 +9625,7 @@
         "https://arquivos.leiloeiropublico.com.br/Foto/2022/22.190/Lote.4102.1/4102b.jpg"
       ],
       "first_seen_at": "2026-10-22T15:21:39-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown"
@@ -9693,7 +9705,7 @@
         "https://arquivos.leiloeiropublico.com.br/Foto/2022/22.190/Lote.3784.1/3784c.jpg"
       ],
       "first_seen_at": "2026-10-22T15:21:39-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown"
@@ -10272,7 +10284,7 @@
         "https://hasta.com.br/foto/1908555/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -10354,7 +10366,7 @@
         "https://hasta.com.br/foto/2027069/4.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -10506,7 +10518,7 @@
         "https://hasta.com.br/foto/1948256/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -10732,7 +10744,7 @@
         "https://hasta.com.br/foto/2706480/0.jpg"
       ],
       "first_seen_at": "2026-11-15T08:02:13-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -10817,7 +10829,7 @@
         "https://hasta.com.br/foto/2450544/10.jpg"
       ],
       "first_seen_at": "2026-11-04T08:05:41-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -11727,7 +11739,7 @@
         "https://hasta.com.br/foto/1967335/0.jpg"
       ],
       "first_seen_at": "2026-10-27T08:10:02-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -11909,7 +11921,7 @@
         "https://hasta.com.br/foto/1508159/6.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -12077,7 +12089,7 @@
         "https://hasta.com.br/foto/1824383/3.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -12327,7 +12339,7 @@
         "https://hasta.com.br/foto/2027070/4.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -12739,7 +12751,7 @@
         "https://hasta.com.br/foto/1949169/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -13064,7 +13076,7 @@
         "https://hasta.com.br/foto/1914044/5.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -13390,7 +13402,7 @@
         "https://hasta.com.br/foto/819981/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -13466,7 +13478,7 @@
         "https://hasta.com.br/foto/2187424/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -13621,7 +13633,7 @@
         "https://hasta.com.br/foto/2123226/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -14019,7 +14031,7 @@
         "https://hasta.com.br/foto/1908553/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -14097,7 +14109,7 @@
         "https://hasta.com.br/foto/2062314/0.jpg"
       ],
       "first_seen_at": "2026-10-29T08:14:44-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -14423,7 +14435,7 @@
         "https://hasta.com.br/foto/150972/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -14499,7 +14511,7 @@
         "https://hasta.com.br/foto/2313469/0.jpg"
       ],
       "first_seen_at": "2026-10-26T10:34:25-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -14740,7 +14752,7 @@
         "https://hasta.com.br/foto/1908556/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -15244,7 +15256,7 @@
         "https://hasta.com.br/foto/1908549/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -15476,7 +15488,7 @@
         "https://hasta.com.br/foto/2671158/0.jpg"
       ],
       "first_seen_at": "2026-11-14T08:08:55-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -15562,7 +15574,7 @@
         "https://hasta.com.br/foto/1908554/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -15648,7 +15660,7 @@
         "https://hasta.com.br/foto/2450549/10.jpg"
       ],
       "first_seen_at": "2026-11-04T08:05:39-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -15801,7 +15813,7 @@
         "https://hasta.com.br/foto/2092417/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -16030,7 +16042,7 @@
         "https://arquivos.leiloeiropublico.com.br/Foto/2022/22.190/Lote.4147.1/4147a.jpg"
       ],
       "first_seen_at": "2026-10-22T15:21:39-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown"
@@ -16365,7 +16377,7 @@
         "https://hasta.com.br/foto/1514940/2.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -16451,7 +16463,7 @@
         "https://hasta.com.br/foto/1908550/10.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -16538,7 +16550,7 @@
         "https://hasta.com.br/foto/999657/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -16799,7 +16811,7 @@
         "https://hasta.com.br/foto/2685120/7.jpg"
       ],
       "first_seen_at": "2026-11-15T08:02:16-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -16874,7 +16886,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-11-04T08:04:51-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -16949,7 +16961,7 @@
         "https://hasta.com.br/foto/1948254/0.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -17036,7 +17048,7 @@
         "https://hasta.com.br/foto/1908548/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -17263,7 +17275,7 @@
         "https://6b5a04d21a38ad1e.cdn.gocache.net/bens/0000065331/img-65331-6a75f201d8387.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -17729,7 +17741,7 @@
         "https://hasta.com.br/foto/2217310/0.jpg"
       ],
       "first_seen_at": "2026-10-21T09:28:18-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -17812,7 +17824,7 @@
         "https://hasta.com.br/foto/1908552/8.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -18544,7 +18556,7 @@
         "https://hasta.com.br/foto/2313556/0.jpg"
       ],
       "first_seen_at": "2026-10-26T10:40:12-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -18621,7 +18633,7 @@
         "https://hasta.com.br/foto/2412292/2.jpg"
       ],
       "first_seen_at": "2026-11-01T08:10:31-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -19259,7 +19271,7 @@
         "https://hasta.com.br/foto/1518876/11.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:11-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -19503,7 +19515,7 @@
         "https://hasta.com.br/foto/2092507/2.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:11-03:00",
-      "last_checked_at": "2026-11-21T08:16:43-03:00",
+      "last_checked_at": "2026-11-23T08:09:55-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -21089,8 +21101,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.15,
-      "finished_at": "2026-11-21T08:05:23-03:00"
+      "duration_seconds": 0.18,
+      "finished_at": "2026-11-23T07:58:20-03:00"
     },
     {
       "source_id": "caixa",
@@ -21109,8 +21121,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.77,
-      "finished_at": "2026-11-21T08:05:26-03:00"
+      "duration_seconds": 2.66,
+      "finished_at": "2026-11-23T07:58:23-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -21129,9 +21141,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 26.09,
-      "finished_at": "2026-11-21T08:05:52-03:00",
-      "last_success_at": "2026-11-21T08:05:52-03:00"
+      "duration_seconds": 26.12,
+      "finished_at": "2026-11-23T07:58:49-03:00",
+      "last_success_at": "2026-11-23T07:58:49-03:00"
     },
     {
       "source_id": "superbid",
@@ -21150,8 +21162,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.13,
-      "finished_at": "2026-11-21T08:05:52-03:00"
+      "duration_seconds": 0.12,
+      "finished_at": "2026-11-23T07:58:49-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -21170,8 +21182,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.58,
-      "finished_at": "2026-11-21T08:05:55-03:00"
+      "duration_seconds": 2.97,
+      "finished_at": "2026-11-23T07:58:52-03:00"
     },
     {
       "source_id": "duarte",
@@ -21190,9 +21202,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 7.57,
-      "finished_at": "2026-11-21T08:06:02-03:00",
-      "last_success_at": "2026-11-21T08:06:02-03:00"
+      "duration_seconds": 7.67,
+      "finished_at": "2026-11-23T07:59:00-03:00",
+      "last_success_at": "2026-11-23T07:59:00-03:00"
     },
     {
       "source_id": "zampieri",
@@ -21211,9 +21223,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 5.96,
-      "finished_at": "2026-11-21T08:06:08-03:00",
-      "last_success_at": "2026-11-21T08:06:08-03:00"
+      "duration_seconds": 6.04,
+      "finished_at": "2026-11-23T07:59:06-03:00",
+      "last_success_at": "2026-11-23T07:59:06-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -21232,9 +21244,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.52,
-      "finished_at": "2026-11-21T08:06:11-03:00",
-      "last_success_at": "2026-11-21T08:06:11-03:00"
+      "duration_seconds": 2.48,
+      "finished_at": "2026-11-23T07:59:08-03:00",
+      "last_success_at": "2026-11-23T07:59:08-03:00"
     },
     {
       "source_id": "freitas",
@@ -21253,9 +21265,9 @@
         "Rio do Sul": 1,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 7.85,
-      "finished_at": "2026-11-21T08:06:19-03:00",
-      "last_success_at": "2026-11-21T08:06:19-03:00"
+      "duration_seconds": 7.93,
+      "finished_at": "2026-11-23T07:59:16-03:00",
+      "last_success_at": "2026-11-23T07:59:16-03:00"
     },
     {
       "source_id": "comprei",
@@ -21274,8 +21286,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 1.31,
-      "finished_at": "2026-11-21T08:06:20-03:00"
+      "duration_seconds": 1.26,
+      "finished_at": "2026-11-23T07:59:18-03:00"
     },
     {
       "source_id": "sampaio",
@@ -21294,9 +21306,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 52.73,
-      "finished_at": "2026-11-21T08:07:13-03:00",
-      "last_success_at": "2026-11-21T08:07:13-03:00"
+      "duration_seconds": 52.59,
+      "finished_at": "2026-11-23T08:00:10-03:00",
+      "last_success_at": "2026-11-23T08:00:10-03:00"
     },
     {
       "source_id": "machado",
@@ -21315,20 +21327,20 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 5.21,
-      "finished_at": "2026-11-21T08:07:18-03:00",
-      "last_success_at": "2026-11-21T08:07:18-03:00"
+      "duration_seconds": 5.6,
+      "finished_at": "2026-11-23T08:00:16-03:00",
+      "last_success_at": "2026-11-23T08:00:16-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
       "status": "success",
       "pages_read": 12,
-      "listings_found": 128,
+      "listings_found": 134,
       "error": null,
       "listings_by_city": {
-        "Joinville": 86,
-        "Balneário Camboriú": 22,
+        "Joinville": 89,
+        "Balneário Camboriú": 25,
         "Balneário Piçarras": 0,
         "Barra Velha": 7,
         "Penha": 1,
@@ -21336,9 +21348,9 @@
         "Rio do Sul": 8,
         "São Francisco do Sul": 2
       },
-      "duration_seconds": 398.9,
-      "finished_at": "2026-11-21T08:13:57-03:00",
-      "last_success_at": "2026-11-21T08:13:57-03:00"
+      "duration_seconds": 415.99,
+      "finished_at": "2026-11-23T08:07:12-03:00",
+      "last_success_at": "2026-11-23T08:07:12-03:00"
     },
     {
       "source_id": "hasta_publica",
@@ -21357,15 +21369,15 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 55.61,
-      "finished_at": "2026-11-21T08:14:53-03:00",
-      "last_success_at": "2026-11-21T08:14:53-03:00"
+      "duration_seconds": 48.84,
+      "finished_at": "2026-11-23T08:08:01-03:00",
+      "last_success_at": "2026-11-23T08:08:01-03:00"
     },
     {
       "source_id": "leiloeiro_publico",
       "name": "Leiloeiro Público",
       "status": "success",
-      "pages_read": 81,
+      "pages_read": 80,
       "listings_found": 7,
       "error": null,
       "listings_by_city": {
@@ -21378,9 +21390,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 1
       },
-      "duration_seconds": 110.28,
-      "finished_at": "2026-11-21T08:16:43-03:00",
-      "last_success_at": "2026-11-21T08:16:43-03:00"
+      "duration_seconds": 113.98,
+      "finished_at": "2026-11-23T08:09:55-03:00",
+      "last_success_at": "2026-11-23T08:09:55-03:00"
     }
   ]
 }

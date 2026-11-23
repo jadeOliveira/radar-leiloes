@@ -6984,6 +6984,92 @@
           "detected_at": "2026-11-21T08:16:43-03:00"
         }
       ]
+    },
+    {
+      "run_id": "42f74928-83a1-4270-8274-589d2298c7f9",
+      "detected_at": "2026-11-23T08:09:55-03:00",
+      "changes": [
+        {
+          "property_id": "c7c851cf14061ca175e9",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "image_urls",
+              "before": [
+                "https://hasta.com.br/foto/788478/0.jpg",
+                "https://www.santanderimoveis.com.br/wp-content/uploads/2026/08/1785954893959.jpeg"
+              ],
+              "after": [
+                "https://hasta.com.br/foto/788478/0.jpg",
+                "https://www.santanderimoveis.com.br/wp-content/uploads/2026/08/1785954893959.jpeg",
+                "https://hasta.com.br/foto/2922190/0.jpg",
+                "https://hasta.com.br/foto/2922190/1.jpg",
+                "https://hasta.com.br/foto/2922190/2.jpg",
+                "https://hasta.com.br/foto/2922190/3.jpg"
+              ]
+            },
+            {
+              "field": "source_listing_price_brl",
+              "before": 728000.0,
+              "after": 709800.0
+            },
+            {
+              "field": "source_listing_urls",
+              "before": [
+                "https://hasta.com.br/imovel/788478-apartamento-a-venda-na-rua-vaticano-balneario-camboriu-sc-codigo-02-27082"
+              ],
+              "after": [
+                "https://hasta.com.br/imovel/788478-apartamento-a-venda-na-rua-vaticano-balneario-camboriu-sc-codigo-02-27082",
+                "https://hasta.com.br/imovel/2922190-apartamento-a-venda-na-rua-vaticano-57-balneario-camboriu-sc-codigo-02-27082"
+              ]
+            }
+          ],
+          "detected_at": "2026-11-23T08:09:55-03:00"
+        },
+        {
+          "property_id": "36913ba2a684762ca887",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "image_urls",
+              "before": [
+                "https://hasta.com.br/foto/746520/0.jpg",
+                "https://www.santanderimoveis.com.br/wp-content/uploads/2026/07/1785440605006.jpeg"
+              ],
+              "after": [
+                "https://hasta.com.br/foto/746520/0.jpg",
+                "https://www.santanderimoveis.com.br/wp-content/uploads/2026/07/1785440605006.jpeg",
+                "https://hasta.com.br/foto/2922045/0.jpg",
+                "https://hasta.com.br/foto/2922045/1.jpg",
+                "https://hasta.com.br/foto/2922045/2.jpg",
+                "https://hasta.com.br/foto/2922045/3.jpg"
+              ]
+            },
+            {
+              "field": "source_listing_price_brl",
+              "before": 845500.0,
+              "after": 801000.0
+            },
+            {
+              "field": "source_listing_urls",
+              "before": [
+                "https://hasta.com.br/imovel/746520-apartamento-a-venda-na-rua-leopoldo-fischer-joinville-sc-codigo-02-26418"
+              ],
+              "after": [
+                "https://hasta.com.br/imovel/746520-apartamento-a-venda-na-rua-leopoldo-fischer-joinville-sc-codigo-02-26418",
+                "https://hasta.com.br/imovel/2922045-apartamento-a-venda-na-rua-leopoldo-fischer-266-joinville-sc-codigo-02-26418"
+              ]
+            }
+          ],
+          "detected_at": "2026-11-23T08:09:55-03:00"
+        }
+      ]
     }
   ]
 }
