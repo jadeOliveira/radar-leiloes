@@ -7070,6 +7070,27 @@
           "detected_at": "2026-11-23T08:09:55-03:00"
         }
       ]
+    },
+    {
+      "run_id": "ef3cd036-39ad-4d32-a322-17e3a7315b3d",
+      "detected_at": "2026-11-24T08:12:28-03:00",
+      "changes": [
+        {
+          "property_id": "335a186a1a5abb3ef038",
+          "city": "Balneário Camboriú",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-11-24T08:12:28-03:00"
+        }
+      ]
     }
   ]
 }

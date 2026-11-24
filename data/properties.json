@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T08:09:55-03:00",
+  "updated_at": "2026-11-24T08:12:28-03:00",
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -143,7 +143,7 @@
         "https://hasta.com.br/foto/1822397/1.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -725,7 +725,7 @@
         "https://hasta.com.br/foto/2025919/3.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -810,7 +810,7 @@
         "https://hasta.com.br/foto/1083274/7.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -842,6 +842,83 @@
       },
       "newly_discovered_at": "2026-10-20T10:11:11-03:00",
       "image_source_url": "https://hasta.com.br/imovel/1083274-apartamento-em-balneario-camboriu-sc-lote-001-id-4396"
+    },
+    {
+      "id": "335a186a1a5abb3ef038",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2941839-apto-119-60m2-vaga-25m2-r-2700-esq-c-3a-av-centro-balneario-camboriu"
+      ],
+      "city": "Balneário Camboriú",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Apartamento",
+      "area_privative_m2": 119.6,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 1899686.24,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": null,
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2941839-apto-119-60m2-vaga-25m2-r-2700-esq-c-3a-av-centro-balneario-camboriu",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2941839/0.jpg?w=800",
+        "https://hasta.com.br/foto/2941839/0.jpg",
+        "https://hasta.com.br/foto/2941839/1.jpg",
+        "https://hasta.com.br/foto/2941839/2.jpg",
+        "https://hasta.com.br/foto/2941839/3.jpg",
+        "https://hasta.com.br/foto/2941839/4.jpg",
+        "https://hasta.com.br/foto/2941839/5.jpg"
+      ],
+      "first_seen_at": "2026-11-24T08:07:17-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "occupancy_unknown",
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "unknown",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2941839-apto-119-60m2-vaga-25m2-r-2700-esq-c-3a-av-centro-balneario-camboriu",
+        "is_aggregator": true,
+        "raw_text": "Apartamento Apto.- 119,60m² - Vaga 25m² -R. 2700-esq. c/ 3ª Av. - Centro 📍 Balneário Camboriú, SC R$ 1.899.686,24"
+      },
+      "newly_discovered_at": "2026-11-24T08:12:28-03:00"
     },
     {
       "id": "349c40f306e13a389952",
@@ -963,7 +1040,7 @@
         "https://hasta.com.br/foto/1451500/1.jpg"
       ],
       "first_seen_at": "2026-10-22T09:57:54-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1050,7 +1127,7 @@
         "https://hasta.com.br/foto/1967354/5.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1592,7 +1669,7 @@
         "https://hasta.com.br/foto/1943341/4.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -1747,7 +1824,7 @@
         "https://hasta.com.br/foto/1805694/1.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:08-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -2395,7 +2472,7 @@
         "https://arquivos.leiloeiropublico.com.br/Foto/2026/26.144/Lote.1.1/1a.jpg"
       ],
       "first_seen_at": "2026-10-22T15:21:39-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown"
@@ -3324,7 +3401,7 @@
         "https://arquivos.leiloeiropublico.com.br/Foto/2022/22.190/Lote.4105.1/4105a.jpg"
       ],
       "first_seen_at": "2026-10-22T15:21:39-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown"
@@ -5511,7 +5588,7 @@
         "https://hasta.com.br/foto/1854621/1.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -5590,7 +5667,7 @@
         "https://hasta.com.br/foto/1769820/3.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -6381,7 +6458,7 @@
         "https://hasta.com.br/foto/2090284/2.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -7274,7 +7351,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-11-04T08:04:49-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8059,7 +8136,7 @@
         "https://hasta.com.br/foto/2027072/4.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -8920,7 +8997,7 @@
         "https://hasta.com.br/foto/1996455/3.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9081,7 +9158,7 @@
         "https://hasta.com.br/foto/556980/1.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9315,7 +9392,7 @@
         "https://hasta.com.br/foto/1908551/7.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9625,7 +9702,7 @@
         "https://arquivos.leiloeiropublico.com.br/Foto/2022/22.190/Lote.4102.1/4102b.jpg"
       ],
       "first_seen_at": "2026-10-22T15:21:39-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown"
@@ -9705,7 +9782,7 @@
         "https://arquivos.leiloeiropublico.com.br/Foto/2022/22.190/Lote.3784.1/3784c.jpg"
       ],
       "first_seen_at": "2026-10-22T15:21:39-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown"
@@ -10366,7 +10443,7 @@
         "https://hasta.com.br/foto/2027069/4.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -10829,7 +10906,7 @@
         "https://hasta.com.br/foto/2450544/10.jpg"
       ],
       "first_seen_at": "2026-11-04T08:05:41-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -11921,7 +11998,7 @@
         "https://hasta.com.br/foto/1508159/6.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -12089,7 +12166,7 @@
         "https://hasta.com.br/foto/1824383/3.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -12339,7 +12416,7 @@
         "https://hasta.com.br/foto/2027070/4.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:00-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -13076,7 +13153,7 @@
         "https://hasta.com.br/foto/1914044/5.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -15660,7 +15737,7 @@
         "https://hasta.com.br/foto/2450549/10.jpg"
       ],
       "first_seen_at": "2026-11-04T08:05:39-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -16042,7 +16119,7 @@
         "https://arquivos.leiloeiropublico.com.br/Foto/2022/22.190/Lote.4147.1/4147a.jpg"
       ],
       "first_seen_at": "2026-10-22T15:21:39-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown"
@@ -16377,7 +16454,7 @@
         "https://hasta.com.br/foto/1514940/2.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:01-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -16463,7 +16540,7 @@
         "https://hasta.com.br/foto/1908550/10.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -16811,7 +16888,7 @@
         "https://hasta.com.br/foto/2685120/7.jpg"
       ],
       "first_seen_at": "2026-11-15T08:02:16-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -16886,7 +16963,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-11-04T08:04:51-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -17275,7 +17352,7 @@
         "https://6b5a04d21a38ad1e.cdn.gocache.net/bens/0000065331/img-65331-6a75f201d8387.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -17824,7 +17901,7 @@
         "https://hasta.com.br/foto/1908552/8.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:05-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -18633,7 +18710,7 @@
         "https://hasta.com.br/foto/2412292/2.jpg"
       ],
       "first_seen_at": "2026-11-01T08:10:31-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -19515,7 +19592,7 @@
         "https://hasta.com.br/foto/2092507/2.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:11-03:00",
-      "last_checked_at": "2026-11-23T08:09:55-03:00",
+      "last_checked_at": "2026-11-24T08:12:28-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -21101,8 +21178,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.18,
-      "finished_at": "2026-11-23T07:58:20-03:00"
+      "duration_seconds": 0.16,
+      "finished_at": "2026-11-24T08:00:35-03:00"
     },
     {
       "source_id": "caixa",
@@ -21121,8 +21198,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.66,
-      "finished_at": "2026-11-23T07:58:23-03:00"
+      "duration_seconds": 2.74,
+      "finished_at": "2026-11-24T08:00:38-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -21141,9 +21218,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 26.12,
-      "finished_at": "2026-11-23T07:58:49-03:00",
-      "last_success_at": "2026-11-23T07:58:49-03:00"
+      "duration_seconds": 27.4,
+      "finished_at": "2026-11-24T08:01:05-03:00",
+      "last_success_at": "2026-11-24T08:01:05-03:00"
     },
     {
       "source_id": "superbid",
@@ -21162,8 +21239,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.12,
-      "finished_at": "2026-11-23T07:58:49-03:00"
+      "duration_seconds": 0.13,
+      "finished_at": "2026-11-24T08:01:05-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -21182,8 +21259,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.97,
-      "finished_at": "2026-11-23T07:58:52-03:00"
+      "duration_seconds": 2.76,
+      "finished_at": "2026-11-24T08:01:08-03:00"
     },
     {
       "source_id": "duarte",
@@ -21202,9 +21279,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 7.67,
-      "finished_at": "2026-11-23T07:59:00-03:00",
-      "last_success_at": "2026-11-23T07:59:00-03:00"
+      "duration_seconds": 7.47,
+      "finished_at": "2026-11-24T08:01:16-03:00",
+      "last_success_at": "2026-11-24T08:01:16-03:00"
     },
     {
       "source_id": "zampieri",
@@ -21223,9 +21300,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 6.04,
-      "finished_at": "2026-11-23T07:59:06-03:00",
-      "last_success_at": "2026-11-23T07:59:06-03:00"
+      "duration_seconds": 6.01,
+      "finished_at": "2026-11-24T08:01:22-03:00",
+      "last_success_at": "2026-11-24T08:01:22-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -21244,9 +21321,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.48,
-      "finished_at": "2026-11-23T07:59:08-03:00",
-      "last_success_at": "2026-11-23T07:59:08-03:00"
+      "duration_seconds": 2.51,
+      "finished_at": "2026-11-24T08:01:24-03:00",
+      "last_success_at": "2026-11-24T08:01:24-03:00"
     },
     {
       "source_id": "freitas",
@@ -21265,9 +21342,9 @@
         "Rio do Sul": 1,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 7.93,
-      "finished_at": "2026-11-23T07:59:16-03:00",
-      "last_success_at": "2026-11-23T07:59:16-03:00"
+      "duration_seconds": 8.28,
+      "finished_at": "2026-11-24T08:01:33-03:00",
+      "last_success_at": "2026-11-24T08:01:33-03:00"
     },
     {
       "source_id": "comprei",
@@ -21286,8 +21363,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 1.26,
-      "finished_at": "2026-11-23T07:59:18-03:00"
+      "duration_seconds": 16.27,
+      "finished_at": "2026-11-24T08:01:49-03:00"
     },
     {
       "source_id": "sampaio",
@@ -21306,9 +21383,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 52.59,
-      "finished_at": "2026-11-23T08:00:10-03:00",
-      "last_success_at": "2026-11-23T08:00:10-03:00"
+      "duration_seconds": 52.75,
+      "finished_at": "2026-11-24T08:02:42-03:00",
+      "last_success_at": "2026-11-24T08:02:42-03:00"
     },
     {
       "source_id": "machado",
@@ -21327,20 +21404,20 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 5.6,
-      "finished_at": "2026-11-23T08:00:16-03:00",
-      "last_success_at": "2026-11-23T08:00:16-03:00"
+      "duration_seconds": 5.43,
+      "finished_at": "2026-11-24T08:02:47-03:00",
+      "last_success_at": "2026-11-24T08:02:47-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
       "status": "success",
       "pages_read": 12,
-      "listings_found": 134,
+      "listings_found": 135,
       "error": null,
       "listings_by_city": {
-        "Joinville": 89,
-        "Balneário Camboriú": 25,
+        "Joinville": 88,
+        "Balneário Camboriú": 27,
         "Balneário Piçarras": 0,
         "Barra Velha": 7,
         "Penha": 1,
@@ -21348,9 +21425,9 @@
         "Rio do Sul": 8,
         "São Francisco do Sul": 2
       },
-      "duration_seconds": 415.99,
-      "finished_at": "2026-11-23T08:07:12-03:00",
-      "last_success_at": "2026-11-23T08:07:12-03:00"
+      "duration_seconds": 398.09,
+      "finished_at": "2026-11-24T08:09:25-03:00",
+      "last_success_at": "2026-11-24T08:09:25-03:00"
     },
     {
       "source_id": "hasta_publica",
@@ -21369,15 +21446,15 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 48.84,
-      "finished_at": "2026-11-23T08:08:01-03:00",
-      "last_success_at": "2026-11-23T08:08:01-03:00"
+      "duration_seconds": 56.19,
+      "finished_at": "2026-11-24T08:10:22-03:00",
+      "last_success_at": "2026-11-24T08:10:22-03:00"
     },
     {
       "source_id": "leiloeiro_publico",
       "name": "Leiloeiro Público",
       "status": "success",
-      "pages_read": 80,
+      "pages_read": 83,
       "listings_found": 7,
       "error": null,
       "listings_by_city": {
@@ -21390,9 +21467,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 1
       },
-      "duration_seconds": 113.98,
-      "finished_at": "2026-11-23T08:09:55-03:00",
-      "last_success_at": "2026-11-23T08:09:55-03:00"
+      "duration_seconds": 125.93,
+      "finished_at": "2026-11-24T08:12:28-03:00",
+      "last_success_at": "2026-11-24T08:12:28-03:00"
     }
   ]
 }
