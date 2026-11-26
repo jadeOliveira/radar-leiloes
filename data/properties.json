@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T09:03:36-03:00",
+  "updated_at": "2026-11-26T08:52:51-03:00",
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -2472,7 +2472,7 @@
         "https://arquivos.leiloeiropublico.com.br/Foto/2026/26.144/Lote.1.1/1a.jpg"
       ],
       "first_seen_at": "2026-10-22T15:21:39-03:00",
-      "last_checked_at": "2026-11-25T09:03:36-03:00",
+      "last_checked_at": "2026-11-26T08:52:51-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown"
@@ -3401,7 +3401,7 @@
         "https://arquivos.leiloeiropublico.com.br/Foto/2022/22.190/Lote.4105.1/4105a.jpg"
       ],
       "first_seen_at": "2026-10-22T15:21:39-03:00",
-      "last_checked_at": "2026-11-25T09:03:36-03:00",
+      "last_checked_at": "2026-11-26T08:52:51-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown"
@@ -7351,7 +7351,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-11-04T08:04:49-03:00",
-      "last_checked_at": "2026-11-25T09:03:36-03:00",
+      "last_checked_at": "2026-11-26T08:52:51-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -9702,7 +9702,7 @@
         "https://arquivos.leiloeiropublico.com.br/Foto/2022/22.190/Lote.4102.1/4102b.jpg"
       ],
       "first_seen_at": "2026-10-22T15:21:39-03:00",
-      "last_checked_at": "2026-11-25T09:03:36-03:00",
+      "last_checked_at": "2026-11-26T08:52:51-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown"
@@ -9782,7 +9782,7 @@
         "https://arquivos.leiloeiropublico.com.br/Foto/2022/22.190/Lote.3784.1/3784c.jpg"
       ],
       "first_seen_at": "2026-10-22T15:21:39-03:00",
-      "last_checked_at": "2026-11-25T09:03:36-03:00",
+      "last_checked_at": "2026-11-26T08:52:51-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown"
@@ -16119,7 +16119,7 @@
         "https://arquivos.leiloeiropublico.com.br/Foto/2022/22.190/Lote.4147.1/4147a.jpg"
       ],
       "first_seen_at": "2026-10-22T15:21:39-03:00",
-      "last_checked_at": "2026-11-25T09:03:36-03:00",
+      "last_checked_at": "2026-11-26T08:52:51-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown"
@@ -16963,7 +16963,7 @@
       "document_urls": [],
       "image_urls": [],
       "first_seen_at": "2026-11-04T08:04:51-03:00",
-      "last_checked_at": "2026-11-25T09:03:36-03:00",
+      "last_checked_at": "2026-11-26T08:52:51-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -17352,7 +17352,7 @@
         "https://6b5a04d21a38ad1e.cdn.gocache.net/bens/0000065331/img-65331-6a75f201d8387.jpg"
       ],
       "first_seen_at": "2026-10-20T10:11:03-03:00",
-      "last_checked_at": "2026-11-25T09:03:36-03:00",
+      "last_checked_at": "2026-11-26T08:52:51-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -18760,7 +18760,7 @@
       "area_built_m2": null,
       "area_total_m2": null,
       "registry_number": null,
-      "registry_office": "a - 1740m² - 10min do beto carrero - penha/sc 📍 Penha",
+      "registry_office": null,
       "auction_lot": null,
       "auctioneer": null,
       "seller": null,
@@ -18769,7 +18769,7 @@
       "first_minimum_bid_brl": null,
       "second_minimum_bid_brl": null,
       "current_minimum_bid_brl": null,
-      "source_listing_price_brl": 9000000.0,
+      "source_listing_price_brl": 8000000.0,
       "discount_on_appraisal_percent": null,
       "auction_events": [],
       "commission_percent": null,
@@ -18787,7 +18787,7 @@
         "https://hasta.com.br/foto/585659/2.jpg"
       ],
       "first_seen_at": "2026-10-20T13:00:33-03:00",
-      "last_checked_at": "2026-11-20T08:08:36-03:00",
+      "last_checked_at": "2026-11-26T08:52:51-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -18812,7 +18812,7 @@
         "source_id": "hasta",
         "captured_from": "https://hasta.com.br/imovel/585659-terreno-c-79-910-54-m2-rod-sc-414-penha-sc",
         "is_aggregator": true,
-        "raw_text": "Terreno Terreno c/ 79.910,54 m2 - Rod SC 414 - Penha SC 📍 Penha, SC R$ 9.000.000,00",
+        "raw_text": "Terreno Terreno c/ 79.910,54 m2 - Rod SC 414 - Penha SC 📍 Penha, SC R$ 8.000.000,00",
         "source_listing_urls": [
           "https://hasta.com.br/imovel/585659-terreno-c-79-910-54-m2-rod-sc-414-penha-sc"
         ]
@@ -20164,6 +20164,80 @@
       "image_source_url": "https://hasta.com.br/imovel/1577545-judicial-on-line-comarca-de-rio-do-sul-lote-001-id-10006"
     },
     {
+      "id": "c5f28997d60a0d8c4e7d",
+      "source_ids": [
+        "hasta"
+      ],
+      "source_listing_ids": [],
+      "source_listing_urls": [
+        "https://hasta.com.br/imovel/2763081-apto-702-edificio-residencial-chandon-em-rio-do-sul-sc"
+      ],
+      "city": "Rio do Sul",
+      "state": "SC",
+      "neighborhood": null,
+      "address": null,
+      "property_type": "Apartamento",
+      "area_privative_m2": null,
+      "area_built_m2": null,
+      "area_total_m2": null,
+      "registry_number": null,
+      "registry_office": null,
+      "auction_lot": null,
+      "auctioneer": null,
+      "seller": null,
+      "modality": null,
+      "appraisal_value_brl": null,
+      "first_minimum_bid_brl": null,
+      "second_minimum_bid_brl": null,
+      "current_minimum_bid_brl": null,
+      "source_listing_price_brl": 1100000.0,
+      "discount_on_appraisal_percent": null,
+      "auction_events": [],
+      "commission_percent": null,
+      "payment_conditions": null,
+      "occupancy": "desocupado",
+      "status": "unknown",
+      "official_url": null,
+      "source_listing_url": "https://hasta.com.br/imovel/2763081-apto-702-edificio-residencial-chandon-em-rio-do-sul-sc",
+      "validation_status": "nao_verificado",
+      "edital_url": null,
+      "document_urls": [],
+      "image_urls": [
+        "https://hasta.com.br/foto/2763081/0.jpg?w=800",
+        "https://hasta.com.br/foto/2763081/0.jpg",
+        "https://hasta.com.br/foto/2763081/1.jpg",
+        "https://hasta.com.br/foto/2763081/2.jpg",
+        "https://hasta.com.br/foto/2763081/3.jpg"
+      ],
+      "first_seen_at": "2026-11-26T08:49:39-03:00",
+      "last_checked_at": "2026-11-26T08:52:51-03:00",
+      "classification": "B",
+      "risk_flags": [
+        "aggregator_listing_unverified"
+      ],
+      "field_verification": {
+        "city": "declared",
+        "property_type": "declared",
+        "appraisal_value_brl": "unknown",
+        "first_minimum_bid_brl": "unknown",
+        "second_minimum_bid_brl": "unknown",
+        "current_minimum_bid_brl": "unknown",
+        "occupancy": "declared",
+        "registry_number": "unknown",
+        "auction_events": "unknown",
+        "source_listing_price_brl": "declared",
+        "official_url": "unverified",
+        "auctioneer": "unverified"
+      },
+      "provenance": {
+        "source_id": "hasta",
+        "captured_from": "https://hasta.com.br/imovel/2763081-apto-702-edificio-residencial-chandon-em-rio-do-sul-sc",
+        "is_aggregator": true,
+        "raw_text": "Apartamento Apto 702 Edifício Residencial Chandon em Rio do Sul-SC - IMÓVEL DESOCUPADO 📍 Rio do Sul, SC R$ 1.100.000,00"
+      },
+      "newly_discovered_at": "2026-11-26T08:52:51-03:00"
+    },
+    {
       "id": "de13120571b88c7b541d",
       "source_ids": [
         "hasta"
@@ -21251,8 +21325,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.14,
-      "finished_at": "2026-11-25T08:50:37-03:00"
+      "duration_seconds": 0.22,
+      "finished_at": "2026-11-26T08:02:32-03:00"
     },
     {
       "source_id": "caixa",
@@ -21272,7 +21346,7 @@
         "São Francisco do Sul": 0
       },
       "duration_seconds": 2.93,
-      "finished_at": "2026-11-25T08:50:40-03:00"
+      "finished_at": "2026-11-26T08:02:35-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -21291,9 +21365,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 27.1,
-      "finished_at": "2026-11-25T08:51:07-03:00",
-      "last_success_at": "2026-11-25T08:51:07-03:00"
+      "duration_seconds": 32.68,
+      "finished_at": "2026-11-26T08:29:27-03:00",
+      "last_success_at": "2026-11-26T08:29:27-03:00"
     },
     {
       "source_id": "superbid",
@@ -21312,8 +21386,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.4,
-      "finished_at": "2026-11-25T08:51:07-03:00"
+      "duration_seconds": 0.16,
+      "finished_at": "2026-11-26T08:29:28-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -21333,7 +21407,7 @@
         "São Francisco do Sul": 0
       },
       "duration_seconds": 2.88,
-      "finished_at": "2026-11-25T08:51:10-03:00"
+      "finished_at": "2026-11-26T08:29:31-03:00"
     },
     {
       "source_id": "duarte",
@@ -21352,9 +21426,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 8.02,
-      "finished_at": "2026-11-25T08:51:18-03:00",
-      "last_success_at": "2026-11-25T08:51:18-03:00"
+      "duration_seconds": 9.45,
+      "finished_at": "2026-11-26T08:29:40-03:00",
+      "last_success_at": "2026-11-26T08:29:40-03:00"
     },
     {
       "source_id": "zampieri",
@@ -21373,9 +21447,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 5.97,
-      "finished_at": "2026-11-25T08:51:24-03:00",
-      "last_success_at": "2026-11-25T08:51:24-03:00"
+      "duration_seconds": 6.79,
+      "finished_at": "2026-11-26T08:29:47-03:00",
+      "last_success_at": "2026-11-26T08:29:47-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -21394,9 +21468,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.52,
-      "finished_at": "2026-11-25T08:51:27-03:00",
-      "last_success_at": "2026-11-25T08:51:27-03:00"
+      "duration_seconds": 2.53,
+      "finished_at": "2026-11-26T08:29:50-03:00",
+      "last_success_at": "2026-11-26T08:29:50-03:00"
     },
     {
       "source_id": "freitas",
@@ -21415,9 +21489,9 @@
         "Rio do Sul": 1,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 8.52,
-      "finished_at": "2026-11-25T08:51:35-03:00",
-      "last_success_at": "2026-11-25T08:51:35-03:00"
+      "duration_seconds": 8.42,
+      "finished_at": "2026-11-26T08:29:58-03:00",
+      "last_success_at": "2026-11-26T08:29:58-03:00"
     },
     {
       "source_id": "comprei",
@@ -21436,8 +21510,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 1.26,
-      "finished_at": "2026-11-25T08:51:37-03:00"
+      "duration_seconds": 1.25,
+      "finished_at": "2026-11-26T08:36:20-03:00"
     },
     {
       "source_id": "sampaio",
@@ -21456,9 +21530,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 52.64,
-      "finished_at": "2026-11-25T08:52:29-03:00",
-      "last_success_at": "2026-11-25T08:52:29-03:00"
+      "duration_seconds": 55.85,
+      "finished_at": "2026-11-26T08:42:57-03:00",
+      "last_success_at": "2026-11-26T08:42:57-03:00"
     },
     {
       "source_id": "machado",
@@ -21477,30 +21551,30 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 5.08,
-      "finished_at": "2026-11-25T08:52:35-03:00",
-      "last_success_at": "2026-11-25T08:52:35-03:00"
+      "duration_seconds": 5.03,
+      "finished_at": "2026-11-26T08:43:02-03:00",
+      "last_success_at": "2026-11-26T08:43:02-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
       "status": "success",
       "pages_read": 12,
-      "listings_found": 136,
+      "listings_found": 131,
       "error": null,
       "listings_by_city": {
-        "Joinville": 86,
-        "Balneário Camboriú": 27,
+        "Joinville": 82,
+        "Balneário Camboriú": 26,
         "Balneário Piçarras": 0,
-        "Barra Velha": 8,
-        "Penha": 1,
+        "Barra Velha": 7,
+        "Penha": 3,
         "Navegantes": 2,
-        "Rio do Sul": 9,
+        "Rio do Sul": 8,
         "São Francisco do Sul": 3
       },
-      "duration_seconds": 497.02,
-      "finished_at": "2026-11-25T09:00:52-03:00",
-      "last_success_at": "2026-11-25T09:00:52-03:00"
+      "duration_seconds": 425.9,
+      "finished_at": "2026-11-26T08:50:08-03:00",
+      "last_success_at": "2026-11-26T08:50:08-03:00"
     },
     {
       "source_id": "hasta_publica",
@@ -21519,9 +21593,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 52.15,
-      "finished_at": "2026-11-25T09:01:44-03:00",
-      "last_success_at": "2026-11-25T09:01:44-03:00"
+      "duration_seconds": 49.52,
+      "finished_at": "2026-11-26T08:50:58-03:00",
+      "last_success_at": "2026-11-26T08:50:58-03:00"
     },
     {
       "source_id": "leiloeiro_publico",
@@ -21540,9 +21614,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 1
       },
-      "duration_seconds": 111.51,
-      "finished_at": "2026-11-25T09:03:35-03:00",
-      "last_success_at": "2026-11-25T09:03:35-03:00"
+      "duration_seconds": 112.89,
+      "finished_at": "2026-11-26T08:52:51-03:00",
+      "last_success_at": "2026-11-26T08:52:51-03:00"
     }
   ]
 }

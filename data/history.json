@@ -6842,6 +6842,41 @@
         }
       ],
       "detected_at": "2026-11-25T09:03:36-03:00"
+    },
+    {
+      "property_id": "08f4d528c584a645188b",
+      "city": "Penha",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "registry_office",
+          "before": "a - 1740m² - 10min do beto carrero - penha/sc 📍 Penha",
+          "after": null
+        },
+        {
+          "field": "source_listing_price_brl",
+          "before": 9000000.0,
+          "after": 8000000.0
+        }
+      ],
+      "detected_at": "2026-11-26T08:52:51-03:00"
+    },
+    {
+      "property_id": "c5f28997d60a0d8c4e7d",
+      "city": "Rio do Sul",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "record",
+          "before": null,
+          "after": "new"
+        }
+      ],
+      "detected_at": "2026-11-26T08:52:51-03:00"
     }
   ]
 }
