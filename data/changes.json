@@ -7153,6 +7153,27 @@
           "detected_at": "2026-11-26T08:52:51-03:00"
         }
       ]
+    },
+    {
+      "run_id": "27f9c3fc-4a38-4fed-8579-9e84db38c3e1",
+      "detected_at": "2026-11-27T08:07:36-03:00",
+      "changes": [
+        {
+          "property_id": "776d44aeddf9690afd9f",
+          "city": "Joinville",
+          "source_ids": [
+            "hasta"
+          ],
+          "changes": [
+            {
+              "field": "record",
+              "before": null,
+              "after": "new"
+            }
+          ],
+          "detected_at": "2026-11-27T08:07:36-03:00"
+        }
+      ]
     }
   ]
 }

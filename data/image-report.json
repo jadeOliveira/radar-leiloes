@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-11-26T08:52:59-03:00",
-  "total_listings": 264,
-  "listings_with_images": 259,
+  "checked_at": "2026-11-27T08:07:41-03:00",
+  "total_listings": 265,
+  "listings_with_images": 260,
   "recovered_ids": [],
   "missing_image_ids": [
     "90d48537555d97f4526c",
@@ -15,6 +15,21 @@
       "id": "90d48537555d97f4526c",
       "source_url": "https://www.leilaoimovel.com.br/imovel/sc/balneario-camboriu/residencial-apartamento-n-105-do-bloco-c-do-condominio-rubem-bento-residencial-situado-na-rua-jose-francisco-imovel-3044677?utm_source=chatgpt.com",
       "error": "Fonte limitada (HTTP 403); acesso não contornado."
+    },
+    {
+      "id": "2d5445fbe19c817f2839",
+      "source_url": "https://hasta.com.br/imovel/2464487-terreno-joinville-sc",
+      "error": "Fonte limitada (HTTP 429); acesso não contornado."
+    },
+    {
+      "id": "70d194b2c9479bf34e9d",
+      "source_url": "https://hasta.com.br/imovel/2480838-terreno-joinville-sc",
+      "error": "Fonte bloqueada nesta execução; sem novas tentativas."
+    },
+    {
+      "id": "dff52e1a5cffa71ca249",
+      "source_url": "https://hasta.com.br/imovel/2459224-terreno-joinville-joinville-sc",
+      "error": "Fonte bloqueada nesta execução; sem novas tentativas."
     }
   ]
 }
