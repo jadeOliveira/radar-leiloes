@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T08:07:36-03:00",
+  "updated_at": "2026-11-28T08:39:25-03:00",
   "timezone": "America/Sao_Paulo",
   "cities": [
     "Joinville",
@@ -2472,7 +2472,7 @@
         "https://arquivos.leiloeiropublico.com.br/Foto/2026/26.144/Lote.1.1/1a.jpg"
       ],
       "first_seen_at": "2026-10-22T15:21:39-03:00",
-      "last_checked_at": "2026-11-27T08:07:36-03:00",
+      "last_checked_at": "2026-11-28T08:39:25-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown"
@@ -3401,7 +3401,7 @@
         "https://arquivos.leiloeiropublico.com.br/Foto/2022/22.190/Lote.4105.1/4105a.jpg"
       ],
       "first_seen_at": "2026-10-22T15:21:39-03:00",
-      "last_checked_at": "2026-11-27T08:07:36-03:00",
+      "last_checked_at": "2026-11-28T08:39:25-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown"
@@ -9702,7 +9702,7 @@
         "https://arquivos.leiloeiropublico.com.br/Foto/2022/22.190/Lote.4102.1/4102b.jpg"
       ],
       "first_seen_at": "2026-10-22T15:21:39-03:00",
-      "last_checked_at": "2026-11-27T08:07:36-03:00",
+      "last_checked_at": "2026-11-28T08:39:25-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown"
@@ -9782,7 +9782,7 @@
         "https://arquivos.leiloeiropublico.com.br/Foto/2022/22.190/Lote.3784.1/3784c.jpg"
       ],
       "first_seen_at": "2026-10-22T15:21:39-03:00",
-      "last_checked_at": "2026-11-27T08:07:36-03:00",
+      "last_checked_at": "2026-11-28T08:39:25-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown"
@@ -11956,7 +11956,8 @@
       ],
       "source_listing_ids": [],
       "source_listing_urls": [
-        "https://hasta.com.br/imovel/3015498-outro-adhemar-garcia-joinville-sc"
+        "https://hasta.com.br/imovel/3015498-outro-adhemar-garcia-joinville-sc",
+        "https://hasta.com.br/imovel/3015498-apartamento-adhemar-garcia-joinville-sc"
       ],
       "city": "Joinville",
       "state": "SC",
@@ -11992,7 +11993,7 @@
         "https://pub-d77864bff5244aab92c5063744af6f4b.r2.dev/super_scraper/fotos/62/625f56c57c2ade19e60a4c9d0bfc4af76467d82dd551bf25f7007f4ef5b677a5.jpg"
       ],
       "first_seen_at": "2026-11-27T08:04:45-03:00",
-      "last_checked_at": "2026-11-27T08:07:36-03:00",
+      "last_checked_at": "2026-11-28T08:39:25-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown",
@@ -12010,13 +12011,18 @@
         "auction_events": "unknown",
         "source_listing_price_brl": "declared",
         "official_url": "unverified",
-        "auctioneer": "unverified"
+        "auctioneer": "unverified",
+        "address": "unknown"
       },
       "provenance": {
         "source_id": "hasta",
-        "captured_from": "https://hasta.com.br/imovel/3015498-outro-adhemar-garcia-joinville-sc",
+        "captured_from": "https://hasta.com.br/imovel/3015498-apartamento-adhemar-garcia-joinville-sc",
         "is_aggregator": true,
-        "raw_text": "Apartamento PARQUE JARDIM DE NAPOLES 📍 Joinville, SC R$ 243.000,00"
+        "raw_text": "Apartamento PARQUE JARDIM DE NAPOLES 📍 Joinville, SC R$ 243.000,00",
+        "source_listing_urls": [
+          "https://hasta.com.br/imovel/3015498-outro-adhemar-garcia-joinville-sc",
+          "https://hasta.com.br/imovel/3015498-apartamento-adhemar-garcia-joinville-sc"
+        ]
       },
       "newly_discovered_at": "2026-11-27T08:07:36-03:00"
     },
@@ -16190,7 +16196,7 @@
         "https://arquivos.leiloeiropublico.com.br/Foto/2022/22.190/Lote.4147.1/4147a.jpg"
       ],
       "first_seen_at": "2026-10-22T15:21:39-03:00",
-      "last_checked_at": "2026-11-27T08:07:36-03:00",
+      "last_checked_at": "2026-11-28T08:39:25-03:00",
       "classification": "B",
       "risk_flags": [
         "occupancy_unknown"
@@ -21396,8 +21402,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.2,
-      "finished_at": "2026-11-27T08:02:24-03:00"
+      "duration_seconds": 0.54,
+      "finished_at": "2026-11-28T08:02:24-03:00"
     },
     {
       "source_id": "caixa",
@@ -21416,8 +21422,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.58,
-      "finished_at": "2026-11-27T08:02:27-03:00"
+      "duration_seconds": 3.8,
+      "finished_at": "2026-11-28T08:02:28-03:00"
     },
     {
       "source_id": "mega_leiloes",
@@ -21436,9 +21442,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 30.52,
-      "finished_at": "2026-11-27T08:02:57-03:00",
-      "last_success_at": "2026-11-27T08:02:57-03:00"
+      "duration_seconds": 37.19,
+      "finished_at": "2026-11-28T08:34:36-03:00",
+      "last_success_at": "2026-11-28T08:34:36-03:00"
     },
     {
       "source_id": "superbid",
@@ -21457,8 +21463,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 0.12,
-      "finished_at": "2026-11-27T08:02:57-03:00"
+      "duration_seconds": 0.17,
+      "finished_at": "2026-11-28T08:34:36-03:00"
     },
     {
       "source_id": "diego_leiloes",
@@ -21477,8 +21483,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.88,
-      "finished_at": "2026-11-27T08:03:00-03:00"
+      "duration_seconds": 3.22,
+      "finished_at": "2026-11-28T08:34:40-03:00"
     },
     {
       "source_id": "duarte",
@@ -21497,9 +21503,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 7.88,
-      "finished_at": "2026-11-27T08:03:08-03:00",
-      "last_success_at": "2026-11-27T08:03:08-03:00"
+      "duration_seconds": 8.47,
+      "finished_at": "2026-11-28T08:34:48-03:00",
+      "last_success_at": "2026-11-28T08:34:48-03:00"
     },
     {
       "source_id": "zampieri",
@@ -21518,9 +21524,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 6.01,
-      "finished_at": "2026-11-27T08:03:14-03:00",
-      "last_success_at": "2026-11-27T08:03:14-03:00"
+      "duration_seconds": 5.23,
+      "finished_at": "2026-11-28T08:34:53-03:00",
+      "last_success_at": "2026-11-28T08:34:53-03:00"
     },
     {
       "source_id": "seu_imovel_bb",
@@ -21539,9 +21545,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 2.53,
-      "finished_at": "2026-11-27T08:03:17-03:00",
-      "last_success_at": "2026-11-27T08:03:17-03:00"
+      "duration_seconds": 2.86,
+      "finished_at": "2026-11-28T08:34:56-03:00",
+      "last_success_at": "2026-11-28T08:34:56-03:00"
     },
     {
       "source_id": "freitas",
@@ -21560,9 +21566,9 @@
         "Rio do Sul": 1,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 8.51,
-      "finished_at": "2026-11-27T08:03:25-03:00",
-      "last_success_at": "2026-11-27T08:03:25-03:00"
+      "duration_seconds": 10.11,
+      "finished_at": "2026-11-28T08:35:07-03:00",
+      "last_success_at": "2026-11-28T08:35:07-03:00"
     },
     {
       "source_id": "comprei",
@@ -21581,8 +21587,8 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 1.27,
-      "finished_at": "2026-11-27T08:03:27-03:00"
+      "duration_seconds": 1.34,
+      "finished_at": "2026-11-28T08:35:08-03:00"
     },
     {
       "source_id": "sampaio",
@@ -21601,9 +21607,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 52.72,
-      "finished_at": "2026-11-27T08:04:20-03:00",
-      "last_success_at": "2026-11-27T08:04:20-03:00"
+      "duration_seconds": 53.08,
+      "finished_at": "2026-11-28T08:36:02-03:00",
+      "last_success_at": "2026-11-28T08:36:02-03:00"
     },
     {
       "source_id": "machado",
@@ -21622,19 +21628,19 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 7.12,
-      "finished_at": "2026-11-27T08:04:27-03:00",
-      "last_success_at": "2026-11-27T08:04:27-03:00"
+      "duration_seconds": 7.19,
+      "finished_at": "2026-11-28T08:36:09-03:00",
+      "last_success_at": "2026-11-28T08:36:09-03:00"
     },
     {
       "source_id": "hasta",
       "name": "Hasta (agregador)",
       "status": "partial",
       "pages_read": 1,
-      "listings_found": 27,
+      "listings_found": 29,
       "error": "Balneário Camboriú: Fonte limitada (HTTP 429); acesso não contornado.; Balneário Piçarras: Fonte limitada (HTTP 429); acesso não contornado.; Barra Velha: Fonte limitada (HTTP 429); acesso não contornado.; Penha: Fonte limitada (HTTP 429); acesso não contornado.; Navegantes: Fonte limitada (HTTP 429); acesso não contornado.; Rio do Sul: Fonte limitada (HTTP 429); acesso não contornado.; São Francisco do Sul: Fonte limitada (HTTP 429); acesso não contornado.",
       "listings_by_city": {
-        "Joinville": 27,
+        "Joinville": 29,
         "Balneário Camboriú": 0,
         "Balneário Piçarras": 0,
         "Barra Velha": 0,
@@ -21643,36 +21649,36 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 23.37,
-      "finished_at": "2026-11-27T08:04:50-03:00",
-      "last_success_at": "2026-11-27T08:04:50-03:00"
+      "duration_seconds": 24.22,
+      "finished_at": "2026-11-28T08:36:33-03:00",
+      "last_success_at": "2026-11-28T08:36:33-03:00"
     },
     {
       "source_id": "hasta_publica",
       "name": "Hasta Pública Leilões",
       "status": "success",
       "pages_read": 2,
-      "listings_found": 4,
+      "listings_found": 3,
       "error": null,
       "listings_by_city": {
         "Joinville": 0,
         "Balneário Camboriú": 2,
         "Balneário Piçarras": 0,
-        "Barra Velha": 2,
+        "Barra Velha": 1,
         "Penha": 0,
         "Navegantes": 0,
         "Rio do Sul": 0,
         "São Francisco do Sul": 0
       },
-      "duration_seconds": 52.4,
-      "finished_at": "2026-11-27T08:05:43-03:00",
-      "last_success_at": "2026-11-27T08:05:43-03:00"
+      "duration_seconds": 50.75,
+      "finished_at": "2026-11-28T08:37:24-03:00",
+      "last_success_at": "2026-11-28T08:37:24-03:00"
     },
     {
       "source_id": "leiloeiro_publico",
       "name": "Leiloeiro Público",
       "status": "success",
-      "pages_read": 83,
+      "pages_read": 87,
       "listings_found": 6,
       "error": null,
       "listings_by_city": {
@@ -21685,9 +21691,9 @@
         "Rio do Sul": 0,
         "São Francisco do Sul": 1
       },
-      "duration_seconds": 113.41,
-      "finished_at": "2026-11-27T08:07:36-03:00",
-      "last_success_at": "2026-11-27T08:07:36-03:00"
+      "duration_seconds": 121.16,
+      "finished_at": "2026-11-28T08:39:25-03:00",
+      "last_success_at": "2026-11-28T08:39:25-03:00"
     }
   ]
 }

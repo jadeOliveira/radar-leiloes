@@ -6892,6 +6892,26 @@
         }
       ],
       "detected_at": "2026-11-27T08:07:36-03:00"
+    },
+    {
+      "property_id": "776d44aeddf9690afd9f",
+      "city": "Joinville",
+      "source_ids": [
+        "hasta"
+      ],
+      "changes": [
+        {
+          "field": "source_listing_urls",
+          "before": [
+            "https://hasta.com.br/imovel/3015498-outro-adhemar-garcia-joinville-sc"
+          ],
+          "after": [
+            "https://hasta.com.br/imovel/3015498-outro-adhemar-garcia-joinville-sc",
+            "https://hasta.com.br/imovel/3015498-apartamento-adhemar-garcia-joinville-sc"
+          ]
+        }
+      ],
+      "detected_at": "2026-11-28T08:39:25-03:00"
     }
   ]
 }
