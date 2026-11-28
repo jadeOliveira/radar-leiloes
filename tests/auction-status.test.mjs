@@ -23,3 +23,18 @@ test('unknown dates and missing dates do not invent an outcome', () => {
   assert.equal(displayStatus(listing('unknown', [today]), today), 'scheduled_unverified');
   assert.equal(displayStatus(listing('scheduled_unverified', ['2026-11-27']), today), 'ended_unverified');
 });
+
+test('seven-day window includes today and day seven across month boundaries', async () => {
+  const { isWithinNextSevenDays } = await import('../src/auctionStatus.ts');
+  for (const day of ['2026-11-28', '2026-12-01', '2026-12-05']) {
+    assert.equal(isWithinNextSevenDays(listing('scheduled_unverified', [day]), today), true);
+  }
+  for (const dates of [[], ['2026-11-27'], ['2026-12-06']]) {
+    assert.equal(isWithinNextSevenDays(listing('active', dates), today), false);
+  }
+  assert.equal(isWithinNextSevenDays(listing('unknown', ['2026-11-01', '2026-12-02']), today), true);
+  for (const status of ['closed', 'cancelled', 'sold', 'suspended']) {
+    assert.equal(isWithinNextSevenDays(listing(status, ['2026-12-01']), today), false);
+  }
+  assert.equal(isWithinNextSevenDays(listing('active', ['2027-01-03']), '2026-12-28'), true);
+});
