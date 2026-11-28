@@ -1,3 +1,4 @@
+import { displayStatus } from './auctionStatus';
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { ArrowDownRight, ArrowUpRight, ExternalLink, Filter, House, Search, SlidersHorizontal, Star, X } from 'lucide-react';
 import monitorConfig from '../config/monitor.json';
@@ -58,7 +59,6 @@ const auctionEvent = (property: Property, today: string) => {
   const events = [...(property.auction_events ?? [])].filter((event) => event.date).sort((left, right) => (left.date ?? '').localeCompare(right.date ?? ''));
   return events.find((event) => (event.date ?? '') >= today) ?? events.at(-1);
 };
-const displayStatus = (property: Property, today: string) => property.status === 'unknown' && futureAuctionDate(property, today) ? 'scheduled_unverified' : property.status ?? 'unknown';
 const isRealEstate = (property: Property) => {
   const type = (property.property_type ?? '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLocaleLowerCase('pt-BR').trim();
   return ['casa', 'apartamento', 'terreno', 'galpao', 'galpao industrial'].includes(type);
@@ -73,6 +73,16 @@ function PropertyPhoto({ property }: { property: Property }) {
 }
 
 export default function App() {
+  const [today, setToday] = useState(brazilToday);
+  useEffect(() => {
+    const refreshDate = () => setToday(brazilToday());
+    const timer = window.setInterval(refreshDate, 60_000);
+    window.addEventListener('focus', refreshDate);
+    return () => {
+      window.clearInterval(timer);
+      window.removeEventListener('focus', refreshDate);
+    };
+  }, []);
   const [data, setData] = useState<Dataset>({ properties: [] });
   const [lastRun, setLastRun] = useState<RunReport>({});
   const [changeLog, setChangeLog] = useState<ChangeLog>({});
@@ -130,7 +140,6 @@ export default function App() {
   const cities = data.cities?.length ? data.cities : [...new Set(properties.map((item) => item.city).filter(Boolean))].sort();
   const types = [...new Set(properties.map((item) => item.property_type).filter(Boolean))].sort() as string[];
   const filtered = useMemo(() => {
-    const today = brazilToday();
     const matchesScope = (item: Property) => {
       const status = displayStatus(item, today);
       if (statusScope === 'new') return isNewToday(item, today);
@@ -164,8 +173,7 @@ export default function App() {
       const rightDate = auctionEvent(right, today)?.date ?? '9999-12-31';
       return leftDate.localeCompare(rightDate) || left.id.localeCompare(right.id);
     });
-  }, [properties, changeLog, query, city, type, category, occupancy, risk, dateWindow, minPrice, maxPrice, minDiscount, statusScope, favoriteIds]);
-  const today = brazilToday();
+  }, [properties, changeLog, query, city, type, category, occupancy, risk, dateWindow, minPrice, maxPrice, minDiscount, statusScope, favoriteIds, today]);
   const activeCount = properties.filter((item) => displayStatus(item, today) === 'active').length;
   const lastDataUpdate = data.updated_at ? new Date(data.updated_at).toLocaleString('pt-BR', { dateStyle: 'short', timeStyle: 'short', timeZone: 'America/Sao_Paulo' }) : 'Sem anúncios';
   const sourceStatusById = new Map((data.sources ?? []).map((source) => [source.source_id, source] as const));
